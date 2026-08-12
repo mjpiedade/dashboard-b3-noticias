@@ -124,6 +124,19 @@ function renderTemas(temas) {
       if (e.key === "Enter" || e.key === " ") { e.preventDefault(); alternar(); }
     });
   });
+
+  // Deep-link do widget Android: ?tema=N ou #tema=N abre o Nº tema expandido
+  const params = new URLSearchParams(location.search);
+  const alvo = params.get("tema") ?? (location.hash.startsWith("#tema=") ? location.hash.slice(6) : null);
+  if (alvo != null) {
+    const i = parseInt(alvo, 10);
+    const art = el.lista.querySelector(`.tema[data-i="${i}"]`);
+    if (art) {
+      art.classList.add("aberto");
+      art.querySelector(".tema-cabeca").setAttribute("aria-expanded", "true");
+      setTimeout(() => art.scrollIntoView({ behavior: "smooth", block: "start" }), 100);
+    }
+  }
 }
 
 async function carregar({ mostrarIndicador = false } = {}) {
