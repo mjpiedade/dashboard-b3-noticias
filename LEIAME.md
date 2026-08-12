@@ -1,76 +1,54 @@
 # Notícias · Dashboard B3 (PWA Android)
 
-App-web em modo standalone: mostra os temas do dia (`data/noticias_temas.json`).
-Pensada para adicionar ao ecrã inicial do Android via Chrome — abre em ecrã inteiro,
-com ícone próprio, e funciona offline (última versão em cache).
+App-web em modo standalone que mostra os temas do dia do Dashboard B3.
+Ao vivo em **https://mjpiedade.github.io/dashboard-b3-noticias/**.
 
-## Ver localmente
+## Adicionar ao Android (uma vez)
+
+1. Abre o URL acima no Chrome do Android.
+2. Menu ⋮ → **Adicionar ao ecrã principal**.
+3. Fica com ícone próprio (pilares risk-off / neutro / risk-on + N) e abre
+   em ecrã inteiro como app nativa.
+
+## Atualizações automáticas
+
+O `scraper_janela.py` chama `mobile-noticias/publicar.py` no fim de cada
+corrida. Se o `data/noticias_temas.json` mudou, o script:
+
+1. Copia para `mobile-noticias/data/noticias_temas.json`
+2. Faz `git commit -m "notícias YYYY-MM-DD HH:MM"`
+3. Faz `git push origin main`
+
+O GitHub Pages rebuilda automaticamente em ~40s. O service worker do
+telemóvel busca a nova versão na próxima abertura (ou o utilizador puxa
+para baixo para forçar refresh).
+
+Se o push falhar (sem rede, token expirado), o scraper NÃO aborta — só
+imprime o erro. Na corrida seguinte tenta de novo.
+
+## Correr localmente
 
 ```bash
 python -m http.server 8765 --directory mobile-noticias
 ```
 
-Abrir `http://localhost:8765/`. Para forçar refresh do JSON, puxar para baixo no topo.
+Abrir `http://localhost:8765/`.
 
-## Colocar online (GitHub Pages)
+## Estrutura
 
-### 1. Criar repo no GitHub
-
-No `github.com` cria um repo **público** vazio (ex.: `dashboard-b3-noticias`).
-
-### 2. Inicializar git nesta pasta
-
-```bash
-cd "C:/Users/migue/Trading/dashboard_financeiro/Dashboard B3/mobile-noticias"
-git init
-git branch -M main
-git add .
-git commit -m "PWA notícias inicial"
-git remote add origin https://github.com/<utilizador>/dashboard-b3-noticias.git
-git push -u origin main
-```
-
-### 3. Ligar o Pages
-
-`Settings → Pages → Source: Deploy from a branch → Branch: main / (root) → Save`.
-
-Em ~1 minuto fica em `https://<utilizador>.github.io/dashboard-b3-noticias/`.
-
-### 4. No Android
-
-Abrir esse URL no Chrome → menu ⋮ → **Adicionar ao ecrã principal**.
-Fica com ícone e abre como app.
-
-## Atualizar as notícias no telemóvel
-
-O JSON no telemóvel só muda quando fazemos push do repo. Duas opções:
-
-**A. Manual (à velocidade que quiseres):**
-```bash
-python mobile-noticias/sincronizar_json.py
-cd mobile-noticias && git add data/noticias_temas.json && git commit -m "notícias" && git push
-```
-
-**B. Automático (recomendado — depois de cada corrida do scraper):**
-
-No fim do `scraper_janela.py` (ou numa tarefa Windows separada logo a seguir),
-correr:
-
-```bash
-python mobile-noticias/sincronizar_json.py
-cd mobile-noticias && git add data/noticias_temas.json && git commit -m "auto: notícias" && git push -q
-```
-
-O service worker guarda a versão anterior em cache — se o telemóvel estiver sem
-rede, ainda abre a última versão vista.
-
-## Ficheiros
-
-- `index.html` — página única
-- `style.css` — dark mode, cores dos sinais iguais à app principal
-- `app.js` — fetch + render + pull-to-refresh
-- `manifest.webmanifest` — meta PWA (nome, ícones, cores, `display: standalone`)
+- `index.html` · `style.css` · `app.js` — PWA (dark, ~15 KB total)
+- `manifest.webmanifest` — meta PWA (nome, ícones, `display: standalone`)
 - `sw.js` — service worker (cache do shell + fallback offline do JSON)
-- `icons/` — 192, 512 e 512 maskable
-- `data/noticias_temas.json` — cópia do JSON de temas
-- `sincronizar_json.py` — copia da raiz do projeto para aqui
+- `icons/` — 192, 512, 512 maskable
+- `data/noticias_temas.json` — cópia dos temas (repô-la = corre `publicar.py`)
+- `publicar.py` — sincroniza + commita + push; chamado pelo scraper
+- `sincronizar_json.py` — só copia (útil para debug)
+
+## Repo Git
+
+Este é um repo git independente do repo-mãe (`Dashboard B3/`), que ignora
+esta pasta no seu `.gitignore` para não interferir com o autocommit diário.
+
+- Remoto: `https://github.com/mjpiedade/dashboard-b3-noticias`
+- Branch: `main`
+- Pages: source `main / (root)`
