@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Ícone launcher: mini bar-chart (3 pilares risk-off/neutro/risk-on) sobre fundo escuro.
+  Igual em espírito ao ícone PNG da PWA. Área segura de 66x66 dp no centro dos 108x108.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- pilar risk-off (esquerda, baixo) -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M28,72 L44,72 A2,2 0 0 1 46,74 L46,88 A2,2 0 0 1 44,90 L28,90 A2,2 0 0 1 26,88 L26,74 A2,2 0 0 1 28,72 Z" />
+    <!-- pilar neutro (centro) -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M48,58 L64,58 A2,2 0 0 1 66,60 L66,88 A2,2 0 0 1 64,90 L48,90 A2,2 0 0 1 46,88 L46,60 A2,2 0 0 1 48,58 Z" />
+    <!-- pilar risk-on (direita, alto) -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M68,44 L84,44 A2,2 0 0 1 86,46 L86,88 A2,2 0 0 1 84,90 L68,90 A2,2 0 0 1 66,88 L66,46 A2,2 0 0 1 68,44 Z" />
+
+    <!-- "N" grande em cima -->
+    <path
+        android:fillColor="#E6EDF6"
+        android:pathData="M32,18 L40,18 L60,42 L60,18 L68,18 L68,54 L60,54 L40,30 L40,54 L32,54 Z" />
+</vector>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/raiz"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_fundo"
+    android:orientation="vertical"
+    android:padding="0dp">
+
+    <!-- Faixa colorida do sinal (cor definida em runtime via setBackgroundColor) -->
+    <LinearLayout
+        android:id="@+id/faixa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="4dp"
+        android:background="#94A3B8"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/selo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="11sp"
+            android:letterSpacing="0.08"
+            android:text="NEUTRO" />
+
+        <TextView
+            android:id="@+id/contador"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="11sp"
+            android:text="—/—" />
+
+        <TextView
+            android:id="@+id/idade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="11sp"
+            android:text="—" />
+    </LinearLayout>
+
+    <!-- Título (a maior área — 2 a 3 linhas) -->
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingHorizontal="12dp"
+        android:paddingVertical="8dp"
+        android:textColor="#E6EDF6"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:lineSpacingMultiplier="1.15"
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:text="A carregar…" />
+
+    <!-- Rodapé: contagens de sinais + setas -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingHorizontal="8dp"
+        android:paddingBottom="6dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/contagens"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingStart="4dp"
+            android:textColor="#94A3B8"
+            android:textSize="11sp"
+            android:text="" />
+
+        <ImageButton
+            android:id="@+id/btn_prev"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_seta_esquerda"
+            android:contentDescription="@string/anterior"
+            android:scaleType="centerInside" />
+
+        <ImageButton
+            android:id="@+id/btn_next"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_seta_direita"
+            android:contentDescription="@string/proximo"
+            android:scaleType="centerInside" />
+    </LinearLayout>
+
+</LinearLayout>

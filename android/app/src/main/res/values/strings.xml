@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notícias B3</string>
+    <string name="widget_descricao">Um tema do dia, com setas para navegar.</string>
+
+    <string name="sem_widgets">Ainda sem widget adicionado.</string>
+    <plurals name="n_widgets">
+        <item quantity="one">%d widget adicionado.</item>
+        <item quantity="other">%d widgets adicionados.</item>
+    </plurals>
+
+    <string name="instrucoes_titulo">Adicionar o widget</string>
+    <string name="instrucoes_corpo">1. Volta ao ecrã principal.\n2. Toca e mantém num espaço vazio até aparecer o menu.\n3. Escolhe \"Widgets\".\n4. Procura \"Notícias B3\" e arrasta o widget 4×2 para o ecrã.\n\nDepois usa as setas ‹ › para navegar entre os 12 temas do dia. Toque no título abre a app completa nesse tema.</string>
+
+    <string name="refrescar">Ir buscar já as notícias</string>
+    <string name="refresh_pedido">Pedido enviado — o widget atualiza em segundos</string>
+    <string name="abrir_pwa">Abrir app das notícias</string>
+
+    <string name="anterior">Anterior</string>
+    <string name="proximo">Próximo</string>
+</resources>
