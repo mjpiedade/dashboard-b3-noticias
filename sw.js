@@ -1,8 +1,9 @@
 "use strict";
 
-// v2 (2026-08-13): força reinstalação da cache para os telemóveis que já tinham
-// v1 (com bugs de TZ e pull-to-refresh sem timeout).
-const VERSAO = "v2";
+// v3 (2026-08-13): app.js agora tem auto-reload em controllerchange e
+// registration.update() no arranque/visibilitychange. Bumpo a VERSAO para que os
+// telemóveis reinstalem a cache do shell e passem a servir esse app.js novo.
+const VERSAO = "v3";
 const CACHE_APP = `noticias-b3-app-${VERSAO}`;
 const CACHE_DADOS = `noticias-b3-dados-${VERSAO}`;
 const FICHEIROS_APP = [

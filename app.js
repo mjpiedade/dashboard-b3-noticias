@@ -238,9 +238,31 @@ document.addEventListener("visibilitychange", () => {
   if (document.visibilityState === "visible") carregar();
 });
 
-// Service Worker
+// ---- Service Worker + auto-update ----
+// Se um SW novo tomar controlo (após publicarmos uma versão nova), recarrega a
+// página automaticamente para o utilizador passar a correr o app.js novo em vez
+// do velho ainda em memória. Sem isto, "o site nunca atualiza" mesmo depois de
+// haver correções no servidor.
 if ("serviceWorker" in navigator) {
-  window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./sw.js").catch(() => {});
+  let jaRecarregou = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (jaRecarregou) return;
+    jaRecarregou = true;
+    window.location.reload();
+  });
+
+  window.addEventListener("load", async () => {
+    try {
+      const reg = await navigator.serviceWorker.register("./sw.js");
+      // Força check do sw.js na abertura e sempre que o separador volta ao topo.
+      // O default do Chrome pode saltar isto até ~24h — sem update() explícito,
+      // uma correção pode ficar horas escondida atrás da cache velha.
+      reg.update().catch(() => {});
+      document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === "visible") reg.update().catch(() => {});
+      });
+    } catch (_) {
+      // se falhar não é fatal — a app funciona sem SW, só perde offline
+    }
   });
 }
