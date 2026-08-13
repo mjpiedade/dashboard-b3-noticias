@@ -5,10 +5,23 @@ Ao vivo em **https://mjpiedade.github.io/dashboard-b3-noticias/**.
 
 ## Adicionar ao Android (uma vez)
 
+**PWA (recomendada para leitura completa):**
 1. Abre o URL acima no Chrome do Android.
 2. Menu ⋮ → **Adicionar ao ecrã principal**.
 3. Fica com ícone próprio (pilares risk-off / neutro / risk-on + N) e abre
    em ecrã inteiro como app nativa.
+
+**App nativa + widget 4×2 (opcional):**
+1. No telemóvel, abre https://github.com/mjpiedade/dashboard-b3-noticias/releases/latest
+2. Descarrega o `noticias-b3-*.apk`.
+3. Abre-o. Se aparecer aviso "instalar de fonte desconhecida", ativa e volta a tocar.
+4. Depois de instalado, no ecrã principal: toque longo → **Widgets** → arrasta
+   "Notícias B3" (4×2) para o ecrã.
+5. Setas ‹ › navegam entre temas; toque no título abre a PWA no tema atual.
+
+O código Android vive em `android/` e é compilado automaticamente pelo
+GitHub Actions a cada push (workflow `.github/workflows/android.yml`).
+Cada build atualiza a release `latest`. Refresh do widget: WorkManager a 30 min.
 
 ## Atualizações automáticas
 
