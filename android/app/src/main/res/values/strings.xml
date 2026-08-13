@@ -18,4 +18,17 @@
 
     <string name="anterior">Anterior</string>
     <string name="proximo">Próximo</string>
+
+    <!-- Ecrã principal -->
+    <string name="titulo_ecra">Notícias</string>
+    <string name="resumo">RESUMO</string>
+    <string name="impacto">IMPACTO</string>
+    <string name="noticias">NOTÍCIAS</string>
+    <string name="expandir">Expandir tema</string>
+    <string name="sem_temas">Ainda sem notícias descarregadas.\nPuxa para baixo para tentar de novo.</string>
+
+    <plurals name="contagem_noticias">
+        <item quantity="one">%d notícia</item>
+        <item quantity="other">%d notícias</item>
+    </plurals>
 </resources>

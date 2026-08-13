@@ -10,14 +10,24 @@ enum class Sinal(val chave: String, val rotulo: String, val cor: Int) {
     }
 }
 
+data class NoticiaItem(
+    val titulo: String,
+    val fonte: String,
+    val data: String,
+    val hora: String,
+)
+
 data class Tema(
     val titulo: String,
     val sinal: Sinal,
     val nNoticias: Int,
+    val resumo: String,
+    val impacto: String,
+    val noticias: List<NoticiaItem>,
 )
 
 data class Feed(
-    val atualizadoEm: String,      // "2026-08-12T14:11" (sem tz — hora de SP)
+    val atualizadoEm: String,      // "2026-08-12T14:11" (sem tz — hora de SP, UTC-3)
     val temas: List<Tema>,
 ) {
     val contagens: Triple<Int, Int, Int>

@@ -1,6 +1,8 @@
 package com.mjpiedade.noticiasb3
 
 import android.content.Context
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
 import org.json.JSONException
 import org.json.JSONObject
 import java.io.File
@@ -32,6 +34,9 @@ object NoticiasRepo {
         }
         return lerCache(ctx)
     }
+
+    /** Wrapper para chamar do main thread sem bloquear a UI. */
+    suspend fun buscarAsync(ctx: Context): Feed = withContext(Dispatchers.IO) { buscar(ctx) }
 
     /** Só cache — usado pelo widget quando não precisa de gastar bateria com rede. */
     fun lerCache(ctx: Context): Feed {
@@ -80,11 +85,29 @@ object NoticiasRepo {
             val temas = ArrayList<Tema>(arr.length())
             for (i in 0 until arr.length()) {
                 val o = arr.optJSONObject(i) ?: continue
+                val noticiasArr = o.optJSONArray("noticias")
+                val noticias = ArrayList<NoticiaItem>(noticiasArr?.length() ?: 0)
+                if (noticiasArr != null) {
+                    for (j in 0 until noticiasArr.length()) {
+                        val n = noticiasArr.optJSONObject(j) ?: continue
+                        noticias.add(
+                            NoticiaItem(
+                                titulo = n.optString("titulo", ""),
+                                fonte = n.optString("fonte", ""),
+                                data = n.optString("data", ""),
+                                hora = n.optString("hora", ""),
+                            )
+                        )
+                    }
+                }
                 temas.add(
                     Tema(
                         titulo = o.optString("titulo", "").ifEmpty { "(sem título)" },
                         sinal = Sinal.de(o.optString("sinal", "neutro")),
-                        nNoticias = o.optInt("n_noticias", o.optJSONArray("noticias")?.length() ?: 0),
+                        nNoticias = o.optInt("n_noticias", noticias.size),
+                        resumo = o.optString("resumo", ""),
+                        impacto = o.optString("impacto", ""),
+                        noticias = noticias,
                     )
                 )
             }
