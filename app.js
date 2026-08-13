@@ -26,10 +26,22 @@ function escaparHTML(s) {
 
 function parsearISO(s) {
   if (!s) return null;
-  // formato do ficheiro: "2026-08-12T14:11" (sem tz — hora local de SP)
-  // tratamos como local ao dispositivo; serve para "há X min" com margem
-  const d = new Date(s);
+  // formato do ficheiro: "2026-08-12T14:11" — hora local de São Paulo (UTC-3,
+  // sem DST desde 2019). Se deixarmos o browser interpretar como hora local
+  // do dispositivo, quem está em Lisboa (UTC+1 no verão) vê "há X min" com
+  // 4 horas de erro, o que parece que a app "nunca atualiza".
+  const d = new Date(s + "-03:00");
   return isNaN(d) ? null : d;
+}
+
+async function fetchComTimeout(url, opts = {}, ms = 10_000) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(new DOMException("timeout", "AbortError")), ms);
+  try {
+    return await fetch(url, { ...opts, signal: ctrl.signal });
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
 function formatarIdade(dt) {
@@ -139,12 +151,17 @@ function renderTemas(temas) {
   }
 }
 
+let aCarregar = false;
+
 async function carregar({ mostrarIndicador = false } = {}) {
+  if (aCarregar) return;  // guarda contra pull-to-refresh em salvo se já há um fetch a correr
+  aCarregar = true;
   if (mostrarIndicador) el.refresh.classList.add("visivel");
+  const jaHaviaLista = el.lista.querySelector(".tema") != null;
   try {
     // cache-buster para forçar rede quando o utilizador puxa refresh
     const url = mostrarIndicador ? `${URL_JSON}?t=${Date.now()}` : URL_JSON;
-    const resp = await fetch(url, { cache: mostrarIndicador ? "no-store" : "default" });
+    const resp = await fetchComTimeout(url, { cache: mostrarIndicador ? "no-store" : "default" });
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const dados = await resp.json();
     ultimoAtualizadoEm = parsearISO(dados.atualizado_em);
@@ -155,12 +172,20 @@ async function carregar({ mostrarIndicador = false } = {}) {
       ? `Notícias atualizadas em ${dados.atualizado_em.replace("T", " ")}`
       : "";
   } catch (err) {
-    el.lista.innerHTML = `<div class="erro">Não consegui carregar as notícias.<br><small>${escaparHTML(err.message)}</small></div>`;
-    el.lista.setAttribute("aria-busy", "false");
-  } finally {
-    if (mostrarIndicador) {
-      setTimeout(() => el.refresh.classList.remove("visivel"), 300);
+    const motivo = err && err.name === "AbortError" ? "sem rede (timeout)" : (err && err.message ? err.message : "erro");
+    if (jaHaviaLista) {
+      // Não deitar fora a lista que já está — só piscar aviso no header
+      el.idade.textContent = `falhou refresh (${motivo})`;
+      el.idade.classList.add("muito-velho");
+    } else {
+      el.lista.innerHTML = `<div class="erro">Não consegui carregar as notícias.<br><small>${escaparHTML(motivo)}</small></div>`;
+      el.lista.setAttribute("aria-busy", "false");
     }
+  } finally {
+    aCarregar = false;
+    // Esconde o indicador de refresh SEMPRE, mesmo quando não pediu para mostrar,
+    // como cinto-de-segurança contra estados presos de sessões anteriores.
+    setTimeout(() => el.refresh.classList.remove("visivel"), 300);
   }
 }
 

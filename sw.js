@@ -1,6 +1,8 @@
 "use strict";
 
-const VERSAO = "v1";
+// v2 (2026-08-13): força reinstalação da cache para os telemóveis que já tinham
+// v1 (com bugs de TZ e pull-to-refresh sem timeout).
+const VERSAO = "v2";
 const CACHE_APP = `noticias-b3-app-${VERSAO}`;
 const CACHE_DADOS = `noticias-b3-dados-${VERSAO}`;
 const FICHEIROS_APP = [
@@ -32,17 +34,21 @@ self.addEventListener("fetch", (evt) => {
   if (req.method !== "GET") return;
   const url = new URL(req.url);
 
-  // dados: rede primeiro, cache como fallback (a última versão vista continua a abrir offline)
+  // dados: rede primeiro (com timeout), cache como fallback.
   if (url.pathname.endsWith("/data/noticias_temas.json") || url.pathname.endsWith("noticias_temas.json")) {
     evt.respondWith((async () => {
+      const ctrl = new AbortController();
+      const timer = setTimeout(() => ctrl.abort(), 8_000);
       try {
-        const resp = await fetch(req, { cache: "no-store" });
+        const resp = await fetch(req.url, { cache: "no-store", signal: ctrl.signal });
+        clearTimeout(timer);
         if (resp && resp.ok) {
           const c = await caches.open(CACHE_DADOS);
           c.put("./data/noticias_temas.json", resp.clone());
         }
         return resp;
       } catch (_) {
+        clearTimeout(timer);
         const cache = await caches.open(CACHE_DADOS);
         const cached = await cache.match("./data/noticias_temas.json");
         if (cached) return cached;
