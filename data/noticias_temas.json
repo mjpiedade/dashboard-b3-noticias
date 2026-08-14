@@ -1,21 +1,61 @@
 {
-  "atualizado_em": "2026-08-12T14:11",
-  "total_feed": 590,
+  "atualizado_em": "2026-08-13T08:17",
+  "total_feed": 586,
   "temas": [
     {
-      "titulo": "CPI dos EUA arrefece para 3,4% e o mercado volta a apostar que a Fed segura os juros",
-      "sinal": "risk_on",
-      "resumo": "O índice de preços ao consumidor de julho subiu 0,1% no mês, em linha com o esperado e depois de uma queda de 0,4% em junho, com a taxa homóloga a recuar de 3,5% para 3,4%. O núcleo avançou 0,2% no mês e desacelerou para 2,5% em termos homólogos, e o supercore caiu de 3,17% para 2,84%. Os futuros de ações subiram e o dólar recuou com a leitura, mas os traders mantêm 45% de probabilidade de uma subida de juros em setembro — a presidente da Fed de Boston, Collins, tinha dito horas antes que apoiaria esse aumento se a inflação persistisse.",
-      "impacto": "Dólar mais fraco e menos pressão de alta nos juros americanos é o alívio de que o Ibovespa precisava depois de fechar na mínima desde janeiro; o dólar já recua contra o real. Beneficia sobretudo os nomes de duração longa e alavancados — MRVE3, CYRE3, AMER3 — e alivia o custo de funding externo de PETR4, VALE3 e SUZB3.",
-      "n_noticias": 31,
+      "titulo": "CPI dos EUA em 3,4% não fecha a porta a nova subida: 45% para setembro e o foco passa para Jackson Hole",
+      "sinal": "neutro",
+      "resumo": "O CPI de julho veio em linha (3,4% anual, núcleo 2,5%, supercore 2,84%) e os futuros de ações subiram, mas os traders mantiveram em 45% a probabilidade de a Fed subir juros em setembro. Collins disse que apoiaria essa subida se a inflação persistir e a Goldman avisa que o núcleo do PCE deve vir mais quente, enquanto o Daiwa lê o mesmo dado como Fed parada. Sem desempate, o mercado já olha para Jackson Hole.",
+      "impacto": "Enquanto a Fed não fechar a porta a nova subida, o prémio de risco dos emergentes não cede — é o canal que domina o dólar/real e a curva de DI. Um desfecho dovish em Jackson Hole aliviaria BOVA11 e o múltiplo dos bancos (ITUB4, BBAS3, BPAC11); a confirmação da subida em setembro prolonga o cenário de juros altos, que sustenta o carrego dos bancos mas castiga os nomes de duration longa.",
+      "n_noticias": 28,
       "noticias": [
         {
-          "id": "65a6fce1bb95",
-          "titulo": "Effective Fed Funds Rate 3.63% August 11 vs 3.63% August 10.",
+          "id": "973d822dd349",
+          "titulo": "Fed Interest Rate Probabilities",
           "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:22",
+          "link": "https://www.financialjuice.com/News/9719327/Fed-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "8bd504ecdaed",
+          "titulo": "‘The most difficult dilemma’",
+          "fonte": "FT Markets",
+          "data": "2026-08-13",
+          "hora": "06:30",
+          "link": "https://www.ft.com/content/d8b52073-c847-48c9-b432-50e989c4b8f0?syn-25a6b1a6=1"
+        },
+        {
+          "id": "a05c23ce59da",
+          "titulo": "It's on to Jackson Hole next..",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "06:29",
+          "link": "https://investinglive.com/news/it-s-on-to-jackson-hole-next/"
+        },
+        {
+          "id": "ec9de77c55a2",
+          "titulo": "Daiwa says settled July CPI keeps Fed on hold, flags housing trend as key",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "00:15",
+          "link": "https://investinglive.com/central-banks/daiwa-says-settled-july-cpi-keeps-fed-on-hold-flags-housing-trend-as-key/"
+        },
+        {
+          "id": "bea80a924009",
+          "titulo": "Goldman calls July CPI encouraging, still braces for hotter core PCE",
+          "fonte": "ForexLive",
           "data": "2026-08-12",
-          "hora": "13:59",
-          "link": "https://www.financialjuice.com/News/9718076/Effective-Fed-Funds-Rate-363-August-11-vs-363-August-10.aspx?xy=rss"
+          "hora": "22:21",
+          "link": "https://investinglive.com/stock-market-update/goldman-calls-july-cpi-encouraging-still-braces-for-hotter-core-pce/"
+        },
+        {
+          "id": "c7fa69d17e67",
+          "titulo": "US inflation eases as food and fuel costs cool",
+          "fonte": "BBC Business",
+          "data": "2026-08-12",
+          "hora": "18:03",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "2a1d24938318",
@@ -60,6 +100,14 @@
         {
           "id": "ec253c5d7730",
           "titulo": "US inflation cooled slightly to 3.4% in July, according to latest data",
+          "fonte": "Guardian Business",
+          "data": "2026-08-12",
+          "hora": "13:39",
+          "link": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july"
+        },
+        {
+          "id": "6bf1d65e4a5b",
+          "titulo": "US inflation cooled slightly to 3.4% in July but prices still elevated",
           "fonte": "Guardian Business",
           "data": "2026-08-12",
           "hora": "13:39",
@@ -154,70 +202,6 @@
           "link": "https://investinglive.com/news/us-july-cpi-y-y-vs-3-4-expected/"
         },
         {
-          "id": "0d3020aa3212",
-          "titulo": "Kickstart video for August 12: US Dollar is lower ahead of key CPI report",
-          "fonte": "ForexLive",
-          "data": "2026-08-12",
-          "hora": "13:09",
-          "link": "https://investinglive.com/technical-analysis/kickstart-video-us-dollar-lower-ahead-of-key-cpi-report/"
-        },
-        {
-          "id": "e7ace7c7355a",
-          "titulo": "US CPI Crib Sheet - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "13:08",
-          "link": "https://www.financialjuice.com/News/9718003/US-CPI-Crib-Sheet---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "61f743b0803c",
-          "titulo": "US CPI Prep: Inflation in Focus",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "13:03",
-          "link": "https://www.financialjuice.com/News/9718002/US-CPI-Prep-Inflation-in-Focus.aspx?xy=rss"
-        },
-        {
-          "id": "c6b2894de113",
-          "titulo": "Credit Agricole: Investors Still Confident of A Deal - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "13:03",
-          "link": "https://www.financialjuice.com/News/9718001/Credit-Agricole-Investors-Still-Confident-of-A-Deal---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "b45e9d718795",
-          "titulo": "Secured overnight financing rate 3.64% August 11th vs 3.63% August 10th",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "13:01",
-          "link": "https://www.financialjuice.com/News/9717999/Secured-overnight-financing-rate-364-August-11th-vs-363-August-10th.aspx?xy=rss"
-        },
-        {
-          "id": "320951c681e7",
-          "titulo": "Goldman Sachs: Markets shifted back to ‘Goldilocks’ after growth concerns and hawkish policy - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "13:00",
-          "link": "https://www.financialjuice.com/News/9717971/Goldman-Sachs-Markets-shifted-back-to-Goldilocks-after-growth-concerns-and-hawkish-policy---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "e597fc6dd65a",
-          "titulo": "MUFG: US CPI report to determine whether sell-off will extend further - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "12:57",
-          "link": "https://www.financialjuice.com/News/9717970/MUFG-US-CPI-report-to-determine-whether-sell-off-will-extend-further---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "fb010467b907",
-          "titulo": "What to expect from the US CPI report later today?",
-          "fonte": "ForexLive",
-          "data": "2026-08-12",
-          "hora": "11:05",
-          "link": "https://investinglive.com/news/what-to-expect-from-the-us-cpi-report-later-today/"
-        },
-        {
           "id": "7be8b26c4177",
           "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures rise after CPI data cools slightly",
           "fonte": "Yahoo Finance",
@@ -234,71 +218,55 @@
           "link": "https://exame.com/economia/cpi-inflacao-dos-eua-sobe-01-em-julho-e-da-novo-sinal-sobre-juros/"
         },
         {
-          "id": "d318fbe33e4e",
-          "titulo": "Europe Sentiment: Stocks Rise head of US CPI - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "09:25",
-          "link": "https://www.financialjuice.com/News/9717688/Europe-Sentiment-Stocks-Rise-head-of-US-CPI---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "b2570e4eb0e2",
-          "titulo": "What is the distribution of forecasts for the US CPI?",
-          "fonte": "ForexLive",
-          "data": "2026-08-12",
-          "hora": "08:45",
-          "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-0/"
-        },
-        {
           "id": "42d5c1e66ce6",
           "titulo": "Fed policymaker Collins says would back September rate hike if data points to that direction",
           "fonte": "ForexLive",
           "data": "2026-08-12",
           "hora": "05:38",
           "link": "https://investinglive.com/central-banks/fed-policymaker-collins-says-would-back-september-rate-hike-if-data-points-to-that-direction/"
+        },
+        {
+          "id": "f18bffbd4f9e",
+          "titulo": "Boston Fed President Susan Collins: Would support September rate increase if inflation stays high - FT",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "05:06",
+          "link": "https://www.financialjuice.com/News/9717420/Boston-Fed-President-Susan-Collins-Would-support-September-rate-increase-if-inflation-stays-high---FT.aspx?xy=rss"
         }
       ],
       "criado_em": "2026-08-12T14:11",
-      "atualizado_em": "2026-08-12T14:11"
+      "atualizado_em": "2026-08-13T08:17"
     },
     {
-      "titulo": "IEA diz que as reservas de petróleo estão a esgotar-se e pede a reabertura urgente de Ormuz",
+      "titulo": "Irão reafirma o controlo de Ormuz e nega haver cessar-fogo para prolongar",
       "sinal": "risk_off",
-      "resumo": "A Agência Internacional de Energia alertou que os stocks globais estão a esgotar-se rapidamente e agravou a previsão de défice do 3.º trimestre para 1,8 milhões de barris/dia, contra os 800 mil projetados em julho; vê a oferta global a cair 4,3 milhões de barris/dia em 2026 e as exportações do Médio Oriente a descerem de 20 para 12 milhões de barris/dia ao longo de julho, com a refinação global 5 milhões abaixo do ano anterior. A OPEP, pelo contrário, cortou a previsão de crescimento da procura de 2026 para 580 mil barris/dia e reportou produção do OPEP+ de 37,66 milhões em julho. Entretanto, a refinaria russa de Orsk parou após um ataque de drone, os carregamentos sauditas no Mar Vermelho passaram a fazer-se com os transponders desligados, e as taxas do Canal do Panamá dispararam com a guerra e o El Niño.",
-      "impacto": "Défice estrutural de oferta sustenta o Brent perto de US$ 90 e é o principal suporte de PETR4 e PRIO3, com o querosene de aviação já quase 50% mais caro a mostrar o repasse. O reverso é o custo do diesel e do frete, que alimenta o IPCA e mantém a Selic alta — e o gás europeu com stocks baixos antecipa mais um inverno tenso.",
-      "n_noticias": 24,
+      "resumo": "O chefe do Basij declarou esta manhã que o estreito de Ormuz está sob controlo e gestão do Irão, depois de fonte iraniana ter dito que não existe data de início do cessar-fogo e, portanto, nada para prolongar. O petróleo subiu com novos ataques a navios e o impasse nas conversas com Washington, mas aliviou de madrugada com o relato de uma transferência de ativos entre os Emirados e o Irão. Carregamentos sauditas no Mar Vermelho passaram a ser feitos com os transponders desligados.",
+      "impacto": "É o principal suporte do prémio geopolítico no Brent, que favorece PETR4 e PRIO3 e a leitura de resultados do 2º semestre. O reverso é o custo de frete e de energia: pressiona a inflação global e o BDI que SUZB3, KLBN11 e CSNA3 monitorizam como evento em aberto, e alimenta a aversão ao risco que já levou o Ibovespa à mínima desde janeiro.",
+      "n_noticias": 16,
       "noticias": [
         {
-          "id": "feabe018f8c0",
-          "titulo": "Copper's Rise Continues As Gold Tries To Claw Back Lost Ground",
-          "fonte": "Seeking Alpha",
-          "data": "2026-08-12",
-          "hora": "14:00",
-          "link": "https://seekingalpha.com/article/4935323-copper-rise-continues-gold-tries-to-claw-back-lost-ground?source=feed_all_articles"
+          "id": "9ac971ba88be",
+          "titulo": "Head of Iran's paramilitary Basij Hossein Taeb: The Strait of Hormuz is under Iran's control and management - Fars",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "08:02",
+          "link": "https://www.financialjuice.com/News/9719401/Head-of-Irans-paramilitary-Basij-Hossein-Taeb-The-Strait-of-Hormuz-is-under-Irans-control-and-management---Fars.aspx?xy=rss"
         },
         {
-          "id": "e2d0e2c0eed8",
-          "titulo": "Global energy watchdog warns oil stockpiles ‘rapidly depleting’ – business live",
-          "fonte": "Guardian Business",
-          "data": "2026-08-12",
-          "hora": "13:46",
-          "link": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live"
+          "id": "1b4c3720462f",
+          "titulo": "investingLive Asia-Pacific Market news: Oil eases as UAE-Iran asset transfer reported",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "04:41",
+          "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-as-uae-iran-asset-transfer-reported/"
         },
         {
-          "id": "4244cbe4dd61",
-          "titulo": "Estoques baixos de gás na Europa são preocupação real para o inverno",
-          "fonte": "InfoMoney",
+          "id": "6d0e9deced3f",
+          "titulo": "Burnham warned Iran war could hit UK growth next year",
+          "fonte": "BBC Business",
           "data": "2026-08-12",
-          "hora": "13:44",
-          "link": "https://www.infomoney.com.br/economia/estoques-baixos-de-gas-na-europa-sao-preocupacao-real-para-o-inverno/"
-        },
-        {
-          "id": "e4b6ed2a0568",
-          "titulo": "Panama canal fees soar due to Iran war and El Niño as ship ‘pays $4m to jump queue’",
-          "fonte": "Guardian Business",
-          "data": "2026-08-12",
-          "hora": "13:26",
-          "link": "https://www.theguardian.com/business/2026/aug/12/panama-canal-fees-iran-war-el-nino-ship-jump-queue"
+          "hora": "15:17",
+          "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "c182a006f4d3",
@@ -316,161 +284,6 @@
           "hora": "13:25",
           "link": "https://www.financialjuice.com/News/9718019/Recent-Saudi-Red-Sea-crude-loadings-done-with-ship-tracking-turned-off-as-Yemens-Houthis-launch-more-attacks---Data.aspx?xy=rss"
         },
-        {
-          "id": "1f66df24c707",
-          "titulo": "OPEC: OPEC+ crude output (including former member UAE) averaged 37.66 million bpd in July 2026, up about 1.42 million bpd from June, led by gains in gulf producers.",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "13:00",
-          "link": "https://www.financialjuice.com/News/9717981/OPEC-OPEC-crude-output-including-former-member-UAE-averaged-3766-million-bpd-in-July-2026-up-about-142-million-bpd-from-June-led-by-gains-in-gulf-producers.aspx?xy=rss"
-        },
-        {
-          "id": "7a71368cdf3a",
-          "titulo": "OPEC raises 2027 global oil demand growth forecast to 2.16 million bpd (prev. forecast 1.94 million bpd)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "13:00",
-          "link": "https://www.financialjuice.com/News/9717980/OPEC-raises-2027-global-oil-demand-growth-forecast-to-216-million-bpd-prev-forecast-194-million-bpd.aspx?xy=rss"
-        },
-        {
-          "id": "cf8be13e399d",
-          "titulo": "OPEC cuts 2026 global oil demand growth forecast to 580,000 barrels per day (prev. forecast 780,000 bpd).",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "13:00",
-          "link": "https://www.financialjuice.com/News/9717979/OPEC-cuts-2026-global-oil-demand-growth-forecast-to-580000-barrels-per-day-prev-forecast-780000-bpd.aspx?xy=rss"
-        },
-        {
-          "id": "4f9dc4c3d55e",
-          "titulo": "Silver prices today, Wednesday, August 12, 2026: Surpassing $66 as expectations for July inflation ease",
-          "fonte": "Yahoo Finance",
-          "data": "2026-08-12",
-          "hora": "12:56",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-12-2026-surpassing-66-as-expectations-for-july-inflation-ease-115635475.html"
-        },
-        {
-          "id": "1e88dd51f024",
-          "titulo": "Gold prices today, Wednesday, August 12, 2026: Holding over $4,400 ahead of CPI report",
-          "fonte": "Yahoo Finance",
-          "data": "2026-08-12",
-          "hora": "12:44",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-12-2026-holding-over-4400-ahead-of-cpi-report-114442535.html"
-        },
-        {
-          "id": "9ed4a8428083",
-          "titulo": "Russia's Orsk refinery halts processing after drone hit - Source",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "10:46",
-          "link": "https://www.financialjuice.com/News/9717797/Russias-Orsk-refinery-halts-processing-after-drone-hit---Source.aspx?xy=rss"
-        },
-        {
-          "id": "4e0ef5377ff4",
-          "titulo": "Russia's Orsknefteorgsintez refinery suspended processing on August 11th after a drone attack - Two sources",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "10:38",
-          "link": "https://www.financialjuice.com/News/9717789/Russias-Orsknefteorgsintez-refinery-suspended-processing-on-August-11th-after-a-drone-attack---Two-sources.aspx?xy=rss"
-        },
-        {
-          "id": "1c1d575eaa15",
-          "titulo": "Silver's rally will face a key test today with the US CPI expected to influence Fed rate hike bets",
-          "fonte": "ForexLive",
-          "data": "2026-08-12",
-          "hora": "10:21",
-          "link": "https://investinglive.com/commodities/silver-s-rally-will-face-a-key-test-today-with-the-us-cpi-expected-to-influence-fed-rate-hike-bets/"
-        },
-        {
-          "id": "3eec6e34f15f",
-          "titulo": "IEA: global oil supply to decline by 4.3 million bpd in 2026 (prev. forecast 3.7 million bpd drop)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "09:00",
-          "link": "https://www.financialjuice.com/News/9717660/IEA-global-oil-supply-to-decline-by-43-million-bpd-in-2026-prev-forecast-37-million-bpd-drop.aspx?xy=rss"
-        },
-        {
-          "id": "02ac2f1e8582",
-          "titulo": "IEA: Global oil refining fell 5 million bpd below year-ago levels in July as spare capacity failed to ease product supply bottlenecks",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "09:00",
-          "link": "https://www.financialjuice.com/News/9717659/IEA-Global-oil-refining-fell-5-million-bpd-below-year-ago-levels-in-July-as-spare-capacity-failed-to-ease-product-supply-bottlenecks.aspx?xy=rss"
-        },
-        {
-          "id": "7d87daba72a2",
-          "titulo": "IEA: Forecasts oil market 1.8 million bpd deficit in Q3 on renewed Middle East conflict, up from 800,000 bpd shortfall projected in July",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "09:00",
-          "link": "https://www.financialjuice.com/News/9717658/IEA-Forecasts-oil-market-18-million-bpd-deficit-in-Q3-on-renewed-Middle-East-conflict-up-from-800000-bpd-shortfall-projected-in-July.aspx?xy=rss"
-        },
-        {
-          "id": "c730b32fdb00",
-          "titulo": "IEA: Middle East oil exports peaked at 20 million bpd start of July but dropped to 12 million later in month.",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "09:00",
-          "link": "https://www.financialjuice.com/News/9717657/IEA-Middle-East-oil-exports-peaked-at-20-million-bpd-start-of-July-but-dropped-to-12-million-later-in-month.aspx?xy=rss"
-        },
-        {
-          "id": "467e4b8e4a1f",
-          "titulo": "Bússola & Cia: querosene sobe quase 50% e desafia mercado B2B",
-          "fonte": "Exame",
-          "data": "2026-08-12",
-          "hora": "07:00",
-          "link": "https://exame.com/bussola/bussola-cia-querosene-sobe-quase-50-e-desafia-mercado-b2b/"
-        },
-        {
-          "id": "7fbecf18c844",
-          "titulo": "investingLive Asia-Pacific Financial Market news: Oil edges higher",
-          "fonte": "ForexLive",
-          "data": "2026-08-12",
-          "hora": "04:50",
-          "link": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-oil-edges-higher/"
-        },
-        {
-          "id": "2849619bba37",
-          "titulo": "Libya electricity company: assault on south Zawiya substation disrupts power across large southern areas",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "04:39",
-          "link": "https://www.financialjuice.com/News/9717384/Libya-electricity-company-assault-on-south-Zawiya-substation-disrupts-power-across-large-southern-areas.aspx?xy=rss"
-        },
-        {
-          "id": "828cd3c81e46",
-          "titulo": "Libya’s general electricity company: south Zawiya substation fully burned, service disrupted in assault",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "04:37",
-          "link": "https://www.financialjuice.com/News/9717383/Libyas-general-electricity-company-south-Zawiya-substation-fully-burned-service-disrupted-in-assault.aspx?xy=rss"
-        },
-        {
-          "id": "9c7bd6011b78",
-          "titulo": "Oil Tuesday recap - settles higher as Iran keeps Hormuz shut and new Gulf attacks resume",
-          "fonte": "ForexLive",
-          "data": "2026-08-11",
-          "hora": "22:28",
-          "link": "https://investinglive.com/commodities/oil-tuesday-recap-settles-higher-as-iran-keeps-hormuz-shut-and-new-gulf-attacks-resume/"
-        },
-        {
-          "id": "71c72d30b122",
-          "titulo": "Ship pays $4 million to cut 10-day line to cross Panama Canal",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "20:31",
-          "link": "https://www.financialjuice.com/News/9716910/Ship-pays-4-million-to-cut-10-day-line-to-cross-Panama-Canal.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-08-12T14:11",
-      "atualizado_em": "2026-08-12T14:11"
-    },
-    {
-      "titulo": "Irão diz que não há cessar-fogo para prolongar e o processo de paz volta a emperrar",
-      "sinal": "risk_off",
-      "resumo": "Uma fonte iraniana de topo afirmou que não existem discussões sobre prolongar o cessar-fogo com os EUA porque, do ponto de vista de Teerão, o pacto deixou de existir — os americanos tê-lo-iam violado 48 horas depois de fechado e abandonado dias mais tarde — e garantiu que não houve qualquer progresso. O Paquistão, que mediava, reconheceu que o processo maior está parado, ainda que o prazo do memorando possa ser prolongado, e o Japão juntou-se aos contactos com um telefonema entre Takaichi e o presidente iraniano. Trump tinha dito ter 'controlo total' de Ormuz, afirmação que contrasta com as semanas de ataques a navios.",
-      "impacto": "Sem cessar-fogo não há reabertura de Ormuz, e é essa a variável que mantém o prémio de risco no petróleo e no dólar. Para a carteira, é o suporte que sustenta PETR4 e PRIO3 e, ao mesmo tempo, o fator que trava o alívio do Ibovespa mesmo com o CPI americano a arrefecer.",
-      "n_noticias": 20,
-      "noticias": [
         {
           "id": "b58a56169177",
           "titulo": "Iran reportedly maintains that there are no discussions over ceasefire extension as the pact doesn't exist anymore",
@@ -536,6 +349,14 @@
           "link": "https://www.financialjuice.com/News/9717623/Japans-Takaichi-holds-phone-call-with-Iran-president---Kyodo.aspx?xy=rss"
         },
         {
+          "id": "d75ef507f4b4",
+          "titulo": "Is the market losing hope for peace in the Middle East?",
+          "fonte": "ForexLive",
+          "data": "2026-08-12",
+          "hora": "06:16",
+          "link": "https://investinglive.com/education/is-the-market-losing-hope-for-peace-in-the-middle-east/"
+        },
+        {
           "id": "09980b93b242",
           "titulo": "Gulf states quietly by-pass choke points as Hormuz risk lingers, Saudi Oman deal fits pattern",
           "fonte": "ForexLive",
@@ -550,98 +371,42 @@
           "data": "2026-08-12",
           "hora": "02:31",
           "link": "https://investinglive.com/commodities/trump-says-has-total-control-of-hormuz-remarks-that-jar-with-weeks-of-shipping-attacks/"
-        },
-        {
-          "id": "34b5379e5c35",
-          "titulo": "US fires on ship it says violated Iran blockade",
-          "fonte": "FT Markets",
-          "data": "2026-08-11",
-          "hora": "21:51",
-          "link": "https://www.ft.com/content/ac651a05-9285-4020-85e2-47fcd8936320?syn-25a6b1a6=1"
-        },
-        {
-          "id": "0b873b59606f",
-          "titulo": "Yemen Houthi Spokesperson: Yemeni armed forces targeted Saudi troop concentrations, weapons depots and command headquarters in Al-Makha and Marib Governorate - Post on X",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "20:13",
-          "link": "https://www.financialjuice.com/News/9716893/Yemen-Houthi-Spokesperson-Yemeni-armed-forces-targeted-Saudi-troop-concentrations-weapons-depots-and-command-headquarters-in-Al-Makha-and-Marib-Governorate---Post-on-X.aspx?xy=rss"
-        },
-        {
-          "id": "039a000c6b85",
-          "titulo": "Yemen Houthi Spokesperson: The Armed Forces will continue their operations to target all Saudi troop concentrations that seek, through them, to escalate and control Yemen.",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "20:12",
-          "link": "https://www.financialjuice.com/News/9716892/Yemen-Houthi-Spokesperson-The-Armed-Forces-will-continue-their-operations-to-target-all-Saudi-troop-concentrations-that-seek-through-them-to-escalate-and-control-Yemen.aspx?xy=rss"
-        },
-        {
-          "id": "2183a28eee74",
-          "titulo": "Iran's General Naghdi: All of our military weapons are now domestically produced.",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "20:05",
-          "link": "https://www.financialjuice.com/News/9716889/Irans-General-Naghdi-All-of-our-military-weapons-are-now-domestically-produced.aspx?xy=rss"
-        },
-        {
-          "id": "a588f764ce0e",
-          "titulo": "Reports of explosions in Sirik, Southern Iran; possible launches towards the Strait of Hormuz. - Israel's Channel 12 News",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "18:46",
-          "link": "https://www.financialjuice.com/News/9716777/Reports-of-explosions-in-Sirik-Southern-Iran-possible-launches-towards-the-Strait-of-Hormuz---Israels-Channel-12-News.aspx?xy=rss"
-        },
-        {
-          "id": "736c1a6875fd",
-          "titulo": "Iran National Security Committee's Azizi: Nuclear issue is a key public demand and will be a complex part of negotiations.",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "18:42",
-          "link": "https://www.financialjuice.com/News/9716772/Iran-National-Security-Committees-Azizi-Nuclear-issue-is-a-key-public-demand-and-will-be-a-complex-part-of-negotiations.aspx?xy=rss"
-        },
-        {
-          "id": "9c000bff7021",
-          "titulo": "Reports of explosions heard in the city of Marib, Yemen - Tasnim News",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "18:17",
-          "link": "https://www.financialjuice.com/News/9716746/Reports-of-explosions-heard-in-the-city-of-Marib-Yemen---Tasnim-News.aspx?xy=rss"
-        },
-        {
-          "id": "24cdc0283b38",
-          "titulo": "Stock Market Today: Dow Rises On Iran Claim; SpaceX Rival Rocket Lab Falls But Chips Move Up (Live Coverage)",
-          "fonte": "Yahoo Finance",
-          "data": "2026-08-11",
-          "hora": "15:31",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-spacex-rocket-lab-rklb/?src=A00220&yptr=yahoo"
-        },
-        {
-          "id": "abc5b3afda06",
-          "titulo": "Trump: The US has no shortage of missile munitions. We can hit Iran very hard - Voice of America Interview",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "15:19",
-          "link": "https://www.financialjuice.com/News/9716534/Trump-The-US-has-no-shortage-of-missile-munitions-We-can-hit-Iran-very-hard---Voice-of-America-Interview.aspx?xy=rss"
-        },
-        {
-          "id": "a49a5002ea34",
-          "titulo": "Trump: We control Iran's money and have complete control over it - Voice of America Interview",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "15:18",
-          "link": "https://www.financialjuice.com/News/9716533/Trump-We-control-Irans-money-and-have-complete-control-over-it---Voice-of-America-Interview.aspx?xy=rss"
         }
       ],
       "criado_em": "2026-08-11T13:32",
-      "atualizado_em": "2026-08-12T14:11"
+      "atualizado_em": "2026-08-13T08:17"
     },
     {
-      "titulo": "CoreWeave e Nebius disparam com resultados e o capex de IA aponta para US$ 1,6 trilhões",
+      "titulo": "Resultados de CoreWeave, Nebius e Super Micro puxam os chips e a Ásia acorda em rali",
       "sinal": "risk_on",
-      "resumo": "A CoreWeave, parceira da Nvidia, disparou depois de resultados que agradaram a otimistas e céticos, com base de clientes mais larga e preços favoráveis, e a Nebius superou as estimativas de receita. Um gestor da T. Rowe Price estima que o capex de inteligência artificial possa atingir US$ 1,6 trilhões no próximo ano e vê mais parecenças com 1998 do que com o rebentar da bolha, enquanto a Hon Hai começa a enviar as plataformas Vera Rubin da Nvidia no 4.º trimestre. Jensen Huang atualiza a 26 de agosto a oportunidade de US$ 1 trilhão em GPUs, depois do acordo de financiamento de US$ 500 bilhões com seis casas de Wall Street.",
-      "impacto": "É o motor risk-on que sustenta o apetite global e, por correlação, o beta do Ibovespa. Do lado real, capex desta ordem significa procura estrutural de cobre, aço e energia elétrica — leitura positiva para VALE3, GGBR4, CSNA3 e para o consumo industrial de EQTL3 e CMIG4. O risco apontado pelos próprios analistas é o gargalo de energia e água nos data centers.",
-      "n_noticias": 14,
+      "resumo": "A vaga de resultados ligados a IA voltou a surpreender: a CoreWeave disparou com números que agradaram a otimistas e céticos, a Nebius bateu as estimativas de receita e a Super Micro reportou EPS ajustado de US$ 1,70 contra US$ 1,59 esperados. Nikkei, Topix e Kospi subiram esta madrugada com a força dos semicondutores, a Hon Hai confirmou o arranque dos envios da plataforma Vera Rubin da Nvidia no 4T e um gestor da T. Rowe Price estima o capex de IA em US$ 1,6 trilhões no próximo ano. A Anthropic prepara um IPO com avaliação de US$ 2 trilhões.",
+      "impacto": "É o motor que segura o humor global de risco e, por correlação, o beta do Ibovespa: quando os semis sobem, o fluxo para emergentes respira. Toca a tese de eletrificação e centros de dados da WEGE3 (equipamento elétrico e geração) e sustenta a procura de metais básicos relevante para VALE3.",
+      "n_noticias": 16,
       "noticias": [
+        {
+          "id": "e78fcbdba03c",
+          "titulo": "Anthropic investors bet on $2tn valuation in record IPO",
+          "fonte": "FT Markets",
+          "data": "2026-08-13",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1"
+        },
+        {
+          "id": "58af43a791d3",
+          "titulo": "Asia stocks - Nikkei, Topix and Kospi all rally on chip strength and earnings optimism",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "04:03",
+          "link": "https://investinglive.com/stock-market-update/asia-stocks-nikkei-topix-and-kospi-all-rally-on-chip-strength-and-earnings-optimism/"
+        },
+        {
+          "id": "2f9cddcb5e38",
+          "titulo": "Apple in talks to pay publishers for content to power AI Siri, WSJ says",
+          "fonte": "ForexLive",
+          "data": "2026-08-12",
+          "hora": "23:46",
+          "link": "https://investinglive.com/stocks/apple-in-talks-to-pay-publishers-for-content-to-power-ai-siri-wsj-says/"
+        },
         {
           "id": "73b91dd859fb",
           "titulo": "On Aug. 26, Nvidia CEO Jensen Huang Will Provide an Update on Nvidia's $1 Trillion GPU Opportunity. But There's a Smaller Part of the Business Investors Shouldn't Overlook",
@@ -665,22 +430,6 @@
           "data": "2026-08-12",
           "hora": "13:40",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-cpi-inflation-nvidia-partner-coreweave/?src=A00220&yptr=yahoo"
-        },
-        {
-          "id": "237b8fbe0968",
-          "titulo": "The Old Fear-Based Paradigm Around Memory Cyclicality is Dead, So I’m Buying Micron",
-          "fonte": "Yahoo Finance",
-          "data": "2026-08-12",
-          "hora": "13:39",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/old-fear-based-paradigm-around-123917092.html"
-        },
-        {
-          "id": "d3cf14906955",
-          "titulo": "Alphabet's Blowout Q2 Confirmed The AI Stack Thesis, And Shares Are Still Undervalued",
-          "fonte": "Seeking Alpha",
-          "data": "2026-08-12",
-          "hora": "13:30",
-          "link": "https://seekingalpha.com/article/4935248-alphabets-blowout-q2-confirmed-the-ai-stack-thesis-and-shares-are-still-undervalued?source=feed_all_articles"
         },
         {
           "id": "365dcda2e8cc",
@@ -747,24 +496,449 @@
           "link": "https://www.financialjuice.com/News/9717643/Hon-Hai-to-start-shipping-NVIDIAs-Vera-Rubin-platforms-in-4Q.aspx?xy=rss"
         },
         {
-          "id": "7ad95c3f1ffe",
-          "titulo": "Where The Next $1.3 Trillion Of CapEx Gets Spent",
-          "fonte": "Seeking Alpha",
+          "id": "49f16b5e8bcd",
+          "titulo": "Asian shares diverge as chip rally lifts Kospi, Nikkei awaits US CPI",
+          "fonte": "ForexLive",
+          "data": "2026-08-12",
+          "hora": "03:17",
+          "link": "https://investinglive.com/stock-market-update/asian-shares-diverge-as-chip-rally-lifts-kospi-nikkei-awaits-us-cpi/"
+        },
+        {
+          "id": "9118d1e35e9f",
+          "titulo": "$SMCI Super Micro Computer Q4 Earnings",
+          "fonte": "FinancialJuice",
           "data": "2026-08-11",
-          "hora": "21:52",
-          "link": "https://seekingalpha.com/article/4934966-where-the-next-1-3-trillion-of-capex-gets-spent?source=feed_all_articles"
+          "hora": "21:05",
+          "link": "https://www.financialjuice.com/News/9716945/SMCI-Super-Micro-Computer-Q4-Earnings.aspx?xy=rss"
         }
       ],
       "criado_em": "2026-08-12T14:11",
-      "atualizado_em": "2026-08-12T14:11"
+      "atualizado_em": "2026-08-13T08:17"
     },
     {
-      "titulo": "Iene devolve os ganhos da intervenção e o yuan é fixado no nível mais forte desde 2023",
-      "sinal": "neutro",
-      "resumo": "O dólar/iene voltou a 159,38 e chegou a 159,43, o máximo de agosto, devolvendo boa parte da valorização provocada pela intervenção conjunta EUA-Japão, com o BoJ a ser esperado a subir juros em setembro e as taxas das obrigações japonesas a subirem com a alta do petróleo. Na China, o PBOC fixou o yuan em 6,7882 por dólar, o nível mais forte desde fevereiro de 2023 embora acima da estimativa de 6,7430, deixou o repo reverso a 7 dias em zero pelo segundo dia e colocou dívida a 50 anos a 2,2831%. Na Ásia, o Kospi subiu com o rali dos semicondutores enquanto o Nikkei aguardava o CPI americano.",
-      "impacto": "Yuan forte é historicamente favorável às commodities e ao par China-Brasil, o que sustenta VALE3 e o minério; mas iene fraco com juros japoneses a subir mantém vivo o risco de desmontagem de carry trade, o canal que mais rapidamente retira liquidez dos emergentes.",
+      "titulo": "IEA duplica o défice de petróleo do 3T para 1,8 milhões de barris/dia e a OPEP corta a procura de 2026",
+      "sinal": "risk_off",
+      "resumo": "A IEA elevou a estimativa de défice do mercado no 3T de 800 mil para 1,8 milhões de barris por dia e diz que as exportações do Médio Oriente caíram de 20 para 12 milhões de bpd ao longo de julho, com o refino global 5 milhões de bpd abaixo do ano passado. A OPEP cortou o crescimento da procura de 2026 para 580 mil bpd (de 780 mil) e subiu o de 2027 para 2,16 milhões, com a produção OPEP+ a subir 1,42 milhões bpd em julho, para 37,66 milhões. Do lado da oferta futura, o Reino Unido acelera o encerramento de poços no Mar do Norte e a Gronelândia travou a sondagem de uma petrolífera norte-americana.",
+      "impacto": "Défice de oferta com procura revista em baixa sustenta o Brent sem o transformar em choque de procura — construtivo para PETR4 e PRIO3, que entram nesta janela sem binário de resultados (o 3T26 de ambas só é reportado em novembro, em datas estimadas). O outro lado é energia cara por mais tempo, que pesa nas margens industriais de GGBR4, CSNA3 e USIM5.",
+      "n_noticias": 15,
+      "noticias": [
+        {
+          "id": "821332fbf2b6",
+          "titulo": "North Sea oil producers told to speed up well closures",
+          "fonte": "FT Markets",
+          "data": "2026-08-13",
+          "hora": "00:01",
+          "link": "https://www.ft.com/content/673027dc-ab4a-49ea-96d4-55e4dde8c0c2?syn-25a6b1a6=1"
+        },
+        {
+          "id": "511c4867f5cc",
+          "titulo": "Greenland forces Trump-linked US oil firm to delay drilling",
+          "fonte": "Guardian Business",
+          "data": "2026-08-12",
+          "hora": "19:00",
+          "link": "https://www.theguardian.com/world/2026/aug/12/trump-greenland-oil"
+        },
+        {
+          "id": "61e34ca642d0",
+          "titulo": "Greenland oil wildcatters delay controversial drilling plan",
+          "fonte": "FT Markets",
+          "data": "2026-08-12",
+          "hora": "15:33",
+          "link": "https://www.ft.com/content/c14d737a-a148-49da-8cb5-ba223c8a9fc5?syn-25a6b1a6=1"
+        },
+        {
+          "id": "e2d0e2c0eed8",
+          "titulo": "Global energy watchdog warns oil stockpiles ‘rapidly depleting’ – business live",
+          "fonte": "Guardian Business",
+          "data": "2026-08-12",
+          "hora": "13:46",
+          "link": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live"
+        },
+        {
+          "id": "7f3cf8f5bb15",
+          "titulo": "Scottish North Sea tax revenues drop, fuelling debate on oil and gas industry’s future",
+          "fonte": "FT Markets",
+          "data": "2026-08-12",
+          "hora": "13:11",
+          "link": "https://www.ft.com/content/dc0d5a3f-8bcc-483e-8787-18fd27ddab3f?syn-25a6b1a6=1"
+        },
+        {
+          "id": "228cb0f7ba7d",
+          "titulo": "Scotland’s North Sea oil revenues drop by 12%",
+          "fonte": "FT Markets",
+          "data": "2026-08-12",
+          "hora": "13:11",
+          "link": "https://www.ft.com/content/dc0d5a3f-8bcc-483e-8787-18fd27ddab3f?syn-25a6b1a6=1"
+        },
+        {
+          "id": "1f66df24c707",
+          "titulo": "OPEC: OPEC+ crude output (including former member UAE) averaged 37.66 million bpd in July 2026, up about 1.42 million bpd from June, led by gains in gulf producers.",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "13:00",
+          "link": "https://www.financialjuice.com/News/9717981/OPEC-OPEC-crude-output-including-former-member-UAE-averaged-3766-million-bpd-in-July-2026-up-about-142-million-bpd-from-June-led-by-gains-in-gulf-producers.aspx?xy=rss"
+        },
+        {
+          "id": "7a71368cdf3a",
+          "titulo": "OPEC raises 2027 global oil demand growth forecast to 2.16 million bpd (prev. forecast 1.94 million bpd)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "13:00",
+          "link": "https://www.financialjuice.com/News/9717980/OPEC-raises-2027-global-oil-demand-growth-forecast-to-216-million-bpd-prev-forecast-194-million-bpd.aspx?xy=rss"
+        },
+        {
+          "id": "cf8be13e399d",
+          "titulo": "OPEC cuts 2026 global oil demand growth forecast to 580,000 barrels per day (prev. forecast 780,000 bpd).",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "13:00",
+          "link": "https://www.financialjuice.com/News/9717979/OPEC-cuts-2026-global-oil-demand-growth-forecast-to-580000-barrels-per-day-prev-forecast-780000-bpd.aspx?xy=rss"
+        },
+        {
+          "id": "3eec6e34f15f",
+          "titulo": "IEA: global oil supply to decline by 4.3 million bpd in 2026 (prev. forecast 3.7 million bpd drop)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "09:00",
+          "link": "https://www.financialjuice.com/News/9717660/IEA-global-oil-supply-to-decline-by-43-million-bpd-in-2026-prev-forecast-37-million-bpd-drop.aspx?xy=rss"
+        },
+        {
+          "id": "02ac2f1e8582",
+          "titulo": "IEA: Global oil refining fell 5 million bpd below year-ago levels in July as spare capacity failed to ease product supply bottlenecks",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "09:00",
+          "link": "https://www.financialjuice.com/News/9717659/IEA-Global-oil-refining-fell-5-million-bpd-below-year-ago-levels-in-July-as-spare-capacity-failed-to-ease-product-supply-bottlenecks.aspx?xy=rss"
+        },
+        {
+          "id": "7d87daba72a2",
+          "titulo": "IEA: Forecasts oil market 1.8 million bpd deficit in Q3 on renewed Middle East conflict, up from 800,000 bpd shortfall projected in July",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "09:00",
+          "link": "https://www.financialjuice.com/News/9717658/IEA-Forecasts-oil-market-18-million-bpd-deficit-in-Q3-on-renewed-Middle-East-conflict-up-from-800000-bpd-shortfall-projected-in-July.aspx?xy=rss"
+        },
+        {
+          "id": "c730b32fdb00",
+          "titulo": "IEA: Middle East oil exports peaked at 20 million bpd start of July but dropped to 12 million later in month.",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "09:00",
+          "link": "https://www.financialjuice.com/News/9717657/IEA-Middle-East-oil-exports-peaked-at-20-million-bpd-start-of-July-but-dropped-to-12-million-later-in-month.aspx?xy=rss"
+        },
+        {
+          "id": "eb288c49fd52",
+          "titulo": "Japan PM Takaichi: Canadian crude oil reaches Japan today for first time since Middle East tensions worsened",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "05:22",
+          "link": "https://www.financialjuice.com/News/9717424/Japan-PM-Takaichi-Canadian-crude-oil-reaches-Japan-today-for-first-time-since-Middle-East-tensions-worsened.aspx?xy=rss"
+        },
+        {
+          "id": "7fbecf18c844",
+          "titulo": "investingLive Asia-Pacific Financial Market news: Oil edges higher",
+          "fonte": "ForexLive",
+          "data": "2026-08-12",
+          "hora": "04:50",
+          "link": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-oil-edges-higher/"
+        }
+      ],
+      "criado_em": "2026-08-12T14:11",
+      "atualizado_em": "2026-08-13T08:17"
+    },
+    {
+      "titulo": "RBA avisa que ainda pode subir juros e que as bolsas estão caras",
+      "sinal": "risk_off",
+      "resumo": "O governador assistente Kent disse que a política monetária está restritiva e a funcionar, mas que novas subidas continuam possíveis se os riscos se materializarem, que a produtividade tem sido muito dececionante e que as avaliações de certos mercados acionistas parecem bastante altas. O banco tinha mantido a taxa em 4,35% pela segunda reunião consecutiva.",
+      "impacto": "Aviso explícito de um banco central sobre múltiplos de bolsa é sinal de cautela global, num momento em que o Ibovespa já testava a mínima desde janeiro com saída de estrangeiros. Reforça a leitura de juros altos por mais tempo: sustenta o carrego dos bancos (BPAC11, ITUB4) e penaliza os nomes mais sensíveis à taxa de desconto, como CYRE3 e MRVE3.",
       "n_noticias": 14,
       "noticias": [
+        {
+          "id": "2e4e9de7c189",
+          "titulo": "RBA Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:24",
+          "link": "https://www.financialjuice.com/News/9719332/RBA-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "b3540a568173",
+          "titulo": "Recap: RBA's Kent: policy is restrictive and working, but risks still skew higher",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "03:04",
+          "link": "https://investinglive.com/central-banks/recap-rba-s-kent-policy-is-restrictive-and-working-but-risks-still-skew-higher/"
+        },
+        {
+          "id": "9e3b2b5e2b41",
+          "titulo": "- RBA's Kent: Board aware a few factors must align for inflation to fall",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "01:52",
+          "link": "https://www.financialjuice.com/News/9718901/--RBAs-Kent-Board-aware-a-few-factors-must-align-for-inflation-to-fall.aspx?xy=rss"
+        },
+        {
+          "id": "a179d4e4a475",
+          "titulo": "RBA's Kent: Need history on trimmed mean inflation to focus on monthly CPI report instead of quarterly",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "01:49",
+          "link": "https://www.financialjuice.com/News/9718899/RBAs-Kent-Need-history-on-trimmed-mean-inflation-to-focus-on-monthly-CPI-report-instead-of-quarterly.aspx?xy=rss"
+        },
+        {
+          "id": "3e5ed75bca3a",
+          "titulo": "RBA's Kent: trimmed mean data needed for a few years, maybe three years",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "01:49",
+          "link": "https://www.financialjuice.com/News/9718900/RBAs-Kent-trimmed-mean-data-needed-for-a-few-years-maybe-three-years.aspx?xy=rss"
+        },
+        {
+          "id": "df1db6615797",
+          "titulo": "More from RBA's Kent: Flags upside inflation risk, further hikes possible, warns on equities",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "01:47",
+          "link": "https://investinglive.com/central-banks/more-from-rba-s-kent-flags-upside-inflation-risk-further-hikes-possible-warns-on-equities/"
+        },
+        {
+          "id": "7f68ee81e730",
+          "titulo": "RBA's Kent: No urgent need to shift reserves into other currencies",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "01:44",
+          "link": "https://www.financialjuice.com/News/9718895/RBAs-Kent-No-urgent-need-to-shift-reserves-into-other-currencies.aspx?xy=rss"
+        },
+        {
+          "id": "747be85d31b4",
+          "titulo": "RBA's Kent: valuations in certain equity markets appear quite high",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "01:41",
+          "link": "https://www.financialjuice.com/News/9718894/RBAs-Kent-valuations-in-certain-equity-markets-appear-quite-high.aspx?xy=rss"
+        },
+        {
+          "id": "28aa923fb349",
+          "titulo": "RBA's Kent: Further rate increases possible if risks emerge",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "01:37",
+          "link": "https://www.financialjuice.com/News/9718893/RBAs-Kent-Further-rate-increases-possible-if-risks-emerge.aspx?xy=rss"
+        },
+        {
+          "id": "3ab61aee442d",
+          "titulo": "RBA's Kent: Productivity has been very disappointing, makes inflation challenge tougher",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "01:36",
+          "link": "https://www.financialjuice.com/News/9718892/RBAs-Kent-Productivity-has-been-very-disappointing-makes-inflation-challenge-tougher.aspx?xy=rss"
+        },
+        {
+          "id": "c44c06f26b1d",
+          "titulo": "RBA’s Kent: Governor Bullock Highlights Uncertainty and Upside Risks on Inflation",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "01:35",
+          "link": "https://www.financialjuice.com/News/9718891/RBAs-Kent-Governor-Bullock-Highlights-Uncertainty-and-Upside-Risks-on-Inflation.aspx?xy=rss"
+        },
+        {
+          "id": "107b6df87197",
+          "titulo": "RBA assistant Gov Kent: cash rate increases are having their intended effect",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "01:31",
+          "link": "https://investinglive.com/central-banks/rba-assistant-gov-kent-cash-rate-increases-are-having-their-intended-effect/"
+        },
+        {
+          "id": "bd46ac7a079f",
+          "titulo": "MUFG says Hormuz impasse and hawkish Trump keep RBA hike risk alive",
+          "fonte": "ForexLive",
+          "data": "2026-08-12",
+          "hora": "00:30",
+          "link": "https://investinglive.com/central-banks/mufg-says-hormuz-impasse-and-hawkish-trump-keep-rba-hike-risk-alive/"
+        },
+        {
+          "id": "0062e983f4e9",
+          "titulo": "RBA holds cash rate at 4.35pc for second meeting, flags scope to hike again - analyst take",
+          "fonte": "ForexLive",
+          "data": "2026-08-11",
+          "hora": "23:03",
+          "link": "https://investinglive.com/central-banks/rba-holds-cash-rate-at-4-35pc-for-second-meeting-flags-scope-to-hike-again-analyst-take/"
+        }
+      ],
+      "criado_em": "2026-08-13T08:17",
+      "atualizado_em": "2026-08-13T08:17"
+    },
+    {
+      "titulo": "PIB britânico surpreende com junho a crescer 0,3% e o 2T em +0,4%",
+      "sinal": "neutro",
+      "resumo": "A economia do Reino Unido cresceu 0,4% no segundo trimestre, em linha com o esperado, mas junho surpreendeu com +0,3% quando o consenso apontava para estagnação, puxado pelos serviços (+0,4%). A indústria transformadora caiu 0,5% no mês e o défice comercial de bens alargou para 23,01 bilhões de libras.",
+      "impacto": "Dado forte tira pressão para cortes do Banco de Inglaterra e sustenta a libra, o que pesa marginalmente no índice do dólar — o canal indireto que chega ao real. Sem efeito direto em nomes da carteira.",
+      "n_noticias": 14,
+      "noticias": [
+        {
+          "id": "8271e11edde8",
+          "titulo": "UK economy grows by 0.4% in second quarter as some businesses helped by World Cup and hot weather – business live",
+          "fonte": "Guardian Business",
+          "data": "2026-08-13",
+          "hora": "07:52",
+          "link": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates"
+        },
+        {
+          "id": "57b810deb59c",
+          "titulo": "Sun and World Cup helped some UK businesses as economy grew in April to June",
+          "fonte": "BBC Business",
+          "data": "2026-08-13",
+          "hora": "07:45",
+          "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "b1e1fbc19497",
+          "titulo": "UK GDP Estimate 3M/3M Actual 0.4% (Forecast -, Previous 0.7%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:01",
+          "link": "https://www.financialjuice.com/News/9719275/UK-GDP-Estimate-3M3M-Actual-04-Forecast---Previous-07.aspx?xy=rss"
+        },
+        {
+          "id": "f0a2fc89136c",
+          "titulo": "UK GDP Estimate YoY Actual 1.1% (Forecast -, Previous 1.3%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:01",
+          "link": "https://www.financialjuice.com/News/9719276/UK-GDP-Estimate-YoY-Actual-11-Forecast---Previous-13.aspx?xy=rss"
+        },
+        {
+          "id": "d4ce998342a3",
+          "titulo": "UK Q2 preliminary GDP +0.4% vs +0.4% q/q expected",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "07:00",
+          "link": "https://investinglive.com/news/uk-q2-preliminary-gdp-vs-0-4-q-q-expected/"
+        },
+        {
+          "id": "c85d00be71fe",
+          "titulo": "UK economy posts unexpected growth in June on stronger services sector showing",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "07:00",
+          "link": "https://investinglive.com/news/uk-economy-posts-unexpected-growth-in-june-on-stronger-services-sector-showing/"
+        },
+        {
+          "id": "af3e96e41a24",
+          "titulo": "UK GDP QoQ Prelim Actual 0.4% (Forecast 0.4%, Previous 0.6%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9719266/UK-GDP-QoQ-Prelim-Actual-04-Forecast-04-Previous-06.aspx?xy=rss"
+        },
+        {
+          "id": "9c117f0371ae",
+          "titulo": "UK GDP YoY Prelim Actual 1.2% (Forecast 1.1%, Previous 0.9%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9719264/UK-GDP-YoY-Prelim-Actual-12-Forecast-11-Previous-09.aspx?xy=rss"
+        },
+        {
+          "id": "548add10bdca",
+          "titulo": "UK GDP Estimate MoM Actual 0.3% (Forecast -0.05%, Previous 0.1%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9719262/UK-GDP-Estimate-MoM-Actual-03-Forecast--005-Previous-01.aspx?xy=rss"
+        },
+        {
+          "id": "dfeddd0bcfcd",
+          "titulo": "UK Services MoM Actual 0.4% (Forecast 0%, Previous 0.3%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9719268/UK-Services-MoM-Actual-04-Forecast-0-Previous-03.aspx?xy=rss"
+        },
+        {
+          "id": "08963206584f",
+          "titulo": "UK Business Investment QoQ Prelim Actual 1.66% (Forecast -0.25%, Previous 0.9%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9719265/UK-Business-Investment-QoQ-Prelim-Actual-166-Forecast--025-Previous-09.aspx?xy=rss"
+        },
+        {
+          "id": "34a8df4ca52f",
+          "titulo": "UK Manufacturing Production MoM Actual -0.5% (Forecast -0.1%, Previous 0.1%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9719269/UK-Manufacturing-Production-MoM-Actual--05-Forecast--01-Previous-01.aspx?xy=rss"
+        },
+        {
+          "id": "55ede0f07976",
+          "titulo": "UK Goods Trade Balance Actual -23.007B (Forecast -20.4B, Previous -18.66B)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9719273/UK-Goods-Trade-Balance-Actual--23007B-Forecast--204B-Previous--1866B.aspx?xy=rss"
+        },
+        {
+          "id": "fa7a81bbdb89",
+          "titulo": "UK Construction Output MoM Actual -0.1% (Forecast -0.4%, Previous -0.8%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9719263/UK-Construction-Output-MoM-Actual--01-Forecast--04-Previous--08.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-08-13T08:17",
+      "atualizado_em": "2026-08-13T08:17"
+    },
+    {
+      "titulo": "PPI japonês em 7,2% mantém viva a subida do BoJ em setembro, com o iene perto de 159",
+      "sinal": "neutro",
+      "resumo": "O índice de preços no produtor do Japão subiu 7,2% em julho, abaixo dos 7,4% esperados mas ainda muito elevado, e o mercado continua a apostar numa subida do BoJ em setembro. O iene chegou a 159,43 por dólar, o valor mais fraco de agosto desde a intervenção conjunta com os EUA, e a Goldman diz que dados fracos nos EUA ou uma desilusão do BoJ podem desencadear nova intervenção.",
+      "impacto": "Uma subida do BoJ encarece o funding em ienes e é o gatilho clássico para desmontagem de carry trade, que penaliza moedas de carry alto como o real e o fluxo estrangeiro para a B3 — o mesmo fluxo que já vinha a sair do Ibovespa. Sem decisão até setembro, é risco por confirmar e não direção assumida.",
+      "n_noticias": 11,
+      "noticias": [
+        {
+          "id": "59bb7603d4c3",
+          "titulo": "BoJ Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "07:23",
+          "link": "https://www.financialjuice.com/News/9719331/BoJ-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "4889b919b6b2",
+          "titulo": "Japan is not out of room to defend the yen despite busy 2026 intervention year",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "02:37",
+          "link": "https://investinglive.com/forex/japan-is-not-out-of-room-to-defend-the-yen-despite-busy-2026-intervention-year/"
+        },
+        {
+          "id": "e1b6d51bbd44",
+          "titulo": "Goldman Sachs says weak US data or a BOJ miss could trigger new yen intervention",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "02:23",
+          "link": "https://investinglive.com/central-banks/goldman-sachs-says-weak-us-data-or-a-boj-miss-could-trigger-new-yen-intervention/"
+        },
+        {
+          "id": "3d35002a234b",
+          "titulo": "Japan PPI stays elevated at 7.2%, misses forecast, but yen keeps BOJ hike case alive",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "02:04",
+          "link": "https://investinglive.com/central-banks/japan-ppi-stays-elevated-at-7-2-misses-forecast-but-yen-keeps-boj-hike-case-alive/"
+        },
+        {
+          "id": "705847f2aba3",
+          "titulo": "Japan July PPI surges 7.2%, but lower than the expected 7.4%",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "00:55",
+          "link": "https://investinglive.com/news/japan-july-ppi-surges-7-2-but-lower-than-the-expected-7-4/"
+        },
         {
           "id": "f8feab6df4ca",
           "titulo": "MUFG: The JPY - FJElite",
@@ -774,36 +948,12 @@
           "link": "https://www.financialjuice.com/News/9717712/MUFG-The-JPY---FJElite.aspx?xy=rss"
         },
         {
-          "id": "0d24aec16b33",
-          "titulo": "ING: The EUR - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "09:41",
-          "link": "https://www.financialjuice.com/News/9717711/ING-The-EUR---FJElite.aspx?xy=rss"
-        },
-        {
           "id": "41ce5ca9d69d",
           "titulo": "USD/JPY stalls ahead of a key US CPI report; BoJ expected to raise rates in September",
           "fonte": "ForexLive",
           "data": "2026-08-12",
           "hora": "09:22",
           "link": "https://investinglive.com/forex/usd-jpy-stalls-ahead-of-a-key-us-cpi-report-boj-expected-to-raise-rates-in-september/"
-        },
-        {
-          "id": "165aa67614e4",
-          "titulo": "China finance ministry offers 3-month bills at 1.0787% yield: traders",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "04:42",
-          "link": "https://www.financialjuice.com/News/9717386/China-finance-ministry-offers-3-month-bills-at-10787-yield-traders.aspx?xy=rss"
-        },
-        {
-          "id": "25190eeea320",
-          "titulo": "China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2831% yield: traders",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "04:40",
-          "link": "https://www.financialjuice.com/News/9717385/China-finance-ministry-auctions-50-year-ultra-long-special-treasury-bonds-at-22831-yield-traders.aspx?xy=rss"
         },
         {
           "id": "87d839133bd9",
@@ -822,38 +972,6 @@
           "link": "https://www.financialjuice.com/News/9717330/Dollaryen-briefly-climbs-to-15943-yen-highest-in-August-after-US-Japan-intervention.aspx?xy=rss"
         },
         {
-          "id": "49f16b5e8bcd",
-          "titulo": "Asian shares diverge as chip rally lifts Kospi, Nikkei awaits US CPI",
-          "fonte": "ForexLive",
-          "data": "2026-08-12",
-          "hora": "03:17",
-          "link": "https://investinglive.com/stock-market-update/asian-shares-diverge-as-chip-rally-lifts-kospi-nikkei-awaits-us-cpi/"
-        },
-        {
-          "id": "786feb00d9cf",
-          "titulo": "China cbank: 7-day reverse repo volume hits zero for second day Wednesday on primary dealer demand - statement",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "02:21",
-          "link": "https://www.financialjuice.com/News/9717198/China-cbank-7-day-reverse-repo-volume-hits-zero-for-second-day-Wednesday-on-primary-dealer-demand---statement.aspx?xy=rss"
-        },
-        {
-          "id": "6ce0c94a7c52",
-          "titulo": "PBOC sets USD/ CNY mid-point today at 6.7882 (vs. estimate at 6.7430)",
-          "fonte": "ForexLive",
-          "data": "2026-08-12",
-          "hora": "02:15",
-          "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7-vs-estimate-at-6-7430/"
-        },
-        {
-          "id": "16e8e3b1a066",
-          "titulo": "Taiwan overnight interbank rate starts at 0.805%, unchanged from previous session open",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "02:00",
-          "link": "https://www.financialjuice.com/News/9717181/Taiwan-overnight-interbank-rate-starts-at-0805-unchanged-from-previous-session-open.aspx?xy=rss"
-        },
-        {
           "id": "2c6954714d20",
           "titulo": "Japan bond yields rise as oil gains stoke fresh inflation concerns",
           "fonte": "ForexLive",
@@ -862,237 +980,87 @@
           "link": "https://investinglive.com/news/japan-bond-yields-rise-as-oil-gains-stoke-fresh-inflation-concerns/"
         },
         {
-          "id": "0affa9922bd6",
-          "titulo": "PBOC is expected to set the USD/CNY reference rate at 6.7430 – Reuters estimate",
+          "id": "f6fd4d76b4d2",
+          "titulo": "Reuters Tankan hits highest manufacturing reading since March on chip boom",
           "fonte": "ForexLive",
           "data": "2026-08-12",
-          "hora": "01:22",
-          "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7-reuters-estimate-3/"
-        },
-        {
-          "id": "b250d917ce9f",
-          "titulo": "Why the yen matters",
-          "fonte": "FT Markets",
-          "data": "2026-08-11",
-          "hora": "21:00",
-          "link": "https://www.ft.com/content/f52478de-29af-41bd-a390-9f8102ac32a8?syn-25a6b1a6=1"
+          "hora": "00:12",
+          "link": "https://investinglive.com/news/reuters-tankan-hits-highest-manufacturing-reading-since-march-on-chip-boom/"
         }
       ],
-      "criado_em": "2026-08-12T08:15",
-      "atualizado_em": "2026-08-12T14:11"
+      "criado_em": "2026-08-13T08:17",
+      "atualizado_em": "2026-08-13T08:17"
     },
     {
-      "titulo": "Depois da queda de 2,5%, o BBI vê 'outros motivos' no sell-off e oportunidade de compra",
-      "sinal": "neutro",
-      "resumo": "O Bradesco BBI defende que a queda de ontem — a maior desde janeiro, com o índice abaixo dos 171 mil pontos — teve causas técnicas além do IPCA e da ata do Copom, e vê oportunidade de compra; o BofA aposta nas chamadas 'Sete Inesquecíveis', empresas maduras com forte geração de caixa e preços atrativos, para navegar juros altos. Em sentido contrário, a Dahlia avisa que a turbulência pré-eleitoral está só a começar. O dólar abriu em queda depois do CPI americano e dos ganhos da véspera, e o vencimento de duas séries do Tesouro IPCA+ liberta R$ 200 bilhões no sábado.",
-      "impacto": "O mercado está a separar o ruído eleitoral do valuation: com o dólar a recuar e a Fed provavelmente em pausa, o desconto da bolsa brasileira volta a ser o argumento. Os R$ 200 bilhões que vencem no sábado são um fluxo doméstico relevante à procura de destino, e a leitura defensiva do BofA aponta para EQTL3, CMIG4 e CPLE3.",
-      "n_noticias": 11,
+      "titulo": "Banco da Coreia compra ouro e o cobre prolonga a subida com juros reais mais baixos",
+      "sinal": "risk_on",
+      "resumo": "O Banco da Coreia comprou US$ 250 milhões num ETF de ouro, segundo registo na SEC, e o UBS diz que juros reais mais baixos devem reavivar a procura pelo metal, tratando as quedas como oportunidade de compra. O ouro à vista esteve perto de US$ 4.408,79/oz e a prata acima de US$ 66, com o cobre a prolongar a subida enquanto o ouro recupera terreno.",
+      "impacto": "Cobre em alta é leitura direta de procura industrial e sustenta a perna de metais básicos da VALE3. Compra de ouro por banco central é sinal de diversificação para fora do dólar, que costuma acompanhar dólar mais fraco e fluxo de volta para emergentes — o alívio de que o real precisa.",
+      "n_noticias": 9,
       "noticias": [
         {
-          "id": "84d733766e52",
-          "titulo": "Bônus da usina de Itaipu deve dar alívio temporário para as contas de luz em agosto; entenda",
-          "fonte": "G1 Economia",
-          "data": "2026-08-12",
-          "hora": "14:05",
-          "link": "https://g1.globo.com/economia/noticia/2026/08/12/bonus-da-usina-de-itaipu-deve-dar-alivio-temporario-para-as-contas-de-luz-em-agosto-entenda.ghtml"
+          "id": "4036bd4dac4e",
+          "titulo": "Bank of Korea buys $250 mil in gold ETF - SEC filing",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "06:51",
+          "link": "https://www.financialjuice.com/News/9719261/Bank-of-Korea-buys-250-mil-in-gold-ETF---SEC-filing.aspx?xy=rss"
         },
         {
-          "id": "df4e129f05a3",
-          "titulo": "Dólar abre em queda, com inflação dos EUA e Oriente Médio no foco",
-          "fonte": "G1 Economia",
-          "data": "2026-08-12",
-          "hora": "14:04",
-          "link": "https://g1.globo.com/economia/noticia/2026/08/12/dolar-ibovespa.ghtml"
+          "id": "3b3b5f8fde17",
+          "titulo": "Digital gold, copper and uranium: prospectors stake bets on metals-crypto fusion",
+          "fonte": "FT Markets",
+          "data": "2026-08-13",
+          "hora": "04:00",
+          "link": "https://www.ft.com/content/de7ded5c-23d4-44ac-8b21-bf7f5cdfefda?syn-25a6b1a6=1"
         },
         {
-          "id": "89ff3a44c908",
-          "titulo": "Turbulência pré-eleições na Bolsa está só começando, alerta Dahlia",
-          "fonte": "InfoMoney",
+          "id": "c6e16894ce65",
+          "titulo": "UBS sees lower real rates reviving gold demand, flags dips as buying chances",
+          "fonte": "ForexLive",
+          "data": "2026-08-12",
+          "hora": "23:28",
+          "link": "https://investinglive.com/commodities/ubs-sees-lower-real-rates-reviving-gold-demand-flags-dips-as-buying-chances/"
+        },
+        {
+          "id": "feabe018f8c0",
+          "titulo": "Copper's Rise Continues As Gold Tries To Claw Back Lost Ground",
+          "fonte": "Seeking Alpha",
           "data": "2026-08-12",
           "hora": "14:00",
-          "link": "https://www.infomoney.com.br/onde-investir/turbulencia-pre-eleicoes-na-bolsa-esta-so-comecando-alerta-dahlia/"
+          "link": "https://seekingalpha.com/article/4935323-copper-rise-continues-gold-tries-to-claw-back-lost-ground?source=feed_all_articles"
         },
         {
-          "id": "f40f52c1f2ed",
-          "titulo": "BBI aponta “outros motivos” para sell-off da Bolsa e vê oportunidade de compra",
-          "fonte": "InfoMoney",
-          "data": "2026-08-12",
-          "hora": "13:55",
-          "link": "https://www.infomoney.com.br/mercados/bbi-aponta-outros-motivos-para-sell-off-b3-bolsa-brasileira-e-ve-oportunidade-de-compra/"
-        },
-        {
-          "id": "d481b2586426",
-          "titulo": "Dólar hoje recua após dados de inflação nos EUA e ganhos da véspera",
-          "fonte": "InfoMoney",
-          "data": "2026-08-12",
-          "hora": "13:39",
-          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-12082026/"
-        },
-        {
-          "id": "4f62cf682a3d",
-          "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-          "fonte": "InfoMoney",
-          "data": "2026-08-12",
-          "hora": "13:33",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12082026/"
-        },
-        {
-          "id": "1d57dfac9850",
-          "titulo": "BofA aposta nas 'Sete Inesquecíveis' para navegar juros altos na bolsa brasileira",
-          "fonte": "Exame",
-          "data": "2026-08-12",
-          "hora": "07:04",
-          "link": "https://exame.com/invest/mercados/bofa-aposta-nas-sete-inesqueciveis-para-navegar-juros-altos-na-bolsa-brasileira/"
-        },
-        {
-          "id": "9df4b6ee5340",
-          "titulo": "Vencimento do Tesouro IPCA+ libera R$ 200 bilhões: o que fazer com o dinheiro?",
-          "fonte": "Exame",
-          "data": "2026-08-12",
-          "hora": "06:03",
-          "link": "https://exame.com/invest/onde-investir/vencimento-do-tesouro-ipca-libera-r-200-bilhoes-o-que-fazer-com-o-dinheiro/"
-        },
-        {
-          "id": "0b455f95c0ea",
-          "titulo": "Flávio prepara regra fiscal com aperto maior de gastos em caso de dívida alta",
-          "fonte": "InfoMoney",
-          "data": "2026-08-11",
-          "hora": "22:02",
-          "link": "https://www.infomoney.com.br/politica/campanha-de-flavio-prepara-regra-com-aperto-maior-de-gastos-em-caso-de-divida-alta/"
-        },
-        {
-          "id": "28b2dad32f32",
-          "titulo": "Dólar hoje sobe 1% e vai a R$ 5,16 após IPCA acima do esperado e pesquisa eleitoral",
-          "fonte": "InfoMoney",
-          "data": "2026-08-11",
-          "hora": "21:38",
-          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-11082026/"
-        },
-        {
-          "id": "57ba4e9f1118",
-          "titulo": "Ibovespa cai 2,5% e na mínima desde janeiro, com mais sinais de saída de estrangeiros",
-          "fonte": "InfoMoney",
-          "data": "2026-08-11",
-          "hora": "21:34",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-perde-os-170-mil-pontos-com-mais-sinais-de-saida-de-estrangeiros/"
-        }
-      ],
-      "criado_em": "2026-08-12T14:11",
-      "atualizado_em": "2026-08-12T14:11"
-    },
-    {
-      "titulo": "Balanços na B3: hoje saem BBAS3 e SUZB3, com o Banco do Brasil a chegar pressionado",
-      "sinal": "neutro",
-      "resumo": "O Banco do Brasil divulga o 2T26 hoje depois do fecho, com data confirmada por comunicado ao mercado e live a 13/08, e a ação chega ao balanço já castigada — a InfoMoney analisou o preço na véspera da divulgação. A SUZB3 publica hoje o ITR, com data confirmada em calendário protocolado na CVM, e a B3SA3, que reportou ontem depois do fecho, faz hoje as teleconferências (10h00 em inglês e 11h00 em português, horário de Brasília). Na véspera, o PagBank reportou lucro recorrente de R$ 576 milhões e a Natura subiu 1,5% mesmo com queda de receita; o BBA cortou recomendações de Usiminas e Gerdau, cujos resultados já tinham saído a 30/07 e 04/08, e a Vale mantém compra no BBI e no BBA e cautela no UBS BB.",
-      "impacto": "É a sessão mais pesada da temporada para a carteira: além de BBAS3 e SUZB3, saem hoje EQTL3, AMER3, BEEF3 e MRVE3 por calendário de bolsa, e a 13/08 seguem-se CMIG4 e CYRE3. Com o índice a vir da mínima desde janeiro, o mercado está sem tolerância para dececões em MRVE3, AMER3 ou BEEF3, e a leitura do BBA sobre o aço já antecipa cautela em GGBR4, CSNA3 e USIM5.",
-      "n_noticias": 8,
-      "noticias": [
-        {
-          "id": "40663b853fa5",
-          "titulo": "Banco do Brasil (BBAS3) antes do balanço: como chega o preço da ação?",
-          "fonte": "InfoMoney",
-          "data": "2026-08-12",
-          "hora": "13:33",
-          "link": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-antes-do-balanco-como-chega-o-preco-da-acao/"
-        },
-        {
-          "id": "28180a782b93",
-          "titulo": "PagBank (PAGS34) tem lucro recorrente de R$ 576 mi no 2º tri",
-          "fonte": "InfoMoney",
-          "data": "2026-08-11",
-          "hora": "22:01",
-          "link": "https://www.infomoney.com.br/mercados/pagbank-pags34-resultados-segundo-trimestre-2026/"
-        },
-        {
-          "id": "915ba8096202",
-          "titulo": "Usiminas e Gerdau: BBA vê hora de pisar no freio e corta recomendações; ações desabam",
-          "fonte": "InfoMoney",
-          "data": "2026-08-11",
-          "hora": "21:50",
-          "link": "https://www.infomoney.com.br/mercados/usiminas-bba-ve-hora-de-pisar-no-freio-e-corta-recomendacao-para-neutra-acao-cai/"
-        },
-        {
-          "id": "cc0a689d4025",
-          "titulo": "Hypera S.A. (HYPMY) Q2 2026 Earnings Call Transcript",
-          "fonte": "Seeking Alpha",
-          "data": "2026-08-11",
-          "hora": "21:47",
-          "link": "https://seekingalpha.com/article/4934927-hypera-s-a-hypmy-q2-2026-earnings-call-transcript?source=feed_all_articles"
-        },
-        {
-          "id": "8335d61d726a",
-          "titulo": "Natura (NATU3) surpreende baixas expectativas e ação sobe 1,5% após balanço do 2T",
-          "fonte": "InfoMoney",
-          "data": "2026-08-11",
-          "hora": "21:44",
-          "link": "https://www.infomoney.com.br/mercados/natura-natu3-surpreende-baixas-expectativas-e-acao-sobe-3-apos-balanco-do-2t/"
-        },
-        {
-          "id": "90ecb8c208e1",
-          "titulo": "Por que as ações da Natura sobem mesmo com queda na receita?",
-          "fonte": "Exame",
-          "data": "2026-08-11",
-          "hora": "16:10",
-          "link": "https://exame.com/invest/mercados/por-que-as-acoes-da-natura-sobem-mesmo-com-queda-na-receita/"
-        },
-        {
-          "id": "21993eb24d0a",
-          "titulo": "VALE3: por que BBI e BBA têm compra para Vale, enquanto UBS BB tem cautela com ação?",
-          "fonte": "InfoMoney",
-          "data": "2026-08-11",
-          "hora": "15:56",
-          "link": "https://www.infomoney.com.br/mercados/vale3-por-que-bbi-e-bba-tem-compra-para-vale-enquanto-ubs-bb-tem-cautela-com-acao/"
-        },
-        {
-          "id": "e00aa97de091",
-          "titulo": "Usiminas: BBA vê hora de pisar no freio e corta recomendação para neutra; ação cai",
-          "fonte": "InfoMoney",
-          "data": "2026-08-11",
-          "hora": "15:39",
-          "link": "https://www.infomoney.com.br/mercados/usiminas-bba-ve-hora-de-pisar-no-freio-e-corta-recomendacao-para-neutra-acao-cai/"
-        }
-      ],
-      "criado_em": "2026-08-11T13:32",
-      "atualizado_em": "2026-08-12T14:11"
-    },
-    {
-      "titulo": "Cripto sobe com o CPI mais frio, mas o Bitcoin continua preso abaixo de US$ 64 mil",
-      "sinal": "neutro",
-      "resumo": "Os preços das criptomoedas subiram com a leitura mais benigna da inflação americana, ainda que o Bitcoin continue a lutar por recuperar os US$ 64 mil depois da correção e da primeira saída de capital em ETFs em mais de uma semana. Do lado regulatório, a SEC prepara-se para revelar planos relevantes com o Clarity Act parado no Congresso, a joint venture Anchorpoint do Standard Chartered começou a distribuir uma stablecoin em dólares de Hong Kong e, no Brasil, uma sondagem mostra que 60% do mercado considera positiva a regulação do Banco Central para stablecoins, com o staking a voltar à mira.",
-      "impacto": "Toca diretamente a carteira de cripto do app: a correlação com a taxa de juro americana voltou a dominar — CPI mais frio, cripto a subir —, mas a estrutura de mercado continua frágil enquanto os ETFs não retomarem entradas. A regulação brasileira, agora avaliada como positiva pelo próprio setor, reduz o risco regulatório local.",
-      "n_noticias": 8,
-      "noticias": [
-        {
-          "id": "85a46c12b7a9",
-          "titulo": "Bitcoin and ethereum prices today, Wednesday, August 12, 2026:  Crypto prices rise with CPI report on deck",
+          "id": "4f9dc4c3d55e",
+          "titulo": "Silver prices today, Wednesday, August 12, 2026: Surpassing $66 as expectations for July inflation ease",
           "fonte": "Yahoo Finance",
           "data": "2026-08-12",
-          "hora": "13:10",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html"
+          "hora": "12:56",
+          "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-12-2026-surpassing-66-as-expectations-for-july-inflation-ease-115635475.html"
         },
         {
-          "id": "5e88c78a01ad",
-          "titulo": "Standard Chartered venture Anchorpoint begins Hong Kong dollar stablecoin rollout",
+          "id": "1e88dd51f024",
+          "titulo": "Gold prices today, Wednesday, August 12, 2026: Holding over $4,400 ahead of CPI report",
           "fonte": "Yahoo Finance",
           "data": "2026-08-12",
-          "hora": "12:36",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/standard-chartered-venture-anchorpoint-begins-113611875.html"
+          "hora": "12:44",
+          "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-12-2026-holding-over-4400-ahead-of-cpi-report-114442535.html"
         },
         {
-          "id": "9f4150410b4d",
-          "titulo": "60% do mercado considera que regulação do BC foi boa para stablecoins, diz pesquisa",
-          "fonte": "Exame",
-          "data": "2026-08-12",
-          "hora": "09:34",
-          "link": "https://exame.com/future-of-money/60-do-mercado-considera-que-regulacao-do-bc-foi-boa-para-stablecoins-diz-pesquisa/"
-        },
-        {
-          "id": "7384fbc45edf",
-          "titulo": "Bitcoin Forecast Today: Why BTC Is Struggling Below $64,000",
+          "id": "1c1d575eaa15",
+          "titulo": "Silver's rally will face a key test today with the US CPI expected to influence Fed rate hike bets",
           "fonte": "ForexLive",
           "data": "2026-08-12",
-          "hora": "08:29",
-          "link": "https://investinglive.com/cryptocurrency/bitcoin-forecast-today-why-btc-is-struggling-below-64-000/"
+          "hora": "10:21",
+          "link": "https://investinglive.com/commodities/silver-s-rally-will-face-a-key-test-today-with-the-us-cpi-expected-to-influence-fed-rate-hike-bets/"
+        },
+        {
+          "id": "e892f6e5f9ba",
+          "titulo": "Spot gold rises nearly 1% to $4,408.79/oz",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "03:46",
+          "link": "https://www.financialjuice.com/News/9717332/Spot-gold-rises-nearly-1-to-440879oz.aspx?xy=rss"
         },
         {
           "id": "5c002f981649",
@@ -1101,117 +1069,26 @@
           "data": "2026-08-12",
           "hora": "02:46",
           "link": "https://investinglive.com/commodities/world-s-biggest-private-gold-holder-tether-gives-users-weeks-to-exit-vault/"
-        },
-        {
-          "id": "4f23c3ed6bec",
-          "titulo": "The SEC is poised to unveil major crypto plans as the Clarity Act stalls.",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "20:40",
-          "link": "https://www.financialjuice.com/News/9716923/The-SEC-is-poised-to-unveil-major-crypto-plans-as-the-Clarity-Act-stalls.aspx?xy=rss"
-        },
-        {
-          "id": "ae411457095c",
-          "titulo": "‘Staking’ de criptoativos voltará à mira da regulação, diz BC",
-          "fonte": "Exame",
-          "data": "2026-08-11",
-          "hora": "17:52",
-          "link": "https://exame.com/future-of-money/staking-de-criptoativos-voltara-a-mira-da-regulacao-diz-bc/"
-        },
-        {
-          "id": "14adfde5e32c",
-          "titulo": "A regulação foi dura, mas o mercado cripto precisava de ‘freada de arrumação’, diz Fenasbac",
-          "fonte": "Exame",
-          "data": "2026-08-11",
-          "hora": "16:20",
-          "link": "https://exame.com/future-of-money/a-regulacao-foi-dura-mas-o-mercado-cripto-precisava-de-freada-de-arrumacao-diz-fenasbac/"
         }
       ],
-      "criado_em": "2026-08-12T14:11",
-      "atualizado_em": "2026-08-12T14:11"
+      "criado_em": "2026-08-13T08:17",
+      "atualizado_em": "2026-08-13T08:17"
     },
     {
-      "titulo": "Tarifas: 'taxa das blusinhas' chega ao Congresso e a Europa é acusada de proteger-se com o carbono",
-      "sinal": "neutro",
-      "resumo": "O Congresso instala hoje a comissão que vai analisar a medida provisória da chamada 'taxa das blusinhas', que zerou o imposto para compras até US$ 50. No plano externo, a China pediu para participar nas consultas do Brasil na OMC sobre o tarifaço americano, os EUA disseram-se 'à disposição' para discutir, o Canadá trabalha num acordo para apresentar a Trump na próxima semana, e o Financial Times argumenta que o mecanismo de fronteira de carbono da União Europeia é uma tarifa com outro nome.",
-      "impacto": "A tributação das compras internacionais mexe com o e-commerce doméstico e é leitura relevante para AMER3, que reporta hoje. No externo, o alinhamento com a China aumenta o peso da queixa brasileira mas também o risco de retaliação sobre o agro (JBSS32, BEEF3), e o mecanismo de carbono europeu é o risco de médio prazo para o aço e a celulose de CSNA3, GGBR4, USIM5 e SUZB3.",
-      "n_noticias": 8,
-      "noticias": [
-        {
-          "id": "090c881340d2",
-          "titulo": "'Taxa das blusinhas': Congresso vai instalar comissão para analisar MP na quarta-feira",
-          "fonte": "G1 Economia",
-          "data": "2026-08-12",
-          "hora": "14:05",
-          "link": "https://g1.globo.com/politica/noticia/2026/08/11/taxa-das-blusinhas-congresso-vai-instalar-comissao-para-analisar-mp-na-quarta-feira.ghtml"
-        },
-        {
-          "id": "ad11cf68dd8d",
-          "titulo": "Por que o Congresso analisa hoje a MP da 'taxa das blusinhas'",
-          "fonte": "Exame",
-          "data": "2026-08-12",
-          "hora": "06:57",
-          "link": "https://exame.com/brasil/entenda-por-que-a-mp-da-taxa-das-blusinhas-volta-ao-congresso-hoje/"
-        },
-        {
-          "id": "401b3628b0e8",
-          "titulo": "Europe’s carbon mechanism is a tariff by another name",
-          "fonte": "FT Markets",
-          "data": "2026-08-12",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889"
-        },
-        {
-          "id": "8a827f028295",
-          "titulo": "Canadian Official for US-Canada Trade: I met with USTR's Greer today in DC, discussions are continuing.",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "21:13",
-          "link": "https://www.financialjuice.com/News/9716949/Canadian-Official-for-US-Canada-Trade-I-met-with-USTRs-Greer-today-in-DC-discussions-are-continuing.aspx?xy=rss"
-        },
-        {
-          "id": "44f309a966ca",
-          "titulo": "USD/CAD edges lower as Canada tries to close trade deal with Trump",
-          "fonte": "ForexLive",
-          "data": "2026-08-11",
-          "hora": "19:39",
-          "link": "https://investinglive.com/forex/usd-cad-edges-lower-as-canada-tries-to-close-trade-deal-with-trump/"
-        },
-        {
-          "id": "02a385240dd2",
-          "titulo": "Canadian and US trade officials mapping out potential deal to pitch to Trump next week - CBC News.",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-11",
-          "hora": "17:54",
-          "link": "https://www.financialjuice.com/News/9716712/Canadian-and-US-trade-officials-mapping-out-potential-deal-to-pitch-to-Trump-next-week---CBC-News.aspx?xy=rss"
-        },
-        {
-          "id": "73dab940c88c",
-          "titulo": "Após Brasil acionar OMC, China pede para participar de consultas sobre tarifaço dos EUA",
-          "fonte": "G1 Economia",
-          "data": "2026-08-11",
-          "hora": "13:22",
-          "link": "https://g1.globo.com/economia/noticia/2026/08/10/china-pede-para-entrar-em-disputa-do-brasil-contra-tarifaco-dos-eua-na-omc.ghtml"
-        },
-        {
-          "id": "d6957cdfd6a5",
-          "titulo": "EUA respondem ao Brasil na OMC e dizem estar 'à disposição' para discutir tarifaço",
-          "fonte": "G1 Economia",
-          "data": "2026-08-11",
-          "hora": "13:22",
-          "link": "https://g1.globo.com/economia/noticia/2026/08/10/eua-respondem-ao-brasil-na-omc-e-dizem-que-estao-a-disposicao-para-discutir-tarifaco.ghtml"
-        }
-      ],
-      "criado_em": "2026-08-11T13:32",
-      "atualizado_em": "2026-08-12T14:11"
-    },
-    {
-      "titulo": "Ucrânia atinge a base naval de Novorossiysk na mesma noite em que Washington pediu para parar",
+      "titulo": "Drones voltam a atingir infraestrutura russa e Washington pede a Kiev que poupe os petroleiros",
       "sinal": "risk_off",
-      "resumo": "Zelenskiy anunciou que a Ucrânia atacou durante a noite a base naval russa de Novorossiysk com drones, mísseis e embarcações não tripuladas — horas depois de JD Vance ter pedido a Kiev que suspendesse a campanha contra os navios que carregam petróleo naquele porto, por onde escoa o crude do Cazaquistão. Destroços de drones atingiram ainda quatro instalações industriais na região de Krasnodar, e a refinaria russa de Orsk suspendeu o processamento após um ataque.",
-      "impacto": "É a segunda frente de risco de oferta, somada a Ormuz, e a que Washington menos controla. Cada interrupção em Novorossiysk ou nas refinarias russas empurra o Brent e reforça o prémio que beneficia PETR4 e PRIO3, com o custo do lado do diesel e da inflação brasileira.",
-      "n_noticias": 7,
+      "resumo": "Drones atingiram esta madrugada uma zona industrial na Bascortostão, depois de a refinaria de Orsk ter suspendido o processamento na sequência de um ataque e de Zelensky ter confirmado o ataque à base naval de Novorossiysk com drones, mísseis e embarcações não tripuladas. JD Vance pediu à Ucrânia que pare os ataques a navios que carregam petróleo cazaque nesse porto.",
+      "impacto": "Cada refinaria russa parada retira produto refinado do mercado e alarga o crack spread — favorável à margem de refino da PETR4 e ao Brent que sustenta PRIO3. O pedido americano para poupar Novorossiysk mostra que Washington já teme o efeito no preço, o que limita o potencial de escalada.",
+      "n_noticias": 5,
       "noticias": [
+        {
+          "id": "88b78d87e6a1",
+          "titulo": "Drones strike industrial zone in Russia's Bashkortostan: Interfax quotes local official",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "05:45",
+          "link": "https://www.financialjuice.com/News/9719183/Drones-strike-industrial-zone-in-Russias-Bashkortostan-Interfax-quotes-local-official.aspx?xy=rss"
+        },
         {
           "id": "9ed4a8428083",
           "titulo": "Russia's Orsk refinery halts processing after drone hit - Source",
@@ -1237,99 +1114,118 @@
           "link": "https://www.financialjuice.com/News/9717667/Zelenskiy-Ukraine-struck-Russias-Novorossiysk-naval-base-with-drones-missiles-and-unmanned-boats-overnight.aspx?xy=rss"
         },
         {
-          "id": "3208ab708bd1",
-          "titulo": "Drone debris strikes four industrial sites in Russia's Krasnodar region: governor",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-12",
-          "hora": "05:25",
-          "link": "https://www.financialjuice.com/News/9717426/Drone-debris-strikes-four-industrial-sites-in-Russias-Krasnodar-region-governor.aspx?xy=rss"
-        },
-        {
           "id": "26cd4c118e5f",
           "titulo": "JD Vance asks Ukraine to stop attacks on tankers using Russian port - FT",
           "fonte": "FinancialJuice",
           "data": "2026-08-12",
           "hora": "05:02",
           "link": "https://www.financialjuice.com/News/9717398/JD-Vance-asks-Ukraine-to-stop-attacks-on-tankers-using-Russian-port---FT.aspx?xy=rss"
-        },
-        {
-          "id": "40f9935934c7",
-          "titulo": "JD Vance asked Ukraine to halt strikes on tankers using Russian port",
-          "fonte": "FT Markets",
-          "data": "2026-08-12",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/725b4d15-bd8d-4083-a04e-db016338af2e?syn-25a6b1a6=1"
-        },
-        {
-          "id": "256050f7eab2",
-          "titulo": "US asks Ukraine to stop strikes on tankers using Russian port",
-          "fonte": "FT Markets",
-          "data": "2026-08-12",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/7eaba120-111a-4beb-b3fa-e367199c9891?syn-25a6b1a6=1"
         }
       ],
       "criado_em": "2026-08-12T08:15",
-      "atualizado_em": "2026-08-12T14:11"
+      "atualizado_em": "2026-08-13T08:17"
     },
     {
-      "titulo": "El Niño e crise no campo: estoques recordes do agro brasileiro amortecem o choque, mas o crédito aperta",
-      "sinal": "neutro",
-      "resumo": "O Financial Times classifica o El Niño em curso como um dos mais fortes já registados e avalia o impacto na economia mundial, enquanto no Brasil os estoques recordes e o avanço da produtividade podem reduzir esse efeito. Do lado financeiro, os pedidos de recuperação judicial saltaram entre produtores rurais, o Senado aprovou uma linha de crédito para a indústria de fertilizantes sem estipular valores, e o STF retomou o julgamento das leis que restringem a moratória da soja depois de as negociações não terem avançado. Na Colômbia, o sismo interrompeu operações no porto que escoa a maior parte do café do país.",
-      "impacto": "O agro é a origem da alimentação do IPCA e da receita de exportação que sustenta o real. Recuperações judiciais em alta no campo tocam a carteira de crédito de BBAS3, o maior financiador do agronegócio, e o desfecho da moratória da soja mexe com o acesso das tradings ao mercado europeu, com efeitos indiretos em JBSS32 e BEEF3.",
-      "n_noticias": 6,
+      "titulo": "PBOC fixa o yuan bem mais fraco do que o esperado e deixa o repo a zero pelo terceiro dia",
+      "sinal": "risk_off",
+      "resumo": "O banco central chinês fixou a referência USD/CNY em 6,7888, muito acima da estimativa de 6,7470 da Reuters, sinalizando tolerância a um yuan mais fraco depois de na véspera ter fixado o nível mais forte desde fevereiro de 2023. Pelo terceiro dia consecutivo o volume do repo reverso a 7 dias ficou a zero, segundo o próprio PBOC, drenando liquidez do sistema.",
+      "impacto": "Yuan mais fraco encarece as importações chinesas de minério e é historicamente adverso aos preços das commodities metálicas — canal direto para VALE3 e para as siderúrgicas CSNA3, GGBR4 e USIM5. A drenagem de liquidez reforça a leitura de um estímulo chinês menos generoso do que o mercado esperava.",
+      "n_noticias": 5,
       "noticias": [
         {
-          "id": "7f2a297a8ecb",
-          "titulo": "Senado aprova linha de crédito para indústria de fertilizantes, mas sem estipular valores",
+          "id": "0ba64811bd24",
+          "titulo": "China cbank: 7 day reverse repo volume at zero for third day on Thursday, based on primary dealer demand - statement",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-13",
+          "hora": "02:22",
+          "link": "https://www.financialjuice.com/News/9718938/China-cbank-7-day-reverse-repo-volume-at-zero-for-third-day-on-Thursday-based-on-primary-dealer-demand---statement.aspx?xy=rss"
+        },
+        {
+          "id": "8ba8521822fd",
+          "titulo": "PBOC sets USD/ CNY reference rate for today at 6.7888 (vs. estimate at 6.7470 )",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "02:15",
+          "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7-vs-estimate-at-6-7470/"
+        },
+        {
+          "id": "fda8ac91039f",
+          "titulo": "PBOC is expected to set the USD/CNY reference rate at 6.7470 – Reuters estimate",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "01:26",
+          "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7-reuters-estimate-4/"
+        },
+        {
+          "id": "786feb00d9cf",
+          "titulo": "China cbank: 7-day reverse repo volume hits zero for second day Wednesday on primary dealer demand - statement",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "02:21",
+          "link": "https://www.financialjuice.com/News/9717198/China-cbank-7-day-reverse-repo-volume-hits-zero-for-second-day-Wednesday-on-primary-dealer-demand---statement.aspx?xy=rss"
+        },
+        {
+          "id": "cacdb39a5719",
+          "titulo": "China sets yuan midpoint at strongest level since Feb. 8, 2023",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-12",
+          "hora": "02:17",
+          "link": "https://www.financialjuice.com/News/9717197/China-sets-yuan-midpoint-at-strongest-level-since-Feb-8-2023.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-08-13T08:17",
+      "atualizado_em": "2026-08-13T08:17"
+    },
+    {
+      "titulo": "Reembolsos de tarifas inflam lucros nos EUA e a Ford tira produção da China por causa dos 52,5%",
+      "sinal": "neutro",
+      "resumo": "O WSJ noticia que reembolsos de tarifas melhoraram os resultados de Apple, Nike e FedEx, o que levanta a questão da qualidade desses lucros. A Ford vai transferir parte da produção da Lincoln da China para os EUA a partir de 2030 por causa da tarifa de 52,5% sobre veículos fabricados na China, e no Brasil o Congresso instala a comissão que analisa a MP da 'taxa das blusinhas'.",
+      "impacto": "Mostra que as tarifas já mudam decisões industriais e resultados reportados, não só manchetes — leitura relevante para os exportadores da carteira que têm a tarifa adicional de 25% dos EUA como evento em aberto (BEEF3, JBSS32, CSNA3, GGBR4, USIM5, SUZB3, KLBN11, WEGE3, BOVA11). A MP das compras até US$ 50 é o lado doméstico do mesmo tema, com prazo de aprovação até 8 de setembro.",
+      "n_noticias": 5,
+      "noticias": [
+        {
+          "id": "939ad6d8ecfe",
+          "titulo": "Tariff refunds boost earnings at Apple, Nike and FedEx, WSJ reports",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "03:34",
+          "link": "https://investinglive.com/stock-market-update/tariff-refunds-boost-earnings-at-apple-nike-and-fedex-wsj-reports/"
+        },
+        {
+          "id": "cf13c091a421",
+          "titulo": "Ford to shift some Lincoln production from China to US from 2030",
+          "fonte": "ForexLive",
+          "data": "2026-08-13",
+          "hora": "00:50",
+          "link": "https://investinglive.com/stocks/ford-to-shift-some-lincoln-production-from-china-to-us-from-2030/"
+        },
+        {
+          "id": "090c881340d2",
+          "titulo": "'Taxa das blusinhas': Congresso vai instalar comissão para analisar MP na quarta-feira",
           "fonte": "G1 Economia",
           "data": "2026-08-12",
           "hora": "14:05",
-          "link": "https://g1.globo.com/politica/noticia/2026/08/11/senado-aprova-linha-de-credito-para-industria-de-fertilizantes-mas-sem-estipular-valores.ghtml"
+          "link": "https://g1.globo.com/politica/noticia/2026/08/11/taxa-das-blusinhas-congresso-vai-instalar-comissao-para-analisar-mp-na-quarta-feira.ghtml"
         },
         {
-          "id": "2d2efa9356b8",
-          "titulo": "Como estoques recordes e avanço do agro brasileiro podem reduzir impacto do 'super El Niño' no mundo",
-          "fonte": "G1 Economia",
-          "data": "2026-08-12",
-          "hora": "14:04",
-          "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/como-estoques-recordes-e-avanco-do-agro-brasileiro-podem-reduzir-impacto-do-super-el-nino-no-mundo.ghtml"
-        },
-        {
-          "id": "1531aae78a08",
-          "titulo": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais",
-          "fonte": "G1 Economia",
-          "data": "2026-08-12",
-          "hora": "14:04",
-          "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/recuperacao-judicial-agronegocio.ghtml"
-        },
-        {
-          "id": "12570002f05b",
-          "titulo": "How will El Niño hit the world economy?",
-          "fonte": "FT Markets",
-          "data": "2026-08-12",
-          "hora": "12:00",
-          "link": "https://www.ft.com/content/4469e5f8-1839-45a5-9e1d-b63ea58b8763?syn-25a6b1a6=1"
-        },
-        {
-          "id": "4d24152b3fe1",
-          "titulo": "Colombian earthquake disrupts vital coffee export route",
-          "fonte": "FT Markets",
-          "data": "2026-08-12",
-          "hora": "10:53",
-          "link": "https://www.ft.com/content/dfa69996-4427-4eef-8c60-a97a562debf5?syn-25a6b1a6=1"
-        },
-        {
-          "id": "24ecca83d3d7",
-          "titulo": "STF julga leis que restringem ‘moratória da soja’. Por que importa?",
+          "id": "ad11cf68dd8d",
+          "titulo": "Por que o Congresso analisa hoje a MP da 'taxa das blusinhas'",
           "fonte": "Exame",
           "data": "2026-08-12",
-          "hora": "09:21",
-          "link": "https://exame.com/agro/stf-julga-leis-que-restringem-moratoria-da-soja-por-que-importa/"
+          "hora": "06:57",
+          "link": "https://exame.com/brasil/entenda-por-que-a-mp-da-taxa-das-blusinhas-volta-ao-congresso-hoje/"
+        },
+        {
+          "id": "401b3628b0e8",
+          "titulo": "Europe’s carbon mechanism is a tariff by another name",
+          "fonte": "FT Markets",
+          "data": "2026-08-12",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889"
         }
       ],
-      "criado_em": "2026-08-12T14:11",
-      "atualizado_em": "2026-08-12T14:11"
+      "criado_em": "2026-08-11T13:32",
+      "atualizado_em": "2026-08-13T08:17"
     }
   ]
 }
