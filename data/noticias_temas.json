@@ -1,182 +1,645 @@
 {
-  "atualizado_em": "2026-08-16T09:28",
-  "total_feed": 130,
+  "atualizado_em": "2026-08-17T08:54",
+  "total_feed": 121,
   "temas": [
     {
-      "titulo": "Drones russos sobre a Roménia e ataques ucranianos a alvos energéticos russos",
+      "titulo": "Japão: PIB do 2T decepciona, iene firma e JGB de 10 anos em máximo de três décadas",
       "sinal": "risk_off",
-      "resumo": "A NATO confirmou esta madrugada que o drone abatido em espaço aéreo romeno parece ser russo, horas depois de o ministério da Defesa da Roménia ter reportado a violação. No sábado, Kiev reivindicou ataques a uma instalação petrolífera em Ust-Luga, a uma base aérea em Nijni Novgorod e a uma fábrica de mísseis em Samara. Moscovo exige explicações a Washington e Ancara sobre um alegado plano de envio de armas a Kiev.",
-      "impacto": "O ataque a Ust-Luga atinge infraestrutura de exportação de petróleo russo e sustenta o prémio de risco no Brent — leitura positiva para PETR4 e PRIO3, negativa para o custo de frete e de fertilizantes que pesa no agro. Um incidente com drone dentro de um país da NATO reforça a procura por dólar e ouro e tende a retirar fluxo dos emergentes, incluindo a B3.",
+      "resumo": "O PIB do 2T cresceu 0,3% no trimestre (1,1% anualizado), contra 0,5% e 2,0% esperados, com consumo privado estagnado, capex a cair 1,2% e a procura interna a subtrair 0,2 p.p.; o deflator subiu 2,6% ao ano. Mesmo assim o iene firmou, para 159,21 por dólar, e o juro do JGB de 10 anos foi ao máximo de três décadas, perto de 3%, com o iene fraco a alimentar a inflação.",
+      "impacto": "Juro longo japonês em máximo encarece o funding global e é o canal clássico de desmontagem de carry trade nos emergentes — risco para o fluxo estrangeiro na B3 e para os múltiplos das ações de maior duration (WEGE3, BPAC11). O PIB fraco adia a alta do BOJ, o que compensa parte do efeito.",
+      "n_noticias": 19,
+      "noticias": [
+        {
+          "id": "ece05522ca48",
+          "titulo": "Broken FIMA",
+          "fonte": "FT Markets",
+          "data": "2026-08-17",
+          "hora": "06:30",
+          "link": "https://www.ft.com/content/1b767cbb-a71c-47ca-b5ed-a8942cd94e39?syn-25a6b1a6=1"
+        },
+        {
+          "id": "015b36cdcd3f",
+          "titulo": "Japanese Capacity Utilization MoM Actual 4.1% (Forecast -, Previous 0.1%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "06:11",
+          "link": "https://www.financialjuice.com/News/9723630/Japanese-Capacity-Utilization-MoM-Actual-41-Forecast---Previous-01.aspx?xy=rss"
+        },
+        {
+          "id": "e2c93114c318",
+          "titulo": "Japan’s 10-year bond yield hits three-decade high",
+          "fonte": "FT Markets",
+          "data": "2026-08-17",
+          "hora": "05:35",
+          "link": "https://www.ft.com/content/1d319839-1c40-4035-b058-5ca2389cafd0?syn-25a6b1a6=1"
+        },
+        {
+          "id": "265e220c254d",
+          "titulo": "Japan economic minister Kiuchi: economy likely supported by job gains, wage growth and government measures",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "04:16",
+          "link": "https://www.financialjuice.com/News/9723532/Japan-economic-minister-Kiuchi-economy-likely-supported-by-job-gains-wage-growth-and-government-measures.aspx?xy=rss"
+        },
+        {
+          "id": "5b8d237a9074",
+          "titulo": "Japan economic minister Kiuchi: necessary to closely watch impact of Middle East situation",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "04:16",
+          "link": "https://www.financialjuice.com/News/9723531/Japan-economic-minister-Kiuchi-necessary-to-closely-watch-impact-of-Middle-East-situation.aspx?xy=rss"
+        },
+        {
+          "id": "6318a6870890",
+          "titulo": "Japan economic minister Kiuchi: Japan’s economy continues gradual recovery",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "04:15",
+          "link": "https://www.financialjuice.com/News/9723529/Japan-economic-minister-Kiuchi-Japans-economy-continues-gradual-recovery.aspx?xy=rss"
+        },
+        {
+          "id": "da318a87e68c",
+          "titulo": "Yen edges higher as traders push back Fed rate hike bets, shrug off soft GDP",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "02:08",
+          "link": "https://investinglive.com/news/yen-edges-higher-as-traders-push-back-fed-rate-hike-bets-shrug-off-soft-gdp/"
+        },
+        {
+          "id": "e4042f23a007",
+          "titulo": "Japan Q2 GDP growth undershoots forecasts, complicating BOJ's hike timeline",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "00:59",
+          "link": "https://investinglive.com/news/japan-q2-gdp-growth-undershoots-forecasts-complicating-boj-s-hike-timeline/"
+        },
+        {
+          "id": "62f9cb6039c9",
+          "titulo": "Japanese GDP Deflator Prelim YoY Actual 2.6% (Forecast 2.3%, Previous 3.2%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:57",
+          "link": "https://www.financialjuice.com/News/9723363/Japanese-GDP-Deflator-Prelim-YoY-Actual-26-Forecast-23-Previous-32.aspx?xy=rss"
+        },
+        {
+          "id": "f71a7b4c6df4",
+          "titulo": "Dollar/yen little changed after Japanese GDP data, down 0.08% at 159.21 yen",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:54",
+          "link": "https://www.financialjuice.com/News/9723362/Dollaryen-little-changed-after-Japanese-GDP-data-down-008-at-15921-yen.aspx?xy=rss"
+        },
+        {
+          "id": "674a450edb9c",
+          "titulo": "Japanese GDP QoQ Annualised Actual 1.1% (Forecast 2%, Previous 1.8%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:51",
+          "link": "https://www.financialjuice.com/News/9723354/Japanese-GDP-QoQ-Annualised-Actual-11-Forecast-2-Previous-18.aspx?xy=rss"
+        },
+        {
+          "id": "b55d4de52aaf",
+          "titulo": "Japanese GDP QoQ Actual 0.3% (Forecast 0.5%, Previous 0.5%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:51",
+          "link": "https://www.financialjuice.com/News/9723353/Japanese-GDP-QoQ-Actual-03-Forecast-05-Previous-05.aspx?xy=rss"
+        },
+        {
+          "id": "eaddfec74693",
+          "titulo": "Japan April-June real GDP rises 0.3% quarter-on-quarter, below poll of 0.5%",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:50",
+          "link": "https://www.financialjuice.com/News/9723356/Japan-April-June-real-GDP-rises-03-quarter-on-quarter-below-poll-of-05.aspx?xy=rss"
+        },
+        {
+          "id": "5dbd31433bec",
+          "titulo": "Japan annualized GDP growth April-June +1.1%, misses poll estimate of +2.0%",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:50",
+          "link": "https://www.financialjuice.com/News/9723360/Japan-annualized-GDP-growth-April-June-11-misses-poll-estimate-of-20.aspx?xy=rss"
+        },
+        {
+          "id": "6cad2b338425",
+          "titulo": "Japan April-June capex declines 1.2% quarter-on-quarter vs. poll of 0.4% increase",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:50",
+          "link": "https://www.financialjuice.com/News/9723361/Japan-April-June-capex-declines-12-quarter-on-quarter-vs-poll-of-04-increase.aspx?xy=rss"
+        },
+        {
+          "id": "051f38a62774",
+          "titulo": "Japan April-June private consumption stagnant quarter on quarter, poll expected +0.5%",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:50",
+          "link": "https://www.financialjuice.com/News/9723355/Japan-April-June-private-consumption-stagnant-quarter-on-quarter-poll-expected-05.aspx?xy=rss"
+        },
+        {
+          "id": "1d190cba042f",
+          "titulo": "Japan april-june external demand adds 0.5 percentage point to GDP (poll: 0.3 percentage point)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:50",
+          "link": "https://www.financialjuice.com/News/9723359/Japan-april-june-external-demand-adds-05-percentage-point-to-GDP-poll-03-percentage-point.aspx?xy=rss"
+        },
+        {
+          "id": "ef704f2be874",
+          "titulo": "Japan domestic demand cuts GDP growth by 0.2 percentage point in April-June",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:50",
+          "link": "https://www.financialjuice.com/News/9723358/Japan-domestic-demand-cuts-GDP-growth-by-02-percentage-point-in-April-June.aspx?xy=rss"
+        },
+        {
+          "id": "ca5865350edb",
+          "titulo": "Japan Q2 GDP deflator rises 2.6% year on year",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:50",
+          "link": "https://www.financialjuice.com/News/9723357/Japan-Q2-GDP-deflator-rises-26-year-on-year.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-08-17T08:54",
+      "atualizado_em": "2026-08-17T08:54"
+    },
+    {
+      "titulo": "Dados de julho da China vêm fracos e reacendem a dúvida sobre a procura",
+      "sinal": "risk_off",
+      "resumo": "As vendas no varejo de julho subiram apenas 0,6% ao ano (esperado 1,5%), a produção industrial abrandou para 4,5% (esperado 5%) e o investimento urbano acumulado caiu 6,7%. Os preços das casas novas recuaram 3,2% ao ano e o desemprego subiu para 5,20%. O gabinete de estatísticas atribuiu o mês ao calor extremo e diz manter condições para cumprir a meta anual de crescimento; a divulgação tinha sido adiada para o fim da tarde asiática.",
+      "impacto": "Procura chinesa fraca pressiona minério e aço — leitura negativa para VALE3 e para as siderúrgicas GGBR4/CSNA3/USIM5, e o principal contra-argumento à tese de estímulo chinês que sustenta a ideia registada em VALE3.",
+      "n_noticias": 11,
+      "noticias": [
+        {
+          "id": "3065e76ad7a1",
+          "titulo": "China has solid conditions to achieve annual growth target - NBS",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "08:37",
+          "link": "https://www.financialjuice.com/News/9723806/China-has-solid-conditions-to-achieve-annual-growth-target---NBS.aspx?xy=rss"
+        },
+        {
+          "id": "23bc7e9741e1",
+          "titulo": "China stats bureau says July economic activity affected by extreme weather conditions, among other factors",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "08:28",
+          "link": "https://investinglive.com/news/china-stats-bureau-says-july-economic-activity-affected-by-extreme-weather-conditions-among-other-factors/"
+        },
+        {
+          "id": "97974d1637ae",
+          "titulo": "Chinese New House Prices YoY Actual -3.2% (Forecast -, Previous -3.3%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "08:04",
+          "link": "https://www.financialjuice.com/News/9723768/Chinese-New-House-Prices-YoY-Actual--32-Forecast---Previous--33.aspx?xy=rss"
+        },
+        {
+          "id": "8ec780f5fdf3",
+          "titulo": "Chinese Urban Investment YTD YoY Actual -6.7% (Forecast -6.2%, Previous -5.7%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "08:01",
+          "link": "https://www.financialjuice.com/News/9723742/Chinese-Urban-Investment-YTD-YoY-Actual--67-Forecast--62-Previous--57.aspx?xy=rss"
+        },
+        {
+          "id": "a50f536a112a",
+          "titulo": "Chinese Unemployment Rate Actual 5.200% (Forecast 5.1%, Previous 5.000%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "08:01",
+          "link": "https://www.financialjuice.com/News/9723741/Chinese-Unemployment-Rate-Actual-5200-Forecast-51-Previous-5000.aspx?xy=rss"
+        },
+        {
+          "id": "9b4bfa3eb9bd",
+          "titulo": "Chinese Industrial Output YoY Actual 4.5% (Forecast 5%, Previous 5.3%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "08:01",
+          "link": "https://www.financialjuice.com/News/9723743/Chinese-Industrial-Output-YoY-Actual-45-Forecast-5-Previous-53.aspx?xy=rss"
+        },
+        {
+          "id": "fe0bfb76fea4",
+          "titulo": "Chinese Retail Sales YoY Actual 0.6% (Forecast 1.5%, Previous 1.0%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "08:01",
+          "link": "https://www.financialjuice.com/News/9723740/Chinese-Retail-Sales-YoY-Actual-06-Forecast-15-Previous-10.aspx?xy=rss"
+        },
+        {
+          "id": "570e5aeafed2",
+          "titulo": "China retail sales disappoint in July, industrial output slows while new home prices extend declines",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "08:00",
+          "link": "https://investinglive.com/news/china-retail-sales-disappoint-in-july-industrial-output-slows-while-new-home-prices-extend-declines/"
+        },
+        {
+          "id": "f9c154caff6c",
+          "titulo": "Heads up: China July economic data releases to feature in the session ahead",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "06:02",
+          "link": "https://investinglive.com/news/heads-up-china-july-economic-data-releases-to-feature-in-the-session-ahead/"
+        },
+        {
+          "id": "6ad6b43eecd3",
+          "titulo": "China's delayed July data looms as markets eye demand and PBOC's yuan stance",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "04:05",
+          "link": "https://investinglive.com/news/china-s-delayed-july-data-looms-as-markets-eye-demand-and-pboc-s-yuan-stance/"
+        },
+        {
+          "id": "0937a5415160",
+          "titulo": "China delays July economic data release to late afternoon slot",
+          "fonte": "ForexLive",
+          "data": "2026-08-16",
+          "hora": "22:58",
+          "link": "https://investinglive.com/news/china-delays-july-economic-data-release-to-late-afternoon-slot/"
+        }
+      ],
+      "criado_em": "2026-08-17T08:54",
+      "atualizado_em": "2026-08-17T08:54"
+    },
+    {
+      "titulo": "Ormuz continua fechado, o petróleo não dispara — mas os fretes sim",
+      "sinal": "risk_off",
+      "resumo": "O Irão mantém a promessa de manter o estreito de Ormuz fechado e os trânsitos de navios abrandaram no fim de semana, depois de novos ataques a petroleiros. Ainda assim o Brent segue firme sem disparar, o que a Bloomberg atribui ao comércio clandestino de crude por transbordo. Os custos de transporte marítimo saltaram nas rotas do Canal do Panamá, Reno, Mar Vermelho e Mar Negro, e a Coreia do Sul procura cooperação militar com os EUA na região.",
+      "impacto": "Brent firme sustenta PETR4 e PRIO3, mas o prémio de risco energético e o frete mais caro alimentam inflação global e juro longo, o que castiga o múltiplo do resto da bolsa. Frete mais caro pesa também na margem dos exportadores de volume — VALE3, SUZB3, JBSS32 e BEEF3.",
+      "n_noticias": 8,
+      "noticias": [
+        {
+          "id": "abf0d9b30857",
+          "titulo": "South Korea's Blue House: To make diplomatic efforts for US-Korea military cooperation for the situation in the Strait of Hormuz",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "06:49",
+          "link": "https://www.financialjuice.com/News/9723669/South-Koreas-Blue-House-To-make-diplomatic-efforts-for-US-Korea-military-cooperation-for-the-situation-in-the-Strait-of-Hormuz.aspx?xy=rss"
+        },
+        {
+          "id": "4fec0869af7f",
+          "titulo": "War and climate change drive surge in global shipping costs",
+          "fonte": "FT Markets",
+          "data": "2026-08-17",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/2fb7f9b7-58dc-4909-94fa-8e753b7be47d?syn-25a6b1a6=1"
+        },
+        {
+          "id": "f8de8ff16778",
+          "titulo": "investingLive Asia-Pacific market news: Oil steady, yen firms",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "04:52",
+          "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-steady-yen-firms/"
+        },
+        {
+          "id": "2ae62161b7e4",
+          "titulo": "Bloomberg says dark trade oil shuttles are the reason Iran war hasn't spiked oil prices",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "03:09",
+          "link": "https://investinglive.com/commodities/bloomberg-says-dark-trade-oil-shuttles-are-the-reason-iran-war-hasn-t-spiked-oil-prices/"
+        },
+        {
+          "id": "32485cbb8be3",
+          "titulo": "Strait of Hormuz vessel transits slow over weekend after tanker assaults, no progress in U.S.-Iran peace talks, data shows",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:18",
+          "link": "https://www.financialjuice.com/News/9723330/Strait-of-Hormuz-vessel-transits-slow-over-weekend-after-tanker-assaults-no-progress-in-US-Iran-peace-talks-data-shows.aspx?xy=rss"
+        },
+        {
+          "id": "708809232c48",
+          "titulo": "China’s energy strategy vindicated by Iran war",
+          "fonte": "FT Markets",
+          "data": "2026-08-17",
+          "hora": "00:01",
+          "link": "https://www.ft.com/content/3aa706c2-50bb-4187-a053-c09e3c063d72"
+        },
+        {
+          "id": "6937892b0bd7",
+          "titulo": "Globex is open for the new week, oil a touch higher (not much)",
+          "fonte": "ForexLive",
+          "data": "2026-08-16",
+          "hora": "23:13",
+          "link": "https://investinglive.com/commodities/globex-is-open-for-the-new-week-oil-a-touch-higher-not-much/"
+        },
+        {
+          "id": "3866ba3283d0",
+          "titulo": "Oil- weekend recap & what's ahead: Iran vows to keep Hormuz shut, Trump tells Americans to accept high gas prices",
+          "fonte": "ForexLive",
+          "data": "2026-08-16",
+          "hora": "21:22",
+          "link": "https://investinglive.com/commodities/oil-weekend-recap-what-s-ahead-iran-vows-to-keep-hormuz-shut-trump-tells-americans-to-accept-high-gas-prices/"
+        }
+      ],
+      "criado_em": "2026-08-17T08:54",
+      "atualizado_em": "2026-08-17T08:54"
+    },
+    {
+      "titulo": "Bancos centrais entre inflação e crescimento, com a alta do Fed empurrada para a frente",
+      "sinal": "neutro",
+      "resumo": "Fed, BCE e Banco de Inglaterra chegam à semana sem sinal claro: a inflação sobe pela guerra do Irão enquanto o crescimento arrefece. O Goldman Sachs diz que o mercado de trabalho deixou de ser o eixo do debate e que é a inflação que manda; as apostas de alta do Fed foram empurradas para a frente e os juros longos subiram. A semana não traz dados grandes nos EUA, mas traz um teste à saúde do consumidor.",
+      "impacto": "Alta do Fed mais distante alivia o dólar e ajuda o carrego do real, mas juro longo americano em subida comprime múltiplos e pesa em BOVA11 e nos nomes de duration. Para os bancos da carteira (ITUB4, BBAS3, BBDC4, BPAC11) o cenário de juro alto por mais tempo continua a sustentar a margem financeira.",
       "n_noticias": 7,
       "noticias": [
         {
-          "id": "cca7d202b574",
-          "titulo": "Nato military headquarters spokesperson: drone downed earlier in Romanian airspace appears Russian",
+          "id": "0bb447bd48ff",
+          "titulo": "Fed Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "07:18",
+          "link": "https://www.financialjuice.com/News/9723709/Fed-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "2391cca6589f",
+          "titulo": "ECB Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "07:18",
+          "link": "https://www.financialjuice.com/News/9723710/ECB-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "d44f6417f6a1",
+          "titulo": "BoE Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "07:18",
+          "link": "https://www.financialjuice.com/News/9723711/BoE-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "b94112811890",
+          "titulo": "No major US data releases but this week will feature a big test on consumer health",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "07:06",
+          "link": "https://investinglive.com/news/no-major-us-data-releases-but-this-week-will-feature-a-big-test-on-consumer-health/"
+        },
+        {
+          "id": "331fce9a0ef5",
+          "titulo": "Goldman Sachs: labour market \"not that interesting\" as inflation dominates Fed debate",
+          "fonte": "ForexLive",
+          "data": "2026-08-16",
+          "hora": "21:59",
+          "link": "https://investinglive.com/central-banks/goldman-sachs-labour-market-not-that-interesting-as-inflation-dominates-fed-debate/"
+        },
+        {
+          "id": "b271b068982b",
+          "titulo": "Interest rate dilemma for central banks as inflation rises but growth slows",
+          "fonte": "Guardian Business",
+          "data": "2026-08-16",
+          "hora": "15:00",
+          "link": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows"
+        },
+        {
+          "id": "34e4e1bfa47f",
+          "titulo": "Week Ahead: Long Dated Bond Yields Rise, Fed Hike Expectation Kicked Out  - FJElite",
           "fonte": "FinancialJuice",
           "data": "2026-08-16",
-          "hora": "08:49",
-          "link": "https://www.financialjuice.com/News/9723075/Nato-military-headquarters-spokesperson-drone-downed-earlier-in-Romanian-airspace-appears-Russian.aspx?xy=rss"
-        },
-        {
-          "id": "7e132fa80f9d",
-          "titulo": "Romania: Drone violating its airspace, defence ministry says",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-16",
-          "hora": "04:00",
-          "link": "https://www.financialjuice.com/News/9723009/Romania-Drone-violating-its-airspace-defence-ministry-says.aspx?xy=rss"
-        },
-        {
-          "id": "1e064ccbf789",
-          "titulo": "Russian foreign ministry: possible U.S.-Turkish arms shipments to Kyiv would damage Moscow's ties with Washington, Ankara - IFX",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-15",
-          "hora": "14:02",
-          "link": "https://www.financialjuice.com/News/9722774/Russian-foreign-ministry-possible-US-Turkish-arms-shipments-to-Kyiv-would-damage-Moscows-ties-with-Washington-Ankara---IFX.aspx?xy=rss"
-        },
-        {
-          "id": "71df07aede9c",
-          "titulo": "Russian foreign ministry: requests explanations from Washington, Ankara over alleged arms supply plans to Kyiv - IFX cites spokesperson",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-15",
-          "hora": "14:01",
-          "link": "https://www.financialjuice.com/News/9722772/Russian-foreign-ministry-requests-explanations-from-Washington-Ankara-over-alleged-arms-supply-plans-to-Kyiv---IFX-cites-spokesperson.aspx?xy=rss"
-        },
-        {
-          "id": "c6f1a8a5fb2d",
-          "titulo": "Ukraine's military strikes Russian oil facility in Ust-Luga, Zelenskiy says",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-15",
-          "hora": "09:47",
-          "link": "https://www.financialjuice.com/News/9722702/Ukraines-military-strikes-Russian-oil-facility-in-Ust-Luga-Zelenskiy-says.aspx?xy=rss"
-        },
-        {
-          "id": "11c685537cb7",
-          "titulo": "Ukraine's forces strike Russian airbase in Nizhny Novgorod, Zelenskiy says",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-15",
-          "hora": "09:47",
-          "link": "https://www.financialjuice.com/News/9722701/Ukraines-forces-strike-Russian-airbase-in-Nizhny-Novgorod-Zelenskiy-says.aspx?xy=rss"
-        },
-        {
-          "id": "527083dcb61f",
-          "titulo": "Ukraine's military strikes Russian missile factory in Samara, Zelenskiy says",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-15",
-          "hora": "09:44",
-          "link": "https://www.financialjuice.com/News/9722699/Ukraines-military-strikes-Russian-missile-factory-in-Samara-Zelenskiy-says.aspx?xy=rss"
+          "hora": "00:03",
+          "link": "https://www.financialjuice.com/News/9722934/Week-Ahead-Long-Dated-Bond-Yields-Rise-Fed-Hike-Expectation-Kicked-Out----FJElite.aspx?xy=rss"
         }
       ],
-      "criado_em": "2026-08-16T09:28",
-      "atualizado_em": "2026-08-16T09:28"
+      "criado_em": "2026-08-17T08:54",
+      "atualizado_em": "2026-08-17T08:54"
     },
     {
-      "titulo": "Irão e Qatar trocam versões sobre os pilotos desaparecidos e mantêm a tensão no Golfo",
+      "titulo": "PBOC segura o yuan e injeta liquidez a seguir aos dados fracos",
       "sinal": "neutro",
-      "resumo": "Teerão afirma que três militares da força aérea desaparecidos desde a missão de março contra uma base norte-americana estão detidos no Qatar. Doha nega deter os pilotos, diz que estes violaram o seu espaço aéreo e ignoraram tentativas de contacto, e anunciou ter encontrado os restos mortais de um deles, já contactando o Irão para a entrega. O Irão exige agora autorização para uma missão de averiguação no terreno.",
-      "impacto": "É atrito diplomático sem escalada militar nova: mantém o prémio geopolítico sobre o petróleo — que sustenta PETR4 e PRIO3 — sem acrescentar um choque de oferta. O que se vigia é se o caso contamina a negociação sobre a reabertura da navegação no Ormuz, esse sim o canal com efeito direto no Brent e no frete.",
+      "resumo": "O banco central chinês fixou o USD/CNY em 6,7873, o midpoint mais forte desde 8 de fevereiro de 2023, ainda assim acima da estimativa da Reuters (6,7382), ou seja um yuan menos apreciado do que o mercado esperava. Injetou 565,5 bilhões de yuans em repos overnight, enquanto o volume do repo reverso de 7 dias caiu a zero.",
+      "impacto": "Yuan forte e liquidez extra são o amortecedor do dado fraco: favorecem historicamente as commodities metálicas e as moedas emergentes (BRL), com suporte marginal a VALE3. O fixing acima do estimado mostra que Pequim não quer apreciação rápida da moeda.",
       "n_noticias": 6,
       "noticias": [
         {
-          "id": "4ff7022564ee",
-          "titulo": "Iran's military missing persons chief: Qatar must permit Iranian air force fact-finding mission to enter the country - Tasnim",
+          "id": "95c1b2bc9789",
+          "titulo": "China cbank: 7-day reverse repo volume hits zero Monday amid primary dealer demand",
           "fonte": "FinancialJuice",
-          "data": "2026-08-16",
-          "hora": "07:40",
-          "link": "https://www.financialjuice.com/News/9723061/Irans-military-missing-persons-chief-Qatar-must-permit-Iranian-air-force-fact-finding-mission-to-enter-the-country---Tasnim.aspx?xy=rss"
+          "data": "2026-08-17",
+          "hora": "02:23",
+          "link": "https://www.financialjuice.com/News/9723430/China-cbank-7-day-reverse-repo-volume-hits-zero-Monday-amid-primary-dealer-demand.aspx?xy=rss"
         },
         {
-          "id": "b8bfee5164b5",
-          "titulo": "Qatar: search teams discovered remains of one Iranian pilot, contacted Iran to arrange handover - foreign ministry",
+          "id": "0f6f0b1a398f",
+          "titulo": "China cbank injects 565.5 bln yuan via overnight reverse repos: statement",
           "fonte": "FinancialJuice",
-          "data": "2026-08-15",
-          "hora": "19:42",
-          "link": "https://www.financialjuice.com/News/9722876/Qatar-search-teams-discovered-remains-of-one-Iranian-pilot-contacted-Iran-to-arrange-handover---foreign-ministry.aspx?xy=rss"
+          "data": "2026-08-17",
+          "hora": "02:22",
+          "link": "https://www.financialjuice.com/News/9723429/China-cbank-injects-5655-bln-yuan-via-overnight-reverse-repos-statement.aspx?xy=rss"
         },
         {
-          "id": "73d3f4cf9ee0",
-          "titulo": "Qatar: took necessary steps to protect territory after Iranian pilots breached airspace - foreign ministry",
+          "id": "381f00710f5f",
+          "titulo": "China sets yuan mid-point at strongest level since February 8, 2023",
           "fonte": "FinancialJuice",
-          "data": "2026-08-15",
-          "hora": "19:41",
-          "link": "https://www.financialjuice.com/News/9722875/Qatar-took-necessary-steps-to-protect-territory-after-Iranian-pilots-breached-airspace---foreign-ministry.aspx?xy=rss"
+          "data": "2026-08-17",
+          "hora": "02:17",
+          "link": "https://www.financialjuice.com/News/9723421/China-sets-yuan-mid-point-at-strongest-level-since-February-8-2023.aspx?xy=rss"
         },
         {
-          "id": "d08188e740c6",
-          "titulo": "Qatar: Iranian pilots breached its airspace, ignored contact attempts - foreign ministry",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-15",
-          "hora": "19:41",
-          "link": "https://www.financialjuice.com/News/9722874/Qatar-Iranian-pilots-breached-its-airspace-ignored-contact-attempts---foreign-ministry.aspx?xy=rss"
+          "id": "7de477bb79d8",
+          "titulo": "PBOC sets USD/ CNY reference rate for today at 6.7873 (vs. estimate at 6.7382)",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "02:15",
+          "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-74-vs-estimate-at-6-7382/"
         },
         {
-          "id": "0d68f1e59184",
-          "titulo": "Qatar denies holding Iranian pilots: foreign ministry",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-15",
-          "hora": "19:39",
-          "link": "https://www.financialjuice.com/News/9722873/Qatar-denies-holding-Iranian-pilots-foreign-ministry.aspx?xy=rss"
+          "id": "7316f15c37e5",
+          "titulo": "PBOC is expected to set the USD/CNY reference rate at 6.7382 – Reuters estimate",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "01:21",
+          "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7-reuters-estimate-6/"
         },
         {
-          "id": "c50a6bcc223c",
-          "titulo": "Three Iranian air force personnel missing after March mission against U.S. base are held in Qatar: Iran's Fars citing military official",
+          "id": "4ff09898ca27",
+          "titulo": "China PBOC seen setting yuan midpoint at 6.7382 per dollar: estimate",
           "fonte": "FinancialJuice",
-          "data": "2026-08-15",
-          "hora": "12:35",
-          "link": "https://www.financialjuice.com/News/9722732/Three-Iranian-air-force-personnel-missing-after-March-mission-against-US-base-are-held-in-Qatar-Irans-Fars-citing-military-official.aspx?xy=rss"
+          "data": "2026-08-17",
+          "hora": "01:21",
+          "link": "https://www.financialjuice.com/News/9723382/China-PBOC-seen-setting-yuan-midpoint-at-67382-per-dollar-estimate.aspx?xy=rss"
         }
       ],
-      "criado_em": "2026-08-16T09:28",
-      "atualizado_em": "2026-08-16T09:28"
+      "criado_em": "2026-08-17T08:54",
+      "atualizado_em": "2026-08-17T08:54"
     },
     {
-      "titulo": "Escassez de óleos base e recuo nas metas de elétricos apertam a indústria automóvel",
-      "sinal": "neutro",
-      "resumo": "Os maiores construtores mundiais procuram novas formulações para evitar uma crise de óleo de motor, provocada pela falta de óleos base do Grupo III. Em paralelo, a maior gigafábrica de baterias do Reino Unido adiou a expansão com o impasse nas negociações com a Jaguar Land Rover, e o governo britânico admite cortar a meta de vendas de elétricos de 80% para 50% até 2030.",
-      "impacto": "A falta de óleos base é um estrangulamento de refino que aperta margens de lubrificantes e derivados — relevante para o mix de refino da PETR4. A travagem no elétrico adia procura incremental de cobre, níquel e lítio e retira um vetor estrutural de suporte às mineradoras, sem efeito imediato no minério de ferro que manda em VALE3.",
-      "n_noticias": 3,
+      "titulo": "Dólar sob pressão no arranque da semana e euro no máximo de dois meses",
+      "sinal": "risk_on",
+      "resumo": "O dólar prolongou na segunda-feira a queda iniciada na sexta. O euro subiu 0,13%, para 1,1586 dólares, o nível mais alto desde 17 de junho, e as moedas de risco (NZD, AUD) lideram a tabela de força relativa, com o dólar na cauda.",
+      "impacto": "Dólar fraco é o vento a favor mais direto para a B3: alivia o USD/BRL, favorece o fluxo estrangeiro para emergentes e dá suporte aos preços das commodities em dólar, que sustentam VALE3, PETR4 e SUZB3.",
+      "n_noticias": 5,
       "noticias": [
         {
-          "id": "94a0ea430813",
-          "titulo": "World’s largest carmakers seek to avert motor oil crisis",
+          "id": "e46efe1476be",
+          "titulo": "Currency Strength Chart: Strongest: NZD, AUD, CHF, EUR, JPY, GBP, CAD, USD - Weakest",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "08:01",
+          "link": "https://www.financialjuice.com/News/9723749/Currency-Strength-Chart-Strongest-NZD-AUD-CHF-EUR-JPY-GBP-CAD-USD---Weakest.aspx?xy=rss"
+        },
+        {
+          "id": "a79ace306ee2",
+          "titulo": "Dollar comes under pressure to start the new week",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "05:32",
+          "link": "https://investinglive.com/forex/dollar-comes-under-pressure-to-start-the-new-week/"
+        },
+        {
+          "id": "5ceccec470bc",
+          "titulo": "Euro rises above 1.15853, highest level since June 17",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "05:10",
+          "link": "https://www.financialjuice.com/News/9723570/Euro-rises-above-115853-highest-level-since-June-17.aspx?xy=rss"
+        },
+        {
+          "id": "55ade091d539",
+          "titulo": "Euro Last Up 0.13% at $1.1586",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "05:10",
+          "link": "https://www.financialjuice.com/News/9723569/Euro-Last-Up-013-at-11586.aspx?xy=rss"
+        },
+        {
+          "id": "4ddca191aa0a",
+          "titulo": "Euro rises to highest level in two months against EBS",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "05:10",
+          "link": "https://www.financialjuice.com/News/9723568/Euro-rises-to-highest-level-in-two-months-against-EBS.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-08-17T08:54",
+      "atualizado_em": "2026-08-17T08:54"
+    },
+    {
+      "titulo": "O capex de IA das Big Techs esconde 3 trilhões de dólares fora do balanço",
+      "sinal": "neutro",
+      "resumo": "Uma análise aponta que os compromissos de investimento em IA das grandes tecnológicas são cerca de 3 trilhões de dólares maiores do que os balanços mostram. Uma investigação do Guardian sugere descompasso entre a capacidade de IA que a Microsoft anuncia e o número de chips avançados que tem em operação, enquanto os 60 maiores data centers planeados poderão emitir o equivalente a 27 centrais a carvão. A Alphabet mandatou bancos para a sua primeira emissão de dívida em dólares australianos, e a Nvidia negoceia investir 3 bilhões de dólares na SB Energy.",
+      "impacto": "O ciclo de IA passa a financiar-se com dívida e compromissos fora do balanço; se o mercado reprecificar esse risco, o beta global de tecnologia cai e arrasta o Ibovespa por correlação. Em contrapartida, a procura energética destes data centers é tese estrutural de longo prazo para as geradoras da carteira (EQTL3, CMIG4, CPLE3).",
+      "n_noticias": 5,
+      "noticias": [
+        {
+          "id": "006aff7e9d40",
+          "titulo": "Are Microsoft’s AI plans being held back by a shortage of chips?",
+          "fonte": "Guardian Business",
+          "data": "2026-08-17",
+          "hora": "05:00",
+          "link": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips"
+        },
+        {
+          "id": "9217a9d6b28a",
+          "titulo": "Alphabet appoints banks for first Australian dollar bond issuance, announcement shows:",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "03:02",
+          "link": "https://www.financialjuice.com/News/9723495/Alphabet-appoints-banks-for-first-Australian-dollar-bond-issuance-announcement-shows.aspx?xy=rss"
+        },
+        {
+          "id": "f96c6398dd24",
+          "titulo": "Big Tech's AI spending is $3 trillion bigger than balance sheets show",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "02:31",
+          "link": "https://investinglive.com/stock-market-update/big-tech-s-ai-spending-is-3-trillion-bigger-than-balance-sheets-show/"
+        },
+        {
+          "id": "9c69f3d235ac",
+          "titulo": "Big Tech’s data centre boom poised to drive up carbon emissions",
           "fonte": "FT Markets",
           "data": "2026-08-16",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1"
+          "hora": "11:00",
+          "link": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8?syn-25a6b1a6=1"
         },
         {
-          "id": "eefdaf171b8e",
-          "titulo": "UK’s biggest EV battery gigafactory shelves expansion as Jaguar Land Rover talks stall",
-          "fonte": "Guardian Business",
+          "id": "3d5eb7a0fd3f",
+          "titulo": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center agreement: The Information",
+          "fonte": "FinancialJuice",
           "data": "2026-08-15",
-          "hora": "12:00",
-          "link": "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan"
-        },
-        {
-          "id": "1b978d5f53c1",
-          "titulo": "Electric vehicle sales targets could be cut after pressure from car makers",
-          "fonte": "BBC Business",
-          "data": "2026-08-14",
-          "hora": "16:58",
-          "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
+          "hora": "20:13",
+          "link": "https://www.financialjuice.com/News/9722884/Nvidia-in-talks-to-invest-3-billion-in-SB-Energy-as-part-of-OpenAI-data-center-agreement-The-Information.aspx?xy=rss"
         }
       ],
-      "criado_em": "2026-08-16T09:28",
-      "atualizado_em": "2026-08-16T09:28"
+      "criado_em": "2026-08-17T08:54",
+      "atualizado_em": "2026-08-17T08:54"
     },
     {
-      "titulo": "Calor extremo e contas de energia voltam a empurrar a inflação europeia",
+      "titulo": "Negociações EUA-Irão sem progresso, com aperto económico em preparação",
       "sinal": "risk_off",
-      "resumo": "A Europa começa a contabilizar o custo económico da onda de calor: níveis baixos dos rios travaram o tráfego fluvial de mercadorias na Alemanha e obrigaram ao encerramento de centrais nucleares em França. No Reino Unido, previsões de forte subida das contas de energia apontam para nova pressão sobre a inflação, com a leitura oficial a sair na quarta-feira.",
-      "impacto": "Inflação de energia mais alta na Europa adia cortes do BCE e do Banco de Inglaterra e sustenta os juros longos globais — pano de fundo adverso para o carry que alimenta a procura por ativos de risco emergentes. A restrição hídrica e nuclear em França aumenta a procura por gás e carvão, com leitura marginalmente positiva para exportadoras de energia.",
-      "n_noticias": 2,
+      "resumo": "Teerão diz que as conversas em Omã se arrastam pela complexidade do tema e por atores que procuram minar o processo, e que o memorando assinado em Islamabad com os EUA não tem prazo de 60 dias. Do lado americano, Bessent estuda apertar o cerco económico ao Irão, mas os laços das refinarias independentes chinesas com o crude iraniano limitam as opções. Os dados de trânsito em Ormuz confirmam a ausência de progresso.",
+      "impacto": "Sem desanuviamento, o prémio de risco fica no preço do petróleo: positivo para PETR4 e PRIO3, negativo para o Ibovespa pela via da inflação e do dólar. Sanções que atinjam refinarias ou bancos chineses seriam um choque adicional sobre a procura de commodities e, por aí, sobre VALE3.",
+      "n_noticias": 4,
       "noticias": [
         {
-          "id": "694b00333fb8",
-          "titulo": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
+          "id": "51b92ed3ce31",
+          "titulo": "Iran's Foreign Ministry Spokesperson: Talks with Oman are long due to complexity of subject, multiple actors involved, and countries seeking to undermine process.",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "08:35",
+          "link": "https://www.financialjuice.com/News/9723805/Irans-Foreign-Ministry-Spokesperson-Talks-with-Oman-are-long-due-to-complexity-of-subject-multiple-actors-involved-and-countries-seeking-to-undermine-process.aspx?xy=rss"
+        },
+        {
+          "id": "3f8e50351c46",
+          "titulo": "Iran: Islamabad MOU with US doesn't have 60-day deadline.",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "08:34",
+          "link": "https://www.financialjuice.com/News/9723804/Iran-Islamabad-MOU-with-US-doesnt-have-60-day-deadline.aspx?xy=rss"
+        },
+        {
+          "id": "32485cbb8be3",
+          "titulo": "Strait of Hormuz vessel transits slow over weekend after tanker assaults, no progress in U.S.-Iran peace talks, data shows",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-17",
+          "hora": "00:18",
+          "link": "https://www.financialjuice.com/News/9723330/Strait-of-Hormuz-vessel-transits-slow-over-weekend-after-tanker-assaults-no-progress-in-US-Iran-peace-talks-data-shows.aspx?xy=rss"
+        },
+        {
+          "id": "314dc246077e",
+          "titulo": "Bessent eyes Iran economic squeeze, but Chinese teapot ties limit options",
+          "fonte": "ForexLive",
+          "data": "2026-08-16",
+          "hora": "23:51",
+          "link": "https://investinglive.com/commodities/bessent-eyes-iran-economic-squeeze-but-chinese-teapot-ties-limit-options/"
+        }
+      ],
+      "criado_em": "2026-08-17T08:54",
+      "atualizado_em": "2026-08-17T08:54"
+    },
+    {
+      "titulo": "Reino Unido com a maior queda de agosto nos preços das casas desde 2018",
+      "sinal": "risk_off",
+      "resumo": "O Rightmove reportou a maior queda de agosto nos preços pedidos desde 2018 e espera preços em baixa no conjunto do ano, com a contratação também travada. Jamie Dimon avisou o Reino Unido contra subir impostos à banca, e as contas de energia deverão empurrar a inflação para cima nos próximos meses.",
+      "impacto": "É mais um sinal de desaceleração num mercado desenvolvido com inflação a subir — o mesmo dilema que trava o ciclo de corte de juros global e mantém alto o custo de capital para a bolsa brasileira. Sem efeito direto sobre nenhum ticker da carteira.",
+      "n_noticias": 4,
+      "noticias": [
+        {
+          "id": "d824e8efe257",
+          "titulo": "Biggest August fall in British house prices since 2018; Dimon warns UK against higher bank taxes – business live",
+          "fonte": "Guardian Business",
+          "data": "2026-08-17",
+          "hora": "08:13",
+          "link": "https://www.theguardian.com/business/live/2026/aug/17/british-house-prices-fall-burnham-interest-rates-oil-bank-taxes-stock-markets-live-updates"
+        },
+        {
+          "id": "9350f4ce2a19",
+          "titulo": "UK data - Housing slump and hiring freeze cloud outlook",
+          "fonte": "ForexLive",
+          "data": "2026-08-17",
+          "hora": "00:26",
+          "link": "https://investinglive.com/news/uk-data-housing-slump-and-hiring-freeze-cloud-outlook/"
+        },
+        {
+          "id": "c81f3650f68f",
+          "titulo": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
           "fonte": "Guardian Business",
           "data": "2026-08-16",
-          "hora": "09:00",
-          "link": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves"
+          "hora": "10:30",
+          "link": "https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician"
         },
         {
           "id": "5b725b704fec",
@@ -187,8 +650,8 @@
           "link": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation"
         }
       ],
-      "criado_em": "2026-08-16T09:28",
-      "atualizado_em": "2026-08-16T09:28"
+      "criado_em": "2026-08-17T08:54",
+      "atualizado_em": "2026-08-17T08:54"
     }
   ]
 }
