@@ -1,14 +1,62 @@
 {
-  "atualizado_em": "2026-08-21T07:49",
-  "total_feed": 317,
+  "atualizado_em": "2026-08-21T13:27",
+  "total_feed": 382,
   "temas": [
     {
-      "titulo": "Recompras de Bessent falham em travar a venda dos longos dos EUA",
+      "titulo": "Recompras de Bessent não travam a venda dos longos e a dívida dos EUA passa US$ 40 trilhões",
       "sinal": "risk_off",
-      "resumo": "O Tesouro americano ampliou as recompras de títulos longos, mas os juros voltaram a subir e o mercado testa o chamado \"Bessent put\"; a dívida bruta dos EUA passou os US$ 40 trilhões e a procura por Treasuries está descrita como muito mais sensível ao preço. Nos números de crédito da própria app (séries de 19/08, D+1), o índice agregado está em 39,7 (\"abaixo da média\") mas subiu 5,4 pontos em 30 dias, e a ponta frágil já está no extremo: o OAS dos CCC está em 10,30 p.p., percentil 99 do ano e +0,55 p.p. em 30 dias, com o investment grade no percentil 79. Um empréstimo do Guggenheim passou a negociar em território de distressed e os fundos quant foram sacudidos pela sessão.",
-      "impacto": "Prémio de prazo mais alto nos EUA encarece o custo de capital global e costuma comprimir múltiplos de bolsa: pressão sobre BOVA11 e sobre o Ibovespa, com correlação negativa face à ponta longa da curva de DI. O agregado de crédito ainda não rompeu, mas a deterioração começa sempre pelos CCC — vale vigiar antes de assumir que a bolsa aguenta. Para a B3SA3, mais volatilidade global tende a elevar o volume negociado.",
+      "resumo": "O Tesouro americano ampliou as recompras de títulos longos, mas o movimento foi pequeno face ao mercado de US$ 32 trilhões e os yields longos voltaram a subir, testando o chamado 'Bessent put'. A dívida federal passou US$ 40 trilhões e o dólar caiu junto com as taxas na sexta-feira, num sinal de que o mercado lê a intervenção como risco fiscal e não como âncora.",
+      "impacto": "Dólar mais fraco e apetite por emergentes ajudam o real e o Ibovespa no curto prazo, mas o prémio de prazo mais alto nos EUA encarece o custo de capital global e pesa nos ativos longos da B3 (CYRE3, MRVE3) e nas utilities alavancadas (EQTL3, CMIG4, CPLE3). Curva americana mais inclinada também limita o espaço de queda do DI longo, mesmo com o Copom já em ciclo de corte.",
       "n_noticias": 12,
       "noticias": [
+        {
+          "id": "2db84d3a479f",
+          "titulo": "FirstFT: Scott Bessent’s bond buybacks lift gold and bitcoin",
+          "fonte": "FT Markets",
+          "data": "2026-08-21",
+          "hora": "12:25",
+          "link": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1"
+        },
+        {
+          "id": "db3db4fe7fa1",
+          "titulo": "The U.S. government plans to crack down on its $40 trillion debt — but brace for a ‘wrenching time’ ahead",
+          "fonte": "MarketWatch",
+          "data": "2026-08-21",
+          "hora": "12:00",
+          "link": "https://www.marketwatch.com/story/the-u-s-government-plans-to-crack-down-on-its-40-trillion-debt-but-brace-for-a-wrenching-time-ahead-b3fb76a8?mod=mw_rss_topstories"
+        },
+        {
+          "id": "a00e75ffc72a",
+          "titulo": "Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar",
+          "fonte": "FT Markets",
+          "data": "2026-08-21",
+          "hora": "11:37",
+          "link": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1"
+        },
+        {
+          "id": "79fbb9f44ee2",
+          "titulo": "Dollar falls alongside bond yields in final stretch of the week",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "10:43",
+          "link": "https://investinglive.com/forex/dollar-falls-alongside-bond-yields-in-final-stretch-of-the-week/"
+        },
+        {
+          "id": "f5c5b0435ff7",
+          "titulo": "FTAV Q&A: Darrell Duffie",
+          "fonte": "FT Markets",
+          "data": "2026-08-21",
+          "hora": "10:27",
+          "link": "https://www.ft.com/content/17a27f16-8c0b-4f21-a348-512bb787994d"
+        },
+        {
+          "id": "42e2cbf3cf25",
+          "titulo": "Why markets care more about the signal than the size of the Treasury buyback",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "09:50",
+          "link": "https://investinglive.com/news/why-markets-care-more-about-the-signal-than-the-size-of-the-treasury-buyback/"
+        },
         {
           "id": "d16c1b92ad86",
           "titulo": "US Treasury move risks creating unintended consequences for markets and the economy",
@@ -42,36 +90,12 @@
           "link": "https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1"
         },
         {
-          "id": "f64aec824d62",
-          "titulo": "What is Bessent doing with the $32tn Treasury market — and will it work?",
+          "id": "6fc12683874c",
+          "titulo": "What is Bessent doing — and will it work?",
           "fonte": "FT Markets",
           "data": "2026-08-21",
           "hora": "00:08",
           "link": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1"
-        },
-        {
-          "id": "a6530ea46a0a",
-          "titulo": "Guggenheim loan trades in distressed territory after investor call",
-          "fonte": "FT Markets",
-          "data": "2026-08-20",
-          "hora": "19:43",
-          "link": "https://www.ft.com/content/7069ffff-9534-489d-bf25-9965a1bc48bc?syn-25a6b1a6=1"
-        },
-        {
-          "id": "b61b8dd45261",
-          "titulo": "Quant funds rocked as Treasury boosts buybacks and Moderna shares leap",
-          "fonte": "FT Markets",
-          "data": "2026-08-20",
-          "hora": "19:00",
-          "link": "https://www.ft.com/content/d3fbfcb7-ce89-4b46-8267-c2fed9c67134?syn-25a6b1a6=1"
-        },
-        {
-          "id": "6d6af9174ba3",
-          "titulo": "The US Treasury is buying long bonds, but not very many",
-          "fonte": "FT Markets",
-          "data": "2026-08-20",
-          "hora": "18:37",
-          "link": "https://www.ft.com/content/150aa8bf-54d1-448f-bdc9-14152ce3d76c"
         },
         {
           "id": "086f7254e0bb",
@@ -80,248 +104,34 @@
           "data": "2026-08-20",
           "hora": "17:20",
           "link": "https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1"
-        },
-        {
-          "id": "b9cf4dd1c663",
-          "titulo": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
-          "fonte": "Guardian Business",
-          "data": "2026-08-20",
-          "hora": "17:14",
-          "link": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide"
-        },
-        {
-          "id": "3901d0690cb4",
-          "titulo": "‘Treasury demand has become materially more valuation-sensitive’",
-          "fonte": "FT Markets",
-          "data": "2026-08-20",
-          "hora": "11:18",
-          "link": "https://www.ft.com/content/f72df19f-29f2-4330-8e27-c69919d56972"
-        },
-        {
-          "id": "7fc572b60193",
-          "titulo": "US national debt passes $40tn after doubling in a decade",
-          "fonte": "BBC Business",
-          "data": "2026-08-20",
-          "hora": "07:23",
-          "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "criado_em": "2026-08-21T07:49",
-      "atualizado_em": "2026-08-21T07:49"
+      "criado_em": "2026-08-21T13:27",
+      "atualizado_em": "2026-08-21T13:27"
     },
     {
-      "titulo": "Japão: inflação e PMI reforçam a aposta numa subida do BoJ em setembro",
-      "sinal": "risk_off",
-      "resumo": "O CPI cheio de julho subiu 1,9% em termos homólogos — o governo corrigiu a leitura inicial de 2,0% — e o núcleo ficou em 1,8%, em linha com o esperado e acima dos 1,6% anteriores. Os PMI flash de agosto mostram a indústria em 55,1 (contra 54,5 em julho) e o composto em 53,4, o crescimento fabril mais forte desde fevereiro. O mercado passou a ver o BoJ a subir para 1,25% em setembro.",
-      "impacto": "Um BoJ mais duro estreita o diferencial que sustenta o carry trade em ienes, e o desmonte desse carry drena liquidez de ativos de risco emergentes, incluindo a B3 — foi esse o canal do susto de agosto de 2024. Iene mais forte pesa também sobre o dólar, o que por si só ajudaria o real; o efeito líquido tende a ser negativo enquanto o ajuste for abrupto.",
+      "titulo": "China promete mais estímulo fiscal e um plano para as tecnológicas até 2030",
+      "sinal": "risk_on",
+      "resumo": "O vice-ministro das Finanças sinalizou políticas incrementais à medida que a economia abranda, com alargamento dos subsídios de juro ao crédito para pequenas empresas privadas e injeção de 95 bilhões de yuans do banco central via repos de 7 dias. Pequim anunciou ainda um plano para reforçar as empresas de internet até 2030 e acelerar a legislação de IA e blockchain; a bolsa de Xangai supera Hong Kong na febre tecnológica chinesa.",
+      "impacto": "O estímulo chinês é o canal mais direto para o minério de ferro e o aço: leitura positiva para VALE3 e, por extensão, GGBR4/CSNA3/USIM5. O consumo de eletricidade da China subiu 4,7% no acumulado até julho, confirmando atividade industrial ainda em expansão, ainda que o ritmo mensal de julho tenha desacelerado para 1,7%.",
       "n_noticias": 12,
       "noticias": [
         {
-          "id": "8454f9bd8337",
-          "titulo": "Japanese inflation rises as central bank weighs rate increase",
-          "fonte": "FT Markets",
-          "data": "2026-08-21",
-          "hora": "05:54",
-          "link": "https://www.ft.com/content/4e128c45-b84c-4fc3-98bf-c5033c201ea6?syn-25a6b1a6=1"
-        },
-        {
-          "id": "3e6fbb995a39",
-          "titulo": "Flash PMI shows Japan factories leading strongest growth since February",
-          "fonte": "ForexLive",
-          "data": "2026-08-21",
-          "hora": "01:37",
-          "link": "https://investinglive.com/news/flash-pmi-shows-japan-factories-leading-strongest-growth-since-february/"
-        },
-        {
-          "id": "cb730b506af1",
-          "titulo": "Japan S&P global August flash manufacturing PMI at 55.1 vs 54.5 in July",
+          "id": "2af31d32032c",
+          "titulo": "China to accelerate legislation in AI and the blockchain.",
           "fonte": "FinancialJuice",
           "data": "2026-08-21",
-          "hora": "01:30",
-          "link": "https://www.financialjuice.com/News/9730339/Japan-SP-global-August-flash-manufacturing-PMI-at-551-vs-545-in-July.aspx?xy=rss"
+          "hora": "13:10",
+          "link": "https://www.financialjuice.com/News/9731214/China-to-accelerate-legislation-in-AI-and-the-blockchain.aspx?xy=rss"
         },
         {
-          "id": "65ecadab4cfa",
-          "titulo": "Japanese Composite PMI Flash Actual 53.4 (Forecast -, Previous 52.7)",
+          "id": "51112e2493b8",
+          "titulo": "China unveils plan to strengthen internet firms by 2030",
           "fonte": "FinancialJuice",
           "data": "2026-08-21",
-          "hora": "01:30",
-          "link": "https://www.financialjuice.com/News/9730334/Japanese-Composite-PMI-Flash-Actual-534-Forecast---Previous-527.aspx?xy=rss"
+          "hora": "13:08",
+          "link": "https://www.financialjuice.com/News/9731213/China-unveils-plan-to-strengthen-internet-firms-by-2030.aspx?xy=rss"
         },
-        {
-          "id": "8e8b7f1aba54",
-          "titulo": "Japanese Mfg PMI Flash Actual 55.1 (Forecast -, Previous 54.5)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "01:30",
-          "link": "https://www.financialjuice.com/News/9730333/Japanese-Mfg-PMI-Flash-Actual-551-Forecast---Previous-545.aspx?xy=rss"
-        },
-        {
-          "id": "63ce84897272",
-          "titulo": "BOJ seen hiking to 1.25% in September as Japan inflation pressures broaden",
-          "fonte": "ForexLive",
-          "data": "2026-08-21",
-          "hora": "01:04",
-          "link": "https://investinglive.com/central-banks/boj-seen-hiking-to-1-25-in-september-as-japan-inflation-pressures-broaden/"
-        },
-        {
-          "id": "7874be4c77c6",
-          "titulo": "Japan July nationwide overall CPI rises 1.9% year on year, not 2.0%: govt",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "00:38",
-          "link": "https://www.financialjuice.com/News/9730292/Japan-July-nationwide-overall-CPI-rises-19-year-on-year-not-20-govt.aspx?xy=rss"
-        },
-        {
-          "id": "11c5f01c3245",
-          "titulo": "Japan July CPI excluding fresh food, energy prices rises 1.9% year-on-year: govt",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "00:38",
-          "link": "https://www.financialjuice.com/News/9730291/Japan-July-CPI-excluding-fresh-food-energy-prices-rises-19-year-on-year-govt.aspx?xy=rss"
-        },
-        {
-          "id": "d3a4271a89b3",
-          "titulo": "Japanese CPI Overall Nationwide Actual 2.0% (Forecast 1.9%, Previous 1.7%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "00:31",
-          "link": "https://www.financialjuice.com/News/9730260/Japanese-CPI-Overall-Nationwide-Actual-20-Forecast-19-Previous-17.aspx?xy=rss"
-        },
-        {
-          "id": "1b9fbf2022e9",
-          "titulo": "Japanese Core CPI Nationwide YoY Actual 1.8% (Forecast 1.8%, Previous 1.6%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "00:31",
-          "link": "https://www.financialjuice.com/News/9730257/Japanese-Core-CPI-Nationwide-YoY-Actual-18-Forecast-18-Previous-16.aspx?xy=rss"
-        },
-        {
-          "id": "28308bc22ccd",
-          "titulo": "Japan July Core CPI 1.8%  y/y (expected 1.8%)",
-          "fonte": "ForexLive",
-          "data": "2026-08-21",
-          "hora": "00:30",
-          "link": "https://investinglive.com/news/japan-july-headline-cpi-1-8-y-y-expected-1-8/"
-        },
-        {
-          "id": "5da06c68a5df",
-          "titulo": "Japan July nationwide core CPI rises 1.8% yr/yr: govt (Poll: 1.8%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "00:30",
-          "link": "https://www.financialjuice.com/News/9730259/Japan-July-nationwide-core-CPI-rises-18-yryr-govt-Poll-18.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-08-21T07:49",
-      "atualizado_em": "2026-08-21T07:49"
-    },
-    {
-      "titulo": "Reino Unido: retalho recua em julho mas a confiança vai ao máximo de dois anos",
-      "sinal": "neutro",
-      "resumo": "As vendas a retalho de julho caíram 0,5% em cadeia (núcleo -0,9%, contra -0,5% esperado) e desaceleraram para 1,6% em termos homólogos, apesar de o Mundial e o calor terem impulsionado bebidas e álcool. Em sentido contrário, o índice de confiança GfK subiu para -14 em agosto, o mais alto desde agosto de 2024, com o indicador de grandes compras no melhor nível desde dezembro de 2021. As contas públicas surpreenderam pela positiva, com um PSNB de 1,80 bilhão de libras face aos 15,99 bilhões anteriores, mas Healey foi avisado para limitar o endividamento do Orçamento perante a venda de gilts.",
-      "impacto": "Sinais cruzados: procura fraca e confiança a recuperar. O que importa para a B3 não é o consumidor britânico mas a pressão nos gilts, que faz parte da mesma venda global de dívida longa que aperta o prémio de prazo — esse canal está no tema do Tesouro americano. Sem leitura direcional própria para os ativos brasileiros.",
-      "n_noticias": 11,
-      "noticias": [
-        {
-          "id": "b19995e1c9a4",
-          "titulo": "Retail sales fall despite World Cup and hot weather boosting alcohol and drinks trade – business live",
-          "fonte": "Guardian Business",
-          "data": "2026-08-21",
-          "hora": "07:24",
-          "link": "https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates"
-        },
-        {
-          "id": "d0c43493a0ff",
-          "titulo": "UK PSNB ex Banks Actual 1.800B (Forecast -, Previous 15.989B)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "07:01",
-          "link": "https://www.financialjuice.com/News/9730695/UK-PSNB-ex-Banks-Actual-1800B-Forecast---Previous-15989B.aspx?xy=rss"
-        },
-        {
-          "id": "042efcd81c2d",
-          "titulo": "UK retail sales fall in July as early summer buzz fades",
-          "fonte": "ForexLive",
-          "data": "2026-08-21",
-          "hora": "07:00",
-          "link": "https://investinglive.com/news/uk-july-retail-sales-vs-0-5-m-m-expected/"
-        },
-        {
-          "id": "756ea3325dc3",
-          "titulo": "UK Retail Sales MoM Actual -0.5% (Forecast -0.5%, Previous 1.0%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "07:00",
-          "link": "https://www.financialjuice.com/News/9730690/UK-Retail-Sales-MoM-Actual--05-Forecast--05-Previous-10.aspx?xy=rss"
-        },
-        {
-          "id": "930cb366d760",
-          "titulo": "UK Retail Sales YoY Actual 1.6% (Forecast 2.2%, Previous 4.2%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "07:00",
-          "link": "https://www.financialjuice.com/News/9730689/UK-Retail-Sales-YoY-Actual-16-Forecast-22-Previous-42.aspx?xy=rss"
-        },
-        {
-          "id": "b308e115808c",
-          "titulo": "UK Core Retail Sales MoM Actual -0.9% (Forecast -0.5%, Previous 1.1%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "07:00",
-          "link": "https://www.financialjuice.com/News/9730692/UK-Core-Retail-Sales-MoM-Actual--09-Forecast--05-Previous-11.aspx?xy=rss"
-        },
-        {
-          "id": "9845fffe3791",
-          "titulo": "UK Core Retail Sales YoY Actual 2.3% (Forecast 3.3%, Previous 5.4%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "07:00",
-          "link": "https://www.financialjuice.com/News/9730691/UK-Core-Retail-Sales-YoY-Actual-23-Forecast-33-Previous-54.aspx?xy=rss"
-        },
-        {
-          "id": "ea68c9d1de10",
-          "titulo": "Healey warned to limit Budget borrowing amid bond sell-off",
-          "fonte": "FT Markets",
-          "data": "2026-08-21",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/2d7e64e8-386a-4987-ae4d-04b6bf2a5e6a?syn-25a6b1a6=1"
-        },
-        {
-          "id": "468bcf98cbd0",
-          "titulo": "UK consumer confidence hits two year high despite inflation warning",
-          "fonte": "ForexLive",
-          "data": "2026-08-21",
-          "hora": "00:13",
-          "link": "https://investinglive.com/news/uk-consumer-confidence-hits-two-year-high-despite-inflation-warning/"
-        },
-        {
-          "id": "b1f127e1db99",
-          "titulo": "UK GfK Consumer confidence index at -14 in August vs -17 in July (poll: -18), strongest since August 2024",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "00:01",
-          "link": "https://www.financialjuice.com/News/9730237/UK-GfK-Consumer-confidence-index-at--14-in-August-vs--17-in-July-poll--18-strongest-since-August-2024.aspx?xy=rss"
-        },
-        {
-          "id": "3e5825452aac",
-          "titulo": "UK GfK consumer confidence major purchases gauge climbs to highest since December 2021",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "00:01",
-          "link": "https://www.financialjuice.com/News/9730236/UK-GfK-consumer-confidence-major-purchases-gauge-climbs-to-highest-since-December-2021.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-08-21T07:49",
-      "atualizado_em": "2026-08-21T07:49"
-    },
-    {
-      "titulo": "China promete mais estímulo fiscal com a economia a abrandar",
-      "sinal": "risk_on",
-      "resumo": "O vice-ministro das Finanças sinalizou mais apoio orçamental e disse que Pequim vai planear políticas incrementais conforme a evolução da economia, mantendo a continuidade das políticas macro. O ministério anunciou o aumento da quota de subsídios e o alargamento dos subsídios de juro ao crédito a pequenas empresas privadas, e colocou títulos a 2 anos a 1,21%. O PBOC injetou 95 bilhões de yuans via repos reversos a 7 dias. Do lado real, o consumo de eletricidade subiu 4,7% no acumulado de janeiro a julho e 1,7% em julho.",
-      "impacto": "Estímulo chinês é o canal mais direto para o minério de ferro e para o aço: leitura positiva para VALE3 e, por arrasto, para GGBR4, CSNA3 e USIM5. O consumo de eletricidade a crescer apenas 1,7% em julho mostra que a atividade industrial ainda está morna — o estímulo é resposta à fraqueza, não confirmação de recuperação.",
-      "n_noticias": 9,
-      "noticias": [
         {
           "id": "a21f25f3d0ba",
           "titulo": "China finance ministry: to increase subsidy quota available for these companies",
@@ -353,6 +163,14 @@
           "data": "2026-08-21",
           "hora": "03:41",
           "link": "https://investinglive.com/news/china-vice-finance-minister-signals-more-fiscal-support-as-economy-slows/"
+        },
+        {
+          "id": "a8b0c79b8d46",
+          "titulo": "Shanghai’s answer to Nasdaq outstrips Hong Kong amid Chinese tech frenzy",
+          "fonte": "FT Markets",
+          "data": "2026-08-21",
+          "hora": "03:16",
+          "link": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1"
         },
         {
           "id": "e0f93627ac85",
@@ -396,15 +214,416 @@
         }
       ],
       "criado_em": "2026-08-21T07:49",
-      "atualizado_em": "2026-08-21T07:49"
+      "atualizado_em": "2026-08-21T13:27"
     },
     {
-      "titulo": "Exportações sul-coreanas disparam 56% e confirmam o ciclo dos chips",
-      "sinal": "risk_on",
-      "resumo": "As exportações da Coreia do Sul nos primeiros 20 dias de agosto subiram 56% em termos homólogos, com as importações a crescerem 19% e um excedente comercial provisório de US$ 13,98 bilhões. Seul vai criar um Future Fund financiado pela receita fiscal extraordinária dos chips de IA. O won ganhou 1% face ao dólar. No Banco da Coreia, o vice-governador Kwon diz que o crescimento avança mais do que o antecipado e que a inflação está acima da meta, com riscos de estabilidade financeira a persistirem.",
-      "impacto": "As exportações coreanas são o melhor indicador avançado do comércio mundial e do ciclo de semicondutores: 56% confirma que a procura ligada a IA continua a acelerar, o que sustenta o apetite por risco global e o beta de tecnologia com que o Ibovespa se correlaciona. Won forte é mais um sinal de dólar fraco na Ásia, favorável ao real e ao fluxo para emergentes.",
-      "n_noticias": 9,
+      "titulo": "Japão: CPI e PMI reforçam a aposta numa subida do BoJ em setembro",
+      "sinal": "risk_off",
+      "resumo": "O CPI cheio de julho subiu 2,0% em termos homólogos e o núcleo 1,8%, em linha com o esperado, e o PMI industrial flash de agosto chegou a 55,1, o mais forte desde fevereiro. A primeira-ministra Takaichi admite que as taxas longas estão a subir e que os aumentos salariais se enraizaram; o Ministério das Finanças pondera assumir juro de 3,8% no cálculo do serviço da dívida para 2027/28. O mercado vê o BoJ a subir para 1,25% em setembro.",
+      "impacto": "O aperto japonês encarece o carry trade financiado em iene, historicamente a fonte de alavancagem que sustenta posições em emergentes; um desmonte desordenado atinge o Ibovespa e o real por fluxo, não por fundamento. É o principal risco técnico externo do mês, a par do prémio de prazo americano.",
+      "n_noticias": 12,
       "noticias": [
+        {
+          "id": "6e9cf29b5b70",
+          "titulo": "Japan PM Takaichi on X: Japan is seeing wage rises become embedded as a trend as it shifts away from deflation-prone economy to growth-oriented one.",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "08:45",
+          "link": "https://www.financialjuice.com/News/9730638/Japan-PM-Takaichi-on-X-Japan-is-seeing-wage-rises-become-embedded-as-a-trend-as-it-shifts-away-from-deflation-prone-economy-to-growth-oriented-one.aspx?xy=rss"
+        },
+        {
+          "id": "c97a5fc49460",
+          "titulo": "Japan Finance Ministry considering setting assumed interest rate at 3.8% for calculating debt servicing costs in fiscal 2027/28 budget request - Nikkei",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "08:04",
+          "link": "https://www.financialjuice.com/News/9730800/Japan-Finance-Ministry-considering-setting-assumed-interest-rate-at-38-for-calculating-debt-servicing-costs-in-fiscal-202728-budget-request---Nikkei.aspx?xy=rss"
+        },
+        {
+          "id": "8454f9bd8337",
+          "titulo": "Japanese inflation rises as central bank weighs rate increase",
+          "fonte": "FT Markets",
+          "data": "2026-08-21",
+          "hora": "05:54",
+          "link": "https://www.ft.com/content/4e128c45-b84c-4fc3-98bf-c5033c201ea6?syn-25a6b1a6=1"
+        },
+        {
+          "id": "3e6fbb995a39",
+          "titulo": "Flash PMI shows Japan factories leading strongest growth since February",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "01:37",
+          "link": "https://investinglive.com/news/flash-pmi-shows-japan-factories-leading-strongest-growth-since-february/"
+        },
+        {
+          "id": "cb730b506af1",
+          "titulo": "Japan S&P global August flash manufacturing PMI at 55.1 vs 54.5 in July",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "01:30",
+          "link": "https://www.financialjuice.com/News/9730339/Japan-SP-global-August-flash-manufacturing-PMI-at-551-vs-545-in-July.aspx?xy=rss"
+        },
+        {
+          "id": "65ecadab4cfa",
+          "titulo": "Japanese Composite PMI Flash Actual 53.4 (Forecast -, Previous 52.7)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "01:30",
+          "link": "https://www.financialjuice.com/News/9730334/Japanese-Composite-PMI-Flash-Actual-534-Forecast---Previous-527.aspx?xy=rss"
+        },
+        {
+          "id": "63ce84897272",
+          "titulo": "BOJ seen hiking to 1.25% in September as Japan inflation pressures broaden",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "01:04",
+          "link": "https://investinglive.com/central-banks/boj-seen-hiking-to-1-25-in-september-as-japan-inflation-pressures-broaden/"
+        },
+        {
+          "id": "11c5f01c3245",
+          "titulo": "Japan July CPI excluding fresh food, energy prices rises 1.9% year-on-year: govt",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "00:38",
+          "link": "https://www.financialjuice.com/News/9730291/Japan-July-CPI-excluding-fresh-food-energy-prices-rises-19-year-on-year-govt.aspx?xy=rss"
+        },
+        {
+          "id": "d3a4271a89b3",
+          "titulo": "Japanese CPI Overall Nationwide Actual 2.0% (Forecast 1.9%, Previous 1.7%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "00:31",
+          "link": "https://www.financialjuice.com/News/9730260/Japanese-CPI-Overall-Nationwide-Actual-20-Forecast-19-Previous-17.aspx?xy=rss"
+        },
+        {
+          "id": "1b9fbf2022e9",
+          "titulo": "Japanese Core CPI Nationwide YoY Actual 1.8% (Forecast 1.8%, Previous 1.6%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "00:31",
+          "link": "https://www.financialjuice.com/News/9730257/Japanese-Core-CPI-Nationwide-YoY-Actual-18-Forecast-18-Previous-16.aspx?xy=rss"
+        },
+        {
+          "id": "5da06c68a5df",
+          "titulo": "Japan July nationwide core CPI rises 1.8% yr/yr: govt (Poll: 1.8%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "00:30",
+          "link": "https://www.financialjuice.com/News/9730259/Japan-July-nationwide-core-CPI-rises-18-yryr-govt-Poll-18.aspx?xy=rss"
+        },
+        {
+          "id": "28308bc22ccd",
+          "titulo": "Japan July Core CPI 1.8%  y/y (expected 1.8%)",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "00:30",
+          "link": "https://investinglive.com/news/japan-july-headline-cpi-1-8-y-y-expected-1-8/"
+        }
+      ],
+      "criado_em": "2026-08-21T07:49",
+      "atualizado_em": "2026-08-21T13:27"
+    },
+    {
+      "titulo": "PMIs de agosto: zona euro acelera com a indústria alemã a surpreender e a França a contrair",
+      "sinal": "risk_on",
+      "resumo": "O compósito da zona euro subiu para 52,1 (acima dos 51,7 esperados), com a indústria em 52,8 face a 51,8 previstos. O motor foi a Alemanha, cujo PMI industrial saltou para 54,1 contra 52,0 esperados, embora os serviços alemães tenham caído para 48,5. A França continua em contração, com compósito de 48,8.",
+      "impacto": "Indústria europeia a acelerar sustenta a procura por aço, minério e celulose e é leitura positiva para VALE3, GGBR4/CSNA3/USIM5 e SUZB3. Também reforça o argumento de quem defende que o BCE já não precisa de cortar — Kazāks admite prós e contras de subir mais —, o que segura o euro e, por essa via, mantém o dólar sob pressão.",
+      "n_noticias": 12,
+      "noticias": [
+        {
+          "id": "f19a1b4a85fe",
+          "titulo": "Eurozone PMI In Line With Continued Steady Growth Despite Global Unrest",
+          "fonte": "Seeking Alpha",
+          "data": "2026-08-21",
+          "hora": "13:10",
+          "link": "https://seekingalpha.com/article/4939099-eurozone-pmi-in-line-continued-steady-growth-despite-global-unrest?source=feed_all_articles"
+        },
+        {
+          "id": "59c859575b02",
+          "titulo": "Eurozone Composite PMI Flash Actual 52.1 (Forecast 51.7, Previous 52.0)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "09:00",
+          "link": "https://www.financialjuice.com/News/9730886/Eurozone-Composite-PMI-Flash-Actual-521-Forecast-517-Previous-520.aspx?xy=rss"
+        },
+        {
+          "id": "d73f709eb5c6",
+          "titulo": "Eurozone Manufacturing PMI Flash Actual 52.8 (Forecast 51.8, Previous 51.9)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "09:00",
+          "link": "https://www.financialjuice.com/News/9730888/Eurozone-Manufacturing-PMI-Flash-Actual-528-Forecast-518-Previous-519.aspx?xy=rss"
+        },
+        {
+          "id": "8d3a5ac46f89",
+          "titulo": "Eurozone Services PMI Flash Actual 51.7 (Forecast 51.5, Previous 51.7)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "09:00",
+          "link": "https://www.financialjuice.com/News/9730887/Eurozone-Services-PMI-Flash-Actual-517-Forecast-515-Previous-517.aspx?xy=rss"
+        },
+        {
+          "id": "be624b01929f",
+          "titulo": "Euro area business activity sees further pick up in August despite France, Germany softness",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "09:00",
+          "link": "https://investinglive.com/news/euro-area-business-activity-sees-further-pick-up-in-august-despite-france-germany-softness/"
+        },
+        {
+          "id": "3c7d4452d25b",
+          "titulo": "German Manufacturing PMI Flash Actual 54.1 (Forecast 52.1, Previous 52.2)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "08:30",
+          "link": "https://www.financialjuice.com/News/9730830/German-Manufacturing-PMI-Flash-Actual-541-Forecast-521-Previous-522.aspx?xy=rss"
+        },
+        {
+          "id": "28f775384899",
+          "titulo": "German Service PMI Flash Actual 48.5 (Forecast 50.1, Previous 49.8)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "08:30",
+          "link": "https://www.financialjuice.com/News/9730832/German-Service-PMI-Flash-Actual-485-Forecast-501-Previous-498.aspx?xy=rss"
+        },
+        {
+          "id": "a6ebdf36bcd3",
+          "titulo": "German Composite PMI Flash Actual 51 (Forecast 51.3, Previous 51.3)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "08:30",
+          "link": "https://www.financialjuice.com/News/9730831/German-Composite-PMI-Flash-Actual-51-Forecast-513-Previous-513.aspx?xy=rss"
+        },
+        {
+          "id": "da08fc6b6208",
+          "titulo": "Germany August flash manufacturing PMI 54.1 vs 52.0 expected",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "08:30",
+          "link": "https://investinglive.com/news/germany-august-flash-manufacturing-pmi-xx-vs-52-0-expected/"
+        },
+        {
+          "id": "389c5e041bc3",
+          "titulo": "French Manufacturing PMI Flash Actual 51.5 (Forecast 50, Previous 49.8)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "08:15",
+          "link": "https://www.financialjuice.com/News/9730815/French-Manufacturing-PMI-Flash-Actual-515-Forecast-50-Previous-498.aspx?xy=rss"
+        },
+        {
+          "id": "d9ebb22869a6",
+          "titulo": "French Services PMI Flash Actual 48.4 (Forecast 49.4, Previous 49.6)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "08:15",
+          "link": "https://www.financialjuice.com/News/9730817/French-Services-PMI-Flash-Actual-484-Forecast-494-Previous-496.aspx?xy=rss"
+        },
+        {
+          "id": "784a75cd4ae7",
+          "titulo": "French business activity contracts further in August as demand conditions remain subdued",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "08:15",
+          "link": "https://investinglive.com/news/french-business-activity-contracts-further-in-august-as-demand-conditions-remain-subdued/"
+        }
+      ],
+      "criado_em": "2026-08-21T13:27",
+      "atualizado_em": "2026-08-21T13:27"
+    },
+    {
+      "titulo": "Reino Unido: retalho recua mas a confiança vai ao máximo de dois anos e o défice surpreende",
+      "sinal": "neutro",
+      "resumo": "As vendas a retalho de julho caíram 0,5% no mês e o núcleo 0,9%, mas o PMI de serviços de agosto subiu para 52,8 (contra 51,8 esperados) e a confiança do consumidor GfK chegou a -14, a melhor leitura desde agosto de 2024. Do lado fiscal, o Estado britânico pediu emprestado mais do que o previsto em julho, com o ministro Healey a preparar o primeiro Orçamento sob venda de dívida.",
+      "impacto": "Efeito indireto na B3: mais um mercado desenvolvido com risco fiscal a pressionar as taxas longas, no mesmo sentido do que se passa nos EUA. Confiança alta com retalho fraco mantém o BoE sem pressa, o que segura a libra e ajuda a manter o dólar defensivo, marginalmente favorável ao real.",
+      "n_noticias": 12,
+      "noticias": [
+        {
+          "id": "913c3f0309ea",
+          "titulo": "UK economy on ‘firmer footing’ amid rising services sector activity and consumer confidence – business live",
+          "fonte": "Guardian Business",
+          "data": "2026-08-21",
+          "hora": "12:49",
+          "link": "https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates"
+        },
+        {
+          "id": "8c32d346782c",
+          "titulo": "UK borrows more than expected in July as Healey prepares for first Budget",
+          "fonte": "BBC Business",
+          "data": "2026-08-21",
+          "hora": "10:45",
+          "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "8aa9c8e7a0d7",
+          "titulo": "UK August flash services PMI 52.8 vs 51.8 expected",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "09:30",
+          "link": "https://investinglive.com/news/uk-august-flash-services-pmi-xx-vs-51-8-expected/"
+        },
+        {
+          "id": "d973faf95cf0",
+          "titulo": "UK Composite PMI Flash Actual 52.5 (Forecast 51.6, Previous 52.2)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "09:30",
+          "link": "https://www.financialjuice.com/News/9730931/UK-Composite-PMI-Flash-Actual-525-Forecast-516-Previous-522.aspx?xy=rss"
+        },
+        {
+          "id": "7f1a96927700",
+          "titulo": "UK Services PMI Flash Actual 52.8 (Forecast 51.8, Previous 52.1)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "09:30",
+          "link": "https://www.financialjuice.com/News/9730930/UK-Services-PMI-Flash-Actual-528-Forecast-518-Previous-521.aspx?xy=rss"
+        },
+        {
+          "id": "37653b3cc03a",
+          "titulo": "UK Manufacturing PMI Flash Actual 51.5 (Forecast 51.5, Previous 51.9)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "09:30",
+          "link": "https://www.financialjuice.com/News/9730929/UK-Manufacturing-PMI-Flash-Actual-515-Forecast-515-Previous-519.aspx?xy=rss"
+        },
+        {
+          "id": "a8e4d2dca49c",
+          "titulo": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
+          "fonte": "Guardian Business",
+          "data": "2026-08-21",
+          "hora": "07:34",
+          "link": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget"
+        },
+        {
+          "id": "b19995e1c9a4",
+          "titulo": "Retail sales fall despite World Cup and hot weather boosting alcohol and drinks trade – business live",
+          "fonte": "Guardian Business",
+          "data": "2026-08-21",
+          "hora": "07:24",
+          "link": "https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates"
+        },
+        {
+          "id": "d0c43493a0ff",
+          "titulo": "UK PSNB ex Banks Actual 1.800B (Forecast -, Previous 15.989B)",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "07:01",
+          "link": "https://www.financialjuice.com/News/9730695/UK-PSNB-ex-Banks-Actual-1800B-Forecast---Previous-15989B.aspx?xy=rss"
+        },
+        {
+          "id": "042efcd81c2d",
+          "titulo": "UK retail sales fall in July as early summer buzz fades",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "07:00",
+          "link": "https://investinglive.com/news/uk-july-retail-sales-vs-0-5-m-m-expected/"
+        },
+        {
+          "id": "ea68c9d1de10",
+          "titulo": "Healey warned to limit Budget borrowing amid bond sell-off",
+          "fonte": "FT Markets",
+          "data": "2026-08-21",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/2d7e64e8-386a-4987-ae4d-04b6bf2a5e6a?syn-25a6b1a6=1"
+        },
+        {
+          "id": "b1f127e1db99",
+          "titulo": "UK GfK Consumer confidence index at -14 in August vs -17 in July (poll: -18), strongest since August 2024",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "00:01",
+          "link": "https://www.financialjuice.com/News/9730237/UK-GfK-Consumer-confidence-index-at--14-in-August-vs--17-in-July-poll--18-strongest-since-August-2024.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-08-21T13:27",
+      "atualizado_em": "2026-08-21T13:27"
+    },
+    {
+      "titulo": "IA e semicondutores marcam passo à espera dos resultados da Nvidia",
+      "sinal": "neutro",
+      "resumo": "O mercado trata o balanço da Nvidia da próxima semana como o gatilho capaz de destravar uma bolsa parada, com a dúvida a ser se a empresa quebra o padrão recente de reação negativa mesmo com números fortes. Em paralelo, a Nvidia negoceia com a sul-coreana Rebellions, a Huawei promete IA até 89% mais barata, os hedge funds reforçaram Big Tech após a limpeza de carteiras do verão e a Coreia do Sul vai criar um fundo com a receita fiscal extraordinária dos chips.",
+      "impacto": "Como o beta de tecnologia global puxa o apetite por risco, um susto na Nvidia contamina o Ibovespa por correlação e pesa em B3SA3 via volume negociado. A promessa da Huawei de inferência mais barata é o principal risco de tese para o ciclo de capex de IA, que é o que sustenta a procura por energia e metais. Sem número na mesa, é antecipação.",
+      "n_noticias": 11,
+      "noticias": [
+        {
+          "id": "e49647945f16",
+          "titulo": "Nvidia: There Is No Plan B",
+          "fonte": "Seeking Alpha",
+          "data": "2026-08-21",
+          "hora": "13:00",
+          "link": "https://seekingalpha.com/article/4938258-nvidia-there-is-no-plan-b?source=feed_all_articles"
+        },
+        {
+          "id": "6dc017b807df",
+          "titulo": "Amazon: Don't Miss Out On The Clearance Sale",
+          "fonte": "Seeking Alpha",
+          "data": "2026-08-21",
+          "hora": "13:00",
+          "link": "https://seekingalpha.com/article/4939088-amazon-do-not-miss-out-on-clearance-sale?source=feed_all_articles"
+        },
+        {
+          "id": "0dbd2582a9c4",
+          "titulo": "Recent Pullback Could Be An Appealing Entry Point For GlobalFoundries",
+          "fonte": "Seeking Alpha",
+          "data": "2026-08-21",
+          "hora": "12:52",
+          "link": "https://seekingalpha.com/article/4939083-recent-pullback-could-be-an-appealing-entry-point-for-globalfoundries?source=feed_all_articles"
+        },
+        {
+          "id": "3bad37595513",
+          "titulo": "Ichor Holdings: Q2 Confirmed The Margin Inflection, I Remain Strong Buy",
+          "fonte": "Seeking Alpha",
+          "data": "2026-08-21",
+          "hora": "12:41",
+          "link": "https://seekingalpha.com/article/4939081-ichor-holdings-q2-confirmed-the-margin-inflection-i-remain-strong-buy?source=feed_all_articles"
+        },
+        {
+          "id": "60270f9b9547",
+          "titulo": "Qualcomm: A Compelling Turnaround Opportunity",
+          "fonte": "Seeking Alpha",
+          "data": "2026-08-21",
+          "hora": "12:34",
+          "link": "https://seekingalpha.com/article/4939080-qualcomm-compelling-turnaround-opportunity?source=feed_all_articles"
+        },
+        {
+          "id": "1bff6f286301",
+          "titulo": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
+          "fonte": "MarketWatch",
+          "data": "2026-08-21",
+          "hora": "11:54",
+          "link": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories"
+        },
+        {
+          "id": "70d22b3ece24",
+          "titulo": "I worked at OpenAI. Here’s how tech companies can prepare for a slowdown | Miles Brundage",
+          "fonte": "Guardian Business",
+          "data": "2026-08-21",
+          "hora": "11:00",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed"
+        },
+        {
+          "id": "0941ef5dd476",
+          "titulo": "Hedge funds are doubling down on Big Tech even after summer volatility triggered a massive portfolio cleanup",
+          "fonte": "MarketWatch",
+          "data": "2026-08-21",
+          "hora": "10:11",
+          "link": "https://www.marketwatch.com/story/hedge-funds-are-doubling-down-on-big-tech-even-after-summer-volatility-triggered-a-massive-portfolio-cleanup-57dbbf8a?mod=mw_rss_topstories"
+        },
+        {
+          "id": "d5c90ef6ca27",
+          "titulo": "NVIDIA and AI chipmaker Rebellions in talks for potential deal.",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "08:47",
+          "link": "https://www.financialjuice.com/News/9730885/NVIDIA-and-AI-chipmaker-Rebellions-in-talks-for-potential-deal.aspx?xy=rss"
+        },
+        {
+          "id": "4f0e5300bdf6",
+          "titulo": "Huawei promete IA até 89% mais barata — mas token não conta a história toda",
+          "fonte": "Exame",
+          "data": "2026-08-21",
+          "hora": "06:01",
+          "link": "https://exame.com/inteligencia-artificial/huawei-promete-ia-ate-89-mais-barata-mas-token-nao-conta-a-historia-toda/"
+        },
         {
           "id": "2246b0e9b012",
           "titulo": "South Korea to launch Future Fund with windfall AI chip tax revenue",
@@ -412,105 +631,49 @@
           "data": "2026-08-21",
           "hora": "04:03",
           "link": "https://investinglive.com/stock-market-update/south-korea-to-launch-future-fund-with-windfall-ai-chip-tax-revenue/"
-        },
-        {
-          "id": "4d572b782b4d",
-          "titulo": "S. Korea's won climbs 1% against dollar",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "02:30",
-          "link": "https://www.financialjuice.com/News/9730395/S-Koreas-won-climbs-1-against-dollar.aspx?xy=rss"
-        },
-        {
-          "id": "1a61b7665f30",
-          "titulo": "Bok Deputy Chief Kwon: Dollar-won rate to fundamentally decline",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "02:13",
-          "link": "https://www.financialjuice.com/News/9730373/Bok-Deputy-Chief-Kwon-Dollar-won-rate-to-fundamentally-decline.aspx?xy=rss"
-        },
-        {
-          "id": "ae1886baf8b0",
-          "titulo": "S.Korea aug 1-20 exports rise 56% y/y: customs agency",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "01:30",
-          "link": "https://www.financialjuice.com/News/9730338/SKorea-aug-1-20-exports-rise-56-yy-customs-agency.aspx?xy=rss"
-        },
-        {
-          "id": "8b1f071c5718",
-          "titulo": "Bank of Korea senior deputy governor Kwon: Growth advancing more than anticipated",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "01:30",
-          "link": "https://www.financialjuice.com/News/9730336/Bank-of-Korea-senior-deputy-governor-Kwon-Growth-advancing-more-than-anticipated.aspx?xy=rss"
-        },
-        {
-          "id": "b94bcff60905",
-          "titulo": "Kwon: Inflation surpassing target, financial stability risks persist",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "01:30",
-          "link": "https://www.financialjuice.com/News/9730335/Kwon-Inflation-surpassing-target-financial-stability-risks-persist.aspx?xy=rss"
-        },
-        {
-          "id": "8de614bf3f3b",
-          "titulo": "S. Korea Aug 1-20 trade surplus provisional $13.98 billion: customs agency",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "01:00",
-          "link": "https://www.financialjuice.com/News/9730302/S-Korea-Aug-1-20-trade-surplus-provisional-1398-billion-customs-agency.aspx?xy=rss"
-        },
-        {
-          "id": "f1a36c5aebee",
-          "titulo": "S.Korea Aug 1-20 imports rise 19% y/y: customs agency",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-21",
-          "hora": "01:00",
-          "link": "https://www.financialjuice.com/News/9730301/SKorea-Aug-1-20-imports-rise-19-yy-customs-agency.aspx?xy=rss"
-        },
-        {
-          "id": "652f4efe1ead",
-          "titulo": "S. Korean PPI YoY Actual 7.7% (Forecast -, Previous 8.6%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-20",
-          "hora": "22:00",
-          "link": "https://www.financialjuice.com/News/9730124/S-Korean-PPI-YoY-Actual-77-Forecast---Previous-86.aspx?xy=rss"
         }
       ],
-      "criado_em": "2026-08-21T07:49",
-      "atualizado_em": "2026-08-21T07:49"
+      "criado_em": "2026-08-21T13:27",
+      "atualizado_em": "2026-08-21T13:27"
     },
     {
-      "titulo": "EUA-Irão: \"D-Day económico\" e ameaça de ataques a instalações petrolíferas",
+      "titulo": "EUA-Irão: 'D-Day económico' escala com 750 militares feridos e ameaça de mais sanções",
       "sinal": "risk_off",
-      "resumo": "Trump prometeu medidas económicas mais duras contra o Irão e contra os países que o apoiem, e disse que o país está \"em mau estado\", citando o colapso da produção de armamento. Do lado iraniano, um responsável afirma que estão planeados ataques a alvos petrolíferos para prejudicar Trump antes das intercalares. Os dados de tráfego mostram as travessias do Estreito de Ormuz a abrandar face ao dia anterior e a manterem-se em números de um dígito. O Nikkei segue para a pior semana num mês por receio com o petróleo.",
-      "impacto": "Risco de oferta no petróleo sustenta o Brent e favorece PETR4 e PRIO3 pela receita, mas o mesmo choque é inflacionário lá fora e adia cortes de juros — mau para o Ibovespa amplo e para os cíclicos domésticos (CYRE3, MRVE3). Ormuz apertado também encarece frete e fertilizantes, com leitura negativa para o agro (JBSS32, BEEF3).",
-      "n_noticias": 6,
+      "resumo": "O Pentágono confirmou mais de 750 militares feridos nas operações contra o Irão e Trump prometeu medidas económicas mais duras contra Teerão e os países que a apoiam. Do lado iraniano, o presidente Pezeshkian diz que o país deve encerrar a guerra 'em posição de força' e o presidente do parlamento fala em plano para contornar as sanções. No Brasil, o dólar abriu em queda de olho nesta frente.",
+      "impacto": "A escalada mantém o prémio de risco no petróleo, o que sustenta PETR4 e PRIO3, mas eleva a aversão global ao risco e a procura por dólar de refúgio, que joga contra o Ibovespa como um todo. Um armistício, se vier, inverte os dois efeitos: alivia o índice e retira suporte às petrolíferas.",
+      "n_noticias": 7,
       "noticias": [
         {
-          "id": "c3e74b5d6af9",
-          "titulo": "Asia shares mixed as Nikkei heads for worst week in a month on oil fears",
-          "fonte": "ForexLive",
+          "id": "d668690ebbe4",
+          "titulo": "Dólar abre em queda, de olho em guerra econômica de Trump no Irã",
+          "fonte": "G1 Economia",
           "data": "2026-08-21",
-          "hora": "04:15",
-          "link": "https://investinglive.com/stock-market-update/asia-shares-mixed-as-nikkei-heads-for-worst-week-in-a-month-on-oil-fears/"
+          "hora": "13:16",
+          "link": "https://g1.globo.com/economia/noticia/2026/08/21/dolar-ibovespa.ghtml"
         },
         {
-          "id": "d270436e9c96",
-          "titulo": "Strait of Hormuz ship crossings slow from previous day, staying in single digits, data shows",
+          "id": "15fd49aed26f",
+          "titulo": "Mais de 750 militares foram feridos durante operações contra Irã, diz Pentágono",
+          "fonte": "InfoMoney",
+          "data": "2026-08-21",
+          "hora": "12:50",
+          "link": "https://www.infomoney.com.br/mundo/mais-de-750-militares-foram-feridos-durante-operacoes-contra-ira-diz-pentagono/"
+        },
+        {
+          "id": "d5b60c336894",
+          "titulo": "President Pezeshkian: Iran should end the war now that it is in a position of strength and the world acknowledges its victory - ISNA",
           "fonte": "FinancialJuice",
           "data": "2026-08-21",
-          "hora": "03:32",
-          "link": "https://www.financialjuice.com/News/9730511/Strait-of-Hormuz-ship-crossings-slow-from-previous-day-staying-in-single-digits-data-shows.aspx?xy=rss"
+          "hora": "12:23",
+          "link": "https://www.financialjuice.com/News/9731154/President-Pezeshkian-Iran-should-end-the-war-now-that-it-is-in-a-position-of-strength-and-the-world-acknowledges-its-victory---ISNA.aspx?xy=rss"
         },
         {
-          "id": "6827654fb731",
-          "titulo": "Iran plans oil strikes to hurt Trump before midterms, official says",
-          "fonte": "ForexLive",
+          "id": "422e85090e95",
+          "titulo": "Iran's parliament speaker Qalibaf, following Trump's threat: We must plan to overcome these unjust sanctions so that we can overcome them",
+          "fonte": "FinancialJuice",
           "data": "2026-08-21",
-          "hora": "00:40",
-          "link": "https://investinglive.com/commodities/iran-plans-oil-strikes-to-hurt-trump-before-midterms-official-says/"
+          "hora": "08:24",
+          "link": "https://www.financialjuice.com/News/9730829/Irans-parliament-speaker-Qalibaf-following-Trumps-threat-We-must-plan-to-overcome-these-unjust-sanctions-so-that-we-can-overcome-them.aspx?xy=rss"
         },
         {
           "id": "028e6105aed2",
@@ -538,15 +701,98 @@
         }
       ],
       "criado_em": "2026-08-21T07:49",
-      "atualizado_em": "2026-08-21T07:49"
+      "atualizado_em": "2026-08-21T13:27"
     },
     {
-      "titulo": "Trade do debasement: ouro ruma à terceira semana de ganhos e o dólar apanha na Ásia",
-      "sinal": "neutro",
-      "resumo": "O dólar foi vendido com força na sessão asiática de sexta-feira, com ouro, bitcoin e divisas a subirem enquanto os investidores se protegem de dúvidas sobre a credibilidade fiscal dos EUA. O ouro caminha para a terceira semana consecutiva de ganhos e Jeff Currie, veterano da Goldman, liga o rali à desvalorização das moedas e a um prémio de escassez nas matérias-primas. Em sentido contrário, o banco central russo, outrora o maior comprador mundial de ouro, passou a vendedor regular. A cripto acompanhou o movimento.",
-      "impacto": "Dólar fraco e matérias-primas fortes são historicamente favoráveis ao real e ao bloco de recursos da carteira — VALE3 e PETR4 —, e um dólar mais barato costuma reabrir fluxo para emergentes. Mas o motor aqui é o receio fiscal americano, o mesmo que empurra o prémio de prazo para cima; por isso a direção líquida para o Ibovespa fica por definir. Toca diretamente os tokens do bloco de cripto do app.",
-      "n_noticias": 6,
+      "titulo": "Petróleo ruma à segunda semana de alta com Ormuz travado e refinaria russa atacada",
+      "sinal": "risk_off",
+      "resumo": "O petróleo caminha para a segunda semana consecutiva de ganhos com as sanções americanas no radar. As travessias do Estreito de Ormuz caíram para um dígito por dia, a Ucrânia atingiu a refinaria russa de Perm e um responsável iraniano admitiu planos de ataques a instalações petrolíferas antes das eleições intercalares nos EUA. O Iraque enviou ministros à Arábia Saudita para discutir produção da OPEP.",
+      "impacto": "Leitura positiva direta para PETR4 e PRIO3, cujo caixa é sensível ao Brent, e negativa para a inflação de combustíveis no Brasil, o que aperta a margem do Copom para novos cortes da Selic. O receio com o petróleo já levou o Nikkei à pior semana num mês, sinal de que o choque de oferta está a contaminar o humor de risco global.",
+      "n_noticias": 7,
       "noticias": [
+        {
+          "id": "25581e5a4b0d",
+          "titulo": "Iraq sent ministers to Saudi Arabia to discuss OPEC output.",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "09:29",
+          "link": "https://www.financialjuice.com/News/9730928/Iraq-sent-ministers-to-Saudi-Arabia-to-discuss-OPEC-output.aspx?xy=rss"
+        },
+        {
+          "id": "aca23dabb843",
+          "titulo": "Ukraine’s President Zelenskiy: Ukraine's Military hit Russian oil refinery in Perm and Marinovka military air base in Volgograd region.",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "09:23",
+          "link": "https://www.financialjuice.com/News/9730927/Ukraines-President-Zelenskiy-Ukraines-Military-hit-Russian-oil-refinery-in-Perm-and-Marinovka-military-air-base-in-Volgograd-region.aspx?xy=rss"
+        },
+        {
+          "id": "da51828cc922",
+          "titulo": "Petróleo caminha para 2ª semana de alta com sanção dos EUA no radar",
+          "fonte": "Exame",
+          "data": "2026-08-21",
+          "hora": "07:52",
+          "link": "https://exame.com/invest/mercados/petroleo-caminha-para-2a-semana-de-alta-com-sancao-dos-eua-no-radar/"
+        },
+        {
+          "id": "c3e74b5d6af9",
+          "titulo": "Asia shares mixed as Nikkei heads for worst week in a month on oil fears",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "04:15",
+          "link": "https://investinglive.com/stock-market-update/asia-shares-mixed-as-nikkei-heads-for-worst-week-in-a-month-on-oil-fears/"
+        },
+        {
+          "id": "d270436e9c96",
+          "titulo": "Strait of Hormuz ship crossings slow from previous day, staying in single digits, data shows",
+          "fonte": "FinancialJuice",
+          "data": "2026-08-21",
+          "hora": "03:32",
+          "link": "https://www.financialjuice.com/News/9730511/Strait-of-Hormuz-ship-crossings-slow-from-previous-day-staying-in-single-digits-data-shows.aspx?xy=rss"
+        },
+        {
+          "id": "b9466be7e337",
+          "titulo": "California oil pipeline can continue to operate, judge rules",
+          "fonte": "Guardian Business",
+          "data": "2026-08-21",
+          "hora": "01:13",
+          "link": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling"
+        },
+        {
+          "id": "6827654fb731",
+          "titulo": "Iran plans oil strikes to hurt Trump before midterms, official says",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "00:40",
+          "link": "https://investinglive.com/commodities/iran-plans-oil-strikes-to-hurt-trump-before-midterms-official-says/"
+        }
+      ],
+      "criado_em": "2026-08-21T07:49",
+      "atualizado_em": "2026-08-21T13:27"
+    },
+    {
+      "titulo": "Trade do debasement: ouro na terceira semana de alta e cripto a disparar com o dólar em queda",
+      "sinal": "neutro",
+      "resumo": "O ouro segue para a terceira semana consecutiva de ganhos e o bitcoin disparou na sessão asiática, com o dólar sob pressão enquanto investidores se protegem da credibilidade fiscal americana. O veterano da Goldman Jeff Currie liga o rali do ouro ao debasement e a um prémio de escassez nas matérias-primas; o banco central russo, outrora o maior comprador de ouro, é agora vendedor líquido.",
+      "impacto": "Dólar fraco e prémio de escassez nas commodities apoiam o real e as exportadoras da B3 (VALE3, PETR4, SUZB3, siderúrgicas), e cripto em alta valida a exposição aos tokens seguidos no app. Mas o movimento é uma cobertura contra risco fiscal, não um voto de confiança no ciclo: acompanhado de yields longos mais altos, o efeito líquido para ações fica ambíguo.",
+      "n_noticias": 7,
+      "noticias": [
+        {
+          "id": "48067e3730be",
+          "titulo": "investingLive European markets wrap: Gold runs higher, dollar stays under pressure",
+          "fonte": "ForexLive",
+          "data": "2026-08-21",
+          "hora": "12:38",
+          "link": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-runs-higher-dollar-stays-under-pressure/"
+        },
+        {
+          "id": "ba606cf05fbb",
+          "titulo": "Bitcoin's Bear Is Ready For Hibernation",
+          "fonte": "Seeking Alpha",
+          "data": "2026-08-21",
+          "hora": "12:24",
+          "link": "https://seekingalpha.com/article/4939077-bitcoins-bear-is-ready-for-hibernation?source=feed_all_articles"
+        },
         {
           "id": "c9afbed00313",
           "titulo": "Gold stays poised to post third straight week of gains",
@@ -580,14 +826,6 @@
           "link": "https://investinglive.com/commodities/goldman-veteran-currie-ties-gold-rally-to-debasement-as-commodities-capture-scarcity-premium/"
         },
         {
-          "id": "5f0e1a355828",
-          "titulo": "Bitcoin price forecasts for year 2027",
-          "fonte": "ForexLive",
-          "data": "2026-08-21",
-          "hora": "01:52",
-          "link": "https://investinglive.com/cryptocurrency/bitcoin-price-forecasts-for-year-2028/"
-        },
-        {
           "id": "0d7952a8d00b",
           "titulo": "Once the world's top gold buyer, Russia's central bank now a steady seller",
           "fonte": "ForexLive",
@@ -597,120 +835,120 @@
         }
       ],
       "criado_em": "2026-08-21T07:49",
-      "atualizado_em": "2026-08-21T07:49"
+      "atualizado_em": "2026-08-21T13:27"
     },
     {
-      "titulo": "Oferta de petróleo fora da OPEP: refino ocidental a encolher e novos poços",
-      "sinal": "neutro",
-      "resumo": "A capacidade de refinação europeia deve encolher cerca de 20% na próxima década e, segundo o FT, nem a crise energética salva as refinarias ocidentais do fecho estrutural. Em paralelo, o upstream mexe-se: Harold Hamm lançou um plano de vários bilhões de dólares para perfurar o xisto argentino, um tribunal autorizou a continuidade de operação de um oleoduto na Califórnia, e um grupo petrolífero alinhado com Trump faz lobby na Gronelândia para destravar a exploração no Ártico.",
-      "impacto": "Menos capacidade de refino no Ocidente sustenta as margens de refino (cracks) de quem a tem — leitura estruturalmente favorável ao segmento de refino da PETR4. Do outro lado, o avanço do xisto argentino em Vaca Muerta é concorrência regional de médio prazo para a Petrobras na exportação e para a PRIO3 no prémio do barril sul-americano.",
-      "n_noticias": 5,
+      "titulo": "Consumidor americano trava e o tom dos resultados fica defensivo",
+      "sinal": "risk_off",
+      "resumo": "As vendas do Walmart ficaram sob pressão com os consumidores americanos a recuar e a caçar promoções, e o aviso da retalhista puxou para baixo o tom das projeções do terceiro trimestre. A leitura reforça os sinais de alerta já visíveis na economia americana.",
+      "impacto": "Consumidor americano mais fraco corta a procura por bens importados e pesa nas exportadoras brasileiras ligadas ao ciclo (proteína, celulose, aço), mas também antecipa um Fed menos restritivo, o que historicamente ajuda os emergentes. Na carteira, o efeito mais direto é sobre SUZB3 e as siderúrgicas GGBR4/CSNA3/USIM5, expostas à procura industrial global.",
+      "n_noticias": 4,
       "noticias": [
         {
-          "id": "90b268c6b660",
-          "titulo": "Why the energy crisis won’t save western oil refineries",
-          "fonte": "FT Markets",
+          "id": "b25e926838ce",
+          "titulo": "American consumers are delivering a retail reality check as they laser in on bargains",
+          "fonte": "MarketWatch",
           "data": "2026-08-21",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/e5512d10-6ade-4e40-97df-9f7d24a01d04?syn-25a6b1a6=1"
+          "hora": "13:00",
+          "link": "https://www.marketwatch.com/story/american-consumers-are-delivering-a-retail-reality-check-as-they-laser-in-on-bargains-96816053?mod=mw_rss_topstories"
         },
         {
-          "id": "b9466be7e337",
-          "titulo": "California oil pipeline can continue to operate, judge rules",
-          "fonte": "Guardian Business",
+          "id": "4d4397206d35",
+          "titulo": "Q3 earnings sentiment turns defensive as Walmart deepens the warning",
+          "fonte": "ForexLive",
           "data": "2026-08-21",
-          "hora": "01:13",
-          "link": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling"
+          "hora": "08:31",
+          "link": "https://investinglive.com/stocks/q3-earnings-sentiment-turns-defensive-as-walmart-deepens-the-warning/"
         },
         {
-          "id": "70c6726dbf5a",
-          "titulo": "Europe’s oil refining capacity set to shrink by 20% over next decade",
-          "fonte": "FT Markets",
-          "data": "2026-08-20",
-          "hora": "15:29",
-          "link": "https://www.ft.com/content/eae8bbc5-7946-4fdc-8e0a-3215f7e56dd2?syn-25a6b1a6=1"
+          "id": "f5e95a33c746",
+          "titulo": "Why the US economy is ringing alarm bells",
+          "fonte": "BBC Business",
+          "data": "2026-08-21",
+          "hora": "00:15",
+          "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "9d49bbbda316",
-          "titulo": "Harold Hamm launches multibillion-dollar plan to drill Argentine shale",
-          "fonte": "FT Markets",
+          "id": "35ae8c549274",
+          "titulo": "Walmart sales under strain as US shoppers pull back",
+          "fonte": "BBC Business",
           "data": "2026-08-20",
-          "hora": "11:00",
-          "link": "https://www.ft.com/content/2e59ab7f-ed8f-4cbe-9faf-b2cb408768d5?syn-25a6b1a6=1"
-        },
-        {
-          "id": "5bdd99f9a7e6",
-          "titulo": "Art of the seal: Trump-aligned oil group touts ‘sealskin diplomacy’ on Greenland",
-          "fonte": "FT Markets",
-          "data": "2026-08-20",
-          "hora": "11:00",
-          "link": "https://www.ft.com/content/a26812af-663c-486a-9955-bb392763403c?syn-25a6b1a6=1"
+          "hora": "18:59",
+          "link": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "criado_em": "2026-08-21T07:49",
-      "atualizado_em": "2026-08-21T07:49"
+      "criado_em": "2026-08-21T13:27",
+      "atualizado_em": "2026-08-21T13:27"
     },
     {
-      "titulo": "Seca e calor estrangulam rotas de navegação: Panamá corta trânsitos",
-      "sinal": "risk_off",
-      "resumo": "O Canal do Panamá vai reduzir o número de navios em trânsito diário, com o El Niño a ameaçar os níveis de água da rota. É o mesmo padrão que já atinge a Europa: o calor e a seca estão a prejudicar a economia alemã pelas hidrovias, com os rios a limitarem o transporte fluvial.",
-      "impacto": "Menos trânsitos no Panamá significam filas e frete mais caro nas rotas Atlântico-Pacífico, o que encarece o escoamento das exportações brasileiras de proteína e celulose — JBSS32, BEEF3, SUZB3 e KLBN11 — e alarga o desconto do produto posto na origem. Efeito de segunda ordem sobre a inflação de bens importados.",
+      "titulo": "Carne: Trump abre quota extra de importação e Tyson fecha duas fábricas nos EUA",
+      "sinal": "risk_on",
+      "resumo": "Trump liberou limite extra de importação de carne bovina para tentar baixar preços nos EUA, numa altura em que a Tyson encerra duas plantas de bovinos. Em paralelo, a oferta da JBS N.V. pela Pilgrim's Pride é vista como provável de ser rejeitada e depois elevada.",
+      "impacto": "Quota extra de importação e fecho de capacidade nos EUA abrem espaço para a proteína brasileira e são leitura positiva para BEEF3 e JBSS32, ambas com a exportação como fatia dominante da receita. Para a JBSS32 acresce o ângulo societário: uma oferta revista em alta pela Pilgrim's consome caixa e alavancagem, o que corta nos dois sentidos consoante o preço final.",
       "n_noticias": 3,
       "noticias": [
         {
-          "id": "d73c619cc283",
-          "titulo": "Panama canal to reduce shipping as El Niño strikes vital route",
+          "id": "f2d0dfaf01d5",
+          "titulo": "‘Operação salva-hambúrguer’: Trump libera limite extra para importar carne e tentar baixar preços nos EUA",
+          "fonte": "G1 Economia",
+          "data": "2026-08-21",
+          "hora": "13:16",
+          "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/trump-hamburguer-eua.ghtml"
+        },
+        {
+          "id": "5878ddbb0b71",
+          "titulo": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
           "fonte": "Guardian Business",
           "data": "2026-08-21",
-          "hora": "03:21",
-          "link": "https://www.theguardian.com/world/2026/aug/21/panama-canal-reduce-shipping-el-nino-drought"
+          "hora": "12:00",
+          "link": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage"
         },
         {
-          "id": "43f125a6721e",
-          "titulo": "Panama Canal caps daily transits as El Niño threatens water levels",
-          "fonte": "ForexLive",
-          "data": "2026-08-20",
-          "hora": "23:52",
-          "link": "https://investinglive.com/commodities/panama-canal-caps-daily-transits-as-el-nino-threatens-water-levels/"
-        },
-        {
-          "id": "f856362a7f1d",
-          "titulo": "Heatwaves and waterways",
-          "fonte": "FT Markets",
-          "data": "2026-08-20",
-          "hora": "21:00",
-          "link": "https://www.ft.com/content/da9d84b1-9c67-4d56-890c-ce667db2be3c?syn-25a6b1a6=1"
+          "id": "9a3af036f53a",
+          "titulo": "The JBS N.V. Bid For Pilgrim's Pride - Likely To Be Rejected And Raised",
+          "fonte": "Seeking Alpha",
+          "data": "2026-08-21",
+          "hora": "11:55",
+          "link": "https://seekingalpha.com/article/4939070-jbs-bid-for-pilgrims-pride-likely-to-be-rejected-and-raised?source=feed_all_articles"
         }
       ],
-      "criado_em": "2026-08-21T07:49",
-      "atualizado_em": "2026-08-21T07:49"
+      "criado_em": "2026-08-21T13:27",
+      "atualizado_em": "2026-08-21T13:27"
     },
     {
-      "titulo": "Fed em foco: Warsh fala em Jackson Hole a 28 de agosto",
+      "titulo": "STF retoma a tributação de lucros no exterior, com R$ 22 bilhões em jogo",
       "sinal": "neutro",
-      "resumo": "A Reserva Federal confirmou que o presidente Warsh discursa em Jackson Hole a 28 de agosto, às 10h de Nova Iorque. No debate que antecede o encontro, Nellie Liang diz que o objetivo, no limite, é sinalizar que as taxas altas são uma preocupação.",
-      "impacto": "Jackson Hole é o próximo evento com poder para reposicionar a curva americana e, com ela, o dólar e a curva de DI. Enquanto não houver sinal, o mercado fica sem âncora — e é essa ausência que deixa a ponta longa dos Treasuries à mercê do fluxo. Sem leitura direcional para os ativos brasileiros até ao dia 28.",
-      "n_noticias": 2,
+      "resumo": "O Supremo retomou o julgamento sobre a tributação de lucros de controladas e coligadas no exterior por empresas brasileiras; a União estima perder até R$ 22 bilhões se as empresas vencerem. Na frente tributária paralela, a Receita tem até 14 de setembro para entregar ao TCU a proposta de cálculo da CBS.",
+      "impacto": "O desfecho toca diretamente as multinacionais da carteira com operação relevante fora do Brasil (VALE3, JBSS32, SUZB3, WEGE3, GGBR4): vitória das empresas reduz contingências fiscais e provisões, derrota consolida a cobrança. Sem decisão fechada, é antecipação e não facto consumado; a proposta da CBS define ainda a carga efetiva da reforma tributária.",
+      "n_noticias": 3,
       "noticias": [
         {
-          "id": "ca9bb1ae47d2",
-          "titulo": "Nellie Liang: ‘Ultimately the goal is to signal that high rates are a concern’",
-          "fonte": "FT Markets",
+          "id": "7aa0e73940a2",
+          "titulo": "Receita Federal tem até 14 de setembro para entregar proposta de cálculo da CBS ao TCU",
+          "fonte": "G1 Economia",
           "data": "2026-08-21",
-          "hora": "06:30",
-          "link": "https://www.ft.com/content/3d6256cc-cd21-461a-b4c4-2b368d59d696?syn-25a6b1a6=1"
+          "hora": "13:16",
+          "link": "https://g1.globo.com/economia/noticia/2026/08/20/receita-federal-tem-ate-14-de-setembro-para-entregar-proposta-de-calculo-da-cbs-ao-tcu.ghtml"
         },
         {
-          "id": "e7f87da3e071",
-          "titulo": "The Fed: Chairman Warsh to speak at 10 am ET August 28th in Jackson Hole.",
-          "fonte": "FinancialJuice",
-          "data": "2026-08-20",
-          "hora": "21:36",
-          "link": "https://www.financialjuice.com/News/9730108/The-Fed-Chairman-Warsh-to-speak-at-10-am-ET-August-28th-in-Jackson-Hole.aspx?xy=rss"
+          "id": "4f765d9c3f71",
+          "titulo": "STF retoma julgamento sobre tributação de lucros no exterior por empresas brasileiras",
+          "fonte": "InfoMoney",
+          "data": "2026-08-21",
+          "hora": "12:43",
+          "link": "https://www.infomoney.com.br/politica/stf-retoma-julgamento-sobre-tributacao-de-lucros-no-exterior-por-empresas-brasileiras/"
+        },
+        {
+          "id": "297b5e3b2afe",
+          "titulo": "STF retoma julgamento que pode custar R$ 22 bilhões à União",
+          "fonte": "Exame",
+          "data": "2026-08-21",
+          "hora": "09:09",
+          "link": "https://exame.com/brasil/stf-retoma-julgamento-que-pode-custar-r-22-bilhoes-a-uniao/"
         }
       ],
-      "criado_em": "2026-08-21T07:49",
-      "atualizado_em": "2026-08-21T07:49"
+      "criado_em": "2026-08-21T13:27",
+      "atualizado_em": "2026-08-21T13:27"
     }
   ]
 }
