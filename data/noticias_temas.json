@@ -1,14 +1,337 @@
 {
-  "atualizado_em": "2026-09-03T08:38",
-  "total_feed": 720,
+  "atualizado_em": "2026-09-03T09:16",
+  "total_feed": 732,
   "temas": [
     {
-      "titulo": "Selloff global de obrigações: OAT francesa a 4,19% e gilts sob pressão",
+      "titulo": "Petróleo nos máximos desde junho: guerra no Ormuz contra a nova oferta venezuelana",
       "sinal": "risk_off",
-      "resumo": "O leilão francês saiu com o OAT a 10 anos em 4,19% (anterior 3,90%), o de 15 anos em 4,51% (4,03%) e o de 20 anos em 4,74% (4,27%), com bid-to-cover ainda saudável. No Reino Unido, o receio com a despesa pública obrigou Burnham a tentar acalmar o mercado e os mutuários hipotecários preparam-se para juros mais altos; Williams, do Fed, atribuiu a subida dos yields do Tesouro à força da economia e não a stress, e o Banco do Canadá falou de repreçamento do risco e não de liquidez a secar. Hoje a tensão aliviou na Europa.",
-      "impacto": "Juro longo global mais alto encarece o desconto de fluxos e aperta o prémio de risco de emergentes — historicamente adverso para BOVA11, para as construtoras alavancadas (MRVE3, CYRE3) e para as utilities de duration (EQTL3, CMIG4, CPLE3). O crédito privado americano ainda não confirma stress generalizado: o índice de risco está em 34,0 (abaixo da média, -14,2 pontos em 30 dias), mas a ponta frágil está no pior nível do ano — o OAS dos CCC em 10,49 p.p., percentil 100 e +0,71 p.p. em 30 dias (dados de 01/09, publicados com um dia de desfasamento). Índice calmo com a base a deteriorar-se é o padrão típico do início de ciclo de crédito, não de tranquilidade.",
-      "n_noticias": 17,
+      "resumo": "O crude negoceia nos níveis mais altos desde junho com a guerra EUA-Irão a intensificar-se, enquanto o lado da oferta ganha um contrapeso: a Chevron comprometeu US$ 7 bilhões para dobrar a produção na Venezuela e o secretário da Energia Wright fala em ultrapassar 1,5 milhão de barris/dia no país já no primeiro semestre de 2027. Os inventários de crude nos EUA caíram 4,45 milhões de barris (esperava-se +0,06 milhões) e o prémio do diesel na Europa bateu recorde, com o gasóleo americano no preço mais alto desde 2022 e a maior companhia aérea europeia a avisar para jet fuel a US$ 140 no inverno. A OPEP+ reúne domingo mas três fontes dizem que não decidirá produção. No Brasil, o governo prorrogou por 60 dias o imposto de 12% sobre a exportação de petróleo.",
+      "impacto": "Brent alto é bom para a receita de PETR4 e PRIO3 e mau para o resto da bolsa via inflação e juro — o Banco do Canadá foi explícito ao dizer que a inflação está concentrada em gasolina e petróleo, sem fim à vista. A prorrogação do imposto de 12% sobre exportações é um corte direto de margem para PETR4 e sobretudo para PRIO3, que exporta a quase totalidade da produção; a PRIO já reportou uma queda de 5,2% na produção de agosto, o que agrava a leitura. A nova oferta venezuelana, se materializada, é o principal risco de reversão do prémio de guerra no preço.",
+      "n_noticias": 38,
       "noticias": [
+        {
+          "id": "cfa29b5a9069",
+          "titulo": "Governo prorroga por 60 dias cobrança de imposto de 12% sobre exportação de petróleo",
+          "fonte": "G1 Economia",
+          "data": "2026-09-03",
+          "hora": "09:04",
+          "link": "https://g1.globo.com/economia/noticia/2026/09/03/governo-prorroga-por-60-dias-cobranca-de-imposto-de-12percent-sobre-exportacao-de-petroleo.ghtml"
+        },
+        {
+          "id": "7c9e2f9fdbdf",
+          "titulo": "Maduro alega imunidade de chefe de Estado nos EUA: entenda o que isso muda",
+          "fonte": "Exame",
+          "data": "2026-09-03",
+          "hora": "08:54",
+          "link": "https://exame.com/mundo/maduro-alega-imunidade-de-chefe-de-estado-nos-eua-entenda-o-que-isso-muda/"
+        },
+        {
+          "id": "165b9b14ba71",
+          "titulo": "Oil prices trade at the highest levels since June as US-Iran war intensifies. What's next?",
+          "fonte": "ForexLive",
+          "data": "2026-09-03",
+          "hora": "08:25",
+          "link": "https://investinglive.com/commodities/oil-prices-trade-at-the-highest-levels-since-june-as-us-iran-war-intensifies-what-s-next/"
+        },
+        {
+          "id": "1d2c1f2ef747",
+          "titulo": "How US oil companies are expanding as Trump reshapes global energy",
+          "fonte": "FT Markets",
+          "data": "2026-09-03",
+          "hora": "08:00",
+          "link": "https://www.ft.com/content/59b1a168-7636-4a23-84e5-b31439b6018d?syn-25a6b1a6=1"
+        },
+        {
+          "id": "f95013ef6969",
+          "titulo": "PRIO (PRIO3) tem baixa de 5,2% na produção em agosto",
+          "fonte": "InfoMoney",
+          "data": "2026-09-03",
+          "hora": "07:55",
+          "link": "https://www.infomoney.com.br/mercados/prio-prio3-tem-baixa-de-52-na-producao-em-agosto/"
+        },
+        {
+          "id": "f4317e8208c8",
+          "titulo": "Diesel premium in Europe jumps to record high",
+          "fonte": "FT Markets",
+          "data": "2026-09-03",
+          "hora": "07:50",
+          "link": "https://www.ft.com/content/f117f347-e1e0-457c-83fc-ba4745581bb2?syn-25a6b1a6=1"
+        },
+        {
+          "id": "74c4806bed93",
+          "titulo": "Russia’s Deputy PM Novak: Russian market fully supplied with diesel and jet fuel",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "07:38",
+          "link": "https://www.financialjuice.com/News/9748351/Russias-Deputy-PM-Novak-Russian-market-fully-supplied-with-diesel-and-jet-fuel.aspx?xy=rss"
+        },
+        {
+          "id": "5b24f5acbbd4",
+          "titulo": "Russian state's budget proceeds from oil and gas sales at 424 bln roubles in August, from 934 bln roubles in July - Finance ministry",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "06:03",
+          "link": "https://www.financialjuice.com/News/9748231/Russian-states-budget-proceeds-from-oil-and-gas-sales-at-424-bln-roubles-in-August-from-934-bln-roubles-in-July---Finance-ministry.aspx?xy=rss"
+        },
+        {
+          "id": "abe470369a28",
+          "titulo": "O mundo perdeu 2 bilhões de barris e mesmo assim o petróleo não explodiu",
+          "fonte": "Exame",
+          "data": "2026-09-03",
+          "hora": "06:00",
+          "link": "https://exame.com/mundo/o-mundo-perdeu-2-bilhoes-de-barris-e-mesmo-assim-o-petroleo-nao-explodiu/"
+        },
+        {
+          "id": "e542fa29cff4",
+          "titulo": "US average diesel price gains to highest since 2022 - AAA data",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "04:25",
+          "link": "https://www.financialjuice.com/News/9748076/US-average-diesel-price-gains-to-highest-since-2022---AAA-data.aspx?xy=rss"
+        },
+        {
+          "id": "09d4428eed5a",
+          "titulo": "WTI Crude Oil Price Analysis: Bears Favored Below $90",
+          "fonte": "ForexLive",
+          "data": "2026-09-03",
+          "hora": "04:08",
+          "link": "https://investinglive.com/commodities/wti-crude-oil-price-analysis-bears-favored-below-90/"
+        },
+        {
+          "id": "7f4ed63ea36a",
+          "titulo": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+          "fonte": "BBC Business",
+          "data": "2026-09-02",
+          "hora": "20:53",
+          "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "907eb04e3e01",
+          "titulo": "Brent and WTI hit highest levels (resistance now?) since late July as Middle East war flares",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "19:41",
+          "link": "https://investinglive.com/commodities/brent-and-wti-hit-highest-levels-resistance-now-since-late-july-as-middle-east-war-flares/"
+        },
+        {
+          "id": "16956c4b587f",
+          "titulo": "White House: The barrels from the Venezuela deal could hit reserves in the US in November.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "14:24",
+          "link": "https://www.financialjuice.com/News/9747195/White-House-The-barrels-from-the-Venezuela-deal-could-hit-reserves-in-the-US-in-November.aspx?xy=rss"
+        },
+        {
+          "id": "be5becaaeb62",
+          "titulo": "The wrong way to revive Venezuela’s economy",
+          "fonte": "FT Markets",
+          "data": "2026-09-02",
+          "hora": "14:22",
+          "link": "https://www.ft.com/content/1fef1e44-2a79-4057-89e5-33417e5a7763?syn-25a6b1a6=1"
+        },
+        {
+          "id": "6e74d9a84273",
+          "titulo": "Chevron and the Venezuelan government sign an oil deal, a bonus venture deal in the Orinoco Belt. $CVX",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "13:34",
+          "link": "https://www.financialjuice.com/News/9747142/Chevron-and-the-Venezuelan-government-sign-an-oil-deal-a-bonus-venture-deal-in-the-Orinoco-Belt-CVX.aspx?xy=rss"
+        },
+        {
+          "id": "91c0f3b9445c",
+          "titulo": "Após acordo, petrolífera dos EUA anuncia US$ 7 bilhões para ampliar produção na Venezuela; expectativa é mais que dobrar extração até 2030",
+          "fonte": "G1 Economia",
+          "data": "2026-09-02",
+          "hora": "12:05",
+          "link": "https://g1.globo.com/economia/noticia/2026/09/02/apos-acordo-petrolifera-dos-eua-anuncia-us-7-bilhoes-para-ampliar-producao-na-venezuela-expectativa-e-mais-que-dobrar-extracao-ate-2030.ghtml"
+        },
+        {
+          "id": "97f0af8f28e2",
+          "titulo": "Chevron: Unclear Venezuela Opportunity, But Strong Fundamentals And Technicals",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-02",
+          "hora": "11:57",
+          "link": "https://seekingalpha.com/article/4942432-chevron-unclear-venezuela-opportunity-but-strong-fundamentals-and-technicals?source=feed_all_articles"
+        },
+        {
+          "id": "0f4f0d98a5e1",
+          "titulo": "Crude oil technical analsysis: US crude oil inventories for -4.450M barrel vs -1.085M estimate.",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "11:50",
+          "link": "https://investinglive.com/commodities/crude-oil-technical-analsysis-us-crude-oil-inventories-for-4-450m-barrel-vs-1-085m-estimate/"
+        },
+        {
+          "id": "8c5e4b4e6baa",
+          "titulo": "Chevron dobra a aposta na Venezuela com investimento de US$ 7 bilhões em petróleo",
+          "fonte": "InfoMoney",
+          "data": "2026-09-02",
+          "hora": "11:41",
+          "link": "https://www.infomoney.com.br/business/chevron-dobra-a-aposta-na-venezuela-com-investimento-de-us-7-bilhoes-em-petroleo/"
+        },
+        {
+          "id": "58451439b0fd",
+          "titulo": "EIA Crude Oil Inventories Actual -4.45M (Forecast 0.06M, Previous 0.095M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:30",
+          "link": "https://www.financialjuice.com/News/9746959/EIA-Crude-Oil-Inventories-Actual--445M-Forecast-006M-Previous-0095M.aspx?xy=rss"
+        },
+        {
+          "id": "53711b594ec0",
+          "titulo": "EIA Crude Cushing Inventories  Actual 0.080M (Forecast -, Previous 1.176M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:30",
+          "link": "https://www.financialjuice.com/News/9746960/EIA-Crude-Cushing-Inventories--Actual-0080M-Forecast---Previous-1176M.aspx?xy=rss"
+        },
+        {
+          "id": "7ed448908fe7",
+          "titulo": "EIA Distillate Inventories Actual 0.796M (Forecast -1.5M, Previous -2.228M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:30",
+          "link": "https://www.financialjuice.com/News/9746957/EIA-Distillate-Inventories-Actual-0796M-Forecast--15M-Previous--2228M.aspx?xy=rss"
+        },
+        {
+          "id": "6cace27da97b",
+          "titulo": "Russia’s Deputy PM Novak: OPEC+ ministers will discuss the market situation and compliance with the agreement at their meeting on Sunday - IFX.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:11",
+          "link": "https://www.financialjuice.com/News/9746931/Russias-Deputy-PM-Novak-OPEC-ministers-will-discuss-the-market-situation-and-compliance-with-the-agreement-at-their-meeting-on-Sunday---IFX.aspx?xy=rss"
+        },
+        {
+          "id": "79ebb449ce41",
+          "titulo": "Russia’s Deputy PM Novak: Talk of OPEC+ quota cuts is not happening right now, there is a shortage in the market - IFX.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:11",
+          "link": "https://www.financialjuice.com/News/9746929/Russias-Deputy-PM-Novak-Talk-of-OPEC-quota-cuts-is-not-happening-right-now-there-is-a-shortage-in-the-market---IFX.aspx?xy=rss"
+        },
+        {
+          "id": "16785c81fa9a",
+          "titulo": "Russia’s Deputy PM Novak: We are seeing a recovery in oil demand - IFX.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:11",
+          "link": "https://www.financialjuice.com/News/9746930/Russias-Deputy-PM-Novak-We-are-seeing-a-recovery-in-oil-demand---IFX.aspx?xy=rss"
+        },
+        {
+          "id": "2190cf69b9c3",
+          "titulo": "Chevron: Strait of Hormuz flows help buy time for oil supply. $CVX",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:04",
+          "link": "https://www.financialjuice.com/News/9746928/Chevron-Strait-of-Hormuz-flows-help-buy-time-for-oil-supply-CVX.aspx?xy=rss"
+        },
+        {
+          "id": "a3db77862146",
+          "titulo": "The OPEC+ meeting on Sunday will not make any oil output policy decision, and will focus on discussing the market - Three Sources.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:03",
+          "link": "https://www.financialjuice.com/News/9746927/The-OPEC-meeting-on-Sunday-will-not-make-any-oil-output-policy-decision-and-will-focus-on-discussing-the-market---Three-Sources.aspx?xy=rss"
+        },
+        {
+          "id": "9e0738926b28",
+          "titulo": "US Energy Secretary Wright: Venezuela output will allow for swapping barrels",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "10:13",
+          "link": "https://www.financialjuice.com/News/9746821/US-Energy-Secretary-Wright-Venezuela-output-will-allow-for-swapping-barrels.aspx?xy=rss"
+        },
+        {
+          "id": "66a9b3bcc698",
+          "titulo": "US Energy Secretary Wright: It is unlikely Venezuela oil will go into SPR.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "10:13",
+          "link": "https://www.financialjuice.com/News/9746820/US-Energy-Secretary-Wright-It-is-unlikely-Venezuela-oil-will-go-into-SPR.aspx?xy=rss"
+        },
+        {
+          "id": "750e4fe1ed98",
+          "titulo": "US Energy Secretary Wright: I haven't had discussions with Venezuela on OPEC.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "10:10",
+          "link": "https://www.financialjuice.com/News/9746818/US-Energy-Secretary-Wright-I-havent-had-discussions-with-Venezuela-on-OPEC.aspx?xy=rss"
+        },
+        {
+          "id": "c22b14288780",
+          "titulo": "Canada government will extend the temporary pause of the federal fuel excise tax on gas and diesel until Jan 31, 2027 - CTV News",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "10:10",
+          "link": "https://www.financialjuice.com/News/9746819/Canada-government-will-extend-the-temporary-pause-of-the-federal-fuel-excise-tax-on-gas-and-diesel-until-Jan-31-2027---CTV-News.aspx?xy=rss"
+        },
+        {
+          "id": "647d5d623816",
+          "titulo": "US Energy Secretary Wright: China won't have a claim to Venezuela's oil fields",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "10:09",
+          "link": "https://www.financialjuice.com/News/9746817/US-Energy-Secretary-Wright-China-wont-have-a-claim-to-Venezuelas-oil-fields.aspx?xy=rss"
+        },
+        {
+          "id": "82488090cafe",
+          "titulo": "US Treasury Secretary Bessent: Chevron CEO doing a fantastic job managing Venezuela assets",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:46",
+          "link": "https://www.financialjuice.com/News/9746654/US-Treasury-Secretary-Bessent-Chevron-CEO-doing-a-fantastic-job-managing-Venezuela-assets.aspx?xy=rss"
+        },
+        {
+          "id": "4944d86fb1e6",
+          "titulo": "US Energy Secretary Wright: I think we will be at well over 1.5 million barrels a day in Venezuela by the first half of next year",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:41",
+          "link": "https://www.financialjuice.com/News/9746643/US-Energy-Secretary-Wright-I-think-we-will-be-at-well-over-15-million-barrels-a-day-in-Venezuela-by-the-first-half-of-next-year.aspx?xy=rss"
+        },
+        {
+          "id": "4660c437a7c6",
+          "titulo": "US Energy Secretary Wright: Betancourt company has been a competent operator in Venezuela, we think this increases confidence in law and contract security in Venezuela - CNBC",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:41",
+          "link": "https://www.financialjuice.com/News/9746642/US-Energy-Secretary-Wright-Betancourt-company-has-been-a-competent-operator-in-Venezuela-we-think-this-increases-confidence-in-law-and-contract-security-in-Venezuela---CNBC.aspx?xy=rss"
+        },
+        {
+          "id": "878922df2e44",
+          "titulo": "Europe’s largest airline warns of jet-fuel prices hitting $140 this winter as it cuts capacity",
+          "fonte": "MarketWatch",
+          "data": "2026-09-02",
+          "hora": "08:31",
+          "link": "https://www.marketwatch.com/story/europes-largest-airline-warns-of-jet-fuel-prices-at-140-this-winter-as-it-cuts-capacity-ba7821a9?mod=mw_rss_topstories"
+        },
+        {
+          "id": "74554210ffbf",
+          "titulo": "Chevron to double Venezuela output in $7bn investment pledge",
+          "fonte": "FT Markets",
+          "data": "2026-09-02",
+          "hora": "07:56",
+          "link": "https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9?syn-25a6b1a6=1"
+        }
+      ],
+      "criado_em": "2026-09-03T08:38",
+      "atualizado_em": "2026-09-03T09:16"
+    },
+    {
+      "titulo": "Selloff global de obrigações alivia, mas a França e o Bund a 3% mantêm o susto",
+      "sinal": "risk_off",
+      "resumo": "O leilão francês saiu com o OAT a 10 anos em 4,19% (anterior 3,90%), o de 15 anos em 4,51% (4,03%) e o de 20 anos em 4,74% (4,27%), com bid-to-cover ainda saudável, e o défice orçamental francês agravou-se para 145,91 bilhões de euros. O Bund a 2 anos passou os 3% pela primeira vez desde 2024. No Reino Unido, Burnham antecipou a data do Orçamento para encurtar a especulação e culpou o legado de dívida pela turbulência, enquanto os mutuários hipotecários se preparam para juros mais altos. O Banco do Canadá classificou o movimento como repreçamento de risco e não como liquidez a secar. Hoje a tensão aliviou na Europa e os yields recuaram dos máximos.",
+      "impacto": "Juro longo global mais alto encarece o desconto de fluxos e aperta o prémio de risco de emergentes — historicamente adverso para BOVA11, para as construtoras alavancadas (MRVE3, CYRE3) e para as utilities de duration (EQTL3, CMIG4, CPLE3). O crédito privado americano ainda não confirma stress generalizado: o índice de risco está em 34,0 (abaixo da média, -14,2 pontos em 30 dias e estável na semana), mas a ponta frágil está no pior nível do ano — o OAS dos CCC em 10,49 p.p., percentil 100 e +0,71 p.p. em 30 dias, com o investment grade já no percentil 79,5 (dados de 01/09, publicados com um dia de desfasamento). Índice calmo com a base a deteriorar-se é o padrão típico do início de ciclo de crédito, não de tranquilidade.",
+      "n_noticias": 37,
+      "noticias": [
+        {
+          "id": "3a4add98d54e",
+          "titulo": "Global Bond Selloff: Why Yields Are Surging and Why Investors Shouldn’t Abandon Bonds",
+          "fonte": "ForexLive",
+          "data": "2026-09-03",
+          "hora": "08:20",
+          "link": "https://investinglive.com/education/global-bond-selloff-why-yields-are-surging-and-why-investors-shouldn-t-abandon-bonds/"
+        },
         {
           "id": "b9a9123570b4",
           "titulo": "Bond market turmoil eases across Europe; UK service sector growth jumps – business live",
@@ -64,6 +387,30 @@
           "data": "2026-09-03",
           "hora": "05:57",
           "link": "https://www.financialjuice.com/News/9748213/French-15-Yr-OAT-Yield-Actual-451-Forecast---Previous-403.aspx?xy=rss"
+        },
+        {
+          "id": "c08d11a73823",
+          "titulo": "French 15 Yr OAT Bid-to-Cover Actual 2.92 (Forecast -, Previous 2.1)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "05:57",
+          "link": "https://www.financialjuice.com/News/9748214/French-15-Yr-OAT-Bid-to-Cover-Actual-292-Forecast---Previous-21.aspx?xy=rss"
+        },
+        {
+          "id": "6fbf7d1697bc",
+          "titulo": "French 10 Yr OAT Bid-to-Cover Actual 2.28 (Forecast -, Previous 2.33)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "05:57",
+          "link": "https://www.financialjuice.com/News/9748212/French-10-Yr-OAT-Bid-to-Cover-Actual-228-Forecast---Previous-233.aspx?xy=rss"
+        },
+        {
+          "id": "47b270a6eedd",
+          "titulo": "French 20 Yr OAT Bid-to-Cover Actual 3.07 (Forecast -, Previous 2.78)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "05:57",
+          "link": "https://www.financialjuice.com/News/9748211/French-20-Yr-OAT-Bid-to-Cover-Actual-307-Forecast---Previous-278.aspx?xy=rss"
         },
         {
           "id": "4f735297a4bb",
@@ -144,17 +491,826 @@
           "data": "2026-09-02",
           "hora": "11:57",
           "link": "https://www.financialjuice.com/News/9747006/BoCs-Gov-Macklem-We-are-seeing-some-spillover-of-global-bond-yields-into-Canada-we-will-take-that-into-account.aspx?xy=rss"
+        },
+        {
+          "id": "5edc413455a4",
+          "titulo": "investingLive European session wrap: Higher bond yields continue to keep markets on edge",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "08:58",
+          "link": "https://investinglive.com/news/investinglive-european-session-wrap-higher-bond-yields-continue-to-keep-markets-on-edge/"
+        },
+        {
+          "id": "22acffb7c9db",
+          "titulo": "Bond And Equity Sell-Off Continues, Greenback Extends Gains",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-02",
+          "hora": "08:56",
+          "link": "https://seekingalpha.com/article/4942382-bond-equity-sell-off-continues-greenback-extends-gains?source=feed_all_articles"
+        },
+        {
+          "id": "a2ebc02b3e7d",
+          "titulo": "Liquidação de títulos se intensifica com temores sobre preços do petróleo e dívida",
+          "fonte": "InfoMoney",
+          "data": "2026-09-02",
+          "hora": "08:42",
+          "link": "https://www.infomoney.com.br/mercados/liquidacao-de-titulos-se-intensifica-com-temores-sobre-precos-do-petroleo-e-divida/"
+        },
+        {
+          "id": "8301b98ae132",
+          "titulo": "US Commerce Secretary Lutnick: Optimistic bond market will ‘treat the US very well’",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:23",
+          "link": "https://www.financialjuice.com/News/9746608/US-Commerce-Secretary-Lutnick-Optimistic-bond-market-will-treat-the-US-very-well.aspx?xy=rss"
+        },
+        {
+          "id": "bbb95bba0747",
+          "titulo": "UK's PM Burnham: This government will be grounded in fiscal responsibility",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:16",
+          "link": "https://www.financialjuice.com/News/9746605/UKs-PM-Burnham-This-government-will-be-grounded-in-fiscal-responsibility.aspx?xy=rss"
+        },
+        {
+          "id": "90ac6f476826",
+          "titulo": "Burnham: We set an early budget date to cut the period of speculation",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:13",
+          "link": "https://www.financialjuice.com/News/9746594/Burnham-We-set-an-early-budget-date-to-cut-the-period-of-speculation.aspx?xy=rss"
+        },
+        {
+          "id": "b6a40bf32f3f",
+          "titulo": "Wall Street poised for another soft start as higher bond yields continue to bite",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "08:13",
+          "link": "https://investinglive.com/stocks/wall-street-poised-for-another-soft-start-as-higher-bond-yields-continue-to-bite/"
+        },
+        {
+          "id": "a0b4ad0a730e",
+          "titulo": "UK's PM Burnham: Market turbulence is due to Tory record of raising debt",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:12",
+          "link": "https://www.financialjuice.com/News/9746593/UKs-PM-Burnham-Market-turbulence-is-due-to-Tory-record-of-raising-debt.aspx?xy=rss"
+        },
+        {
+          "id": "6d76b5b4843f",
+          "titulo": "Why are UK borrowing costs rising and what does it mean for me?",
+          "fonte": "BBC Business",
+          "data": "2026-09-02",
+          "hora": "08:05",
+          "link": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "26d5377d5f93",
+          "titulo": "Morning Bid: Bonds boil",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "07:42",
+          "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-bonds-boil-104233524.html"
+        },
+        {
+          "id": "487d6804eba1",
+          "titulo": "EU Commission issues 3-month EU bill with average yield of 2.499% at auction",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "07:09",
+          "link": "https://www.financialjuice.com/News/9746531/EU-Commission-issues-3-month-EU-bill-with-average-yield-of-2499-at-auction.aspx?xy=rss"
+        },
+        {
+          "id": "083fbad20f34",
+          "titulo": "Germany 2-year government bond yield surpasses 3% for first time since 2024, climbs around 6 bps on day",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "07:08",
+          "link": "https://www.financialjuice.com/News/9746525/Germany-2-year-government-bond-yield-surpasses-3-for-first-time-since-2024-climbs-around-6-bps-on-day.aspx?xy=rss"
+        },
+        {
+          "id": "59b5ebeb1119",
+          "titulo": "Energy price surge hits bond markets as European gas reaches three-year high",
+          "fonte": "FT Markets",
+          "data": "2026-09-02",
+          "hora": "06:54",
+          "link": "https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1"
+        },
+        {
+          "id": "23388371ce72",
+          "titulo": "The tectonic shift that is taking place in the bond market",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "04:34",
+          "link": "https://investinglive.com/news/the-tectonic-shift-that-is-taking-place-in-the-bond-market/"
+        },
+        {
+          "id": "62b06f6b6cf9",
+          "titulo": "French Budget Balance Actual -145.909B (Forecast -, Previous -106.77B)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "03:45",
+          "link": "https://www.financialjuice.com/News/9746268/French-Budget-Balance-Actual--145909B-Forecast---Previous--10677B.aspx?xy=rss"
+        },
+        {
+          "id": "1006c6619045",
+          "titulo": "France’s debt crisis-in-waiting",
+          "fonte": "FT Markets",
+          "data": "2026-09-02",
+          "hora": "02:30",
+          "link": "https://www.ft.com/content/16081c0e-5471-4c00-8b12-29cac20a69d2?syn-25a6b1a6=1"
         }
       ],
       "criado_em": "2026-09-03T08:38",
-      "atualizado_em": "2026-09-03T08:38"
+      "atualizado_em": "2026-09-03T09:16"
+    },
+    {
+      "titulo": "Nvidia compra a Hugging Face por US$ 12,93 bilhões e o capex de IA volta ao centro",
+      "sinal": "risk_on",
+      "resumo": "A Nvidia acordou comprar a Hugging Face por US$ 12,93 bilhões e prepara outro cheque de US$ 14 bilhões para dominar mais uma frente da IA. A Broadcom apresentou um roteiro de US$ 230 bilhões, a Dell subiu com a procura de servidores de IA, a Marvell bateu e elevou o guidance (embora o acordo com a Google tenha assustado) e a Micron caminha para outro trimestre recorde. A Microsoft fechou um contrato de energia de 20 anos com a Chevron, sinal de que a eletricidade é o novo estrangulamento, e a Berkshire reforçou a posição na Alphabet. O capex agregado de IA é já comparado ao custo histórico de construir as ferrovias dos EUA e do Reino Unido somado ao da internet.",
+      "impacto": "Enquanto o comércio de IA aguentar, sustenta o apetite por risco global e, por correlação, o beta do Ibovespa — mas concentra o mercado num punhado de nomes, o que torna qualquer decepção de capex um risco sistémico para BOVA11. A pressão de eletricidade para data centers é leitura estruturalmente positiva para geradoras e transmissoras (EQTL3, CMIG4, CPLE3) e para a procura industrial de cobre e aço; a WEGE3 é a nossa exposição mais direta ao ciclo de equipamento elétrico e de infraestrutura de energia.",
+      "n_noticias": 31,
+      "noticias": [
+        {
+          "id": "3f373108e8c9",
+          "titulo": "Nvidia to buy Hugging Face for $12.93b $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "09:03",
+          "link": "https://www.financialjuice.com/News/9748489/Nvidia-to-buy-Hugging-Face-for-1293b-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "7f263809772c",
+          "titulo": "Micron's 20 PE Is Criminal, Unless Nvidia Knows Something",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-03",
+          "hora": "09:00",
+          "link": "https://seekingalpha.com/article/4942388-microns-20-pe-is-criminal-unless-nvidia-knows-something?source=feed_all_articles"
+        },
+        {
+          "id": "ef5a067ad2ef",
+          "titulo": "Broadcom's $230 Billion Roadmap Rewrites The Valuation",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-03",
+          "hora": "08:31",
+          "link": "https://seekingalpha.com/article/4942717-broadcoms-stock-230-billion-roadmap-rewrites-valuation?source=feed_all_articles"
+        },
+        {
+          "id": "5e940e476e74",
+          "titulo": "Micron's Q4 2026 Period Will Be Another Record Quarter",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-03",
+          "hora": "08:05",
+          "link": "https://seekingalpha.com/article/4942703-microns-4q26-period-will-be-another-record-quarter?source=feed_all_articles"
+        },
+        {
+          "id": "d6a5623a0614",
+          "titulo": "The AI cloud math is broken, and it’s creating a power shift within Big Tech",
+          "fonte": "MarketWatch",
+          "data": "2026-09-03",
+          "hora": "08:00",
+          "link": "https://www.marketwatch.com/story/the-ai-cloud-math-is-broken-and-its-creating-a-power-shift-within-big-tech-5652da0f?mod=mw_rss_topstories"
+        },
+        {
+          "id": "7cc8799c3b89",
+          "titulo": "Wall Street Breakfast Podcast: Broadcom Beat Meets High Hopes",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-03",
+          "hora": "07:45",
+          "link": "https://seekingalpha.com/article/4942713-wall-street-breakfast-podcast-broadcom-beat-meets-high-hopes?source=feed_all_articles"
+        },
+        {
+          "id": "20343eadc394",
+          "titulo": "US Commerce Secretary Lutnick: Chip tariffs aimed at boosting US chip output.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "14:44",
+          "link": "https://www.financialjuice.com/News/9747222/US-Commerce-Secretary-Lutnick-Chip-tariffs-aimed-at-boosting-US-chip-output.aspx?xy=rss"
+        },
+        {
+          "id": "077c8a251b6c",
+          "titulo": "Google lança Gemini Flash 3.8 e chama modelo de 'o mais inteligente até agora'",
+          "fonte": "Exame",
+          "data": "2026-09-02",
+          "hora": "14:41",
+          "link": "https://exame.com/inteligencia-artificial/google-lanca-gemini-flash-3-8-e-chama-modelo-de-o-mais-inteligente-ate-agora/"
+        },
+        {
+          "id": "b3d419f17f87",
+          "titulo": "NVIDIA Rises 4% on Reported $12.9B Hugging Face Deal, Dell Jumps 8% After Guidance Beat",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "14:31",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-rises-4-reported-12-173138538.html"
+        },
+        {
+          "id": "4531b6b3d9f9",
+          "titulo": "Micron: This Cycle Might Shock Everyone",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-02",
+          "hora": "14:10",
+          "link": "https://seekingalpha.com/article/4942359-micron-this-cycle-might-shock-everyone?source=feed_all_articles"
+        },
+        {
+          "id": "05be8462de45",
+          "titulo": "Nvidia: The Market Is Crazy Not To Push The Stock Higher",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-02",
+          "hora": "14:01",
+          "link": "https://seekingalpha.com/article/4942482-nvidia-the-market-is-crazy-not-to-push-the-stock-higher?source=feed_all_articles"
+        },
+        {
+          "id": "8c90c8d887e5",
+          "titulo": "Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "14:00",
+          "link": "https://www.investors.com/news/technology/nvidia-stock-buy-point-chip-stocks-rally/?src=A00220&yptr=yahoo"
+        },
+        {
+          "id": "bd4cc4f673e1",
+          "titulo": "OpenAI's Altman: AI will be the greatest boom in business the world has seen.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "13:52",
+          "link": "https://www.financialjuice.com/News/9747157/OpenAIs-Altman-AI-will-be-the-greatest-boom-in-business-the-world-has-seen.aspx?xy=rss"
+        },
+        {
+          "id": "334243e2c92f",
+          "titulo": "Google launches the Gemini 3.8 Flash reasoning model.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "12:43",
+          "link": "https://www.financialjuice.com/News/9747078/Google-launches-the-Gemini-38-Flash-reasoning-model.aspx?xy=rss"
+        },
+        {
+          "id": "0bbbb22683a2",
+          "titulo": "OpenAI diz que seu novo modelo de IA é tão avançado que exigirá mais medidas de segurança",
+          "fonte": "G1 Economia",
+          "data": "2026-09-02",
+          "hora": "12:05",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/09/02/openai-diz-que-novo-modelo-de-ia-e-tao-avancado-que-exigira-mais-medidas-de-seguranca.ghtml"
+        },
+        {
+          "id": "c4297e485890",
+          "titulo": "Berkshire reforça posição bilionária no Google e vê gigante entre líderes da IA",
+          "fonte": "InfoMoney",
+          "data": "2026-09-02",
+          "hora": "11:55",
+          "link": "https://www.infomoney.com.br/mercados/berkshire-reforca-posicao-bilionaria-no-google-e-ve-gigante-entre-lideres-da-ia/"
+        },
+        {
+          "id": "3fee53eb123e",
+          "titulo": "Criadora do Devin negocia aporte e pode atingir valuation de US$ 47 bilhões",
+          "fonte": "InfoMoney",
+          "data": "2026-09-02",
+          "hora": "11:50",
+          "link": "https://www.infomoney.com.br/business/criadora-do-devin-negocia-aporte-e-pode-atingir-valuation-de-us-47-bilhoes/"
+        },
+        {
+          "id": "339e5cca1245",
+          "titulo": "Nvidia prepara cheque de US$ 14 bilhões para dominar mais uma frente da IA",
+          "fonte": "InfoMoney",
+          "data": "2026-09-02",
+          "hora": "11:46",
+          "link": "https://www.infomoney.com.br/business/nvidia-prepara-cheque-de-us-14-bilhoes-para-dominar-mais-uma-frente-da-ia/"
+        },
+        {
+          "id": "0a8e0a2976fe",
+          "titulo": "Dow Jones Futures Rise As Oil Prices Fall; Dell, Credo, Palo Alto Are Earnings Movers",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "08:46",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo"
+        },
+        {
+          "id": "7b933eb6edbd",
+          "titulo": "Bull or bear market? AI spurs rethink of traditional market measures",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "08:08",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bull-bear-market-ai-spurs-110538187.html"
+        },
+        {
+          "id": "c5f0d90f5b41",
+          "titulo": "Tiger Global Cut Alphabet 45% and Opened an AMD Position. Is It Rotating From AI Platforms to AI Chips?",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "08:01",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-cut-alphabet-45-110107456.html"
+        },
+        {
+          "id": "841d21db124b",
+          "titulo": "China Semiconductors: The Investment Gap",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-02",
+          "hora": "08:00",
+          "link": "https://seekingalpha.com/article/4942363-china-semiconductors-investment-gap?source=feed_all_articles"
+        },
+        {
+          "id": "96cd0d06fc60",
+          "titulo": "Microsoft Signed a 20-Year AI Power Deal With Chevron. Is Power Becoming the New Chip Shortage?",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "07:58",
+          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-signed-20-ai-power-105845426.html"
+        },
+        {
+          "id": "4bcad1193fd5",
+          "titulo": "Credo's Post-Earnings Selloff Creates Strong Buying Opportunity (Review)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-02",
+          "hora": "07:56",
+          "link": "https://seekingalpha.com/article/4942346-credos-post-earnings-selloff-creates-strong-buying-opportunity-review?source=feed_all_articles"
+        },
+        {
+          "id": "a7473df6d06d",
+          "titulo": "Wall Street Breakfast Podcast: A Dell Of A Quarter",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-02",
+          "hora": "07:45",
+          "link": "https://seekingalpha.com/article/4942356-wall-street-breakfast-podcast-a-dell-of-a-quarter?source=feed_all_articles"
+        },
+        {
+          "id": "5f9f21fe40f6",
+          "titulo": "Amazon stock just entered the danger zone",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "07:40",
+          "link": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-just-entered-the-danger-zone-104050035.html"
+        },
+        {
+          "id": "b54258e0ec9e",
+          "titulo": "Marvell Beat and Raised Guidance. Why Its Google Deal Still Spooked Investors",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "07:20",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-beat-raised-guidance-why-102009844.html"
+        },
+        {
+          "id": "7f0d1783efef",
+          "titulo": "Microsoft’s AI Capex Problem Just Got Harder for Bears to Defend",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "07:20",
+          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-capex-problem-just-102026905.html"
+        },
+        {
+          "id": "3fb5a58be013",
+          "titulo": "Meta and Google’s AI Returns Slide, Piper Sandler Says Amazon’s Capital Discipline Sets It Apart",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "07:20",
+          "link": "https://finance.yahoo.com/technology/ai/articles/meta-google-ai-returns-slide-102019503.html"
+        },
+        {
+          "id": "c5072990c9df",
+          "titulo": "Dell shares rise as demand jumps for AI servers — and here’s what Wall Street analysts are saying happens next",
+          "fonte": "MarketWatch",
+          "data": "2026-09-02",
+          "hora": "06:03",
+          "link": "https://www.marketwatch.com/story/dell-shares-rise-as-demand-jumps-for-ai-servers-heres-what-wall-street-analysts-are-saying-happens-next-ca2184ca?mod=mw_rss_topstories"
+        },
+        {
+          "id": "3402c2440616",
+          "titulo": "AI capital expenditure forecast to exceed the cost of building railways in both the U.S. and the U.K. — with the internet added on top",
+          "fonte": "MarketWatch",
+          "data": "2026-09-02",
+          "hora": "03:36",
+          "link": "https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories"
+        }
+      ],
+      "criado_em": "2026-09-03T08:38",
+      "atualizado_em": "2026-09-03T09:16"
+    },
+    {
+      "titulo": "Fed: mercado precifica SUBIDA de juros e o emprego dá o primeiro sinal de aviso",
+      "sinal": "risk_off",
+      "resumo": "Os anúncios de corte de postos de trabalho nos EUA subiram para 52.881 em agosto (33.429 em julho), embora ainda 38% abaixo do ano anterior, e a ADP registou a menor criação de empregos privados em sete meses. Ao mesmo tempo, o mercado passou a discutir uma subida de juros e não um corte, com Warsh a endurecer o discurso e a apertar as condições financeiras. As encomendas à indústria surpreenderam pela positiva (+0,9% contra +0,7% esperado) e a SOFR desceu para 3,65%. Tudo aponta para o CPI como o próximo catalisador, com o S&P 500 já a perder um suporte relevante.",
+      "impacto": "A hipótese de a Fed subir juros — e não cortar — é o cenário mais adverso para o real e para BOVA11, porque destrói o carry que trouxe o fluxo estrangeiro para a B3 este ano. É diretamente relevante para as ideias registadas no app que assentam em cupom hawkish (MRVE3, pela sensibilidade a juros e alavancagem) e para a leitura de BOVA11. Um CPI acima do esperado pressiona sobretudo os nomes de duration da carteira; o emprego a arrefecer é o contrapeso que ainda impede o mercado de fechar a tese de subida.",
+      "n_noticias": 26,
+      "noticias": [
+        {
+          "id": "eae976f7dfc7",
+          "titulo": "Secured overnight financing rate 3.65% September 2nd vs 3.66% September 1st",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "09:01",
+          "link": "https://www.financialjuice.com/News/9748472/Secured-overnight-financing-rate-365-September-2nd-vs-366-September-1st.aspx?xy=rss"
+        },
+        {
+          "id": "ae0fb35a807d",
+          "titulo": "US-based employers announced 52,881 job cuts in August, down 38% - Challenger Gray",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "08:56",
+          "link": "https://www.financialjuice.com/News/9748462/US-based-employers-announced-52881-job-cuts-in-August-down-38---Challenger-Gray.aspx?xy=rss"
+        },
+        {
+          "id": "d35731b2a1ab",
+          "titulo": "New Home Affordability Improves As Builders Boost Incentives",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-03",
+          "hora": "08:54",
+          "link": "https://seekingalpha.com/article/4942729-new-home-affordability-improves-builders-boost-incentives?source=feed_all_articles"
+        },
+        {
+          "id": "a35f930c72f5",
+          "titulo": "Whether the Fed raises interest rates this month isn’t as big a deal for stocks as you might think",
+          "fonte": "MarketWatch",
+          "data": "2026-09-03",
+          "hora": "06:59",
+          "link": "https://www.marketwatch.com/story/whether-the-fed-raises-interest-rates-this-month-isnt-as-big-a-deal-for-stocks-as-you-might-think-6464b88d?mod=mw_rss_topstories"
+        },
+        {
+          "id": "96b08a2717d8",
+          "titulo": "US Challenger Layoffs Actual 52.881k (Forecast -, Previous 33.429k)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "06:30",
+          "link": "https://www.financialjuice.com/News/9748258/US-Challenger-Layoffs-Actual-52881k-Forecast---Previous-33429k.aspx?xy=rss"
+        },
+        {
+          "id": "d0f686d69630",
+          "titulo": "Nasdaq's fate hinges on US CPI and Middle East conflict as growth expectations deteriorate",
+          "fonte": "ForexLive",
+          "data": "2026-09-03",
+          "hora": "06:19",
+          "link": "https://investinglive.com/stocks/nasdaq-s-fate-hinges-on-us-cpi-and-middle-east-conflict-as-growth-expectations-deteriorate/"
+        },
+        {
+          "id": "b7747ff8819e",
+          "titulo": "EUR/USD pulls back as hawkish Fed bets stabilise; traders await the key US CPI report",
+          "fonte": "ForexLive",
+          "data": "2026-09-03",
+          "hora": "05:11",
+          "link": "https://investinglive.com/forex/eur-usd-pulls-back-as-hawkish-fed-bets-stabilise-traders-await-the-key-us-cpi-report/"
+        },
+        {
+          "id": "124d73414966",
+          "titulo": "Bitcoin and Ethereum slide as US Iran war simmers & rate hike odds rise",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "22:17",
+          "link": "https://investinglive.com/cryptocurrency/bitcoin-and-ethereum-slide-as-us-iran-war-simmers-rate-hike-odds-rise/"
+        },
+        {
+          "id": "2fc34b818540",
+          "titulo": "Fed Beige Book: Prices increased moderately in eight districts, with two districts reporting modest increases, one slight increase, and one robust increase.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "15:01",
+          "link": "https://www.financialjuice.com/News/9747244/Fed-Beige-Book-Prices-increased-moderately-in-eight-districts-with-two-districts-reporting-modest-increases-one-slight-increase-and-one-robust-increase.aspx?xy=rss"
+        },
+        {
+          "id": "681f79d25aab",
+          "titulo": "Fed Beige Book: Economic activity increased modestly since early July.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "15:00",
+          "link": "https://www.financialjuice.com/News/9747240/Fed-Beige-Book-Economic-activity-increased-modestly-since-early-July.aspx?xy=rss"
+        },
+        {
+          "id": "2af5a06ff20b",
+          "titulo": "Fed Beige Book: The general outlook for the coming months was positive, but sentiment was mixed across sectors, with contacts reporting heightened uncertainty surrounding the effects of higher energy prices.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "15:00",
+          "link": "https://www.financialjuice.com/News/9747241/Fed-Beige-Book-The-general-outlook-for-the-coming-months-was-positive-but-sentiment-was-mixed-across-sectors-with-contacts-reporting-heightened-uncertainty-surrounding-the-effects-of-higher-energy-prices.aspx?xy=rss"
+        },
+        {
+          "id": "8f397cc5d37b",
+          "titulo": "Wall Street is nervous about a Fed rate hike, which looks more likely after a top official’s remarks",
+          "fonte": "MarketWatch",
+          "data": "2026-09-02",
+          "hora": "14:44",
+          "link": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories"
+        },
+        {
+          "id": "80bad6a8d562",
+          "titulo": "Goldman Sachs warns investors to expect lower returns over the next year",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "14:10",
+          "link": "https://finance.yahoo.com/markets/article/goldman-sachs-warns-investors-to-expect-lower-returns-over-the-next-year-171050637.html"
+        },
+        {
+          "id": "08b043defd8c",
+          "titulo": "US Factory Orders MoM Actual 0.9% (Forecast 0.7%, Previous -0.3%, Revised -0.2%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:00",
+          "link": "https://www.financialjuice.com/News/9746908/US-Factory-Orders-MoM-Actual-09-Forecast-07-Previous--03-Revised--02.aspx?xy=rss"
+        },
+        {
+          "id": "0fc71599243e",
+          "titulo": "US Durable Goods Revised Actual 1.1% (Forecast 1.1%, Previous 1.1%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:00",
+          "link": "https://www.financialjuice.com/News/9746910/US-Durable-Goods-Revised-Actual-11-Forecast-11-Previous-11.aspx?xy=rss"
+        },
+        {
+          "id": "b2a6eae9a56b",
+          "titulo": "US Core Durable Goods Revised Actual 0.4% (Forecast 0.4%, Previous 0.4%, Revised -0.1%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:00",
+          "link": "https://www.financialjuice.com/News/9746909/US-Core-Durable-Goods-Revised-Actual-04-Forecast-04-Previous-04-Revised--01.aspx?xy=rss"
+        },
+        {
+          "id": "305721a2a0fc",
+          "titulo": "U.S. businesses created the fewest new jobs in 7 months, ADP says. Hiring slowed in the summer.",
+          "fonte": "MarketWatch",
+          "data": "2026-09-02",
+          "hora": "10:26",
+          "link": "https://www.marketwatch.com/story/adp-says-businesses-create-the-fewest-new-jobs-in-7-months-hiring-slowed-in-the-summer-59291cd9?mod=mw_rss_topstories"
+        },
+        {
+          "id": "836779eaf6e0",
+          "titulo": "Secured Overnight Financing Rate 3.66% September 1 vs 3.68% August 31.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:59",
+          "link": "https://www.financialjuice.com/News/9746664/Secured-Overnight-Financing-Rate-366-September-1-vs-368-August-31.aspx?xy=rss"
+        },
+        {
+          "id": "764c9c221631",
+          "titulo": "Loan Delinquencies Edge Lower in Q2, but Some Remain at Very High Levels. Here's What It Means for Investors.",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "08:35",
+          "link": "https://finance.yahoo.com/economy/articles/loan-delinquencies-edge-lower-q2-113500457.html"
+        },
+        {
+          "id": "c186654964f4",
+          "titulo": "September Is Usually Ugly For Stocks — Why This Year Is Different",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "08:30",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-september-is-usually-ugly-for-stocks-why-this-year-is-different/?src=A00220&yptr=yahoo"
+        },
+        {
+          "id": "b47882bbbea6",
+          "titulo": "US MBA 30-Yr Mortgage Rate Actual 6.79% (Forecast -, Previous 6.78%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:00",
+          "link": "https://www.financialjuice.com/News/9746565/US-MBA-30-Yr-Mortgage-Rate-Actual-679-Forecast---Previous-678.aspx?xy=rss"
+        },
+        {
+          "id": "61a5203ec06c",
+          "titulo": "US MBA Mortgage Applications Actual 0.8% (Forecast -, Previous -1.0%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:00",
+          "link": "https://www.financialjuice.com/News/9746564/US-MBA-Mortgage-Applications-Actual-08-Forecast---Previous--10.aspx?xy=rss"
+        },
+        {
+          "id": "8c3a5e947818",
+          "titulo": "Warsh's Jackson Hole encore may put Trump's inflation record under a microscope",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "07:31",
+          "link": "https://finance.yahoo.com/economy/policy/articles/warshs-jackson-hole-encore-may-100556398.html"
+        },
+        {
+          "id": "8c7745b4742d",
+          "titulo": "S&P 500 breaks through a major support as hawkish Fed expectations and US-Iran war weigh",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "07:16",
+          "link": "https://investinglive.com/stocks/s-p-500-breaks-through-a-major-support-as-hawkish-fed-expectations-and-us-iran-war-weigh/"
+        },
+        {
+          "id": "42cd647a5c89",
+          "titulo": "Silver erases all Treasury-led gains as hawkish Warsh retightens financial conditions; focus turns to US CPI report",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "05:49",
+          "link": "https://investinglive.com/commodities/silver-erases-all-treasury-led-gains-as-hawkish-warsh-retightens-financial-conditions-focus-turns-to-us-cpi-report/"
+        },
+        {
+          "id": "3277ced38754",
+          "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures fall as US-Iran war escalates, inflation jitters return",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "05:26",
+          "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html"
+        }
+      ],
+      "criado_em": "2026-09-03T08:38",
+      "atualizado_em": "2026-09-03T09:16"
+    },
+    {
+      "titulo": "Guerra EUA-Irão: minas no Ormuz e Trump a ponderar declarar o fim do conflito",
+      "sinal": "risk_off",
+      "resumo": "A Guarda Revolucionária confirmou que dois petroleiros embateram em minas navais e interromperam a travessia do Estreito de Ormuz, e a Arábia Saudita acusou o Irão de atacar o navio Sidr. O Irão diz que ataques americanos mataram quatro membros da Guarda em Kermanshah e três pilotos do exército; o ministro da Defesa israelita Katz ameaçou devolver o Irão à Idade da Pedra se for atacado. Bessent avisou que companhias aéreas, marítimas e ativos digitais podem ser alvo de sanções, e há relatos de a Rússia estar a ajudar o Irão a desenvolver mísseis supersónicos. Em contrapeso, Trump pondera declarar a guerra terminada.",
+      "impacto": "É o motor do prémio de risco no petróleo e, por essa via, da inflação global — o canal que mais pesa sobre o Ibovespa via juro longo. Enquanto o Ormuz estiver minado, o suporte ao Brent favorece PETR4 e PRIO3 e penaliza tudo o que é sensível a juro e a custo de energia. Uma declaração de fim do conflito seria o principal gatilho de reversão rápida: retiraria prémio do crude e desanuviaria o cenário para ativos de risco brasileiros.",
+      "n_noticias": 24,
+      "noticias": [
+        {
+          "id": "6dfe499b3644",
+          "titulo": "Three Iranian army pilots were killed in US strikes earlier this week - Tasnim",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "08:08",
+          "link": "https://www.financialjuice.com/News/9748402/Three-Iranian-army-pilots-were-killed-in-US-strikes-earlier-this-week---Tasnim.aspx?xy=rss"
+        },
+        {
+          "id": "7e326945b734",
+          "titulo": "Israel's Defence Minister Katz warns Israel would “return Iran to the Stone Age\" if attacked",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "06:59",
+          "link": "https://www.financialjuice.com/News/9748296/Israels-Defence-Minister-Katz-warns-Israel-would-return-Iran-to-the-Stone-Age-if-attacked.aspx?xy=rss"
+        },
+        {
+          "id": "61b3e0fcabd8",
+          "titulo": "Israel's Defence Minister Katz: Iran attack on Israel would free us from existing limits",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "06:58",
+          "link": "https://www.financialjuice.com/News/9748295/Israels-Defence-Minister-Katz-Iran-attack-on-Israel-would-free-us-from-existing-limits.aspx?xy=rss"
+        },
+        {
+          "id": "87d9eec551bc",
+          "titulo": "Israel's Defence Minister Katz: Iran could resort to desperate measures due to pressure",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-03",
+          "hora": "06:57",
+          "link": "https://www.financialjuice.com/News/9748294/Israels-Defence-Minister-Katz-Iran-could-resort-to-desperate-measures-due-to-pressure.aspx?xy=rss"
+        },
+        {
+          "id": "98f2247fb619",
+          "titulo": "investingLive Asia-Pacific market news: Trump mulls declaring Iran war over",
+          "fonte": "ForexLive",
+          "data": "2026-09-03",
+          "hora": "00:52",
+          "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-trump-mulls-declaring-iran-war-over/"
+        },
+        {
+          "id": "a0e773611e65",
+          "titulo": "WSJ reports Trump privately weighs declaring Iran war over (50,000 troops to keep options open)",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "23:14",
+          "link": "https://investinglive.com/commodities/wsj-reports-trump-privately-weighs-declaring-iran-war-over-50-000-troops-to-keep-options-open/"
+        },
+        {
+          "id": "dd6b43aa172e",
+          "titulo": "Oil popping higher as Kuwait reports missile and drone attacks",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "22:45",
+          "link": "https://investinglive.com/commodities/oil-popping-higher-as-kuwait-reports-missile-and-drone-attacks/"
+        },
+        {
+          "id": "a3a68327e56f",
+          "titulo": "CNN report US military escorts 40 tankers with 18 million barrels through Hormuz",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "21:17",
+          "link": "https://investinglive.com/commodities/cnn-report-us-military-escorts-40-tankers-with-18-million-barrels-through-hormuz/"
+        },
+        {
+          "id": "76c329cc682a",
+          "titulo": "Trump sugere rebatizar Estreito de Ormuz como “Estreito Trump”",
+          "fonte": "InfoMoney",
+          "data": "2026-09-02",
+          "hora": "14:31",
+          "link": "https://www.infomoney.com.br/mundo/trump-sugere-rebatizar-estreito-de-ormuz-como-estreito-trump/"
+        },
+        {
+          "id": "515d9a8f2121",
+          "titulo": "Trump: Now that we have the Strait under US control, should we change the name of the Hormuz Strait to the Trump Strait??? - Truth Social.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "12:24",
+          "link": "https://www.financialjuice.com/News/9747049/Trump-Now-that-we-have-the-Strait-under-US-control-should-we-change-the-name-of-the-Hormuz-Strait-to-the-Trump-Strait---Truth-Social.aspx?xy=rss"
+        },
+        {
+          "id": "6434c31eb2d5",
+          "titulo": "Arábia Saudita condena Irã por ataque a petroleiro em Ormuz; EUA emite alerta",
+          "fonte": "InfoMoney",
+          "data": "2026-09-02",
+          "hora": "11:36",
+          "link": "https://www.infomoney.com.br/mundo/arabia-saudita-condena-ira-por-ataque-a-petroleiro-em-ormuz-eua-emite-alerta/"
+        },
+        {
+          "id": "9b59eefa433d",
+          "titulo": "Iran Border Guards seize a vessel with 382,000 litres of smuggled fuel in the northern gulf, and detain 11 foreign suspects - Iranian State Media.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "11:00",
+          "link": "https://www.financialjuice.com/News/9746913/Iran-Border-Guards-seize-a-vessel-with-382000-litres-of-smuggled-fuel-in-the-northern-gulf-and-detain-11-foreign-suspects---Iranian-State-Media.aspx?xy=rss"
+        },
+        {
+          "id": "9e53e93cf2c0",
+          "titulo": "US Energy Secretary Wright: Trump is changing the importance of the Strait of Hormuz",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "10:15",
+          "link": "https://www.financialjuice.com/News/9746823/US-Energy-Secretary-Wright-Trump-is-changing-the-importance-of-the-Strait-of-Hormuz.aspx?xy=rss"
+        },
+        {
+          "id": "7d0a9c6a3b67",
+          "titulo": "US Treasury Secretary Bessent on Iran, sanctions: Airlines, maritime, digital assets could be targets.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:43",
+          "link": "https://www.financialjuice.com/News/9746648/US-Treasury-Secretary-Bessent-on-Iran-sanctions-Airlines-maritime-digital-assets-could-be-targets.aspx?xy=rss"
+        },
+        {
+          "id": "55352dd0d0ee",
+          "titulo": "US Treasury Secretary Bessent, on Iran and sanctions: Going to systemically take out bad actors - Fox news interview",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:43",
+          "link": "https://www.financialjuice.com/News/9746647/US-Treasury-Secretary-Bessent-on-Iran-and-sanctions-Going-to-systemically-take-out-bad-actors---Fox-news-interview.aspx?xy=rss"
+        },
+        {
+          "id": "b9833dfba951",
+          "titulo": "US Treasury Secretary Bessent on Iran, Russia: No one should support this regime.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:43",
+          "link": "https://www.financialjuice.com/News/9746645/US-Treasury-Secretary-Bessent-on-Iran-Russia-No-one-should-support-this-regime.aspx?xy=rss"
+        },
+        {
+          "id": "8613dffc9994",
+          "titulo": "US Treasury Secretary Bessent, on Iran and Russia: My message to everyone is to stay away - Fox News interview",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:43",
+          "link": "https://www.financialjuice.com/News/9746644/US-Treasury-Secretary-Bessent-on-Iran-and-Russia-My-message-to-everyone-is-to-stay-away---Fox-News-interview.aspx?xy=rss"
+        },
+        {
+          "id": "132bf23bcee2",
+          "titulo": "Saudi Arabia: Iran attacked Saudi Sidr vessel in the Strait of Hormuz - Foreign Ministry",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "08:10",
+          "link": "https://www.financialjuice.com/News/9746592/Saudi-Arabia-Iran-attacked-Saudi-Sidr-vessel-in-the-Strait-of-Hormuz---Foreign-Ministry.aspx?xy=rss"
+        },
+        {
+          "id": "aeeeab0979f7",
+          "titulo": "Mexico's President Sheinbaum: We will work with mideast nations to safeguard international shipping lanes",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "07:57",
+          "link": "https://www.financialjuice.com/News/9746563/Mexicos-President-Sheinbaum-We-will-work-with-mideast-nations-to-safeguard-international-shipping-lanes.aspx?xy=rss"
+        },
+        {
+          "id": "7f28d210a5b1",
+          "titulo": "Iran tried cyberattacks on various US infrastructure - NBC",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "07:02",
+          "link": "https://www.financialjuice.com/News/9746516/Iran-tried-cyberattacks-on-various-US-infrastructure---NBC.aspx?xy=rss"
+        },
+        {
+          "id": "6d6c464075e5",
+          "titulo": "Seis meses de guerra no Irã: como conflito redesenha poder no Oriente Médio",
+          "fonte": "Exame",
+          "data": "2026-09-02",
+          "hora": "06:00",
+          "link": "https://exame.com/mundo/seis-meses-no-ira-um-novo-oriente-medio-mais-distante-dos-eua/"
+        },
+        {
+          "id": "9104d1ca41fc",
+          "titulo": "Iran's Revolutionary Guards: two tankers struck naval mines, halted journey in Strait of Hormuz - Statement",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "05:16",
+          "link": "https://www.financialjuice.com/News/9746377/Irans-Revolutionary-Guards-two-tankers-struck-naval-mines-halted-journey-in-Strait-of-Hormuz---Statement.aspx?xy=rss"
+        },
+        {
+          "id": "38ab017cb6cc",
+          "titulo": "Iran: US attacks killed 4 IRGC members in Kermanshah - Tasnim",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "04:28",
+          "link": "https://www.financialjuice.com/News/9746300/Iran-US-attacks-killed-4-IRGC-members-in-Kermanshah---Tasnim.aspx?xy=rss"
+        },
+        {
+          "id": "145b80a12a7f",
+          "titulo": "Russia secretly helping Iran develop supersonic missiles",
+          "fonte": "FT Markets",
+          "data": "2026-09-02",
+          "hora": "01:00",
+          "link": "https://www.ft.com/content/8812dfb4-8bae-4459-8de5-016d919c43ff?syn-25a6b1a6=1"
+        }
+      ],
+      "criado_em": "2026-09-03T08:38",
+      "atualizado_em": "2026-09-03T09:16"
     },
     {
       "titulo": "Europa: PMIs resistem e o BCE caminha para subir juros a 10 de setembro",
       "sinal": "neutro",
-      "resumo": "Os PMIs finais de agosto mostraram a zona euro em expansão (compósito 52, serviços 51,6), com a Alemanha acima do esperado (serviços 49,7 contra 48,5) e a Itália forte (serviços 55,2), contra uma França ainda em contração (serviços 48). O PPI da zona euro acelerou para 5,8% em termos homólogos, bem acima dos 5,45% esperados, e a totalidade dos 65 economistas de uma sondagem espera uma subida de 25 pontos-base na taxa de depósito a 10 de setembro, para 2,50%.",
-      "impacto": "Mais um banco central grande a apertar reforça o ambiente de juro global em alta que pressiona emergentes — o mesmo vetor do selloff de obrigações. Atividade europeia resiliente é marginalmente positiva para o preço do minério e do aço (VALE3, GGBR4, CSNA3, USIM5) e para a celulose da SUZB3, mas o canal dominante hoje é o das taxas.",
-      "n_noticias": 17,
+      "resumo": "Os 65 economistas inquiridos são unânimes a esperar uma subida de 25 pontos base da taxa de depósito para 2,50% a 10 de setembro, e 58 de 64 veem-na nesse nível no final de 2026. Os PMIs finais de agosto mostram uma zona euro em expansão modesta (compósito 52,0; serviços 51,6), com a Itália a surpreender pela positiva (serviços 55,2 contra 53,4 esperado) e a França ainda em contração (serviços 48,0). A inflação de produtor voltou a acelerar — PPI da zona euro +1,6% no mês e +5,8% no ano; em Itália o PPI homólogo saltou para 9,3% —, e Schnabel poderá sair do BCE mais cedo para o FMI.",
+      "impacto": "Um BCE a subir juros com a Fed também a endurecer retira o diferencial que suporta o carry de emergentes e é adverso para o real e para BOVA11. Pelo lado real, a Europa em expansão fraca mas positiva sustenta a procura de aço e celulose (GGBR4, CSNA3, USIM5, SUZB3, KLBN11); o PPI a acelerar confirma que o choque é de custos de energia, não de procura.",
+      "n_noticias": 21,
       "noticias": [
         {
           "id": "65c9206cb115",
@@ -291,454 +1447,197 @@
           "data": "2026-09-03",
           "hora": "04:45",
           "link": "https://www.financialjuice.com/News/9748098/Italian-Composite-PMI-Actual-536-Forecast-531-Previous-525.aspx?xy=rss"
+        },
+        {
+          "id": "44fa0781603f",
+          "titulo": "ECB Preview: How To Hike Rates Without Creating More Market Turmoil",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-02",
+          "hora": "08:05",
+          "link": "https://seekingalpha.com/article/4942344-ecb-preview-how-to-hike-rates-without-creating-more-market-turmoil?source=feed_all_articles"
+        },
+        {
+          "id": "9cf5c8b391bd",
+          "titulo": "Europe Sentiment: Rate Hike Bets Soar Around The World - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "05:29",
+          "link": "https://www.financialjuice.com/News/9746378/Europe-Sentiment-Rate-Hike-Bets-Soar-Around-The-World---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "40193aefdf9b",
+          "titulo": "Italian PPI MoM Actual 3% (Forecast -, Previous 0.0%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "05:09",
+          "link": "https://www.financialjuice.com/News/9746358/Italian-PPI-MoM-Actual-3-Forecast---Previous-00.aspx?xy=rss"
+        },
+        {
+          "id": "0699123e606c",
+          "titulo": "Italian PPI YoY Actual 9.3% (Forecast -, Previous 5.8%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "05:09",
+          "link": "https://www.financialjuice.com/News/9746357/Italian-PPI-YoY-Actual-93-Forecast---Previous-58.aspx?xy=rss"
         }
       ],
       "criado_em": "2026-09-03T08:38",
-      "atualizado_em": "2026-09-03T08:38"
+      "atualizado_em": "2026-09-03T09:16"
     },
     {
-      "titulo": "Petróleo entre a guerra e a nova oferta venezuelana",
-      "sinal": "neutro",
-      "resumo": "O Brent e o WTI tocaram os níveis mais altos desde o final de julho com a guerra no Médio Oriente, mas recuaram para baixo de US$ 90 e os inventários americanos caíram 4,45 milhões de barris (estimativa: -1,09 milhão). Do lado da oferta, a Chevron fechou acordo com Caracas e investe US$ 7 bilhões para mais que duplicar a extração na Faixa do Orinoco, com a Casa Branca a apontar novembro para os primeiros barris nas reservas dos EUA. O diesel americano está no valor mais alto desde 2022 e a receita russa de petróleo e gás caiu para 424 bilhões de rublos em agosto, de 934 bilhões em julho.",
-      "impacto": "Duas forças opostas para PETR4: prémio geopolítico a sustentar o Brent contra oferta venezuelana adicional a partir de novembro. Para PRIO3 o dado próprio pesa mais — a produção de agosto caiu 5,2%, depois dos 196.260 boe/dia preliminares de julho. Diesel caro em máximos de quatro anos pressiona custos de JBSS32, BEEF3 e da logística agrícola.",
+      "titulo": "Iene dispara com a probabilidade de subida do BoJ em setembro nos 97%",
+      "sinal": "risk_off",
+      "resumo": "A probabilidade implícita de o Banco do Japão subir juros em setembro chegou a 97% nos dados da Tokyo Tanshi e o iene valorizou para baixo de 157,80 por dólar. O responsável máximo do câmbio japonês, Mimura, diz estar pronto para continuar a batalha cambial e as autoridades prometeram monitorizar o iene face ao receio com a inflação; Takata defendeu considerar um leque alargado de opções de política monetária.",
+      "impacto": "O fim do carry trade barato em ienes é o canal de transmissão mais direto para ativos de risco emergentes: se o BoJ subir e o iene continuar a valorizar, o desmantelamento de posições financiadas em ienes retira liquidez de BOVA11 e das ações brasileiras de maior beta. É exatamente o risco que a ideia registada no app sobre BOVA11 identifica ao apontar que o BoJ vai encarecer o carry.",
       "n_noticias": 15,
       "noticias": [
         {
-          "id": "f95013ef6969",
-          "titulo": "PRIO (PRIO3) tem baixa de 5,2% na produção em agosto",
+          "id": "41e35d3b6201",
+          "titulo": "Chefe de câmbio do Japão afirma estar em alerta sobre movimentação do iene",
           "fonte": "InfoMoney",
           "data": "2026-09-03",
-          "hora": "07:55",
-          "link": "https://www.infomoney.com.br/mercados/prio-prio3-tem-baixa-de-52-na-producao-em-agosto/"
+          "hora": "08:40",
+          "link": "https://www.infomoney.com.br/mercados/chefe-de-cambio-do-japao-afirma-estar-em-alerta-sobre-movimentacao-do-iene/"
         },
         {
-          "id": "74c4806bed93",
-          "titulo": "Russia’s Deputy PM Novak: Russian market fully supplied with diesel and jet fuel",
+          "id": "5104518d556f",
+          "titulo": "Yen soars as Bank of Japan tipped to raise interest rates",
+          "fonte": "Guardian Business",
+          "data": "2026-09-03",
+          "hora": "08:28",
+          "link": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates"
+        },
+        {
+          "id": "f0eaac6e80fd",
+          "titulo": "Japan's Top Currency Diplomat Mimura: Ready to continue the battle on FX",
           "fonte": "FinancialJuice",
           "data": "2026-09-03",
-          "hora": "07:38",
-          "link": "https://www.financialjuice.com/News/9748351/Russias-Deputy-PM-Novak-Russian-market-fully-supplied-with-diesel-and-jet-fuel.aspx?xy=rss"
+          "hora": "06:10",
+          "link": "https://www.financialjuice.com/News/9748257/Japans-Top-Currency-Diplomat-Mimura-Ready-to-continue-the-battle-on-FX.aspx?xy=rss"
         },
         {
-          "id": "5b24f5acbbd4",
-          "titulo": "Russian state's budget proceeds from oil and gas sales at 424 bln roubles in August, from 934 bln roubles in July - Finance ministry",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-03",
-          "hora": "06:03",
-          "link": "https://www.financialjuice.com/News/9748231/Russian-states-budget-proceeds-from-oil-and-gas-sales-at-424-bln-roubles-in-August-from-934-bln-roubles-in-July---Finance-ministry.aspx?xy=rss"
-        },
-        {
-          "id": "abe470369a28",
-          "titulo": "O mundo perdeu 2 bilhões de barris e mesmo assim o petróleo não explodiu",
-          "fonte": "Exame",
-          "data": "2026-09-03",
-          "hora": "06:00",
-          "link": "https://exame.com/mundo/o-mundo-perdeu-2-bilhoes-de-barris-e-mesmo-assim-o-petroleo-nao-explodiu/"
-        },
-        {
-          "id": "e542fa29cff4",
-          "titulo": "US average diesel price gains to highest since 2022 - AAA data",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-03",
-          "hora": "04:25",
-          "link": "https://www.financialjuice.com/News/9748076/US-average-diesel-price-gains-to-highest-since-2022---AAA-data.aspx?xy=rss"
-        },
-        {
-          "id": "09d4428eed5a",
-          "titulo": "WTI Crude Oil Price Analysis: Bears Favored Below $90",
-          "fonte": "ForexLive",
-          "data": "2026-09-03",
-          "hora": "04:08",
-          "link": "https://investinglive.com/commodities/wti-crude-oil-price-analysis-bears-favored-below-90/"
-        },
-        {
-          "id": "7f4ed63ea36a",
-          "titulo": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
-          "fonte": "BBC Business",
-          "data": "2026-09-02",
-          "hora": "20:53",
-          "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "907eb04e3e01",
-          "titulo": "Brent and WTI hit highest levels (resistance now?) since late July as Middle East war flares",
-          "fonte": "ForexLive",
-          "data": "2026-09-02",
-          "hora": "19:41",
-          "link": "https://investinglive.com/commodities/brent-and-wti-hit-highest-levels-resistance-now-since-late-july-as-middle-east-war-flares/"
-        },
-        {
-          "id": "16956c4b587f",
-          "titulo": "White House: The barrels from the Venezuela deal could hit reserves in the US in November.",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-02",
-          "hora": "14:24",
-          "link": "https://www.financialjuice.com/News/9747195/White-House-The-barrels-from-the-Venezuela-deal-could-hit-reserves-in-the-US-in-November.aspx?xy=rss"
-        },
-        {
-          "id": "be5becaaeb62",
-          "titulo": "The wrong way to revive Venezuela’s economy",
+          "id": "141fce602adf",
+          "titulo": "Yen jumps as traders bet on Japan interest rate rises",
           "fonte": "FT Markets",
-          "data": "2026-09-02",
-          "hora": "14:22",
-          "link": "https://www.ft.com/content/1fef1e44-2a79-4057-89e5-33417e5a7763?syn-25a6b1a6=1"
+          "data": "2026-09-03",
+          "hora": "05:55",
+          "link": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1"
         },
         {
-          "id": "6e74d9a84273",
-          "titulo": "Chevron and the Venezuelan government sign an oil deal, a bonus venture deal in the Orinoco Belt. $CVX",
+          "id": "22391ef3d122",
+          "titulo": "Japan Finance Minister Katayama: I have never received a direct request to do anything from Bessent",
           "fonte": "FinancialJuice",
-          "data": "2026-09-02",
-          "hora": "13:34",
-          "link": "https://www.financialjuice.com/News/9747142/Chevron-and-the-Venezuelan-government-sign-an-oil-deal-a-bonus-venture-deal-in-the-Orinoco-Belt-CVX.aspx?xy=rss"
+          "data": "2026-09-03",
+          "hora": "05:50",
+          "link": "https://www.financialjuice.com/News/9748207/Japan-Finance-Minister-Katayama-I-have-never-received-a-direct-request-to-do-anything-from-Bessent.aspx?xy=rss"
         },
         {
-          "id": "91c0f3b9445c",
-          "titulo": "Após acordo, petrolífera dos EUA anuncia US$ 7 bilhões para ampliar produção na Venezuela; expectativa é mais que dobrar extração até 2030",
-          "fonte": "G1 Economia",
-          "data": "2026-09-02",
-          "hora": "12:05",
-          "link": "https://g1.globo.com/economia/noticia/2026/09/02/apos-acordo-petrolifera-dos-eua-anuncia-us-7-bilhoes-para-ampliar-producao-na-venezuela-expectativa-e-mais-que-dobrar-extracao-ate-2030.ghtml"
+          "id": "9b7b5f875add",
+          "titulo": "USD/JPY extends fall today in drop back below 158, what's next?",
+          "fonte": "ForexLive",
+          "data": "2026-09-03",
+          "hora": "01:58",
+          "link": "https://investinglive.com/forex/usd-jpy-extends-fall-today-in-drop-back-below-158-what-s-next/"
         },
         {
-          "id": "97f0af8f28e2",
-          "titulo": "Chevron: Unclear Venezuela Opportunity, But Strong Fundamentals And Technicals",
-          "fonte": "Seeking Alpha",
-          "data": "2026-09-02",
-          "hora": "11:57",
-          "link": "https://seekingalpha.com/article/4942432-chevron-unclear-venezuela-opportunity-but-strong-fundamentals-and-technicals?source=feed_all_articles"
+          "id": "76e95665acc3",
+          "titulo": "Yen extends gains below 157.80 as BOJ hawks and less hawkish Fed voices collide",
+          "fonte": "ForexLive",
+          "data": "2026-09-03",
+          "hora": "00:34",
+          "link": "https://investinglive.com/forex/yen-extends-gains-below-157-80-as-boj-hawks-and-less-hawkish-fed-voices-collide/"
         },
         {
-          "id": "0f4f0d98a5e1",
-          "titulo": "Crude oil technical analsysis: US crude oil inventories for -4.450M barrel vs -1.085M estimate.",
+          "id": "859c3433db8f",
+          "titulo": "Yen support: Japan services PMI hits five-month high as inflation strengthens BOJ hike case",
           "fonte": "ForexLive",
           "data": "2026-09-02",
-          "hora": "11:50",
-          "link": "https://investinglive.com/commodities/crude-oil-technical-analsysis-us-crude-oil-inventories-for-4-450m-barrel-vs-1-085m-estimate/"
+          "hora": "21:45",
+          "link": "https://investinglive.com/news/yen-support-japan-services-pmi-hits-five-month-high-as-inflation-strengthens-boj-hike-case/"
         },
         {
-          "id": "8c5e4b4e6baa",
-          "titulo": "Chevron dobra a aposta na Venezuela com investimento de US$ 7 bilhões em petróleo",
+          "id": "97fcb67a4c12",
+          "titulo": "Autoridades do Japão prometem monitorar iene em meio a temor com a inflação",
           "fonte": "InfoMoney",
           "data": "2026-09-02",
-          "hora": "11:41",
-          "link": "https://www.infomoney.com.br/business/chevron-dobra-a-aposta-na-venezuela-com-investimento-de-us-7-bilhoes-em-petroleo/"
+          "hora": "08:34",
+          "link": "https://www.infomoney.com.br/mercados/autoridades-do-japao-prometem-monitorar-iene-em-meio-a-temor-com-a-inflacao/"
+        },
+        {
+          "id": "38cdac4ba65b",
+          "titulo": "A lesson from the widowmaker trade: When being right just isn't enough",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "07:24",
+          "link": "https://investinglive.com/education/a-lesson-from-the-widowmaker-trade-when-being-right-just-isn-t-enough/"
+        },
+        {
+          "id": "459940e75bf4",
+          "titulo": "USD/JPY corrects lower but remains skewed to the upside; faster BoJ tightening needed to reverse the trend",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "06:29",
+          "link": "https://investinglive.com/forex/usd-jpy-corrects-lower-but-remains-skewed-to-the-upside-faster-boj-tightening-needed-to-reverse-the-trend/"
+        },
+        {
+          "id": "6f1aebd8cc37",
+          "titulo": "BoJ rate hike probability in September rises to 97% - Money broker Tokyo tanshi data",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "03:38",
+          "link": "https://www.financialjuice.com/News/9746267/BoJ-rate-hike-probability-in-September-rises-to-97---Money-broker-Tokyo-tanshi-data.aspx?xy=rss"
+        },
+        {
+          "id": "b1219b3d6116",
+          "titulo": "USD/JPY stumbles lower after brief trip to near five-week highs earlier in the day",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "03:10",
+          "link": "https://investinglive.com/forex/usd-jpy-stumbles-lower-after-brief-trip-to-near-five-week-highs-earlier-in-the-day/"
+        },
+        {
+          "id": "290977de8414",
+          "titulo": "BoJ Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-02",
+          "hora": "03:05",
+          "link": "https://www.financialjuice.com/News/9746226/BoJ-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "b14bbebea3d1",
+          "titulo": "BOJ policymaker Takata says need to consider a broad range of options on monetary policy response",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "02:40",
+          "link": "https://investinglive.com/central-banks/boj-policymaker-takata-says-need-to-consider-a-broad-range-of-options-on-monetary-policy-response/"
         }
       ],
       "criado_em": "2026-09-03T08:38",
-      "atualizado_em": "2026-09-03T08:38"
+      "atualizado_em": "2026-09-03T09:16"
     },
     {
-      "titulo": "Capex de IA reacende os semicondutores e a Big Tech",
+      "titulo": "Ibovespa aos 185 mil com real forte e a corrida eleitoral a apertar",
       "sinal": "risk_on",
-      "resumo": "A Nvidia subiu 4% com um acordo reportado de US$ 12,9 bilhões com a Hugging Face e prepara um cheque de US$ 14 bilhões para dominar mais uma frente da IA; a Dell saltou 8% com guidance acima do esperado e a Broadcom bateu estimativas. A Micron aponta para mais um trimestre recorde, a Google lançou o Gemini 3.8 Flash e a Berkshire reforçou a posição na Alphabet. Lutnick confirmou que as tarifas sobre chips visam aumentar a produção americana.",
-      "impacto": "Renova o apetite por risco global e é o principal contrapeso ao juro longo — quando os semis puxam, a correlação arrasta o Ibovespa pelo beta. Sem exposição direta na carteira, o canal é de humor de mercado e de procura de energia e cobre; tarifas sobre chips são um risco de cauda para as cadeias industriais que tocam WEGE3.",
-      "n_noticias": 14,
+      "resumo": "O Ibovespa dispara para os 185 mil pontos e o câmbio abre com o mercado atento aos PMIs e ao fluxo estrangeiro. O agregador Inteligov/EXAME mostra Lula ainda à frente mas com Flávio Bolsonaro a crescer e a reduzir a diferença. Entre as ações do dia estão PRIO, CSN, Méliuz, IRB, Viveo e Axia. A FGV Ibre alerta, do outro lado, que a queda do consumo surpreendeu e torna urgente o ajuste fiscal, e a Ambev é apontada como beneficiária da incerteza eleitoral.",
+      "impacto": "O fluxo estrangeiro e o real forte são o que sustenta o índice apesar do juro longo global a subir — é a divergência central do momento e a razão pela qual BOVA11 aguenta. A corrida eleitoral a apertar aumenta a volatilidade de 30 dias nos bancos (BBAS3, ITUB4, BPAC11), exatamente o que as ideias registadas no app sobre BBAS3 e BPAC11 antecipam. A AXIA3 aparece hoje entre as ações a acompanhar.",
+      "n_noticias": 13,
       "noticias": [
         {
-          "id": "5e940e476e74",
-          "titulo": "Micron's Q4 2026 Period Will Be Another Record Quarter",
-          "fonte": "Seeking Alpha",
-          "data": "2026-09-03",
-          "hora": "08:05",
-          "link": "https://seekingalpha.com/article/4942703-microns-4q26-period-will-be-another-record-quarter?source=feed_all_articles"
-        },
-        {
-          "id": "d6a5623a0614",
-          "titulo": "The AI cloud math is broken, and it’s creating a power shift within Big Tech",
-          "fonte": "MarketWatch",
-          "data": "2026-09-03",
-          "hora": "08:00",
-          "link": "https://www.marketwatch.com/story/the-ai-cloud-math-is-broken-and-its-creating-a-power-shift-within-big-tech-5652da0f?mod=mw_rss_topstories"
-        },
-        {
-          "id": "7cc8799c3b89",
-          "titulo": "Wall Street Breakfast Podcast: Broadcom Beat Meets High Hopes",
-          "fonte": "Seeking Alpha",
-          "data": "2026-09-03",
-          "hora": "07:45",
-          "link": "https://seekingalpha.com/article/4942713-wall-street-breakfast-podcast-broadcom-beat-meets-high-hopes?source=feed_all_articles"
-        },
-        {
-          "id": "20343eadc394",
-          "titulo": "US Commerce Secretary Lutnick: Chip tariffs aimed at boosting US chip output.",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-02",
-          "hora": "14:44",
-          "link": "https://www.financialjuice.com/News/9747222/US-Commerce-Secretary-Lutnick-Chip-tariffs-aimed-at-boosting-US-chip-output.aspx?xy=rss"
-        },
-        {
-          "id": "077c8a251b6c",
-          "titulo": "Google lança Gemini Flash 3.8 e chama modelo de 'o mais inteligente até agora'",
-          "fonte": "Exame",
-          "data": "2026-09-02",
-          "hora": "14:41",
-          "link": "https://exame.com/inteligencia-artificial/google-lanca-gemini-flash-3-8-e-chama-modelo-de-o-mais-inteligente-ate-agora/"
-        },
-        {
-          "id": "b3d419f17f87",
-          "titulo": "NVIDIA Rises 4% on Reported $12.9B Hugging Face Deal, Dell Jumps 8% After Guidance Beat",
-          "fonte": "Yahoo Finance",
-          "data": "2026-09-02",
-          "hora": "14:31",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-rises-4-reported-12-173138538.html"
-        },
-        {
-          "id": "4531b6b3d9f9",
-          "titulo": "Micron: This Cycle Might Shock Everyone",
-          "fonte": "Seeking Alpha",
-          "data": "2026-09-02",
-          "hora": "14:10",
-          "link": "https://seekingalpha.com/article/4942359-micron-this-cycle-might-shock-everyone?source=feed_all_articles"
-        },
-        {
-          "id": "05be8462de45",
-          "titulo": "Nvidia: The Market Is Crazy Not To Push The Stock Higher",
-          "fonte": "Seeking Alpha",
-          "data": "2026-09-02",
-          "hora": "14:01",
-          "link": "https://seekingalpha.com/article/4942482-nvidia-the-market-is-crazy-not-to-push-the-stock-higher?source=feed_all_articles"
-        },
-        {
-          "id": "8c90c8d887e5",
-          "titulo": "Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending",
-          "fonte": "Yahoo Finance",
-          "data": "2026-09-02",
-          "hora": "14:00",
-          "link": "https://www.investors.com/news/technology/nvidia-stock-buy-point-chip-stocks-rally/?src=A00220&yptr=yahoo"
-        },
-        {
-          "id": "bd4cc4f673e1",
-          "titulo": "OpenAI's Altman: AI will be the greatest boom in business the world has seen.",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-02",
-          "hora": "13:52",
-          "link": "https://www.financialjuice.com/News/9747157/OpenAIs-Altman-AI-will-be-the-greatest-boom-in-business-the-world-has-seen.aspx?xy=rss"
-        },
-        {
-          "id": "334243e2c92f",
-          "titulo": "Google launches the Gemini 3.8 Flash reasoning model.",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-02",
-          "hora": "12:43",
-          "link": "https://www.financialjuice.com/News/9747078/Google-launches-the-Gemini-38-Flash-reasoning-model.aspx?xy=rss"
-        },
-        {
-          "id": "0bbbb22683a2",
-          "titulo": "OpenAI diz que seu novo modelo de IA é tão avançado que exigirá mais medidas de segurança",
+          "id": "07ae975672bf",
+          "titulo": "Dólar abre com mercado de olho em dados dos EUA e votação da 'taxa das blusinhas'",
           "fonte": "G1 Economia",
-          "data": "2026-09-02",
-          "hora": "12:05",
-          "link": "https://g1.globo.com/tecnologia/noticia/2026/09/02/openai-diz-que-novo-modelo-de-ia-e-tao-avancado-que-exigira-mais-medidas-de-seguranca.ghtml"
-        },
-        {
-          "id": "c4297e485890",
-          "titulo": "Berkshire reforça posição bilionária no Google e vê gigante entre líderes da IA",
-          "fonte": "InfoMoney",
-          "data": "2026-09-02",
-          "hora": "11:55",
-          "link": "https://www.infomoney.com.br/mercados/berkshire-reforca-posicao-bilionaria-no-google-e-ve-gigante-entre-lideres-da-ia/"
-        },
-        {
-          "id": "339e5cca1245",
-          "titulo": "Nvidia prepara cheque de US$ 14 bilhões para dominar mais uma frente da IA",
-          "fonte": "InfoMoney",
-          "data": "2026-09-02",
-          "hora": "11:46",
-          "link": "https://www.infomoney.com.br/business/nvidia-prepara-cheque-de-us-14-bilhoes-para-dominar-mais-uma-frente-da-ia/"
-        }
-      ],
-      "criado_em": "2026-09-03T08:38",
-      "atualizado_em": "2026-09-03T08:38"
-    },
-    {
-      "titulo": "Guerra EUA-Irão: Washington controla Ormuz e Trump pondera declarar o fim",
-      "sinal": "risk_off",
-      "resumo": "O WSJ noticia que Trump avalia declarar a guerra terminada mantendo 50.000 militares na região, enquanto a CNN reporta a escolta militar de 40 petroleiros com 18 milhões de barris pelo Estreito de Ormuz. O Kuwait relatou ataques de mísseis e drones e o Irão confirmou a morte de três pilotos em ataques americanos; o ministro da Defesa israelita Katz avisou que devolveria o Irão à Idade da Pedra se atacado.",
-      "impacto": "Ormuz sob controlo americano tira o prémio de risco extremo do petróleo, mas a escalada retórica mantém o Brent volátil — o canal principal para PETR4 e PRIO3. Enquanto o conflito não fechar, o dólar e o ouro seguem com procura defensiva e o beta do Ibovespa fica refém de manchetes.",
-      "n_noticias": 10,
-      "noticias": [
-        {
-          "id": "6dfe499b3644",
-          "titulo": "Three Iranian army pilots were killed in US strikes earlier this week - Tasnim",
-          "fonte": "FinancialJuice",
           "data": "2026-09-03",
-          "hora": "08:08",
-          "link": "https://www.financialjuice.com/News/9748402/Three-Iranian-army-pilots-were-killed-in-US-strikes-earlier-this-week---Tasnim.aspx?xy=rss"
+          "hora": "09:04",
+          "link": "https://g1.globo.com/economia/noticia/2026/09/03/dolar-ibovespa.ghtml"
         },
         {
-          "id": "7e326945b734",
-          "titulo": "Israel's Defence Minister Katz warns Israel would “return Iran to the Stone Age\" if attacked",
-          "fonte": "FinancialJuice",
+          "id": "f18417291fa4",
+          "titulo": "Ambev: Strong Beverage Leader That Can Win From Brazil's Election Uncertainty",
+          "fonte": "Seeking Alpha",
           "data": "2026-09-03",
-          "hora": "06:59",
-          "link": "https://www.financialjuice.com/News/9748296/Israels-Defence-Minister-Katz-warns-Israel-would-return-Iran-to-the-Stone-Age-if-attacked.aspx?xy=rss"
+          "hora": "08:42",
+          "link": "https://seekingalpha.com/article/4942721-ambev-strong-beverage-leader-that-can-win-from-brazil-election-uncertainty?source=feed_all_articles"
         },
-        {
-          "id": "61b3e0fcabd8",
-          "titulo": "Israel's Defence Minister Katz: Iran attack on Israel would free us from existing limits",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-03",
-          "hora": "06:58",
-          "link": "https://www.financialjuice.com/News/9748295/Israels-Defence-Minister-Katz-Iran-attack-on-Israel-would-free-us-from-existing-limits.aspx?xy=rss"
-        },
-        {
-          "id": "87d9eec551bc",
-          "titulo": "Israel's Defence Minister Katz: Iran could resort to desperate measures due to pressure",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-03",
-          "hora": "06:57",
-          "link": "https://www.financialjuice.com/News/9748294/Israels-Defence-Minister-Katz-Iran-could-resort-to-desperate-measures-due-to-pressure.aspx?xy=rss"
-        },
-        {
-          "id": "98f2247fb619",
-          "titulo": "investingLive Asia-Pacific market news: Trump mulls declaring Iran war over",
-          "fonte": "ForexLive",
-          "data": "2026-09-03",
-          "hora": "00:52",
-          "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-trump-mulls-declaring-iran-war-over/"
-        },
-        {
-          "id": "a0e773611e65",
-          "titulo": "WSJ reports Trump privately weighs declaring Iran war over (50,000 troops to keep options open)",
-          "fonte": "ForexLive",
-          "data": "2026-09-02",
-          "hora": "23:14",
-          "link": "https://investinglive.com/commodities/wsj-reports-trump-privately-weighs-declaring-iran-war-over-50-000-troops-to-keep-options-open/"
-        },
-        {
-          "id": "dd6b43aa172e",
-          "titulo": "Oil popping higher as Kuwait reports missile and drone attacks",
-          "fonte": "ForexLive",
-          "data": "2026-09-02",
-          "hora": "22:45",
-          "link": "https://investinglive.com/commodities/oil-popping-higher-as-kuwait-reports-missile-and-drone-attacks/"
-        },
-        {
-          "id": "a3a68327e56f",
-          "titulo": "CNN report US military escorts 40 tankers with 18 million barrels through Hormuz",
-          "fonte": "ForexLive",
-          "data": "2026-09-02",
-          "hora": "21:17",
-          "link": "https://investinglive.com/commodities/cnn-report-us-military-escorts-40-tankers-with-18-million-barrels-through-hormuz/"
-        },
-        {
-          "id": "76c329cc682a",
-          "titulo": "Trump sugere rebatizar Estreito de Ormuz como “Estreito Trump”",
-          "fonte": "InfoMoney",
-          "data": "2026-09-02",
-          "hora": "14:31",
-          "link": "https://www.infomoney.com.br/mundo/trump-sugere-rebatizar-estreito-de-ormuz-como-estreito-trump/"
-        },
-        {
-          "id": "515d9a8f2121",
-          "titulo": "Trump: Now that we have the Strait under US control, should we change the name of the Hormuz Strait to the Trump Strait??? - Truth Social.",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-02",
-          "hora": "12:24",
-          "link": "https://www.financialjuice.com/News/9747049/Trump-Now-that-we-have-the-Strait-under-US-control-should-we-change-the-name-of-the-Hormuz-Strait-to-the-Trump-Strait---Truth-Social.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-09-03T08:38",
-      "atualizado_em": "2026-09-03T08:38"
-    },
-    {
-      "titulo": "Fed: mercado começa a precificar SUBIDA de juros antes do CPI",
-      "sinal": "risk_off",
-      "resumo": "Wall Street passou a discutir uma subida de juros do Fed depois dos comentários de um dirigente sénior, e o CPI americano é agora o evento que define a direção. O Livro Bege descreveu atividade a crescer modestamente, preços a subir moderadamente em oito distritos e emprego praticamente estável; os despedimentos anunciados (Challenger) saltaram para 52,88 mil, de 33,43 mil. O Goldman Sachs avisou os investidores para esperarem retornos mais baixos no próximo ano.",
-      "impacto": "Um Fed a subir juros é o cenário mais adverso para ativos de risco brasileiros: encarece o dólar, drena fluxo de emergentes e limita a compressão do prémio do Ibovespa que a política doméstica está a alimentar. Bitcoin e ether já recuaram com esta combinação. Contradiz frontalmente a leitura da ideia registada em BOVA11 (Warsh a desiludir, carry japonês tardio) — se o CPI vier forte, a perna de subida do índice fica dependente só do local.",
-      "n_noticias": 10,
-      "noticias": [
-        {
-          "id": "a35f930c72f5",
-          "titulo": "Whether the Fed raises interest rates this month isn’t as big a deal for stocks as you might think",
-          "fonte": "MarketWatch",
-          "data": "2026-09-03",
-          "hora": "06:59",
-          "link": "https://www.marketwatch.com/story/whether-the-fed-raises-interest-rates-this-month-isnt-as-big-a-deal-for-stocks-as-you-might-think-6464b88d?mod=mw_rss_topstories"
-        },
-        {
-          "id": "96b08a2717d8",
-          "titulo": "US Challenger Layoffs Actual 52.881k (Forecast -, Previous 33.429k)",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-03",
-          "hora": "06:30",
-          "link": "https://www.financialjuice.com/News/9748258/US-Challenger-Layoffs-Actual-52881k-Forecast---Previous-33429k.aspx?xy=rss"
-        },
-        {
-          "id": "d0f686d69630",
-          "titulo": "Nasdaq's fate hinges on US CPI and Middle East conflict as growth expectations deteriorate",
-          "fonte": "ForexLive",
-          "data": "2026-09-03",
-          "hora": "06:19",
-          "link": "https://investinglive.com/stocks/nasdaq-s-fate-hinges-on-us-cpi-and-middle-east-conflict-as-growth-expectations-deteriorate/"
-        },
-        {
-          "id": "b7747ff8819e",
-          "titulo": "EUR/USD pulls back as hawkish Fed bets stabilise; traders await the key US CPI report",
-          "fonte": "ForexLive",
-          "data": "2026-09-03",
-          "hora": "05:11",
-          "link": "https://investinglive.com/forex/eur-usd-pulls-back-as-hawkish-fed-bets-stabilise-traders-await-the-key-us-cpi-report/"
-        },
-        {
-          "id": "124d73414966",
-          "titulo": "Bitcoin and Ethereum slide as US Iran war simmers & rate hike odds rise",
-          "fonte": "ForexLive",
-          "data": "2026-09-02",
-          "hora": "22:17",
-          "link": "https://investinglive.com/cryptocurrency/bitcoin-and-ethereum-slide-as-us-iran-war-simmers-rate-hike-odds-rise/"
-        },
-        {
-          "id": "2fc34b818540",
-          "titulo": "Fed Beige Book: Prices increased moderately in eight districts, with two districts reporting modest increases, one slight increase, and one robust increase.",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-02",
-          "hora": "15:01",
-          "link": "https://www.financialjuice.com/News/9747244/Fed-Beige-Book-Prices-increased-moderately-in-eight-districts-with-two-districts-reporting-modest-increases-one-slight-increase-and-one-robust-increase.aspx?xy=rss"
-        },
-        {
-          "id": "681f79d25aab",
-          "titulo": "Fed Beige Book: Economic activity increased modestly since early July.",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-02",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9747240/Fed-Beige-Book-Economic-activity-increased-modestly-since-early-July.aspx?xy=rss"
-        },
-        {
-          "id": "2af5a06ff20b",
-          "titulo": "Fed Beige Book: The general outlook for the coming months was positive, but sentiment was mixed across sectors, with contacts reporting heightened uncertainty surrounding the effects of higher energy prices.",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-02",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9747241/Fed-Beige-Book-The-general-outlook-for-the-coming-months-was-positive-but-sentiment-was-mixed-across-sectors-with-contacts-reporting-heightened-uncertainty-surrounding-the-effects-of-higher-energy-prices.aspx?xy=rss"
-        },
-        {
-          "id": "8f397cc5d37b",
-          "titulo": "Wall Street is nervous about a Fed rate hike, which looks more likely after a top official’s remarks",
-          "fonte": "MarketWatch",
-          "data": "2026-09-02",
-          "hora": "14:44",
-          "link": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories"
-        },
-        {
-          "id": "80bad6a8d562",
-          "titulo": "Goldman Sachs warns investors to expect lower returns over the next year",
-          "fonte": "Yahoo Finance",
-          "data": "2026-09-02",
-          "hora": "14:10",
-          "link": "https://finance.yahoo.com/markets/article/goldman-sachs-warns-investors-to-expect-lower-returns-over-the-next-year-171050637.html"
-        }
-      ],
-      "criado_em": "2026-09-03T08:38",
-      "atualizado_em": "2026-09-03T08:38"
-    },
-    {
-      "titulo": "Ibovespa aos 185 mil com o real forte e a corrida eleitoral",
-      "sinal": "risk_on",
-      "resumo": "O Ibovespa subiu quase 3% na quarta-feira e negoceia perto dos 185 mil pontos, com o dólar a cair abaixo de R$ 5,11 na repercussão do cenário político. A nova sondagem Inteligov/EXAME mostra Lula à frente mas com Flávio Bolsonaro a reduzir a diferença, e o fluxo estrangeiro e os PMIs guiam o câmbio na sessão de hoje.",
-      "impacto": "É a perna doméstica que sustenta a bolsa contra o ambiente externo de juro longo a subir. Beneficia diretamente os bancos (ITUB4, BBAS3, BBDC4, BPAC11), o BOVA11 e a B3SA3 pelo giro elevado — as três ideias registadas em BBAS3, ITUB4 e BPAC11 apoiam-se exatamente neste ciclo eleitoral. Real forte alivia MRVE3 e CYRE3 e retira algum impulso às exportadoras VALE3, SUZB3 e JBSS32.",
-      "n_noticias": 9,
-      "noticias": [
         {
           "id": "a82ea137ef30",
           "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
@@ -810,17 +1709,33 @@
           "data": "2026-09-02",
           "hora": "12:05",
           "link": "https://g1.globo.com/economia/noticia/2026/09/02/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "86c23e418caf",
+          "titulo": "Dólar abre de olho na agenda política e em indicadores do Brasil e dos EUA",
+          "fonte": "G1 Economia",
+          "data": "2026-09-02",
+          "hora": "09:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/09/02/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "8fe3be9ab45c",
+          "titulo": "Queda do consumo surpreende e mostra que ajuste fiscal é urgente, alerta FGV Ibre",
+          "fonte": "InfoMoney",
+          "data": "2026-09-02",
+          "hora": "09:00",
+          "link": "https://www.infomoney.com.br/economia/pib-segundo-trimestre-queda-consumo-ajuste-fiscal/"
         }
       ],
       "criado_em": "2026-09-03T08:38",
-      "atualizado_em": "2026-09-03T08:38"
+      "atualizado_em": "2026-09-03T09:16"
     },
     {
-      "titulo": "Ouro acima de US$ 4.400 e bancos centrais a repatriar reservas",
-      "sinal": "risk_off",
-      "resumo": "O banco central holandês transferiu 86 toneladas de ouro dos EUA e do Canadá para Londres, invocando instabilidade geopolítica e preparação para crises. O metal recuperou de mínimos de quase quatro semanas para acima de US$ 4.400, com a subida limitada pelo risco de o Fed subir juros e pela guerra no Irão.",
-      "impacto": "Realocação de reservas por um banco central europeu é sinal de desconfiança institucional na custódia americana e sustenta o ouro como cobertura estrutural. Para a carteira é sobretudo termómetro de aversão ao risco: ouro forte com dólar forte costuma coincidir com saída de fluxo de emergentes, ainda que hoje o real esteja a contrariar.",
-      "n_noticias": 8,
+      "titulo": "Ouro corrige de máximos e rebate para US$ 4.400 com a Fed a limitar o topo",
+      "sinal": "neutro",
+      "resumo": "Depois de os futuros terem caído mais de 8% e de o metal ter escorregado para perto de mínimos de quatro semanas com a escalada militar no Irão, o ouro rebateu hoje acima de US$ 4.400. O potencial de subida está limitado pelo risco de a Fed subir juros e o mercado espera o CPI americano para a próxima direção; a prata apagou todos os ganhos que o movimento dos Treasuries lhe tinha dado.",
+      "impacto": "Direção por definir: o ouro deixou de funcionar como refúgio linear porque a hipótese de juro real mais alto compete com o prémio de risco geopolítico. Para a carteira importa sobretudo como termómetro — um ouro que não sobe com guerra no Ormuz confirma que o juro real é o fator dominante, o que é a leitura adversa para BOVA11 e para os nomes de duration.",
+      "n_noticias": 11,
       "noticias": [
         {
           "id": "f0e3dd17fb9e",
@@ -885,75 +1800,107 @@
           "data": "2026-09-02",
           "hora": "13:30",
           "link": "https://seekingalpha.com/article/4942465-this-is-your-last-chance-to-buy-gold?source=feed_all_articles"
-        }
-      ],
-      "criado_em": "2026-09-03T08:38",
-      "atualizado_em": "2026-09-03T08:38"
-    },
-    {
-      "titulo": "Iene dispara com apostas de subida do BoJ",
-      "sinal": "risk_off",
-      "resumo": "O iene subiu abaixo de 158 por dólar e prolongou os ganhos com o PMI de serviços do Japão em máximos de cinco meses a reforçar o argumento para uma subida de juros do Banco do Japão. As autoridades cambiais japonesas dizem estar prontas para continuar a intervir e negam pedidos diretos do Tesouro americano.",
-      "impacto": "Um BoJ mais próximo de subir juros encarece o carry trade em ienes, a fonte de financiamento barata que sustenta posições em ativos de emergentes. Se o movimento acelerar, o risco é de saída de fluxo do Ibovespa e do real — exatamente o mecanismo apontado na ideia registada em BOVA11, mas a chegar mais cedo do que ali assumido.",
-      "n_noticias": 6,
-      "noticias": [
-        {
-          "id": "f0eaac6e80fd",
-          "titulo": "Japan's Top Currency Diplomat Mimura: Ready to continue the battle on FX",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-03",
-          "hora": "06:10",
-          "link": "https://www.financialjuice.com/News/9748257/Japans-Top-Currency-Diplomat-Mimura-Ready-to-continue-the-battle-on-FX.aspx?xy=rss"
         },
         {
-          "id": "141fce602adf",
-          "titulo": "Yen jumps as traders bet on Japan interest rate rises",
-          "fonte": "FT Markets",
-          "data": "2026-09-03",
-          "hora": "05:55",
-          "link": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1"
-        },
-        {
-          "id": "22391ef3d122",
-          "titulo": "Japan Finance Minister Katayama: I have never received a direct request to do anything from Bessent",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-03",
-          "hora": "05:50",
-          "link": "https://www.financialjuice.com/News/9748207/Japan-Finance-Minister-Katayama-I-have-never-received-a-direct-request-to-do-anything-from-Bessent.aspx?xy=rss"
-        },
-        {
-          "id": "9b7b5f875add",
-          "titulo": "USD/JPY extends fall today in drop back below 158, what's next?",
-          "fonte": "ForexLive",
-          "data": "2026-09-03",
-          "hora": "01:58",
-          "link": "https://investinglive.com/forex/usd-jpy-extends-fall-today-in-drop-back-below-158-what-s-next/"
-        },
-        {
-          "id": "76e95665acc3",
-          "titulo": "Yen extends gains below 157.80 as BOJ hawks and less hawkish Fed voices collide",
-          "fonte": "ForexLive",
-          "data": "2026-09-03",
-          "hora": "00:34",
-          "link": "https://investinglive.com/forex/yen-extends-gains-below-157-80-as-boj-hawks-and-less-hawkish-fed-voices-collide/"
-        },
-        {
-          "id": "859c3433db8f",
-          "titulo": "Yen support: Japan services PMI hits five-month high as inflation strengthens BOJ hike case",
+          "id": "31f4d2a1355a",
+          "titulo": "Gold futures are down more than 8%: Is the next dip-buying opportunity approaching?",
           "fonte": "ForexLive",
           "data": "2026-09-02",
-          "hora": "21:45",
-          "link": "https://investinglive.com/news/yen-support-japan-services-pmi-hits-five-month-high-as-inflation-strengthens-boj-hike-case/"
+          "hora": "07:58",
+          "link": "https://investinglive.com/commodities/gold-futures-are-down-more-than-8-is-the-next-dip-buying-opportunity-approaching/"
+        },
+        {
+          "id": "2e6007ed4324",
+          "titulo": "Gold price today, Wednesday, September 2, 2026: Gold slips further as military actions escalate in Iran",
+          "fonte": "Yahoo Finance",
+          "data": "2026-09-02",
+          "hora": "07:45",
+          "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-2-2026-gold-slips-further-as-military-actions-escalate-in-iran-104514058.html"
+        },
+        {
+          "id": "a2c68447f0ab",
+          "titulo": "Gold extends recent fall as buyers lose more momentum, what's next?",
+          "fonte": "ForexLive",
+          "data": "2026-09-02",
+          "hora": "02:25",
+          "link": "https://investinglive.com/commodities/gold-extends-recent-fall-as-buyers-lose-more-momentum-what-s-next/"
         }
       ],
       "criado_em": "2026-09-03T08:38",
-      "atualizado_em": "2026-09-03T08:38"
+      "atualizado_em": "2026-09-03T09:16"
     },
     {
-      "titulo": "Veto europeu à carne brasileira e impasse na cota do Mercosul",
+      "titulo": "Congresso brasileiro decide taxa das blusinhas, fim da 6x1 e Funrural",
+      "sinal": "neutro",
+      "resumo": "A relatora diz haver acordo com o governo para votar a MP das blusinhas, que fixa a tributação das importações de baixo valor. A CCJ do Senado retomou a proposta de fim da escala 6x1, que reduz a jornada de trabalho, e o STF retomou o julgamento sobre o pagamento da contribuição do Funrural pelas empresas. O Banco Central decretou a liquidação extrajudicial de duas distribuidoras de valores ligadas a um ex-sócio do Banco Master e o governo notificou 115 empresas por irregularidades em vale-alimentação e vale-refeição.",
+      "impacto": "A taxa das blusinhas protege o varejo formal listado — AMER3 é a nossa exposição direta — contra as plataformas asiáticas. O fim da 6x1 é o inverso: um aumento estrutural de custo de mão de obra para varejo e serviços, negativo para AMER3. O Funrural pesa no agro e nos frigoríficos (JBSS3, BEEF3). A limpeza do Banco Central no ecossistema ligado ao Banco Master reduz o risco sistémico percebido no setor financeiro, marginalmente positivo para BBDC4, ITUB4 e BBAS3.",
+      "n_noticias": 7,
+      "noticias": [
+        {
+          "id": "5233158d80d9",
+          "titulo": "Banco Central decreta liquidação de corretoras ligadas a ex-sócio do Banco Master",
+          "fonte": "G1 Economia",
+          "data": "2026-09-03",
+          "hora": "09:04",
+          "link": "https://g1.globo.com/economia/noticia/2026/09/03/banco-central-liquidacao-extrajudicial.ghtml"
+        },
+        {
+          "id": "5749f6ff7927",
+          "titulo": "Escala 6x1: o que acontece agora? O que muda para empresas e trabalhadores? Entenda",
+          "fonte": "G1 Economia",
+          "data": "2026-09-03",
+          "hora": "08:27",
+          "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/escala-6x1-o-que-acontece-agora-o-que-muda-entenda.ghtml"
+        },
+        {
+          "id": "ae90fdda8141",
+          "titulo": "Banco Central decreta liquidação extrajudicial de duas distribuidoras de valores",
+          "fonte": "G1 Economia",
+          "data": "2026-09-03",
+          "hora": "08:27",
+          "link": "https://g1.globo.com/economia/noticia/2026/09/03/banco-central-liquidacao-extrajudicial.ghtml"
+        },
+        {
+          "id": "9865d86b4c24",
+          "titulo": "Governo notifica 115 empresas por irregularidades no vale-alimentação e vale-refeição",
+          "fonte": "G1 Economia",
+          "data": "2026-09-03",
+          "hora": "08:27",
+          "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/03/governo-notifica-115-empresas-por-irregularidades-no-vale-alimentacao-e-vale-refeicao.ghtml"
+        },
+        {
+          "id": "2177fc03934e",
+          "titulo": "Fim da 6x1: CCJ do Senado pode votar nesta quarta proposta que reduz jornada de trabalho",
+          "fonte": "G1 Economia",
+          "data": "2026-09-02",
+          "hora": "09:03",
+          "link": "https://g1.globo.com/politica/noticia/2026/09/02/fim-da-6x1-ccj-do-senado-pode-votar-nesta-quarta-proposta-que-reduz-jornada-de-trabalho.ghtml"
+        },
+        {
+          "id": "2ed330ad2148",
+          "titulo": "STF retoma julgamento sobre pagamento de contribuição do Funrural por empresas",
+          "fonte": "InfoMoney",
+          "data": "2026-09-02",
+          "hora": "08:54",
+          "link": "https://www.infomoney.com.br/politica/stf-retoma-julgamento-sobre-pagamento-de-contribuicao-do-funrural-por-empresas/"
+        },
+        {
+          "id": "363e597c40b6",
+          "titulo": "Relatora diz que há acordo com governo e MP das blusinhas deve ser votada nesta 4ª",
+          "fonte": "InfoMoney",
+          "data": "2026-09-02",
+          "hora": "08:40",
+          "link": "https://www.infomoney.com.br/politica/relatora-diz-que-ha-acordo-com-governo-e-mp-das-blusinhas-deve-ser-votada-nesta-4a/"
+        }
+      ],
+      "criado_em": "2026-09-03T09:16",
+      "atualizado_em": "2026-09-03T09:16"
+    },
+    {
+      "titulo": "Veto europeu à carne brasileira e impasse na divisão da cota do Mercosul",
       "sinal": "risk_off",
-      "resumo": "Os ministros do Mercosul falharam o acordo de divisão da cota de carne exportada à União Europeia. A UE compra pouco volume ao Brasil mas paga preços bem acima da média e funciona como vitrine de qualidade para outros compradores; o veto pode redirecionar oferta para o mercado interno e baixar o preço da carne no Brasil.",
-      "impacto": "Toca diretamente JBSS32 e BEEF3: perda de um destino de preço premium e risco de compressão de margem se a oferta desviada pressionar o preço doméstico. O efeito é setorial e de prazo curto — o impacto no volume total exportado é pequeno, o dano maior é de posicionamento e preço médio.",
+      "resumo": "Os ministros do Mercosul falharam o acordo sobre a divisão da cota de carne exportada à União Europeia. A UE compra pouco volume ao Brasil mas paga preços acima da média e funciona como vitrine de qualidade para outros mercados, o que agrava o efeito reputacional do veto; internamente discute-se se a carne desviada do destino europeu fará baixar o preço no mercado brasileiro.",
+      "impacto": "Toca diretamente JBSS3 e BEEF3: o prémio de preço europeu é desproporcionalmente relevante para a margem face ao volume, e a redirecção de oferta para o mercado interno pressiona o preço doméstico. Nenhuma das duas tem divulgação de resultados pendente antes de novembro (10/11 e 11/11, datas estimadas), pelo que o efeito aparece primeiro no preço da ação e não nos números.",
       "n_noticias": 3,
       "noticias": [
         {
@@ -985,10 +1932,10 @@
       "atualizado_em": "2026-09-03T08:38"
     },
     {
-      "titulo": "CSN troca o comando: Steinbruch sai da presidência executiva",
+      "titulo": "CSN troca o comando: Steinbruch sai da presidência executiva e passa ao Conselho",
       "sinal": "neutro",
-      "resumo": "Benjamin Steinbruch deixa a presidência executiva da CSN e um ex-presidente da Vale assume o cargo; Steinbruch foi eleito presidente do Conselho de Administração. É a maior mudança de governança da companhia em décadas.",
-      "impacto": "Evento de governança material para CSNA3, com leitura potencialmente positiva (gestão profissional, disciplina de capital e alavancagem) mas ainda sem plano anunciado — direção por definir até haver sinal sobre desinvestimentos e estrutura de dívida. Referência de comparação setorial para GGBR4 e USIM5, sem efeito operacional imediato em nenhuma das três.",
+      "resumo": "Benjamin Steinbruch deixou a presidência executiva da CSN e foi eleito presidente do Conselho de Administração; o cargo executivo passa a ser ocupado por um ex-CEO da Vale.",
+      "impacto": "É a mudança de governança mais relevante em CSNA3 em anos e separa a gestão executiva do controlo acionista. A chegada de um executivo com histórico na Vale reforça a expectativa de disciplina de capital e de foco em desalavancagem, o tema central da tese da CSN; os próximos resultados só saem a 11/11/2026 (data estimada), pelo que a leitura fica pelo preço até lá.",
       "n_noticias": 3,
       "noticias": [
         {
