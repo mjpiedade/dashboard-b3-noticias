@@ -1,15 +1,87 @@
 {
-  "atualizado_em": "2026-09-30T14:33",
-  "total_feed": 291,
+  "atualizado_em": "2026-09-30T19:06",
+  "total_feed": 386,
   "temas": [
     {
-      "titulo": "PCE dos EUA sai abaixo do esperado e traders reduzem apostas numa subida do Fed em outubro; PIB do 2T revisto para 2,2%",
+      "titulo": "PCE dos EUA abaixo do esperado leva o Goldman a adiar para dezembro a próxima subida do Fed",
       "sinal": "risk_on",
-      "resumo": "O PCE núcleo de agosto subiu 3% a/a (esperado 3,3%) e o geral 3,4% (esperado 3,7%), com a leitura anterior revista em baixa; o consumo avançou 0,9% no mês e o PIB final do 2T foi revisto para 2,2% (1,5% esperado). O ADP criou 90 mil vagas (esperado 74,5 mil). Os traders cortaram as apostas numa nova subida do Fed em outubro, depois de o banco central ter subido o juro este mês pela primeira vez em três anos, e o Ibovespa abriu em alta.",
-      "impacto": "Menos pressão para nova alta do Fed alivia o dólar e a curva de juros brasileira, o que favorece os cíclicos domésticos e os bancos (ITUB4, BBAS3, BBDC4, BPAC11) e as construtoras (CYRE3, MRVE3). A economia americana forte sustenta a procura por commodities.",
+      "resumo": "O PCE núcleo de agosto subiu 3% a/a (esperado 3,3%) e a média aparada do Fed de Dallas ficou em 1,9% (esperado 2,2%); o PIB final do 2T foi revisto para 2,2% e o consumo avançou 0,9% no mês. As apostas numa subida do Fed em outubro caíram de 44,8% para 34,9% e o Goldman Sachs passou a prever a próxima alta em dezembro; o GDPNow cortou o 3T de 5% para 3,7%.",
+      "impacto": "Menos pressão para nova alta do Fed alivia o dólar e a curva de juros brasileira, o que favorece os bancos (ITUB4, BBAS3, BBDC4, BPAC11) e as construtoras (CYRE3, MRVE3). A economia americana ainda firme sustenta a procura por commodities (VALE3, PETR4).",
       "especulacao": "",
-      "n_noticias": 25,
+      "n_noticias": 34,
       "noticias": [
+        {
+          "id": "5c9ebab94f7e",
+          "titulo": "Chances de alta de juros nos EUA em outubro caem após dados de inflação",
+          "fonte": "InfoMoney",
+          "data": "2026-09-30",
+          "hora": "18:30",
+          "link": "https://www.infomoney.com.br/mercados/chances-de-alta-de-juros-nos-eua-em-outubro-caem-apos-dados-de-inflacao/"
+        },
+        {
+          "id": "e51c7263fe73",
+          "titulo": "The U.S. economy is defying gravity. Here’s all the good news.",
+          "fonte": "MarketWatch",
+          "data": "2026-09-30",
+          "hora": "18:07",
+          "link": "https://www.marketwatch.com/story/the-u-s-economy-is-defying-gravity-heres-all-the-good-news-8b58fc7b?mod=mw_rss_topstories"
+        },
+        {
+          "id": "d1f4a6bcd1ac",
+          "titulo": "Goldman Sachs moves its call for the next Fed rate hike to December from October",
+          "fonte": "ForexLive",
+          "data": "2026-09-30",
+          "hora": "18:04",
+          "link": "https://investinglive.com/central-banks/goldman-sachs-moves-its-call-for-the-next-fed-rate-hike-to-december-from-october/"
+        },
+        {
+          "id": "b4b4b9a85f9f",
+          "titulo": "Goldman Sachs shifts fed forecast to December hike from October",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "17:44",
+          "link": "https://www.financialjuice.com/News/9785918/Goldman-Sachs-shifts-fed-forecast-to-December-hike-from-October.aspx?xy=rss"
+        },
+        {
+          "id": "03d67ea46359",
+          "titulo": "PCE Inflation: Don't Be Misled By Today's Numbers",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-30",
+          "hora": "17:30",
+          "link": "https://seekingalpha.com/article/4951086-pce-inflation-dont-be-misled-by-todays-numbers?source=feed_all_articles"
+        },
+        {
+          "id": "c4cd26657bf5",
+          "titulo": "US August Dallas Fed Trimmed mean PCE inflation at 1.9% vs 2.2% expected",
+          "fonte": "ForexLive",
+          "data": "2026-09-30",
+          "hora": "16:28",
+          "link": "https://investinglive.com/central-banks/us-august-dallas-fed-trimmed-mean-pce-inflation-at-1-9-vs-2-2-expected/"
+        },
+        {
+          "id": "e94774dda32c",
+          "titulo": "Fed October Rate Hike Bets Decline to 34.9% vs 44.8% Post US PCE Data - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:20",
+          "link": "https://www.financialjuice.com/News/9785794/Fed-October-Rate-Hike-Bets-Decline-to-349-vs-448-Post-US-PCE-Data---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "f0faad9eff43",
+          "titulo": "Atlanta Fed GDPNow cuts Q3 US growth estimate to 3.7% from 5.0%",
+          "fonte": "ForexLive",
+          "data": "2026-09-30",
+          "hora": "16:15",
+          "link": "https://investinglive.com/central-banks/atlanta-fed-gdpnow-cuts-q3-us-growth-estimate-to-3-7-from-5-0/"
+        },
+        {
+          "id": "2e9f428f9a96",
+          "titulo": "US PCE Market Reactions & Deviations - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:06",
+          "link": "https://www.financialjuice.com/News/9785777/US-PCE-Market-Reactions--Deviations---FJElite.aspx?xy=rss"
+        },
         {
           "id": "6c939f36904c",
           "titulo": "Americans get back to their spending ways. Economy might be speeding up again.",
@@ -212,16 +284,96 @@
         }
       ],
       "criado_em": "2026-09-30T14:33",
-      "atualizado_em": "2026-09-30T14:33"
+      "atualizado_em": "2026-09-30T19:06"
     },
     {
-      "titulo": "Exportações de crude do Golfo voltam a 98% do pré-guerra, as negociações EUA-Irão avançam e os EUA libertam reservas estratégicas",
-      "sinal": "risk_on",
-      "resumo": "O JPMorgan estima as exportações de crude em 98% do nível anterior à guerra e o Goldman Sachs estima as dos produtores do Golfo em 19 milhões de b/d, com o oleoduto saudita Este-Oeste restabelecido. EUA e Irão continuam a negociar a proposta iraniana de reabrir Ormuz em sete dias, e a divergência passou a ser a sequência dos passos. Os EUA libertaram petróleo da reserva estratégica. Mesmo assim, o petróleo voltou a subir durante a sessão europeia e uma sondagem da Reuters subiu a média esperada do Brent em 2026 para US$ 89,05.",
-      "impacto": "Mais oferta e desanuviamento reduzem o prémio de risco global, o que ajuda o real e o Ibovespa, mas é negativo na margem para PETR4 e PRIO3. O ouro e as criptomoedas reagem às mesmas manchetes.",
-      "especulacao": "O ForexLive aponta que um acordo EUA-Irão poderia desencadear uma forte queda do petróleo; é um cenário ainda sem acordo fechado.",
-      "n_noticias": 15,
+      "titulo": "Exportações do Golfo quase no nível pré-guerra e produção dos EUA em recorde, mas o crude recupera para US$ 91",
+      "sinal": "neutro",
+      "resumo": "O JPMorgan estima as exportações de crude em 98% do nível anterior à guerra, com o oleoduto saudita Este-Oeste restabelecido, e a EIA registou produção americana em máximo histórico; os EUA libertaram reservas estratégicas e Trump falou em fluxos históricos a sair de Ormuz. Mesmo assim, o crude americano subiu US$ 1,85 para US$ 91,25, com os stocks de destilados a cair 2,25 milhões de barris (esperado estável).",
+      "impacto": "O excesso de oferta que vinha a pressionar o petróleo não se confirmou na sessão: PETR4 e PRIO3 recuperam apoio, enquanto a descida do prémio de risco no Golfo continua a favorecer o real e o Ibovespa.",
+      "especulacao": "Trump disse sobre o Irão que se verão coisas a acontecer muito em breve, sem detalhar; não há anúncio concreto por trás da frase.",
+      "n_noticias": 24,
       "noticias": [
+        {
+          "id": "3f3258612b3b",
+          "titulo": "Trump: Historic flows of oil out of Hormuz in the last 3 days.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:49",
+          "link": "https://www.financialjuice.com/News/9786018/Trump-Historic-flows-of-oil-out-of-Hormuz-in-the-last-3-days.aspx?xy=rss"
+        },
+        {
+          "id": "67d0ca8b7238",
+          "titulo": "Trump on Iran: You will see things happening very soon",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:48",
+          "link": "https://www.financialjuice.com/News/9786017/Trump-on-Iran-You-will-see-things-happening-very-soon.aspx?xy=rss"
+        },
+        {
+          "id": "8dcb162d3e45",
+          "titulo": "European stocks close lower as Wall Street gains; oil rises and silver slides",
+          "fonte": "ForexLive",
+          "data": "2026-09-30",
+          "hora": "17:11",
+          "link": "https://investinglive.com/stocks/european-stocks-close-lower-as-wall-street-gains-oil-rises-and-silver-slides/"
+        },
+        {
+          "id": "d18d50799f86",
+          "titulo": "EIA: US domestic crude oil production rose in latest week to record highs",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "15:51",
+          "link": "https://www.financialjuice.com/News/9785753/EIA-US-domestic-crude-oil-production-rose-in-latest-week-to-record-highs.aspx?xy=rss"
+        },
+        {
+          "id": "eea57c53a309",
+          "titulo": "Crude oil futures are trading within a defined trading range between $88.75 and $91.50",
+          "fonte": "ForexLive",
+          "data": "2026-09-30",
+          "hora": "15:48",
+          "link": "https://investinglive.com/commodities/crude-oil-futures-are-trading-within-a-defined-trading-range-between-88-75-and-91-50/"
+        },
+        {
+          "id": "a55e04f9c6cc",
+          "titulo": "US crude oil inventories +0.922M versus -0.264 million estimate",
+          "fonte": "ForexLive",
+          "data": "2026-09-30",
+          "hora": "15:30",
+          "link": "https://investinglive.com/commodities/us-crude-oil-inventories-0-922m-versus-0-264-million-estimate/"
+        },
+        {
+          "id": "d79599c32717",
+          "titulo": "EIA Crude Oil Inventories Actual 0.922M (Forecast -0.71M, Previous 2.969M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "15:30",
+          "link": "https://www.financialjuice.com/News/9785710/EIA-Crude-Oil-Inventories-Actual-0922M-Forecast--071M-Previous-2969M.aspx?xy=rss"
+        },
+        {
+          "id": "d123e5e42614",
+          "titulo": "EIA Distillate Inventories Actual -2.251M (Forecast 0.075M, Previous -0.428M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "15:30",
+          "link": "https://www.financialjuice.com/News/9785709/EIA-Distillate-Inventories-Actual--2251M-Forecast-0075M-Previous--0428M.aspx?xy=rss"
+        },
+        {
+          "id": "cefdbbb6a928",
+          "titulo": "EIA Gasoline Inventories Actual -1.684M (Forecast -1M, Previous -1.686M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "15:30",
+          "link": "https://www.financialjuice.com/News/9785708/EIA-Gasoline-Inventories-Actual--1684M-Forecast--1M-Previous--1686M.aspx?xy=rss"
+        },
+        {
+          "id": "78b134c55931",
+          "titulo": "EIA Crude Cushing Inventories  Actual 0.553M (Forecast -, Previous 2.266M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "15:30",
+          "link": "https://www.financialjuice.com/News/9785711/EIA-Crude-Cushing-Inventories--Actual-0553M-Forecast---Previous-2266M.aspx?xy=rss"
+        },
         {
           "id": "0a7486732383",
           "titulo": "JPMorgan estimates crude exports hit 98% of prewar levels.",
@@ -253,14 +405,6 @@
           "data": "2026-09-30",
           "hora": "13:14",
           "link": "https://www.financialjuice.com/News/9785484/JPMorgan-on-Middle-East-Oil-Flows---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "1eaa5ddcfb67",
-          "titulo": "Explosion heard in Iran's southeastern city of Zahedan, source of detonation unknown - Fars News.",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-30",
-          "hora": "12:51",
-          "link": "https://www.financialjuice.com/News/9785468/Explosion-heard-in-Irans-southeastern-city-of-Zahedan-source-of-detonation-unknown---Fars-News.aspx?xy=rss"
         },
         {
           "id": "513196e2653e",
@@ -344,148 +488,80 @@
         }
       ],
       "criado_em": "2026-09-30T14:33",
-      "atualizado_em": "2026-09-30T14:33"
+      "atualizado_em": "2026-09-30T19:06"
     },
     {
-      "titulo": "Treasury de 30 anos toca o máximo desde 2002 e as obrigações recuperam hoje; Bund de 10 anos sai a 3,58% em leilão fraco",
-      "sinal": "neutro",
-      "resumo": "Na terça, o yield do Treasury de 30 anos chegou ao nível mais alto desde 2002, com a inflação e o petróleo a pesar; hoje as obrigações recuperam parte da queda. O leilão do Bund de 10 anos saiu a 3,58% (3,39% no anterior) com procura de 1,2x, a Vanguard diz que a França está a degradar o seu crédito e a taxa hipotecária americana a 30 anos subiu para 7,30%.",
-      "impacto": "Os juros longos globais altos são a principal restrição à valorização da bolsa brasileira e das construtoras (CYRE3, MRVE3) e mantêm o DI longo pressionado; a recuperação de hoje dá algum alívio, sem mudar o nível.",
-      "especulacao": "",
-      "n_noticias": 15,
-      "noticias": [
-        {
-          "id": "b06d76ea5a20",
-          "titulo": "Treasury Yields Keep Rising. Can The Economy Keep Up?",
-          "fonte": "Seeking Alpha",
-          "data": "2026-09-30",
-          "hora": "13:45",
-          "link": "https://seekingalpha.com/article/4951010-treasury-yields-keep-rising-can-economy-keep-up?source=feed_all_articles"
-        },
-        {
-          "id": "e38934cdde8e",
-          "titulo": "Bond investors 💔 OATs",
-          "fonte": "FT Markets",
-          "data": "2026-09-30",
-          "hora": "13:08",
-          "link": "https://www.ft.com/content/e7c044f0-5448-4d90-9b86-9786ffafbc7b"
-        },
-        {
-          "id": "59a491b89470",
-          "titulo": "He’s been badmouthing Treasury bonds since 2020, but ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
-          "fonte": "MarketWatch",
-          "data": "2026-09-30",
-          "hora": "13:07",
-          "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories"
-        },
-        {
-          "id": "87a469e5a398",
-          "titulo": "US MBA 30-Yr Mortgage Rate Actual 7.30% (Forecast -, Previous 7.12%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-30",
-          "hora": "12:00",
-          "link": "https://www.financialjuice.com/News/9785376/US-MBA-30-Yr-Mortgage-Rate-Actual-730-Forecast---Previous-712.aspx?xy=rss"
-        },
-        {
-          "id": "ae53ea2b677d",
-          "titulo": "US MBA Mortgage Applications Actual -6% (Forecast -, Previous -1.5%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-30",
-          "hora": "12:00",
-          "link": "https://www.financialjuice.com/News/9785375/US-MBA-Mortgage-Applications-Actual--6-Forecast---Previous--15.aspx?xy=rss"
-        },
-        {
-          "id": "de22097e737f",
-          "titulo": "European stocks slip back as oil and bond yields edge higher from session lows",
-          "fonte": "ForexLive",
-          "data": "2026-09-30",
-          "hora": "11:42",
-          "link": "https://investinglive.com/stocks/european-stocks-slip-back-as-oil-and-bond-yields-edge-higher-from-session-lows/"
-        },
-        {
-          "id": "44b244a6d6d8",
-          "titulo": "Bond markets rebound after sell-off",
-          "fonte": "FT Markets",
-          "data": "2026-09-30",
-          "hora": "10:54",
-          "link": "https://www.ft.com/content/cd22d20a-3b65-4534-ac04-f5008810e10a?syn-25a6b1a6=1"
-        },
-        {
-          "id": "1d9f9b9f79f3",
-          "titulo": "German 10 Yr Bund Yield Actual 3.58% (Forecast -, Previous 3.39%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-30",
-          "hora": "10:31",
-          "link": "https://www.financialjuice.com/News/9785250/German-10-Yr-Bund-Yield-Actual-358-Forecast---Previous-339.aspx?xy=rss"
-        },
-        {
-          "id": "e71b10575cf1",
-          "titulo": "German 10 Yr Bund Bid-to-Cover Actual 1.2 (Forecast -, Previous 1.5)",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-30",
-          "hora": "10:31",
-          "link": "https://www.financialjuice.com/News/9785251/German-10-Yr-Bund-Bid-to-Cover-Actual-12-Forecast---Previous-15.aspx?xy=rss"
-        },
-        {
-          "id": "500a62f337de",
-          "titulo": "Vanguard warns France is ‘degrading credit’ as borrowing costs surge",
-          "fonte": "FT Markets",
-          "data": "2026-09-30",
-          "hora": "09:42",
-          "link": "https://www.ft.com/content/7820a84f-338e-4b91-a9b6-241a9bf81539?syn-25a6b1a6=1"
-        },
-        {
-          "id": "fe6fa35a8128",
-          "titulo": "European stock market open: Stocks push higher as bond yields ease from recent highs",
-          "fonte": "ForexLive",
-          "data": "2026-09-30",
-          "hora": "08:26",
-          "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-push-higher-as-bond-yields-ease-from-recent-highs/"
-        },
-        {
-          "id": "dc9a94bfe3db",
-          "titulo": "US 30-year Treasury yield hits highest since 2002",
-          "fonte": "FT Markets",
-          "data": "2026-09-29",
-          "hora": "21:13",
-          "link": "https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1"
-        },
-        {
-          "id": "194410233a17",
-          "titulo": "UK 10 Yr Gilt Yield Actual 5.383% (Forecast -, Previous 5.155%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-29",
-          "hora": "10:02",
-          "link": "https://www.financialjuice.com/News/9783214/UK-10-Yr-Gilt-Yield-Actual-5383-Forecast---Previous-5155.aspx?xy=rss"
-        },
-        {
-          "id": "06ba6c4cb0b9",
-          "titulo": "UK 10 Yr Gilt Bid-to-Cover Actual 3.34 (Forecast -, Previous 3.65)",
-          "fonte": "FinancialJuice",
-          "data": "2026-09-29",
-          "hora": "10:02",
-          "link": "https://www.financialjuice.com/News/9783215/UK-10-Yr-Gilt-Bid-to-Cover-Actual-334-Forecast---Previous-365.aspx?xy=rss"
-        },
-        {
-          "id": "330a7a00f222",
-          "titulo": "Bond investors become oil traders as Iran war drives yields",
-          "fonte": "FT Markets",
-          "data": "2026-09-29",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1"
-        }
-      ],
-      "criado_em": "2026-09-30T14:33",
-      "atualizado_em": "2026-09-30T14:33"
-    },
-    {
-      "titulo": "Inflação da zona euro volta a acelerar: Alemanha a 3,3%, França a 3,4% e Itália a 4,2% em setembro",
+      "titulo": "Inflação da zona euro volta a acelerar e Schnabel diz que as condições financeiras ainda não são restritivas",
       "sinal": "risk_off",
-      "resumo": "O IPC preliminar alemão subiu 3,3% a/a (esperado 3,1%), o IPCH francês 3,4% e o IPC italiano 4,2% (esperado 3,8%), depois de a Espanha ter ido a 4,9% na véspera. Os preços de importação alemães subiram 1% em agosto, com o choque de energia a propagar-se.",
+      "resumo": "O IPC preliminar alemão subiu 3,3% a/a (esperado 3,1%) e o italiano 4,2% (esperado 3,8%), depois da França a 3,4% e da Espanha a 4,9%. Isabel Schnabel (BCE) disse que o crédito robusto mostra condições ainda não restritivas e que os custos passam mais depressa ao consumidor com a economia resiliente; Lagarde classificou de grave a dívida francesa de 120% do PIB.",
       "impacto": "Um BCE mais duro mantém os yields europeus altos e o dólar firme, o que pesa sobre o apetite por emergentes e o real. O canal é o mesmo choque de energia que sustenta PETR4 e PRIO3.",
       "especulacao": "",
-      "n_noticias": 14,
+      "n_noticias": 22,
       "noticias": [
+        {
+          "id": "0dc6375bdd39",
+          "titulo": "ECB’s Schnabel: High costs passed through to consumers more quickly when economy resilient",
+          "fonte": "ForexLive",
+          "data": "2026-09-30",
+          "hora": "16:55",
+          "link": "https://investinglive.com/central-banks/ecb-s-schnabel-high-costs-passed-through-to-consumers-more-quickly-when-economy-resilient/"
+        },
+        {
+          "id": "acf29880ab69",
+          "titulo": "ECB's President Lagarde to La Croix: European financial system is more solid now than in 2008 and 2011 crises",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:48",
+          "link": "https://www.financialjuice.com/News/9785844/ECBs-President-Lagarde-to-La-Croix-European-financial-system-is-more-solid-now-than-in-2008-and-2011-crises.aspx?xy=rss"
+        },
+        {
+          "id": "b770d8b28346",
+          "titulo": "ECB's President Lagarde to La Croix: France needs a credible budget trajectory and reforms to restore confidence",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:48",
+          "link": "https://www.financialjuice.com/News/9785845/ECBs-President-Lagarde-to-La-Croix-France-needs-a-credible-budget-trajectory-and-reforms-to-restore-confidence.aspx?xy=rss"
+        },
+        {
+          "id": "d47172b0b4cf",
+          "titulo": "ECB's President Lagarde to La Croix: France's debt situation is serious at 120% of GDP and without a path to lowering",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:47",
+          "link": "https://www.financialjuice.com/News/9785842/ECBs-President-Lagarde-to-La-Croix-Frances-debt-situation-is-serious-at-120-of-GDP-and-without-a-path-to-lowering.aspx?xy=rss"
+        },
+        {
+          "id": "42c52739ab43",
+          "titulo": "ECB's Schnabel: can return inflation to target more gradually when expectations anchored.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:46",
+          "link": "https://www.financialjuice.com/News/9785823/ECBs-Schnabel-can-return-inflation-to-target-more-gradually-when-expectations-anchored.aspx?xy=rss"
+        },
+        {
+          "id": "9cd1a0d369da",
+          "titulo": "ECB's Schnabel: High costs passed through to consumers more quickly when economy resilient.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:45",
+          "link": "https://www.financialjuice.com/News/9785820/ECBs-Schnabel-High-costs-passed-through-to-consumers-more-quickly-when-economy-resilient.aspx?xy=rss"
+        },
+        {
+          "id": "4323c9e6eabf",
+          "titulo": "ECB's Schnabel: Robust credit dynamics suggest that financial conditions are not yet restrictive.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:45",
+          "link": "https://www.financialjuice.com/News/9785821/ECBs-Schnabel-Robust-credit-dynamics-suggest-that-financial-conditions-are-not-yet-restrictive.aspx?xy=rss"
+        },
+        {
+          "id": "9bf457f74081",
+          "titulo": "ECB's Schnabel: Possible economy responds more to the recent global yield rise than assumed. Would dampen price pressures.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:45",
+          "link": "https://www.financialjuice.com/News/9785822/ECBs-Schnabel-Possible-economy-responds-more-to-the-recent-global-yield-rise-than-assumed-Would-dampen-price-pressures.aspx?xy=rss"
+        },
         {
           "id": "c7fc206b041a",
           "titulo": "Energy Shock Sends Italian Inflation Sharply Higher",
@@ -600,16 +676,72 @@
         }
       ],
       "criado_em": "2026-09-30T14:33",
-      "atualizado_em": "2026-09-30T14:33"
+      "atualizado_em": "2026-09-30T19:06"
     },
     {
-      "titulo": "Trump reúne os CEOs de IA e anuncia um compromisso de controlos de segurança; OpenAI trava um modelo e adia o IPO",
+      "titulo": "FTC abre investigação à OpenAI e à Anthropic, um dia depois do compromisso de segurança de IA na Casa Branca",
       "sinal": "neutro",
-      "resumo": "Na cimeira da Casa Branca, Trump anunciou com os CEOs de IA um compromisso para reforçar os controlos de segurança e disse que cooperar com a China na regulação prejudicaria as empresas americanas. A OpenAI lançou o assistente dots e uma versão mais barata, depois de descartar um modelo por segurança, e Altman adiou o IPO. Bailey (BoE) disse que regular a IA não é o ponto de partida e pediu direito de intervenção.",
-      "impacto": "A regulação ainda sem regras concretas mantém o prémio de risco nas mega-caps de IA, que ditam o humor global e, por correlação, o fluxo para a B3. Não há efeito direto nos 24 ativos.",
+      "resumo": "A FTC confirmou à CNBC uma investigação à Anthropic, à OpenAI e a outras empresas, depois de agentes de IA terem invadido sistemas. Na véspera, Trump anunciou com os CEOs de IA um compromisso para reforçar controlos de segurança; a OpenAI travou um modelo por segurança, adiou o IPO e disse ter desmontado uma campanha para extrair o raciocínio dos seus modelos. O Senado chumbou o teto às subidas da conta de luz ligadas a centros de dados.",
+      "impacto": "A regulação a ganhar forma mantém o prémio de risco nas mega-caps de IA, que ditam o humor global e, por correlação, o fluxo para a B3. Não há efeito direto nos 24 ativos.",
       "especulacao": "",
-      "n_noticias": 14,
+      "n_noticias": 21,
       "noticias": [
+        {
+          "id": "1f79fdca8d2a",
+          "titulo": "EUA abrem investigação inédita sobre OpenAI e Anthropic após agentes de IA invadirem sistemas",
+          "fonte": "G1 Economia",
+          "data": "2026-09-30",
+          "hora": "19:01",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/09/30/eua-abrem-investigacao-inedita-sobre-openai-e-anthropic-apos-agentes-de-ia-invadirem-sistemas.ghtml"
+        },
+        {
+          "id": "b07a132b44b5",
+          "titulo": "US Senate blocks legislation to cap electricity bill increases tied to data centers",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:39",
+          "link": "https://www.financialjuice.com/News/9786000/US-Senate-blocks-legislation-to-cap-electricity-bill-increases-tied-to-data-centers.aspx?xy=rss"
+        },
+        {
+          "id": "c19dca7776d8",
+          "titulo": "Anthropic: Claude for Government is now generally available; Claude Code CLI and Claude for Microsoft 365 also now available in early access",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:32",
+          "link": "https://www.financialjuice.com/News/9785997/Anthropic-Claude-for-Government-is-now-generally-available-Claude-Code-CLI-and-Claude-for-Microsoft-365-also-now-available-in-early-access.aspx?xy=rss"
+        },
+        {
+          "id": "f78d3390ec08",
+          "titulo": "Legislation to cap electricity bill hikes tied to data centers fails to gain enough votes to advance in US Senate; voting continues",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:28",
+          "link": "https://www.financialjuice.com/News/9785975/Legislation-to-cap-electricity-bill-hikes-tied-to-data-centers-fails-to-gain-enough-votes-to-advance-in-US-Senate-voting-continues.aspx?xy=rss"
+        },
+        {
+          "id": "1ccb4ee02877",
+          "titulo": "OpenAI: Attribute a core activity attributed to individuals tied to Kimi developer Moonshot AI",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:04",
+          "link": "https://www.financialjuice.com/News/9785952/OpenAI-Attribute-a-core-activity-attributed-to-individuals-tied-to-Kimi-developer-Moonshot-AI.aspx?xy=rss"
+        },
+        {
+          "id": "7c0cce3dc43f",
+          "titulo": "OpenAI: Identified, disrupted coordinated campaign designed to extract protected reasoning from our models; operators did not break our encryption, compromise a database or gain direct access to stored user conversations",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:02",
+          "link": "https://www.financialjuice.com/News/9785951/OpenAI-Identified-disrupted-coordinated-campaign-designed-to-extract-protected-reasoning-from-our-models-operators-did-not-break-our-encryption-compromise-a-database-or-gain-direct-access-to-stored-user-conversations.aspx?xy=rss"
+        },
+        {
+          "id": "beafcaf1a252",
+          "titulo": "FTC opens probe of Anthropic, OpenAI and others - CNBC cites FTC Spokesperson",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "15:33",
+          "link": "https://www.financialjuice.com/News/9785729/FTC-opens-probe-of-Anthropic-OpenAI-and-others---CNBC-cites-FTC-Spokesperson.aspx?xy=rss"
+        },
         {
           "id": "1454460c76e4",
           "titulo": "Trump reúne CEOs de IA e anuncia compromisso para reforçar controles de segurança",
@@ -724,108 +856,212 @@
         }
       ],
       "criado_em": "2026-09-30T14:33",
-      "atualizado_em": "2026-09-30T14:33"
+      "atualizado_em": "2026-09-30T19:06"
     },
     {
-      "titulo": "BoE avisa que o crédito de risco, incluindo o privado, continua vulnerável e o Fed aprova a regra final dos stress tests",
+      "titulo": "Obrigações retomam a venda à tarde com os dados fortes dos EUA, depois de o Treasury de 30 anos tocar o máximo desde 2002",
       "sinal": "risk_off",
-      "resumo": "O comité de estabilidade financeira do BoE disse que os mercados de crédito de risco, incluindo parte do crédito privado, continuam vulneráveis a condições de financiamento mais apertadas e que a subida do petróleo e do gás prolongou o choque de oferta. O Fed aprovou a regra final dos stress tests, que reduz em cerca de 50% a volatilidade anual dos requisitos de capital dos bancos, com o voto contra de Barr. Nos EUA, o índice de risco de crédito da app subiu 29,3 pontos em 7 dias, para 63,3 (acima da média), e o spread CCC está em 11,46 p.p. (dado de 28/09), no pior nível do ano.",
-      "impacto": "O stress concentra-se na ponta frágil (CCC). Um aperto do crédito global encarece o funding dos emissores brasileiros mais alavancados (BEEF3, CSNA3, USIM5, AMER3) e costuma travar o fluxo estrangeiro para a B3.",
+      "resumo": "Na terça, o yield do Treasury de 30 anos chegou ao nível mais alto desde 2002; hoje as obrigações recuperaram de manhã, mas voltaram a cair à tarde com a revisão em alta do PIB, segundo o FT. O leilão do Bund de 10 anos saiu a 3,58% (3,39% no anterior) com procura de 1,2x e a taxa hipotecária americana a 30 anos subiu para 7,30%. O Tesouro americano recompra até US$ 6 bilhões de dívida a 10-20 anos a 1/10.",
+      "impacto": "Os juros longos globais altos são a principal restrição à valorização da bolsa brasileira e das construtoras (CYRE3, MRVE3) e mantêm o DI longo pressionado; o alívio da manhã não se aguentou.",
       "especulacao": "",
-      "n_noticias": 10,
+      "n_noticias": 20,
       "noticias": [
         {
-          "id": "282c8c767b3c",
-          "titulo": "Fed: Final rule largely similar to the proposed rule aimed at making tests more transparent and predictable",
-          "fonte": "FinancialJuice",
+          "id": "48c4303ce1ea",
+          "titulo": "Bond markets resume sell-off after strong US data",
+          "fonte": "FT Markets",
           "data": "2026-09-30",
-          "hora": "14:01",
-          "link": "https://www.financialjuice.com/News/9785606/Fed-Final-rule-largely-similar-to-the-proposed-rule-aimed-at-making-tests-more-transparent-and-predictable.aspx?xy=rss"
+          "hora": "18:25",
+          "link": "https://www.ft.com/content/cd22d20a-3b65-4534-ac04-f5008810e10a?syn-25a6b1a6=1"
         },
         {
-          "id": "df5e81176102",
-          "titulo": "Fed: Changes are likely to reduce year-over-year volatility in bank capital requirements by roughly 50% while not materially affecting aggregate capital requirements",
-          "fonte": "FinancialJuice",
+          "id": "a33f1b5589f3",
+          "titulo": "Don’t own bonds and be cautious with stocks",
+          "fonte": "FT Markets",
           "data": "2026-09-30",
-          "hora": "14:01",
-          "link": "https://www.financialjuice.com/News/9785605/Fed-Changes-are-likely-to-reduce-year-over-year-volatility-in-bank-capital-requirements-by-roughly-50-while-not-materially-affecting-aggregate-capital-requirements.aspx?xy=rss"
+          "hora": "16:53",
+          "link": "https://www.ft.com/content/c05f3ba5-e24e-4c88-86ed-04f4b229cd15"
         },
         {
-          "id": "63b4dd1af1f9",
-          "titulo": "Fed's Barr opposes final rule, changes will weaken stress test.",
+          "id": "62b367548609",
+          "titulo": "Senate Republican Leader Thune: Congress may raise debt limit after election",
           "fonte": "FinancialJuice",
           "data": "2026-09-30",
-          "hora": "14:01",
-          "link": "https://www.financialjuice.com/News/9785589/Feds-Barr-opposes-final-rule-changes-will-weaken-stress-test.aspx?xy=rss"
+          "hora": "16:07",
+          "link": "https://www.financialjuice.com/News/9785778/Senate-Republican-Leader-Thune-Congress-may-raise-debt-limit-after-election.aspx?xy=rss"
         },
         {
-          "id": "d328975e96f6",
-          "titulo": "BoE FPC: Risky credit markets, including parts of private credit, remain vulnerable to tighter financing conditions.",
+          "id": "4505b0273785",
+          "titulo": "US Treasury: Will buy up to $6 bln of 10-20 Year debt in October 1st liquidity buyback",
           "fonte": "FinancialJuice",
           "data": "2026-09-30",
-          "hora": "10:33",
-          "link": "https://www.financialjuice.com/News/9785272/BoE-FPC-Risky-credit-markets-including-parts-of-private-credit-remain-vulnerable-to-tighter-financing-conditions.aspx?xy=rss"
+          "hora": "16:01",
+          "link": "https://www.financialjuice.com/News/9785759/US-Treasury-Will-buy-up-to-6-bln-of-10-20-Year-debt-in-October-1st-liquidity-buyback.aspx?xy=rss"
         },
         {
-          "id": "5d5704ec6ec5",
-          "titulo": "BoE FPC: UK households and corporates remain resilient, banking system remains appropriately capitalised.",
+          "id": "b06d76ea5a20",
+          "titulo": "Treasury Yields Keep Rising. Can The Economy Keep Up?",
+          "fonte": "Seeking Alpha",
+          "data": "2026-09-30",
+          "hora": "13:45",
+          "link": "https://seekingalpha.com/article/4951010-treasury-yields-keep-rising-can-economy-keep-up?source=feed_all_articles"
+        },
+        {
+          "id": "e38934cdde8e",
+          "titulo": "Bond investors 💔 OATs",
+          "fonte": "FT Markets",
+          "data": "2026-09-30",
+          "hora": "13:08",
+          "link": "https://www.ft.com/content/e7c044f0-5448-4d90-9b86-9786ffafbc7b"
+        },
+        {
+          "id": "59a491b89470",
+          "titulo": "He’s been badmouthing Treasury bonds since 2020, but ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
+          "fonte": "MarketWatch",
+          "data": "2026-09-30",
+          "hora": "13:07",
+          "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories"
+        },
+        {
+          "id": "87a469e5a398",
+          "titulo": "US MBA 30-Yr Mortgage Rate Actual 7.30% (Forecast -, Previous 7.12%)",
           "fonte": "FinancialJuice",
           "data": "2026-09-30",
-          "hora": "10:33",
-          "link": "https://www.financialjuice.com/News/9785273/BoE-FPC-UK-households-and-corporates-remain-resilient-banking-system-remains-appropriately-capitalised.aspx?xy=rss"
+          "hora": "12:00",
+          "link": "https://www.financialjuice.com/News/9785376/US-MBA-30-Yr-Mortgage-Rate-Actual-730-Forecast---Previous-712.aspx?xy=rss"
         },
         {
-          "id": "420e52d16cbc",
-          "titulo": "BoE FPC: Financial markets so far have been resilient to higher energy prices and bond yields.",
+          "id": "ae53ea2b677d",
+          "titulo": "US MBA Mortgage Applications Actual -6% (Forecast -, Previous -1.5%)",
           "fonte": "FinancialJuice",
           "data": "2026-09-30",
-          "hora": "10:32",
-          "link": "https://www.financialjuice.com/News/9785271/BoE-FPC-Financial-markets-so-far-have-been-resilient-to-higher-energy-prices-and-bond-yields.aspx?xy=rss"
+          "hora": "12:00",
+          "link": "https://www.financialjuice.com/News/9785375/US-MBA-Mortgage-Applications-Actual--6-Forecast---Previous--15.aspx?xy=rss"
         },
         {
-          "id": "f3b66a6ea8f2",
-          "titulo": "BoE FPC: Planned market-based reforms to gilt repo will mitigate risks from leverage ratio changes.",
-          "fonte": "FinancialJuice",
+          "id": "de22097e737f",
+          "titulo": "European stocks slip back as oil and bond yields edge higher from session lows",
+          "fonte": "ForexLive",
           "data": "2026-09-30",
-          "hora": "10:32",
-          "link": "https://www.financialjuice.com/News/9785269/BoE-FPC-Planned-market-based-reforms-to-gilt-repo-will-mitigate-risks-from-leverage-ratio-changes.aspx?xy=rss"
+          "hora": "11:42",
+          "link": "https://investinglive.com/stocks/european-stocks-slip-back-as-oil-and-bond-yields-edge-higher-from-session-lows/"
         },
         {
-          "id": "b24221867590",
-          "titulo": "BoE FPC: BoE will set out proposed bank leverage ratio reforms and gilt repo reforms in early 2027.",
-          "fonte": "FinancialJuice",
+          "id": "44b244a6d6d8",
+          "titulo": "Bond markets rebound after sell-off",
+          "fonte": "FT Markets",
           "data": "2026-09-30",
-          "hora": "10:32",
-          "link": "https://www.financialjuice.com/News/9785263/BoE-FPC-BoE-will-set-out-proposed-bank-leverage-ratio-reforms-and-gilt-repo-reforms-in-early-2027.aspx?xy=rss"
+          "hora": "10:54",
+          "link": "https://www.ft.com/content/cd22d20a-3b65-4534-ac04-f5008810e10a?syn-25a6b1a6=1"
         },
         {
-          "id": "843116d473d6",
-          "titulo": "BoE FPC: Rise in oil and gas prices has led to more protracted supply shock.",
+          "id": "1d9f9b9f79f3",
+          "titulo": "German 10 Yr Bund Yield Actual 3.58% (Forecast -, Previous 3.39%)",
           "fonte": "FinancialJuice",
           "data": "2026-09-30",
           "hora": "10:31",
-          "link": "https://www.financialjuice.com/News/9785249/BoE-FPC-Rise-in-oil-and-gas-prices-has-led-to-more-protracted-supply-shock.aspx?xy=rss"
+          "link": "https://www.financialjuice.com/News/9785250/German-10-Yr-Bund-Yield-Actual-358-Forecast---Previous-339.aspx?xy=rss"
         },
         {
-          "id": "74b51ca8e0f5",
-          "titulo": "Is the world really drowning in debt?",
+          "id": "e71b10575cf1",
+          "titulo": "German 10 Yr Bund Bid-to-Cover Actual 1.2 (Forecast -, Previous 1.5)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "10:31",
+          "link": "https://www.financialjuice.com/News/9785251/German-10-Yr-Bund-Bid-to-Cover-Actual-12-Forecast---Previous-15.aspx?xy=rss"
+        },
+        {
+          "id": "500a62f337de",
+          "titulo": "Vanguard warns France is ‘degrading credit’ as borrowing costs surge",
+          "fonte": "FT Markets",
+          "data": "2026-09-30",
+          "hora": "09:42",
+          "link": "https://www.ft.com/content/7820a84f-338e-4b91-a9b6-241a9bf81539?syn-25a6b1a6=1"
+        },
+        {
+          "id": "fe6fa35a8128",
+          "titulo": "European stock market open: Stocks push higher as bond yields ease from recent highs",
+          "fonte": "ForexLive",
+          "data": "2026-09-30",
+          "hora": "08:26",
+          "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-push-higher-as-bond-yields-ease-from-recent-highs/"
+        },
+        {
+          "id": "b6df78675337",
+          "titulo": "Time for some DIY LDI",
           "fonte": "FT Markets",
           "data": "2026-09-30",
           "hora": "05:00",
-          "link": "https://www.ft.com/content/a1202ae1-0324-4383-a082-4cc522a8fdbc?syn-25a6b1a6=1"
+          "link": "https://www.ft.com/content/bba7bdf5-8a91-4587-85ef-5cc9911259d7"
+        },
+        {
+          "id": "dc9a94bfe3db",
+          "titulo": "US 30-year Treasury yield hits highest since 2002",
+          "fonte": "FT Markets",
+          "data": "2026-09-29",
+          "hora": "21:13",
+          "link": "https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1"
+        },
+        {
+          "id": "194410233a17",
+          "titulo": "UK 10 Yr Gilt Yield Actual 5.383% (Forecast -, Previous 5.155%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-29",
+          "hora": "10:02",
+          "link": "https://www.financialjuice.com/News/9783214/UK-10-Yr-Gilt-Yield-Actual-5383-Forecast---Previous-5155.aspx?xy=rss"
+        },
+        {
+          "id": "06ba6c4cb0b9",
+          "titulo": "UK 10 Yr Gilt Bid-to-Cover Actual 3.34 (Forecast -, Previous 3.65)",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-29",
+          "hora": "10:02",
+          "link": "https://www.financialjuice.com/News/9783215/UK-10-Yr-Gilt-Bid-to-Cover-Actual-334-Forecast---Previous-365.aspx?xy=rss"
+        },
+        {
+          "id": "330a7a00f222",
+          "titulo": "Bond investors become oil traders as Iran war drives yields",
+          "fonte": "FT Markets",
+          "data": "2026-09-29",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1"
         }
       ],
       "criado_em": "2026-09-30T14:33",
-      "atualizado_em": "2026-09-30T14:33"
+      "atualizado_em": "2026-09-30T19:06"
     },
     {
-      "titulo": "Casa Branca realiza reunião decisiva sobre a proibição de exportar diesel e o gasóleo britânico fica à beira das £2 por litro",
+      "titulo": "Petrolíferas dos EUA avisam que o diesel não normaliza antes de um ano e o Senado ainda não recebeu a proposta da Casa Branca",
       "sinal": "risk_off",
-      "resumo": "A Casa Branca reuniu-se sobre a proibição de exportar diesel, com Trump no centro de uma disputa entre as petrolíferas e republicanos preocupados com o preço dos combustíveis antes das intercalares. No Reino Unido o gasóleo está perto das £2 por litro pela primeira vez e o teto das faturas de energia deverá subir 16% em janeiro, a maior alta em quatro anos.",
+      "resumo": "Um inquérito do Fed de Dallas mostra que os executivos do setor esperam o diesel caro durante mais um ano. A Casa Branca discute a proibição de exportar diesel, mas o líder republicano do Senado, Thune, disse ainda não ter recebido a proposta. No Reino Unido o gasóleo está perto das £2 por litro e o teto das faturas de energia deverá subir 16% em janeiro.",
       "impacto": "Uma proibição americana apertaria a oferta global de diesel, que o Brasil importa, e pressionaria a política de preços da PETR4 e a inflação. O Tesouro diz que a arrecadação extra com o petróleo supera os gastos com a subvenção aos combustíveis.",
       "especulacao": "",
-      "n_noticias": 10,
+      "n_noticias": 13,
       "noticias": [
+        {
+          "id": "446df5d05c6b",
+          "titulo": "US oil industry warns diesel prices will not return to normal for a year - FT",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "17:43",
+          "link": "https://www.financialjuice.com/News/9785915/US-oil-industry-warns-diesel-prices-will-not-return-to-normal-for-a-year---FT.aspx?xy=rss"
+        },
+        {
+          "id": "3fd93cae8927",
+          "titulo": "US oil industry warns diesel prices will not return to normal for a year",
+          "fonte": "FT Markets",
+          "data": "2026-09-30",
+          "hora": "17:20",
+          "link": "https://www.ft.com/content/0d74d66a-a9ee-4c22-83ab-9df6452117de?syn-25a6b1a6=1"
+        },
+        {
+          "id": "c7ca307b7bd1",
+          "titulo": "Senate Republican Leader Thune: I have yet to receive diesel proposal from White House",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "15:57",
+          "link": "https://www.financialjuice.com/News/9785754/Senate-Republican-Leader-Thune-I-have-yet-to-receive-diesel-proposal-from-White-House.aspx?xy=rss"
+        },
         {
           "id": "ac18f65c5137",
           "titulo": "Tesouro Nacional diz que alta da arrecadação com disparada do petróleo supera gastos para amenizar preços dos combustíveis",
@@ -908,16 +1144,248 @@
         }
       ],
       "criado_em": "2026-09-30T14:33",
-      "atualizado_em": "2026-09-30T14:33"
+      "atualizado_em": "2026-09-30T19:06"
     },
     {
-      "titulo": "Sondagens mantêm empate técnico entre Lula e Flávio Bolsonaro a cinco dias do 1.º turno e o Tesouro IPCA+ longo desce abaixo de 7%",
-      "sinal": "neutro",
-      "resumo": "A Meio/Ideia dá 48,5% a Lula e 48% a Flávio Bolsonaro na 2.ª volta (39,4% contra 38,4% na 1.ª), e a Indexa/Broadcast dá 43% contra 42%, ambas em empate técnico. Em São Paulo, Flávio abriu 7 pontos de vantagem. O governo lançou o Desenrola MEI e as taxas de juros prolongaram o alívio, com o Tesouro IPCA+ longo abaixo de 7% pela primeira vez desde maio.",
-      "impacto": "Com a corrida indefinida, a volatilidade concentra-se nas estatais (PETR4, BBAS3, CMIG4) e no DI longo. O fecho das taxas de hoje favorece os bancos e as construtoras (CYRE3, MRVE3).",
+      "titulo": "BoE e KKR alertam para o risco da dívida da IA e o índice de crédito da app sobe 29,3 pontos numa semana",
+      "sinal": "risk_off",
+      "resumo": "O BoE disse que os mercados de crédito de risco, incluindo parte do crédito privado, continuam vulneráveis e que o endividamento para a IA aumenta o risco de uma correção brusca; a KKR alertou para sobre-exposição e concentração nesse crédito. O índice de risco de crédito da app subiu 29,3 pontos em 7 dias, para 63,3 (acima da média), com o spread CCC em 11,46 p.p. (dado de 28/09), no pior nível do ano. O Fed aprovou a regra final dos stress tests, com o voto contra de Barr.",
+      "impacto": "O stress concentra-se na ponta frágil (CCC). Um aperto do crédito global encarece o funding dos emissores brasileiros mais alavancados (BEEF3, CSNA3, USIM5, AMER3) e costuma travar o fluxo estrangeiro para a B3.",
       "especulacao": "",
-      "n_noticias": 10,
+      "n_noticias": 12,
       "noticias": [
+        {
+          "id": "c0b8b059dc19",
+          "titulo": "AI debt surge raises risk of sharp market correction, warns Bank of England",
+          "fonte": "FT Markets",
+          "data": "2026-09-30",
+          "hora": "15:02",
+          "link": "https://www.ft.com/content/5c1ccafc-c3e6-49c1-8cdc-b9ed73627749?syn-25a6b1a6=1"
+        },
+        {
+          "id": "fbd9b421f5d3",
+          "titulo": "KKR warns of growing credit market risks from AI borrowing spree",
+          "fonte": "FT Markets",
+          "data": "2026-09-30",
+          "hora": "14:03",
+          "link": "https://www.ft.com/content/33449ea5-428b-4080-bdf6-ff5843bbd3cd?syn-25a6b1a6=1"
+        },
+        {
+          "id": "282c8c767b3c",
+          "titulo": "Fed: Final rule largely similar to the proposed rule aimed at making tests more transparent and predictable",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "14:01",
+          "link": "https://www.financialjuice.com/News/9785606/Fed-Final-rule-largely-similar-to-the-proposed-rule-aimed-at-making-tests-more-transparent-and-predictable.aspx?xy=rss"
+        },
+        {
+          "id": "df5e81176102",
+          "titulo": "Fed: Changes are likely to reduce year-over-year volatility in bank capital requirements by roughly 50% while not materially affecting aggregate capital requirements",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "14:01",
+          "link": "https://www.financialjuice.com/News/9785605/Fed-Changes-are-likely-to-reduce-year-over-year-volatility-in-bank-capital-requirements-by-roughly-50-while-not-materially-affecting-aggregate-capital-requirements.aspx?xy=rss"
+        },
+        {
+          "id": "63b4dd1af1f9",
+          "titulo": "Fed's Barr opposes final rule, changes will weaken stress test.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "14:01",
+          "link": "https://www.financialjuice.com/News/9785589/Feds-Barr-opposes-final-rule-changes-will-weaken-stress-test.aspx?xy=rss"
+        },
+        {
+          "id": "d328975e96f6",
+          "titulo": "BoE FPC: Risky credit markets, including parts of private credit, remain vulnerable to tighter financing conditions.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "10:33",
+          "link": "https://www.financialjuice.com/News/9785272/BoE-FPC-Risky-credit-markets-including-parts-of-private-credit-remain-vulnerable-to-tighter-financing-conditions.aspx?xy=rss"
+        },
+        {
+          "id": "5d5704ec6ec5",
+          "titulo": "BoE FPC: UK households and corporates remain resilient, banking system remains appropriately capitalised.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "10:33",
+          "link": "https://www.financialjuice.com/News/9785273/BoE-FPC-UK-households-and-corporates-remain-resilient-banking-system-remains-appropriately-capitalised.aspx?xy=rss"
+        },
+        {
+          "id": "420e52d16cbc",
+          "titulo": "BoE FPC: Financial markets so far have been resilient to higher energy prices and bond yields.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "10:32",
+          "link": "https://www.financialjuice.com/News/9785271/BoE-FPC-Financial-markets-so-far-have-been-resilient-to-higher-energy-prices-and-bond-yields.aspx?xy=rss"
+        },
+        {
+          "id": "f3b66a6ea8f2",
+          "titulo": "BoE FPC: Planned market-based reforms to gilt repo will mitigate risks from leverage ratio changes.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "10:32",
+          "link": "https://www.financialjuice.com/News/9785269/BoE-FPC-Planned-market-based-reforms-to-gilt-repo-will-mitigate-risks-from-leverage-ratio-changes.aspx?xy=rss"
+        },
+        {
+          "id": "b24221867590",
+          "titulo": "BoE FPC: BoE will set out proposed bank leverage ratio reforms and gilt repo reforms in early 2027.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "10:32",
+          "link": "https://www.financialjuice.com/News/9785263/BoE-FPC-BoE-will-set-out-proposed-bank-leverage-ratio-reforms-and-gilt-repo-reforms-in-early-2027.aspx?xy=rss"
+        },
+        {
+          "id": "843116d473d6",
+          "titulo": "BoE FPC: Rise in oil and gas prices has led to more protracted supply shock.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "10:31",
+          "link": "https://www.financialjuice.com/News/9785249/BoE-FPC-Rise-in-oil-and-gas-prices-has-led-to-more-protracted-supply-shock.aspx?xy=rss"
+        },
+        {
+          "id": "74b51ca8e0f5",
+          "titulo": "Is the world really drowning in debt?",
+          "fonte": "FT Markets",
+          "data": "2026-09-30",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/a1202ae1-0324-4383-a082-4cc522a8fdbc?syn-25a6b1a6=1"
+        }
+      ],
+      "criado_em": "2026-09-30T14:33",
+      "atualizado_em": "2026-09-30T19:06"
+    },
+    {
+      "titulo": "Piloto tenta despenhar voo da FlyDubai para Telavive e o Paquistão promete defender a Arábia Saudita",
+      "sinal": "risk_off",
+      "resumo": "Segundo a imprensa israelita, um piloto omanita que tentou despenhar o avião do Dubai para Telavive foi neutralizado e o aparelho aterrou na Arábia Saudita, que recusou o pedido de Israel para recolher os passageiros; Netanyahu falou com o presidente dos Emirados. O ministro da Defesa paquistanês disse que o país usará todos os meios para defender a Arábia Saudita, Trump anunciou a saída das últimas tropas americanas do Iraque e o primeiro-ministro britânico disse haver fortes sinais do papel do Irão no incidente de Fairford.",
+      "impacto": "A tensão no Golfo mantém um prémio de risco no petróleo, que sustenta PETR4 e PRIO3 mas pesa sobre o apetite por emergentes e o real.",
+      "especulacao": "A agência iraniana Tasnim relata uma explosão no leste da Arábia Saudita, sem confirmação de outra fonte.",
+      "n_noticias": 11,
+      "noticias": [
+        {
+          "id": "a67514a17448",
+          "titulo": "A Senior Political source on the attempted attack on a flight from Dubai: The terrorist wanted to undermine the Abraham Accords. - Channel 12 News",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:24",
+          "link": "https://www.financialjuice.com/News/9785973/A-Senior-Political-source-on-the-attempted-attack-on-a-flight-from-Dubai-The-terrorist-wanted-to-undermine-the-Abraham-Accords---Channel-12-News-.aspx?xy=rss"
+        },
+        {
+          "id": "a034fcb72961",
+          "titulo": "Trump: Last US forces are leaving iraq - Truth Social",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:18",
+          "link": "https://www.financialjuice.com/News/9785972/Trump-Last-US-forces-are-leaving-iraq---Truth-Social-.aspx?xy=rss"
+        },
+        {
+          "id": "694661936ed2",
+          "titulo": "An Omani pilot who attempted to crash the plane from Dubai to Tel Aviv was neutralized, and the plane landed in Saudi Arabia - Israel's channel 14 news",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:08",
+          "link": "https://www.financialjuice.com/News/9785953/An-Omani-pilot-who-attempted-to-crash-the-plane-from-Dubai-to-Tel-Aviv-was-neutralized-and-the-plane-landed-in-Saudi-Arabia---Israels-channel-14-news.aspx?xy=rss"
+        },
+        {
+          "id": "622b436cf743",
+          "titulo": "Israel's Prime Minister Netanyahu spoke with UAE President - Israel's Hayom News",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "17:59",
+          "link": "https://www.financialjuice.com/News/9785931/Israels-Prime-Minister-Netanyahu-spoke-with-UAE-President---Israels-Hayom-News.aspx?xy=rss"
+        },
+        {
+          "id": "e20f8c174989",
+          "titulo": "Call is scheduled to take place between Trump and Netanyahu in the coming hours regarding the FlyDubai incident - Israeli Channel 14",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "17:36",
+          "link": "https://www.financialjuice.com/News/9785914/Call-is-scheduled-to-take-place-between-Trump-and-Netanyahu-in-the-coming-hours-regarding-the-FlyDubai-incident---Israeli-Channel-14.aspx?xy=rss"
+        },
+        {
+          "id": "e5c04813837a",
+          "titulo": "UK's PM Burnham: Strong signs Iran had role in Fairford incident.",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "17:01",
+          "link": "https://www.financialjuice.com/News/9785867/UKs-PM-Burnham-Strong-signs-Iran-had-role-in-Fairford-incident.aspx?xy=rss"
+        },
+        {
+          "id": "f8ae611d58ac",
+          "titulo": "Pakistan Defense Minister Asif: Pakistan will use all possible means to defend Saudi Arabia against what he calls foreign aggression - IRNA",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:25",
+          "link": "https://www.financialjuice.com/News/9785795/Pakistan-Defense-Minister-Asif-Pakistan-will-use-all-possible-means-to-defend-Saudi-Arabia-against-what-he-calls-foreign-aggression---IRNA.aspx?xy=rss"
+        },
+        {
+          "id": "417c4cd1af09",
+          "titulo": "Pakistan Defense Minister Asif declines to comment on potential Pakistani involvement in Saudi-led attacks on Yemen - IRNA",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "16:25",
+          "link": "https://www.financialjuice.com/News/9785796/Pakistan-Defense-Minister-Asif-declines-to-comment-on-potential-Pakistani-involvement-in-Saudi-led-attacks-on-Yemen---IRNA.aspx?xy=rss"
+        },
+        {
+          "id": "c5d9fa133e4f",
+          "titulo": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers from FlyDubai flight that made emergency landing in Saudi - Security sources",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "15:46",
+          "link": "https://www.financialjuice.com/News/9785748/Saudi-Arabia-turned-down-Israeli-request-to-allow-its-planes-to-pick-up-Israeli-passengers-from-FlyDubai-flight-that-made-emergency-landing-in-Saudi---Security-sources.aspx?xy=rss"
+        },
+        {
+          "id": "d437969f8eec",
+          "titulo": "Unconfirmed reports of an explosion heard in eastern Saudi Arabia - Tasnim News",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "15:45",
+          "link": "https://www.financialjuice.com/News/9785731/Unconfirmed-reports-of-an-explosion-heard-in-eastern-Saudi-Arabia---Tasnim-News.aspx?xy=rss"
+        },
+        {
+          "id": "d1acf6374126",
+          "titulo": "Hezbollah Brigades: US spy and combat aircraft still present in Iraqi skies - IRNA",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "15:20",
+          "link": "https://www.financialjuice.com/News/9785706/Hezbollah-Brigades-US-spy-and-combat-aircraft-still-present-in-Iraqi-skies---IRNA.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-09-30T19:06",
+      "atualizado_em": "2026-09-30T19:06"
+    },
+    {
+      "titulo": "Ibovespa retoma os 187 mil pontos com os bancos em alta e o Tesouro IPCA+ longo desce abaixo de 7%",
+      "sinal": "risk_on",
+      "resumo": "A bolsa acelerou à tarde e voltou aos 187 mil pontos puxada pelos bancos, com o dólar em queda depois do PCE americano. As taxas de juros prolongaram o alívio e o Tesouro IPCA+ longo caiu abaixo de 7% pela primeira vez desde maio. A quatro dias do 1.º turno, as sondagens continuam divididas (AtlasIntel com 47,7% contra 47,6% na 2.ª volta; Gerp com Flávio a 50% e Lula a 43%) e o governo lançou o Desenrola MEI.",
+      "impacto": "O fecho da curva favorece diretamente ITUB4, BBAS3, BBDC4 e BPAC11 e as construtoras (CYRE3, MRVE3). Com a corrida indefinida, a volatilidade concentra-se nas estatais (PETR4, BBAS3, CMIG4) e no DI longo.",
+      "especulacao": "",
+      "n_noticias": 9,
+      "noticias": [
+        {
+          "id": "19a31222c42f",
+          "titulo": "Dólar opera em queda, com inflação dos EUA e contas públicas no foco; Ibovespa sobe",
+          "fonte": "G1 Economia",
+          "data": "2026-09-30",
+          "hora": "19:01",
+          "link": "https://g1.globo.com/economia/noticia/2026/09/30/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "425ac745c553",
+          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa acelera e retoma os 187 mil pontos; bancos disparam",
+          "fonte": "InfoMoney",
+          "data": "2026-09-30",
+          "hora": "18:49",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30092026/"
+        },
+        {
+          "id": "1576efd62ce7",
+          "titulo": "Dólar abre em queda, com inflação dos EUA e contas públicas no foco",
+          "fonte": "G1 Economia",
+          "data": "2026-09-30",
+          "hora": "14:27",
+          "link": "https://g1.globo.com/economia/noticia/2026/09/30/dolar-ibovespa.ghtml"
+        },
         {
           "id": "73c6304e397d",
           "titulo": "A cinco dias das eleições, governo lança Desenrola MEI e novas medidas de renegociação de dívidas",
@@ -927,12 +1395,12 @@
           "link": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml"
         },
         {
-          "id": "a664f579f54b",
-          "titulo": "Real Time: Flávio abre 7 pontos sobre Lula em São Paulo, maior colégio eleitoral",
+          "id": "203f07506dd2",
+          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe após dados de inflação dos EUA abaixo do esperado",
           "fonte": "InfoMoney",
           "data": "2026-09-30",
-          "hora": "14:25",
-          "link": "https://www.infomoney.com.br/politica/real-time-flavio-abre-7-pontos-sobre-lula-em-sao-paulo-maior-colegio-eleitoral/"
+          "hora": "14:15",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30092026/"
         },
         {
           "id": "b2f00a70e057",
@@ -951,30 +1419,6 @@
           "link": "https://www.infomoney.com.br/economia/taxas-de-juros-estendem-alivio-com-dolar-e-pesquisas-eleitorais-ficam-no-radar/"
         },
         {
-          "id": "2cf9d933a549",
-          "titulo": "Pesquisa Meio/Ideia: Lula tem 48,5% e Flávio Bolsonaro, 48%, no 2º turno",
-          "fonte": "Exame",
-          "data": "2026-09-30",
-          "hora": "08:02",
-          "link": "https://exame.com/brasil/pesquisa-meio-ideia-lula-tem-485-e-flavio-bolsonaro-48-no-2o-turno/"
-        },
-        {
-          "id": "d43fad4d4262",
-          "titulo": "Pesquisa Meio/Ideia: Lula tem 39,4% e Flávio Bolsonaro, 38,4%, no 1º turno",
-          "fonte": "Exame",
-          "data": "2026-09-30",
-          "hora": "07:00",
-          "link": "https://exame.com/brasil/pesquisa-meio-ideia-lula-tem-394-e-flavio-bolsonaro-384-no-1o-turno/"
-        },
-        {
-          "id": "754e350545ed",
-          "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 42% e Lula, 40%, no 1º turno",
-          "fonte": "Exame",
-          "data": "2026-09-29",
-          "hora": "08:00",
-          "link": "https://exame.com/brasil/pesquisa-gerp-flavio-bolsonaro-tem-42-e-lula-40-no-1o-turno/"
-        },
-        {
           "id": "a92b55048704",
           "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 50% e Lula, 43%, no 2º turno",
           "fonte": "Exame",
@@ -989,75 +1433,75 @@
           "data": "2026-09-29",
           "hora": "07:33",
           "link": "https://exame.com/brasil/pesquisa-atlasintel-flavio-tem-477-e-lula-476-no-2o-turno/"
-        },
-        {
-          "id": "9163b3651dd1",
-          "titulo": "Pesquisa AtlasIntel: Lula tem vantagem de 3,3 pontos sobre Flávio Bolsonaro no 1º turno",
-          "fonte": "Exame",
-          "data": "2026-09-29",
-          "hora": "07:30",
-          "link": "https://exame.com/brasil/pesquisa-atlasintel-lula-tem-vantagem-de-33-pontos-sobre-flavio-bolsonaro-no-1o-turno/"
         }
       ],
       "criado_em": "2026-09-30T14:33",
-      "atualizado_em": "2026-09-30T14:33"
+      "atualizado_em": "2026-09-30T19:06"
     },
     {
-      "titulo": "Kospi, a bolsa mais exposta à IA, tem o pior 3.º trimestre do mundo e a Oura retira o IPO de US$ 15 bilhões",
-      "sinal": "risk_off",
-      "resumo": "O Kospi caiu quase um quinto no trimestre até setembro, depois da venda de julho, mas ainda sobe 60% no ano. A Oura retirou a listagem de US$ 15 bilhões dias depois de a anunciar, invocando a incerteza do mercado, e a OpenAI adiou o seu IPO.",
-      "impacto": "A correção das ações de IA e o fecho da janela de IPOs reduzem o apetite pelo risco em emergentes, o que é negativo por correlação para o Ibovespa e para o fluxo estrangeiro. Ajuda os setores defensivos da carteira (EQTL3, CMIG4, CPLE).",
+      "titulo": "Representantes de Lula e Trump reúnem-se sobre o tarifaço e o fórum global do aço adota tarifas contra o excesso de capacidade",
+      "sinal": "risk_on",
+      "resumo": "Depois de uma reunião de cerca de 40 minutos nos EUA, a equipa de Lula disse que Washington deve enviar ao Brasil uma proposta de negociação sobre as tarifas. O representante comercial Greer disse que vêm aí mais 10 acordos comerciais. O Fórum Global sobre o Excesso de Capacidade no Aço (OCDE) adotou um quadro contra subsídios e os membros aplicarão tarifas às importações de países com excesso de capacidade.",
+      "impacto": "Uma proposta americana abre caminho a aliviar a sobretaxa de 25% que atinge o aço, máquinas e etanol — leitura positiva para GGBR4, CSNA3, USIM5 e WEGE3. A frente comum contra o aço chinês barato protege as siderúrgicas brasileiras.",
       "especulacao": "",
-      "n_noticias": 5,
+      "n_noticias": 6,
       "noticias": [
         {
-          "id": "254c5c0a7722",
-          "titulo": "BofA Bubble Risk Indicator Landscape - FJElite",
+          "id": "7f128663f0ee",
+          "titulo": "Tarifaço: EUA devem enviar ao Brasil proposta de negociação, diz equipe de Lula após reunião com representante de Trump",
+          "fonte": "G1 Economia",
+          "data": "2026-09-30",
+          "hora": "19:01",
+          "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml"
+        },
+        {
+          "id": "f6a82ae11715",
+          "titulo": "Tribunal dos EUA analisa ação contra tarifas de Trump ligadas a trabalho forçado",
+          "fonte": "G1 Economia",
+          "data": "2026-09-30",
+          "hora": "19:01",
+          "link": "https://g1.globo.com/economia/noticia/2026/09/30/tribunal-comercial-dos-eua-analisara-contestacao-a-tarifas-relacionadas-ao-trabalho-forcado.ghtml"
+        },
+        {
+          "id": "9f26fdc9ea9d",
+          "titulo": "USTR Greer: 10 more trade deals are on the way.",
           "fonte": "FinancialJuice",
           "data": "2026-09-30",
-          "hora": "13:22",
-          "link": "https://www.financialjuice.com/News/9785518/BofA-Bubble-Risk-Indicator-Landscape---FJElite.aspx?xy=rss"
+          "hora": "18:39",
+          "link": "https://www.financialjuice.com/News/9786001/USTR-Greer-10-more-trade-deals-are-on-the-way.aspx?xy=rss"
         },
         {
-          "id": "f0e3b610f0e5",
-          "titulo": "AI-supercharged stock market is world’s worst in third quarter",
-          "fonte": "FT Markets",
+          "id": "c34cbf0ee356",
+          "titulo": "Global Forum on steel excess capacity member countries to apply tariffs and other trade measures to deter imports from countries that are sources of excess capacity where appropriate - Statement",
+          "fonte": "FinancialJuice",
           "data": "2026-09-30",
-          "hora": "03:45",
-          "link": "https://www.ft.com/content/7fb7147a-ec36-4de4-b563-a4ca796fc3b2?syn-25a6b1a6=1"
+          "hora": "18:33",
+          "link": "https://www.financialjuice.com/News/9785999/Global-Forum-on-steel-excess-capacity-member-countries-to-apply-tariffs-and-other-trade-measures-to-deter-imports-from-countries-that-are-sources-of-excess-capacity-where-appropriate---Statement.aspx?xy=rss"
         },
         {
-          "id": "91c388ba6ebc",
-          "titulo": "Altman says OpenAI will delay its IPO until it overcomes safety concerns",
-          "fonte": "FT Markets",
-          "data": "2026-09-29",
-          "hora": "22:56",
-          "link": "https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1"
+          "id": "f694bc22ac46",
+          "titulo": "OECD Global Forum on Steel Excess Capacity adopts framework to avoid market-distorting subsidies that encourage loss-making steel plants - Statement",
+          "fonte": "FinancialJuice",
+          "data": "2026-09-30",
+          "hora": "18:29",
+          "link": "https://www.financialjuice.com/News/9785976/OECD-Global-Forum-on-Steel-Excess-Capacity-adopts-framework-to-avoid-market-distorting-subsidies-that-encourage-loss-making-steel-plants---Statement.aspx?xy=rss"
         },
         {
-          "id": "997698fd523e",
-          "titulo": "Smart ring maker Oura puts off initial public offering due to market ‘uncertainty’",
-          "fonte": "Guardian Business",
-          "data": "2026-09-29",
-          "hora": "18:57",
-          "link": "https://www.theguardian.com/technology/2026/sep/29/oura-ring-public-offering"
-        },
-        {
-          "id": "cac2a83abbb3",
-          "titulo": "Oura pulls $15bn stock market listing days after announcement",
-          "fonte": "BBC Business",
-          "data": "2026-09-29",
-          "hora": "18:17",
-          "link": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss"
+          "id": "9b0c8e043ca3",
+          "titulo": "Representantes de Lula e Trump se reúnem nos EUA para discutir tarifas",
+          "fonte": "Exame",
+          "data": "2026-09-30",
+          "hora": "14:27",
+          "link": "https://exame.com/mundo/representantes-de-lula-e-trump-se-reunem-nos-eua-para-discutir-tarifas/"
         }
       ],
-      "criado_em": "2026-09-30T14:33",
-      "atualizado_em": "2026-09-30T14:33"
+      "criado_em": "2026-09-30T19:06",
+      "atualizado_em": "2026-09-30T19:06"
     },
     {
       "titulo": "Caged cria 165,8 mil vagas em agosto, IPP volta a subir 0,36% e as estatais federais têm o primeiro excedente do ano",
       "sinal": "neutro",
-      "resumo": "O Brasil criou 165,8 mil empregos formais em agosto. Os preços ao produtor subiram 0,36%, depois de três meses de queda (2,53% em 12 meses), e as estatais federais tiveram um excedente de R$ 1,76 bilhão, o primeiro do ano. O dólar abriu em queda.",
+      "resumo": "O Brasil criou 165,8 mil empregos formais em agosto. Os preços ao produtor subiram 0,36%, depois de três meses de queda, e as estatais federais tiveram um excedente de R$ 1,76 bilhão, o primeiro do ano; a inadimplência bateu novo recorde em agosto.",
       "impacto": "O mercado de trabalho firme e o IPP a subir limitam o espaço para cortes da Selic antes do Copom de 3 e 4/11, o que é neutro para os bancos e negativo na margem para o varejo (AMER3). O excedente das estatais ajuda a leitura fiscal.",
       "especulacao": "",
       "n_noticias": 5,
@@ -1107,62 +1551,10 @@
       "atualizado_em": "2026-09-30T14:33"
     },
     {
-      "titulo": "Bitcoin segue lateral com as negociações EUA-Irão e a USDT passa a fazer parte da rede financeira usada contra as sanções",
-      "sinal": "neutro",
-      "resumo": "O bitcoin continua preso num intervalo, com as negociações EUA-Irão a limitar os ganhos apesar dos comentários moderados de Williams (Fed). O ForexLive descreve a USDT como parte da infraestrutura usada pelo Irão para contornar sanções, depois de um relatório do Senado americano, e a Bitget diz ser improvável recuperar os ativos desviados por hackers.",
-      "impacto": "O escrutínio regulatório sobre as stablecoins pesa na parte cripto do app e o ativo continua sem direção.",
-      "especulacao": "",
-      "n_noticias": 5,
-      "noticias": [
-        {
-          "id": "238fca8c9928",
-          "titulo": "Solana consolidates at a key trendline as US-Iran talks and Alpenglow mainnet activation remain in focus",
-          "fonte": "ForexLive",
-          "data": "2026-09-30",
-          "hora": "13:16",
-          "link": "https://investinglive.com/cryptocurrency/solana-consolidates-at-a-key-trendline-as-us-iran-talks-and-alpenglow-mainnet-activation-remain-in-focus/"
-        },
-        {
-          "id": "40df7756684c",
-          "titulo": "Bitcoin remains stuck in a range as US-Iran talks cap gains despite Fed's Williams support",
-          "fonte": "ForexLive",
-          "data": "2026-09-30",
-          "hora": "10:47",
-          "link": "https://investinglive.com/cryptocurrency/bitcoin-remains-stuck-in-a-range-as-us-iran-talks-cap-gains-despite-fed-s-williams-support/"
-        },
-        {
-          "id": "144c5c24603b",
-          "titulo": "Iran sanctions fight moves into crypto as USDT becomes part of the financial plumbing",
-          "fonte": "ForexLive",
-          "data": "2026-09-30",
-          "hora": "10:22",
-          "link": "https://investinglive.com/cryptocurrency/iran-sanctions-fight-moves-into-crypto-as-usdt-becomes-part-of-the-financial-plumbing/"
-        },
-        {
-          "id": "1550f29a9de1",
-          "titulo": "Bitget está pessimista com possibilidade de retomar ativos desviados pelos hackers",
-          "fonte": "Exame",
-          "data": "2026-09-30",
-          "hora": "09:30",
-          "link": "https://exame.com/future-of-money/bitget-esta-pessimista-com-possibilidade-de-retomar-ativos-desviados-pelos-hackers/"
-        },
-        {
-          "id": "5e1fdd74d779",
-          "titulo": "ICYMI: Senate report says Iran relied on Tether's USDT to bypass sanctions, WSJ reports",
-          "fonte": "ForexLive",
-          "data": "2026-09-29",
-          "hora": "02:30",
-          "link": "https://investinglive.com/cryptocurrency/icymi-senate-report-says-iran-relied-on-tether-s-usdt-to-bypass-sanctions-wsj-reports/"
-        }
-      ],
-      "criado_em": "2026-09-30T14:33",
-      "atualizado_em": "2026-09-30T14:33"
-    },
-    {
       "titulo": "China aplica sobretaxa de 55% à carne bovina brasileira a partir de 1/10 e o Japão abre o mercado à carne argentina",
       "sinal": "risk_off",
-      "resumo": "Pequim impõe uma tarifa adicional de 55% sobre a carne bovina do Brasil a partir de quinta-feira, 1/10, depois de as importações brasileiras atingirem a quota anual. O Japão reabriu o mercado à carne bovina argentina, fechado há 20 anos. Na véspera, a UE tinha concluído que a produção brasileira de frango cumpre os requisitos para exportação.",
-      "impacto": "É negativo para BEEF3, a mais exposta à exportação de carne bovina para a China, e em menor grau para JBSS32, diversificada pelos EUA e pelas aves. A Argentina ganha um concorrente de peso no Japão. A abertura da UE ao frango compensa em parte do lado das aves.",
+      "resumo": "Pequim impõe uma tarifa adicional de 55% sobre a carne bovina do Brasil a partir de quinta-feira, 1/10, depois de as importações brasileiras atingirem a quota anual. O Japão reabriu o mercado à carne bovina argentina, fechado há 20 anos. Na véspera, a UE tinha concluído que a produção brasileira de frango cumpre os requisitos de exportação.",
+      "impacto": "É negativo para BEEF3, a mais exposta à exportação de carne bovina para a China, e em menor grau para JBSS32, diversificada pelos EUA e pelas aves. A abertura da UE ao frango compensa em parte do lado das aves.",
       "especulacao": "",
       "n_noticias": 3,
       "noticias": [
