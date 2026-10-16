@@ -1,15 +1,87 @@
 {
-  "atualizado_em": "2026-10-15T16:07",
-  "total_feed": 533,
+  "atualizado_em": "2026-10-15T19:05",
+  "total_feed": 578,
   "temas": [
     {
       "titulo": "Ações de chips voltam a cair com o receio da dívida da IA e as obrigações de centros de dados aproximam-se de stress",
       "sinal": "risk_off",
-      "resumo": "O FT relata nova queda global das ações de semicondutores e investidores a desfazerem-se de obrigações de centros de dados e neoclouds, que caíram para perto de território de stress; as obrigações da CoreWeave chegaram a 81 cêntimos por dólar. Micron e Nvidia voltaram a ser pressionadas depois de pormenores sobre as finanças da Anthropic. O índice Fear & Greed caiu para 23/100 (medo extremo). No crédito dos EUA, o índice de risco da app está em 73,4 (tenso, +5,9 em 7 dias), com o CCC OAS em 12,67 p.p. (fecho de 13/10) no pior nível do ano e o HY OAS em 3,16 p.p. A TSMC elevou a previsão de receita para 2026.",
+      "resumo": "O FT relata nova queda global das ações de semicondutores e investidores a desfazerem-se de obrigações de centros de dados e neoclouds, que caíram para perto de território de stress; as obrigações da CoreWeave chegaram a 81 cêntimos por dólar e o CEO da Nvidia, Jensen Huang, disse que a CoreWeave não precisa de apoio financeiro da Nvidia. O InfoMoney noticia que o seguro contra calote ligado à dívida da IA atingiu um recorde, e as bolsas americanas prolongaram as quedas com o Dow a resistir melhor. Um responsável do Ministério das Finanças japonês disse que não houve preocupações no G7/G20 sobre instabilidade financeira causada pela venda das ações de IA. No crédito dos EUA, o índice de risco da app está em 73,4 (tenso, +5,9 em 7 dias), com o CCC OAS em 12,67 p.p. (fecho de 13/10) no pior nível do ano e o HY OAS em 3,16 p.p.",
       "impacto": "O beta de tecnologia comanda o fluxo estrangeiro para emergentes e, por correlação, o Ibovespa; a carteira não tem exposição direta a semis, mas a aversão ao risco pesa no BRL e nos bancos. Spreads de alto risco a abrir encarecem o refinanciamento dos emissores mais alavancados.",
       "especulacao": "A Exame noticia que a Anthropic pode procurar uma avaliação de US$ 2 trilhões no IPO; o JPMorgan não vê condições para um ressalto como o de julho e colunistas falam de um 'momento Darwin' para os devedores da IA. São leituras e números ainda não públicos, sem prospeto divulgado.",
-      "n_noticias": 62,
+      "n_noticias": 72,
       "noticias": [
+        {
+          "id": "db4a5ff207db",
+          "titulo": "Preocupações com crédito de IA levam seguro contra calote a recorde e alertam mercado",
+          "fonte": "InfoMoney",
+          "data": "2026-10-15",
+          "hora": "18:16",
+          "link": "https://www.infomoney.com.br/mercados/preocupacoes-com-credito-de-ia-levam-seguro-contra-calote-a-recorde-e-alertam-mercado/"
+        },
+        {
+          "id": "8490ef1d065b",
+          "titulo": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+          "fonte": "MarketWatch",
+          "data": "2026-10-15",
+          "hora": "17:55",
+          "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories"
+        },
+        {
+          "id": "15d5538393ec",
+          "titulo": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+          "fonte": "MarketWatch",
+          "data": "2026-10-15",
+          "hora": "17:53",
+          "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories"
+        },
+        {
+          "id": "77a8abc1cab9",
+          "titulo": "Treasuries rally as investors seek shelter from AI turbulence",
+          "fonte": "FT Markets",
+          "data": "2026-10-15",
+          "hora": "17:23",
+          "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1"
+        },
+        {
+          "id": "2fe3f478823e",
+          "titulo": "Japan MoF Official: Policymakers did confirm the need for vigilance and avoiding leaving any seed of a financial system crisis unattended.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "17:09",
+          "link": "https://www.financialjuice.com/News/9807375/Japan-MoF-Official-Policymakers-did-confirm-the-need-for-vigilance-and-avoiding-leaving-any-seed-of-a-financial-system-crisis-unattended.aspx?xy=rss"
+        },
+        {
+          "id": "2f8dd2d90b4e",
+          "titulo": "Japan MoF Official: There were no concerns voiced at the G7 & G20 about the risk of financial system instability from the AI sell-off, more important is fact global economy has shown resilience to various shocks.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "17:07",
+          "link": "https://www.financialjuice.com/News/9807374/Japan-MoF-Official-There-were-no-concerns-voiced-at-the-G7--G20-about-the-risk-of-financial-system-instability-from-the-AI-sell-off-more-important-is-fact-global-economy-has-shown-resilience-to-various-shocks.aspx?xy=rss"
+        },
+        {
+          "id": "221c46d0c495",
+          "titulo": "Nvidia has gapped to the downside and tested a key technical target area.  What next?",
+          "fonte": "ForexLive",
+          "data": "2026-10-15",
+          "hora": "16:37",
+          "link": "https://investinglive.com/stocks/nvidia-has-gapped-to-the-downside-and-tested-a-key-technical-target-area-what-next/"
+        },
+        {
+          "id": "6b70347b4b5f",
+          "titulo": "Dow Jones today is showing relative strength",
+          "fonte": "ForexLive",
+          "data": "2026-10-15",
+          "hora": "16:33",
+          "link": "https://investinglive.com/stocks/dow-jones-today-is-showing-relative-strength/"
+        },
+        {
+          "id": "1fea365700f5",
+          "titulo": "Nvidia CEO Huang: No Need to Backstop CoreWeave $NVDA $CRWV",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "16:10",
+          "link": "https://www.financialjuice.com/News/9807291/Nvidia-CEO-Huang-No-Need-to-Backstop-CoreWeave-NVDA-CRWV.aspx?xy=rss"
+        },
         {
           "id": "a504cae32748",
           "titulo": "2027: The Year The Bull Market Comes To An End",
@@ -65,6 +137,14 @@
           "data": "2026-10-15",
           "hora": "15:33",
           "link": "https://seekingalpha.com/article/4954487-bank-of-new-york-mellon-ai-driven-sell-off-overdone-upgrade?source=feed_all_articles"
+        },
+        {
+          "id": "eb15810bf511",
+          "titulo": "US stocks have continued their declines today. What next from a technical perspective?",
+          "fonte": "ForexLive",
+          "data": "2026-10-15",
+          "hora": "15:33",
+          "link": "https://investinglive.com/stocks/us-stocks-have-continued-their-declines-today-what-next-from-a-technical-perspective/"
         },
         {
           "id": "b7d25a44e922",
@@ -508,7 +588,7 @@
         }
       ],
       "criado_em": "2026-10-13T09:38",
-      "atualizado_em": "2026-10-15T16:07"
+      "atualizado_em": "2026-10-15T19:05"
     },
     {
       "titulo": "Preços no produtor dos EUA sobem 6,3% em setembro, bem acima do esperado, e as vendas a retalho crescem 0,8%",
@@ -516,8 +596,16 @@
       "resumo": "O PPI dos EUA subiu 6,3% em termos anuais em setembro (consenso 5,4%) e 1,3% no mês (consenso 0,6%); o núcleo subiu 0,7% no mês e 5% no ano. As vendas a retalho cresceram 0,8% (consenso 0,3%) e o índice Empire State saltou para 25,5, enquanto o Philly Fed desceu para 20,9 e os pedidos de subsídio de desemprego ficaram em 199 mil. Vem depois do CPI de 3,7%, com os traders a descontarem duas subidas do Fed até janeiro e o UBS a prever uma terceira em março de 2027. Wall Street abriu em queda após o PPI.",
       "impacto": "Inflação no produtor a acelerar reforça o cenário de um Fed a subir juros: dólar firme, pressão no DI longo, no BRL e nos múltiplos da B3; bancos (ITUB4/BBDC4/BBAS3/BPAC11) e domésticas (CYRE3/MRVE3) são os mais sensíveis.",
       "especulacao": "",
-      "n_noticias": 58,
+      "n_noticias": 59,
       "noticias": [
+        {
+          "id": "bf2f971e84cc",
+          "titulo": "US 30-year fixed-rate mortgage averages 7.40 pct in the October 15th week vs 7.4% prior week - Freddie Mac.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "17:01",
+          "link": "https://www.financialjuice.com/News/9807366/US-30-year-fixed-rate-mortgage-averages-740-pct-in-the-October-15th-week-vs-74-prior-week---Freddie-Mac.aspx?xy=rss"
+        },
         {
           "id": "a80c585f1702",
           "titulo": "Wall Street drops after jump in US producer inflation; John Healey says UK banks are part of ‘jewel in the crown’ – business live",
@@ -984,16 +1072,48 @@
         }
       ],
       "criado_em": "2026-10-15T16:07",
-      "atualizado_em": "2026-10-15T16:07"
+      "atualizado_em": "2026-10-15T19:05"
     },
     {
-      "titulo": "Economistas passam a prever subida do BoE a 5 de novembro e Healey garante que cumprirá as regras orçamentais",
+      "titulo": "Healey prepara imposto sobre os lucros dos bancos britânicos e economistas preveem subida do BoE a 5 de novembro",
       "sinal": "risk_off",
-      "resumo": "Numa sondagem, 54 de 63 economistas preveem que o BoE suba a taxa para 4% a 5 de novembro, depois de o PIB britânico crescer 0,1% em agosto contra uma queda esperada; o ministro das Finanças, John Healey, disse que o Reino Unido cumprirá as regras orçamentais e que a subida dos juros se deve à incerteza global. A inflação francesa de setembro foi confirmada em 3,1% e o rendimento da OAT a 5 anos subiu para 4,16% no leilão; a produção industrial da zona euro caiu 0,5% em agosto. Kazaks, do BCE, disse que as forças inflacionistas ainda são mais fortes no curto prazo.",
+      "resumo": "O Guardian noticia, e banqueiros confirmaram à BBC, que o ministro das Finanças John Healey se prepara para subir impostos sobre os bancos no orçamento; Healey disse que o Reino Unido cumprirá as regras orçamentais. Numa sondagem, 54 de 63 economistas preveem que o BoE suba a taxa para 4% a 5 de novembro, depois de o PIB britânico crescer 0,1% em agosto contra uma queda esperada. A inflação francesa de setembro foi confirmada em 3,1% e a produção industrial da zona euro caiu 0,5% em agosto; responsáveis do BCE mostram-se impacientes com Lagarde, que o Fórum Económico Mundial pode nomear presidente já em novembro.",
       "impacto": "Vários bancos centrais a apertar reduzem a liquidez global e mantêm o dólar firme, o que pesa no BRL e no DI. A indústria europeia a encolher enfraquece a procura por minério (VALE3) e aço (GGBR4/CSNA3/USIM5).",
       "especulacao": "",
-      "n_noticias": 47,
+      "n_noticias": 51,
       "noticias": [
+        {
+          "id": "1df420ce2d51",
+          "titulo": "Banks say Healey is planning Budget tax raid on their profits",
+          "fonte": "BBC Business",
+          "data": "2026-10-15",
+          "hora": "18:14",
+          "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "fc2b6c23d83b",
+          "titulo": "John Healey poised to raise taxes on banks in budget",
+          "fonte": "Guardian Business",
+          "data": "2026-10-15",
+          "hora": "17:17",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget"
+        },
+        {
+          "id": "052c880c977b",
+          "titulo": "UK Finance Minister Healey poised to raise taxes on banks in budget - The Guardian.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "17:03",
+          "link": "https://www.financialjuice.com/News/9807372/UK-Finance-Minister-Healey-poised-to-raise-taxes-on-banks-in-budget---The-Guardian.aspx?xy=rss"
+        },
+        {
+          "id": "35a4844448e0",
+          "titulo": "ECB Officials get impatient for Lagarde to clear up her plans",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "16:25",
+          "link": "https://www.financialjuice.com/News/9807308/ECB-Officials-get-impatient-for-Lagarde-to-clear-up-her-plans.aspx?xy=rss"
+        },
         {
           "id": "f768cccf5494",
           "titulo": "France Isn't The New Greece, But The Warning Signs Are Familiar",
@@ -1372,16 +1492,32 @@
         }
       ],
       "criado_em": "2026-10-15T09:35",
-      "atualizado_em": "2026-10-15T16:07"
+      "atualizado_em": "2026-10-15T19:05"
     },
     {
-      "titulo": "Houthis atacam Aden e rejeitam negociações com a Arábia Saudita, e a marinha iraniana diz que um petroleiro arde no Ormuz",
+      "titulo": "Houthis atacam Aden e um navio civil é atingido por um projétil iraniano, enquanto um petroleiro arde no Ormuz",
       "sinal": "risk_off",
-      "resumo": "Os Houthis dispararam mísseis contra o complexo do Palácio Presidencial em Aden, segundo dois responsáveis do governo iemenita, e dizem ter atingido uma sede militar saudita na cidade; a coligação saudita contabiliza 20 ataques ao aeroporto de Riade em outubro, com 17 mortos. Segundo a Tasnim, citando a AFP, o Iémen rejeitou o pedido saudita de negociações em Omã. A França começou a aplicar o acordo para proteger instalações petrolíferas sauditas e a marinha iraniana diz que um petroleiro 'infrator' está em chamas no leste do Estreito de Ormuz. A UE e o Golfo adiaram a cimeira de 24 de outubro em Riade.",
+      "resumo": "Os Houthis dispararam mísseis contra o complexo do Palácio Presidencial em Aden, segundo dois responsáveis do governo iemenita, e dizem ter atingido uma sede militar saudita na cidade; a coligação saudita contabiliza 20 ataques ao aeroporto de Riade em outubro, com 17 mortos. Segundo a Tasnim, citando a AFP, o Iémen rejeitou o pedido saudita de negociações em Omã. A França começou a aplicar o acordo para proteger instalações petrolíferas sauditas e a marinha iraniana diz que um petroleiro 'infrator' está em chamas no leste do Estreito de Ormuz. A UE e o Golfo adiaram a cimeira de 24 de outubro em Riade. Os EUA dizem que o navio civil M/V GFS Pride foi atingido por um projétil da Guarda Revolucionária e que um porta-contentores civil afundou quando era rebocado.",
       "impacto": "O prémio geopolítico no Brent sustenta PETR4/PRIO3, mas pesa no apetite por emergentes e no câmbio. Ataques à infraestrutura saudita ameaçam a única folga de oferta do mercado.",
       "especulacao": "A coligação saudita diz que os Houthis obtiveram armamento avançado; relatos anteriores, não confirmados, falam de evacuação de bases da Guarda Revolucionária por receio de um ataque dos EUA.",
-      "n_noticias": 31,
+      "n_noticias": 33,
       "noticias": [
+        {
+          "id": "070a9a57b769",
+          "titulo": "US: Civilian ship M/V GFS Pride was hit by an IRGC projectile",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "18:14",
+          "link": "https://www.financialjuice.com/News/9807451/US-Civilian-ship-MV-GFS-Pride-was-hit-by-an-IRGC-projectile.aspx?xy=rss"
+        },
+        {
+          "id": "dd32fb11d723",
+          "titulo": "US: Civilian container ship sank while being towed to shore",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "18:14",
+          "link": "https://www.financialjuice.com/News/9807450/US-Civilian-container-ship-sank-while-being-towed-to-shore.aspx?xy=rss"
+        },
         {
           "id": "9001cb1e8f51",
           "titulo": "Yemen's Houthis: The strike on 'Saudi Military operations HQ’ in Aden was part of a policy of targeting Saudi reinforcements.",
@@ -1632,16 +1768,72 @@
         }
       ],
       "criado_em": "2026-10-14T16:08",
-      "atualizado_em": "2026-10-15T16:07"
+      "atualizado_em": "2026-10-15T19:05"
     },
     {
       "titulo": "Obrigações sobem com procura de refúgio: o gilt a 30 anos tem a maior queda de rendimento desde abril e o dólar recua",
       "sinal": "neutro",
-      "resumo": "Os Treasuries sobem com investidores a fugirem para a segurança das obrigações, segundo o FT, apesar do PPI acima do esperado; o rendimento do gilt britânico a 30 anos caiu 13 pontos base para 5,781%, a maior queda diária desde abril, e o dólar recua face à maioria das moedas. O Tesouro dos EUA rejeitou o aviso do FMI sobre a dívida americana. Os bancos centrais fizeram em setembro as maiores compras mensais de ouro em quase dois anos.",
+      "resumo": "Os Treasuries sobem com investidores a procurarem refúgio na turbulência da IA, segundo o FT, apesar do PPI acima do esperado; o rendimento do gilt britânico a 30 anos caiu 13 pontos base para 5,781%, a maior queda diária desde abril, e o dólar recua face à maioria das moedas. O leilão de bilhetes a 4 semanas saiu a 4% com procura de 2,56 vezes a oferta, e as ações europeias renovaram máximos de duas semanas com rotação para setores defensivos. O Tesouro dos EUA rejeitou o aviso do FMI sobre a dívida americana. O FT destaca a dívida latino-americana como diversificação num mercado dominado pela IA.",
       "impacto": "Um recuo dos juros longos americanos alivia o DI longo e o câmbio, mas por fuga ao risco e não por apetite por emergentes; o crédito de alto risco segue tenso.",
       "especulacao": "A Bloomberg relata conversas de mercado de que a China está a encaminhar Treasuries através do Canadá; o InfoMoney nota ceticismo crescente sobre a tese de venda chinesa. Sem confirmação oficial.",
-      "n_noticias": 21,
+      "n_noticias": 28,
       "noticias": [
+        {
+          "id": "47ca8150164b",
+          "titulo": "Ações europeias renovam máximas de duas semanas com rotação para setores defensivos",
+          "fonte": "InfoMoney",
+          "data": "2026-10-15",
+          "hora": "18:40",
+          "link": "https://www.infomoney.com.br/mercados/acoes-europeias-renovam-maximas-de-duas-semanas-com-rotacao-para-setores-defensivos/"
+        },
+        {
+          "id": "77a8abc1cab9",
+          "titulo": "Treasuries rally as investors seek shelter from AI turbulence",
+          "fonte": "FT Markets",
+          "data": "2026-10-15",
+          "hora": "17:23",
+          "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1"
+        },
+        {
+          "id": "02a417483a32",
+          "titulo": "In AI-dominated markets, LatAm debt is a diversifier",
+          "fonte": "FT Markets",
+          "data": "2026-10-15",
+          "hora": "16:51",
+          "link": "https://www.ft.com/content/086b7a80-acdd-48d2-bd5c-a04bad812264"
+        },
+        {
+          "id": "d85f808e656d",
+          "titulo": "US 4-Week Bill Auction",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "16:32",
+          "link": "https://www.financialjuice.com/News/9807327/US-4-Week-Bill-Auction.aspx?xy=rss"
+        },
+        {
+          "id": "9066bf58ce69",
+          "titulo": "US 4-Week Bill High Yield Actual 4% (Forecast -, Previous 3.980%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "16:32",
+          "link": "https://www.financialjuice.com/News/9807325/US-4-Week-Bill-High-Yield-Actual-4-Forecast---Previous-3980.aspx?xy=rss"
+        },
+        {
+          "id": "8e4051ebd561",
+          "titulo": "US 4-Week Bill Bid-to-Cover Actual 2.56 (Forecast -, Previous 2.400)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "16:32",
+          "link": "https://www.financialjuice.com/News/9807326/US-4-Week-Bill-Bid-to-Cover-Actual-256-Forecast---Previous-2400.aspx?xy=rss"
+        },
+        {
+          "id": "e2d761211037",
+          "titulo": "Fed bids for 4-week bills total $7.4 bln.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "16:15",
+          "link": "https://www.financialjuice.com/News/9807292/Fed-bids-for-4-week-bills-total-74-bln.aspx?xy=rss"
+        },
         {
           "id": "4817bafb580c",
           "titulo": "US Treasury Auction Schedule",
@@ -1812,16 +2004,56 @@
         }
       ],
       "criado_em": "2026-10-15T09:35",
-      "atualizado_em": "2026-10-15T16:07"
+      "atualizado_em": "2026-10-15T19:05"
     },
     {
-      "titulo": "Escassez de diesel chega aos agricultores do RS e Trump admite suspender o imposto federal sobre o diesel",
+      "titulo": "Stocks de crude dos EUA caem 8,56 milhões de barris e a escassez de diesel chega aos agricultores do RS",
       "sinal": "risk_off",
-      "resumo": "Agricultores do Rio Grande do Sul relatam stocks de diesel no limite por causa da guerra no Médio Oriente, e Trump disse que pode apoiar a suspensão do imposto federal sobre o diesel. Drones voltaram a atingir a refinaria russa de Ryazan; a Rússia vai continuar a importar gasolina até ao fim do ano e pondera proibir a exportação de GPL. Os EUA estudam aliviar sanções à frota sombra para baixar o frete de petroleiros, em máximos.",
+      "resumo": "Os stocks de crude dos EUA caíram 8,56 milhões de barris na semana (consenso de subida de 0,15 milhões) e os de destilados 2,53 milhões, segundo a EIA; a gasolina subiu 3,52 milhões. Agricultores do Rio Grande do Sul relatam stocks de diesel no limite por causa da guerra no Médio Oriente, e Trump disse que pode apoiar a suspensão do imposto federal sobre o diesel. Drones voltaram a atingir a refinaria russa de Ryazan e a Rússia pondera proibir a exportação de GPL.",
       "impacto": "Diesel caro sustenta as margens de refino da Petrobras (PETR4) e o crude da PRIO3, mas encarece o custo do agro e da logística no Brasil e alimenta a inflação e o DI; um alívio do frete beneficia exportadores.",
       "especulacao": "",
-      "n_noticias": 17,
+      "n_noticias": 22,
       "noticias": [
+        {
+          "id": "949b6ac8ad9e",
+          "titulo": "EIA Crude Cushing Inventories  Actual 1.862M (Forecast -, Previous 0.444M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "17:01",
+          "link": "https://www.financialjuice.com/News/9807349/EIA-Crude-Cushing-Inventories--Actual-1862M-Forecast---Previous-0444M.aspx?xy=rss"
+        },
+        {
+          "id": "6af3027d323f",
+          "titulo": "US weekly EIA crude oil inventories -8557K vs -288K expected",
+          "fonte": "ForexLive",
+          "data": "2026-10-15",
+          "hora": "17:00",
+          "link": "https://investinglive.com/commodities/us-weekly-eia-crude-oil-inventories-k-vs-288k-expected/"
+        },
+        {
+          "id": "8518eb8614bb",
+          "titulo": "EIA Distillate Inventories Actual -2.527M (Forecast -1.72M, Previous -0.042M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "17:00",
+          "link": "https://www.financialjuice.com/News/9807348/EIA-Distillate-Inventories-Actual--2527M-Forecast--172M-Previous--0042M.aspx?xy=rss"
+        },
+        {
+          "id": "c7201a60fcf2",
+          "titulo": "EIA Gasoline Inventories Actual 3.518M (Forecast -0.911M, Previous 0.382M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "17:00",
+          "link": "https://www.financialjuice.com/News/9807347/EIA-Gasoline-Inventories-Actual-3518M-Forecast--0911M-Previous-0382M.aspx?xy=rss"
+        },
+        {
+          "id": "98e7df306637",
+          "titulo": "EIA Crude Oil Inventories Actual -8.557M (Forecast 0.15M, Previous -3.186M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "17:00",
+          "link": "https://www.financialjuice.com/News/9807346/EIA-Crude-Oil-Inventories-Actual--8557M-Forecast-015M-Previous--3186M.aspx?xy=rss"
+        },
         {
           "id": "ec9904b27fc7",
           "titulo": "'Estoques no limite': guerra no Oriente Médio afeta abastecimento de diesel para agricultores no RS",
@@ -1960,7 +2192,7 @@
         }
       ],
       "criado_em": "2026-10-15T09:35",
-      "atualizado_em": "2026-10-15T13:06"
+      "atualizado_em": "2026-10-15T19:05"
     },
     {
       "titulo": "TSMC reporta lucro recorde e eleva a previsão de 2026; Bank of America falha no lucro e paga multa de US$ 1,2 bilhão",
@@ -2092,7 +2324,7 @@
       "resumo": "O Senado aprovou a proposta de emenda constitucional que acaba com a escala 6x1 e garante dois dias de folga semanais, com transição de 14 meses a partir da publicação. O Ibovespa cai pela segunda sessão, com Vale, bancos e construtoras a liderarem as perdas, e o dólar sobe acima de R$ 5, com a decisão em foco ao lado da inflação americana e das pesquisas. Os setores afetados preparam pressão no Congresso pela regulamentação.",
       "impacto": "Mais custo de mão de obra para setores intensivos em turnos — varejo, frigoríficos (JBSS32/BEEF3), construção (CYRE3/MRVE3) e serviços — comprime margens e soma-se à leitura de risco fiscal e laboral que pesa no DI e no BRL.",
       "especulacao": "",
-      "n_noticias": 13,
+      "n_noticias": 11,
       "noticias": [
         {
           "id": "1e042f0544a0",
@@ -2119,28 +2351,12 @@
           "link": "https://www.infomoney.com.br/mercados/ibovespa-pesquisas-eleitorais-eua-fim-da-6x1-em-foco-o-que-faz-indice-ter-nova-queda-nesta-5a/"
         },
         {
-          "id": "9883d2ee086f",
-          "titulo": "Regra de transição e dois dias de folga: entenda como ficou a proposta que acaba com a escala 6x1",
-          "fonte": "G1 Economia",
-          "data": "2026-10-15",
-          "hora": "13:03",
-          "link": "https://g1.globo.com/politica/noticia/2026/10/15/regra-de-transicao-e-dois-dias-de-folga-entenda-como-ficou-a-proposta-que-acaba-com-a-escala-6x1.ghtml"
-        },
-        {
           "id": "fd3ec0b61c8b",
           "titulo": "Fim da escala 6x1: veja a repercussão da decisão entre empresários e trabalhadores",
           "fonte": "G1 Economia",
           "data": "2026-10-15",
           "hora": "13:03",
           "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/14/fim-da-escala-6x1-veja-a-repercussao.ghtml"
-        },
-        {
-          "id": "917d39d6297d",
-          "titulo": "Quando começa a valer o fim da escala 6x1? Entenda etapas até redução da jornada de trabalho",
-          "fonte": "G1 Economia",
-          "data": "2026-10-15",
-          "hora": "13:03",
-          "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/14/quando-comeca-a-valer-o-fim-da-escala-6x1.ghtml"
         },
         {
           "id": "007874dbc6c4",
@@ -2381,11 +2597,19 @@
     {
       "titulo": "China promete política orçamental mais ativa enquanto a UE estuda mais quotas a importações chinesas",
       "sinal": "neutro",
-      "resumo": "O ministro das Finanças chinês, Lan Fo'an, disse que a China vai aplicar uma política orçamental mais ativa e que o protecionismo e os riscos geopolíticos pesam no crescimento. A UE começou a avaliar mais setores para quotas comerciais à China. Uma trading estatal chinesa comprou mais 10 a 13 cargas de soja americana para entrega entre dezembro e março, segundo traders. A inflação no produtor chinês chegou a 5% em setembro, a mais alta em mais de quatro anos, e as exportações saltaram.",
+      "resumo": "O ministro das Finanças chinês, Lan Fo'an, disse que a China vai aplicar uma política orçamental mais ativa e que o protecionismo e os riscos geopolíticos pesam no crescimento. A UE começou a avaliar mais setores para quotas comerciais à China e planeia um instrumento que pode bloquear o acesso chinês ao mercado único. Uma trading estatal chinesa comprou mais 10 a 13 cargas de soja americana para entrega entre dezembro e março, segundo traders. A inflação no produtor chinês chegou a 5% em setembro, a mais alta em mais de quatro anos, e as exportações saltaram.",
       "impacto": "Estímulo orçamental chinês é leitura positiva para a procura de minério e aço (VALE3, GGBR4/CSNA3/USIM5); compras chinesas de soja americana disputam espaço com a exportação brasileira, e mais barreiras europeias a produtos chineses podem desviar excedentes de aço para outros mercados.",
       "especulacao": "",
-      "n_noticias": 7,
+      "n_noticias": 8,
       "noticias": [
+        {
+          "id": "e215f395442d",
+          "titulo": "EU plans a trade tool that could block China from the single market",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-15",
+          "hora": "19:01",
+          "link": "https://www.financialjuice.com/News/9807515/EU-plans-a-trade-tool-that-could-block-China-from-the-single-market.aspx?xy=rss"
+        },
         {
           "id": "452b3600c83b",
           "titulo": "EU begins assessing additional sectors for China trade quotas.",
@@ -2444,7 +2668,7 @@
         }
       ],
       "criado_em": "2026-10-15T16:07",
-      "atualizado_em": "2026-10-15T16:07"
+      "atualizado_em": "2026-10-15T19:05"
     },
     {
       "titulo": "Pesquisa Palver mostra Flávio Bolsonaro com 50% e Lula com 49% e o Datafolha divulga nova sondagem esta quinta-feira",
@@ -2452,7 +2676,7 @@
       "resumo": "O levantamento Palver dá Flávio Bolsonaro com 50% e Lula com 49% no 2.º turno, com 81% dos eleitores a dizerem que não mudariam de voto; o Datafolha divulga números esta quinta-feira. O governo enviou ao Congresso o cancelamento de R$ 12,6 bilhões em débitos de MEIs, que só valeria em 2027. O dólar opera em alta e o Ibovespa cai, com as pesquisas entre os fatores citados.",
       "impacto": "Uma disputa renhida mantém prémio de risco no DI longo e no BRL até ao 2.º turno; medidas fiscais de fim de campanha agravam a leitura fiscal e pesam nas estatais (PETR4/BBAS3), nos bancos e nas domésticas.",
       "especulacao": "Aliados de Lula dizem que a virada depende de melhorar nas pesquisas até sexta-feira; é avaliação interna da campanha.",
-      "n_noticias": 6,
+      "n_noticias": 5,
       "noticias": [
         {
           "id": "1e042f0544a0",
@@ -2469,14 +2693,6 @@
           "data": "2026-10-15",
           "hora": "15:21",
           "link": "https://www.infomoney.com.br/mercados/ibovespa-pesquisas-eleitorais-eua-fim-da-6x1-em-foco-o-que-faz-indice-ter-nova-queda-nesta-5a/"
-        },
-        {
-          "id": "6214f68056ba",
-          "titulo": "Vai sair pesquisa para presidente hoje? Veja horário do levantamento do Datafolha",
-          "fonte": "Exame",
-          "data": "2026-10-15",
-          "hora": "10:23",
-          "link": "https://exame.com/brasil/vai-sair-pesquisa-para-presidente-hoje-veja-horario-do-levantamento-do-datafolha/"
         },
         {
           "id": "d3b1aadd329c",
