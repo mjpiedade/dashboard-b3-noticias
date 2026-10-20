@@ -1,15 +1,331 @@
 {
-  "atualizado_em": "2026-10-19T15:11",
-  "total_feed": 202,
+  "atualizado_em": "2026-10-19T16:06",
+  "total_feed": 224,
   "temas": [
+    {
+      "titulo": "Tech americana recupera depois da pior semana desde abril de 2025, mas o sentimento continua em medo extremo",
+      "sinal": "neutro",
+      "resumo": "O Nasdaq perdeu mais de 4% na semana passada e o S&P 500 cerca de 2%; esta segunda o Nasdaq 100 abriu em alta com a Micron e outros fabricantes de chips a recuperar e as yields das Treasuries a 10 anos a descer, enquanto o índice Fear & Greed da CNN está em 24/100 (medo extremo). O Morgan Stanley pôs a Amazon como 'top pick' com 40% de potencial de subida, a AWS abriu os chips Trainium a todos os programadores PyTorch e a Microsoft retirou-se do maior centro de dados de IA do Reino Unido (Nscale, Essex) por falta de garantias de energia, embora diga manter a parceria.",
+      "impacto": "A correção da tech americana pesa no beta global e nos fluxos para emergentes; o alívio nas Treasuries ajuda os juros brasileiros. O Ibovespa tem pouca tech direta, mas sofre pelo canal do apetite pelo risco.",
+      "especulacao": "Estrategas da Morgan Stanley e da Seeking Alpha leem a queda como oportunidade de compra; é opinião de casa, sem confirmação de que a correção acabou.",
+      "n_noticias": 37,
+      "noticias": [
+        {
+          "id": "f707b2fcd983",
+          "titulo": "Amazon named \"top pick\" at Morgan Stanley, sees 40% upside. $AMZN",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:43",
+          "link": "https://www.financialjuice.com/News/9811546/Amazon-named-top-pick-at-Morgan-Stanley-sees-40-upside-AMZN.aspx?xy=rss"
+        },
+        {
+          "id": "b0c58060d217",
+          "titulo": "Sandisk: TSMC Just Fired A $94 Billion Warning Shot",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "15:41",
+          "link": "https://seekingalpha.com/article/4955206-sandisk-tsmc-just-fired-a-94-billion-warning-shot?source=feed_all_articles"
+        },
+        {
+          "id": "a9b3fa972cdd",
+          "titulo": "Learning From The Abrupt Drop In AI Stocks",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "15:30",
+          "link": "https://seekingalpha.com/article/4955154-learning-from-the-abrupt-drop-in-ai-stocks?source=feed_all_articles"
+        },
+        {
+          "id": "7b9b26f040fc",
+          "titulo": "Western Digital: A Value Entry Into Print",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "15:25",
+          "link": "https://seekingalpha.com/article/4955204-western-digital-a-value-entry-into-print?source=feed_all_articles"
+        },
+        {
+          "id": "4e4103d19ca7",
+          "titulo": "Nvidia: The Recent Dip In Price Makes An Appealing Entry Point Per My Valuation",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "15:20",
+          "link": "https://seekingalpha.com/article/4955203-nvidia-the-recent-dip-in-price-makes-an-appealing-entry-point-per-my-valuation?source=feed_all_articles"
+        },
+        {
+          "id": "fdaf3607ba30",
+          "titulo": "Fear & Greed Index: 24/100 - Extreme Fear",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:20",
+          "link": "https://www.financialjuice.com/News/9811525/Fear--Greed-Index-24100---Extreme-Fear.aspx?xy=rss"
+        },
+        {
+          "id": "378f2453fb36",
+          "titulo": "The Bull Market Isn't Sick Anymore",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "15:13",
+          "link": "https://seekingalpha.com/article/4955201-the-bull-market-isnt-sick-anymore?source=feed_all_articles"
+        },
+        {
+          "id": "2a4800eae989",
+          "titulo": "Nvidia: Financial Risks Behind AI Expansion",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "14:48",
+          "link": "https://seekingalpha.com/article/4955193-nvidia-financial-risks-behind-ai-expansion?source=feed_all_articles"
+        },
+        {
+          "id": "1bf5c932d27b",
+          "titulo": "AMD: More Room To Fall",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "14:45",
+          "link": "https://seekingalpha.com/article/4955111-amd-more-room-to-fall?source=feed_all_articles"
+        },
+        {
+          "id": "200d24fb47ae",
+          "titulo": "SPY: Why Rate Hikes May Shake The Market Without Ending The Bull Run",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "14:41",
+          "link": "https://seekingalpha.com/article/4955186-spy-why-rate-hikes-may-shake-the-market-without-ending-the-bull-run?source=feed_all_articles"
+        },
+        {
+          "id": "92dc21b7eb55",
+          "titulo": "The S&P Is Soaring, But Two-Thirds Of Stocks Are Stalling",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "14:38",
+          "link": "https://seekingalpha.com/article/4955185-sp-soaring-two-thirds-stocks-stalling?source=feed_all_articles"
+        },
+        {
+          "id": "a76065e5e764",
+          "titulo": "US stocks rebound after AI sell-off",
+          "fonte": "FT Markets",
+          "data": "2026-10-19",
+          "hora": "14:37",
+          "link": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1"
+        },
+        {
+          "id": "17e727444257",
+          "titulo": "MOO Imbalance",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "14:30",
+          "link": "https://www.financialjuice.com/News/9811425/MOO-Imbalance.aspx?xy=rss"
+        },
+        {
+          "id": "75c6b0a33c42",
+          "titulo": "Micron and other chip stocks spring back to life after bruising selloff",
+          "fonte": "MarketWatch",
+          "data": "2026-10-19",
+          "hora": "14:22",
+          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories"
+        },
+        {
+          "id": "406a1acc0bae",
+          "titulo": "S&P 500 Falls As Investors Shift Forward-Looking Focus Back To Q4 2026",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "14:22",
+          "link": "https://seekingalpha.com/article/4955181-sp500-falls-investors-shift-forward-looking-focus-back-q4-2026?source=feed_all_articles"
+        },
+        {
+          "id": "f384704ec18a",
+          "titulo": "A Stealth Bear Market Has Just Made U.S. Stocks A Generational Buy",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "14:14",
+          "link": "https://seekingalpha.com/article/4955178-stealth-bear-market-made-u-s-stocks-generational-buy?source=feed_all_articles"
+        },
+        {
+          "id": "8c916e2b1385",
+          "titulo": "Microsoft's Nadella: New capabilities to assess agent risk, contain threats.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "14:07",
+          "link": "https://www.financialjuice.com/News/9811399/Microsofts-Nadella-New-capabilities-to-assess-agent-risk-contain-threats.aspx?xy=rss"
+        },
+        {
+          "id": "3226c009ae57",
+          "titulo": "Microsoft's Nadella: Expanding project perception with new capabilities.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "14:07",
+          "link": "https://www.financialjuice.com/News/9811398/Microsofts-Nadella-Expanding-project-perception-with-new-capabilities.aspx?xy=rss"
+        },
+        {
+          "id": "d3df13586890",
+          "titulo": "Microsoft launches dynamic permissions for agentic AI systems.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "14:05",
+          "link": "https://www.financialjuice.com/News/9811397/Microsoft-launches-dynamic-permissions-for-agentic-AI-systems.aspx?xy=rss"
+        },
+        {
+          "id": "8a68837a78b4",
+          "titulo": "Amazon: TorchNeuron to be open-sourced at PyTorch conference on October 20",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "14:04",
+          "link": "https://www.financialjuice.com/News/9811395/Amazon-TorchNeuron-to-be-open-sourced-at-PyTorch-conference-on-October-20.aspx?xy=rss"
+        },
+        {
+          "id": "57e0b418a1e6",
+          "titulo": "Amazon: Amazon opens its AWS Trainium AI chips to all PyTorch developers.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "14:04",
+          "link": "https://www.financialjuice.com/News/9811394/Amazon-Amazon-opens-its-AWS-Trainium-AI-chips-to-all-PyTorch-developers.aspx?xy=rss"
+        },
+        {
+          "id": "ecc58b55df94",
+          "titulo": "Goldman Sachs on AI - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "14:00",
+          "link": "https://www.financialjuice.com/News/9811376/Goldman-Sachs-on-AI---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "f1a4c1995a9b",
+          "titulo": "Micron: Don't Fear Chinese Memory Competition",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "14:00",
+          "link": "https://seekingalpha.com/article/4955143-micron-dont-fear-chinese-memory-competition?source=feed_all_articles"
+        },
+        {
+          "id": "dbd59fed5738",
+          "titulo": "Euro Marked Down, China's GDP Firmer Than Expected, AI Equities Stabilize",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "13:45",
+          "link": "https://seekingalpha.com/article/4955184-euro-marked-down-china-gdp-firmer-than-expected-ai-equities-stabilize?source=feed_all_articles"
+        },
+        {
+          "id": "187bd1b2daee",
+          "titulo": "Goldman Sachs raises CoreWeave to buy from neutral. Cuts target price to $106 from $139",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "13:41",
+          "link": "https://www.financialjuice.com/News/9810730/Goldman-Sachs-raises-CoreWeave-to-buy-from-neutral-Cuts-target-price-to-106-from-139.aspx?xy=rss"
+        },
+        {
+          "id": "51a6c09a888e",
+          "titulo": "Micron: The Undisputed King Of Memory Chips",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "13:25",
+          "link": "https://seekingalpha.com/article/4955162-micron-the-undisputed-king-of-memory-chips?source=feed_all_articles"
+        },
+        {
+          "id": "b4af1e190783",
+          "titulo": "Arista Networks' Share Price Slump: To Buy Or Not To Buy",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "13:17",
+          "link": "https://seekingalpha.com/article/4955159-arista-networks-share-price-slump-to-buy-or-not-to-buy?source=feed_all_articles"
+        },
+        {
+          "id": "e084d68080ec",
+          "titulo": "Chart Of The Day: Put Spreads Back On Your Screens",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "13:05",
+          "link": "https://seekingalpha.com/article/4955166-chart-of-day-put-spreads-back-on-your-screens?source=feed_all_articles"
+        },
+        {
+          "id": "1a3b15b51aba",
+          "titulo": "Siemens, NVIDIA to advance AI-driven, autonomous factories.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "13:01",
+          "link": "https://www.financialjuice.com/News/9811298/Siemens-NVIDIA-to-advance-AI-driven-autonomous-factories.aspx?xy=rss"
+        },
+        {
+          "id": "45d5a2d4cd52",
+          "titulo": "Microsoft: Still committed to partnership with Nscale - NYT $MSFT",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "12:54",
+          "link": "https://www.financialjuice.com/News/9811271/Microsoft-Still-committed-to-partnership-with-Nscale---NYT-MSFT.aspx?xy=rss"
+        },
+        {
+          "id": "4b7a497a329c",
+          "titulo": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
+          "fonte": "MarketWatch",
+          "data": "2026-10-19",
+          "hora": "11:23",
+          "link": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories"
+        },
+        {
+          "id": "398df3b87a82",
+          "titulo": "Tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
+          "fonte": "MarketWatch",
+          "data": "2026-10-19",
+          "hora": "10:58",
+          "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories"
+        },
+        {
+          "id": "3514fdbdfe41",
+          "titulo": "US stocks set for rebound after AI sell-off",
+          "fonte": "FT Markets",
+          "data": "2026-10-19",
+          "hora": "10:16",
+          "link": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1"
+        },
+        {
+          "id": "b3617b7f4ec7",
+          "titulo": "Investors turn on data centres",
+          "fonte": "FT Markets",
+          "data": "2026-10-19",
+          "hora": "06:00",
+          "link": "https://www.ft.com/content/5970614a-b1f7-4b4e-b1e5-6038e1dde654?syn-25a6b1a6=1"
+        },
+        {
+          "id": "f33169403795",
+          "titulo": "US futures look to rebound after tech rout but the real test is still ahead",
+          "fonte": "ForexLive",
+          "data": "2026-10-19",
+          "hora": "05:58",
+          "link": "https://investinglive.com/stocks/us-futures-look-to-rebound-after-tech-rout-but-the-real-test-is-still-ahead/"
+        },
+        {
+          "id": "049e6bb155b4",
+          "titulo": "Microsoft pulls out of UK's largest AI data centre",
+          "fonte": "BBC Business",
+          "data": "2026-10-18",
+          "hora": "17:46",
+          "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "854e234d4594",
+          "titulo": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+          "fonte": "Guardian Business",
+          "data": "2026-10-18",
+          "hora": "14:05",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns"
+        }
+      ],
+      "criado_em": "2026-10-19T14:27",
+      "atualizado_em": "2026-10-19T16:06"
+    },
     {
       "titulo": "Diplomacia em torno do Irão acelera: Lavrov em Teerão e Qatar reúne-se com o ministro do Petróleo iraniano",
       "sinal": "neutro",
-      "resumo": "O chefe da diplomacia russa, Lavrov, reuniu-se em Teerão com Araghchi e informou-o das negociações com os países árabes; o ministro da Energia do Qatar recebeu em Doha o ministro interino do Petróleo do Irão, e o primeiro-ministro chinês apelou ao regresso rápido ao diálogo. A Arábia Saudita emitiu e depois levantou um alerta de defesa civil em Najran. Já esta tarde, Araghchi disse que Teerão acolhe qualquer ideia que garanta a segurança regional sem forças estrangeiras e responsabilizou os EUA pela insegurança no Ormuz; Lavrov afirmou que a Rússia mantém os acordos de investimento e nucleares com o Irão e não tem interesse na volatilidade dos preços da energia.",
+      "resumo": "O chefe da diplomacia russa, Lavrov, reuniu-se em Teerão com Araghchi e informou-o das negociações com os países árabes; o ministro da Energia do Qatar recebeu em Doha o ministro interino do Petróleo do Irão, e o primeiro-ministro chinês apelou ao regresso rápido ao diálogo. A Arábia Saudita emitiu e depois levantou um alerta de defesa civil em Najran. Já esta tarde, Araghchi disse que Teerão acolhe qualquer ideia que garanta a segurança regional sem forças estrangeiras e responsabilizou os EUA pela insegurança no Ormuz; Lavrov afirmou que a Rússia mantém os acordos de investimento e nucleares com o Irão e não tem interesse na volatilidade dos preços da energia. A Arábia Saudita adiou o evento presencial \"Davos do Deserto\" depois de ataques dos Houthis (FT).",
       "impacto": "Um acordo EUA–Irão que reabrisse o Ormuz seria o maior fator de descida do Brent: negativo para PETR4/PRIO3, positivo para o resto do Ibovespa via inflação, juros e câmbio. Sem acordo confirmado, o prémio de risco mantém-se.",
       "especulacao": "A Al-Arabiya relata, sem confirmação oficial de Washington ou Teerão, que um avanço nas negociações EUA–Irão deverá ser anunciado esta semana, antes das intercalares americanas de 3/11. A Fars relata, citando fontes árabes não identificadas, sirenes e uma explosão em Riade; não há confirmação saudita.",
-      "n_noticias": 26,
+      "n_noticias": 27,
       "noticias": [
+        {
+          "id": "319619d4cadb",
+          "titulo": "Saudi Arabia to postpone in-person 'Davos in the Desert’ event after Houthi attacks - FT",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:26",
+          "link": "https://www.financialjuice.com/News/9811526/Saudi-Arabia-to-postpone-in-person-Davos-in-the-Desert-event-after-Houthi-attacks---FT.aspx?xy=rss"
+        },
         {
           "id": "2af3e9959971",
           "titulo": "Arab sources report that the alarm sirens were activated and the sound of an explosion was heard in Riyadh, the capital of Saudi Arabia - Fars News",
@@ -220,219 +536,15 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-19T15:11"
-    },
-    {
-      "titulo": "Nasdaq recupera na abertura depois da pior semana desde abril de 2025, com os chips à frente",
-      "sinal": "neutro",
-      "resumo": "O Nasdaq perdeu mais de 4% na semana passada e o S&P 500 cerca de 2%, a pior semana desde junho; esta segunda os futuros abriram com o Nasdaq a subir 1,4% e o S&P 500 0,8%, e o Nasdaq 100 subiu na abertura com a Micron e outros fabricantes de chips a recuperar, com as yields das Treasuries a 10 anos a descer. O Goldman nota que o par 'vencedores da IA' contra 'em risco com a IA', que chegou a ganhar quase 100% entre janeiro e junho, está agora estável no ano; a Microsoft retirou-se do maior centro de dados de IA do Reino Unido (Nscale, Essex) por falta de garantias de energia.",
-      "impacto": "A correção da tech americana pesa no beta global e nos fluxos para emergentes; o alívio nas Treasuries ajuda os juros brasileiros. O Ibovespa tem pouca tech direta, mas sofre pelo canal do apetite pelo risco.",
-      "especulacao": "Estrategas da Morgan Stanley e da Seeking Alpha leem a queda como oportunidade de compra; é opinião de casa, sem confirmação de que a correção acabou.",
-      "n_noticias": 24,
-      "noticias": [
-        {
-          "id": "2a4800eae989",
-          "titulo": "Nvidia: Financial Risks Behind AI Expansion",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "14:48",
-          "link": "https://seekingalpha.com/article/4955193-nvidia-financial-risks-behind-ai-expansion?source=feed_all_articles"
-        },
-        {
-          "id": "1bf5c932d27b",
-          "titulo": "AMD: More Room To Fall",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "14:45",
-          "link": "https://seekingalpha.com/article/4955111-amd-more-room-to-fall?source=feed_all_articles"
-        },
-        {
-          "id": "200d24fb47ae",
-          "titulo": "SPY: Why Rate Hikes May Shake The Market Without Ending The Bull Run",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "14:41",
-          "link": "https://seekingalpha.com/article/4955186-spy-why-rate-hikes-may-shake-the-market-without-ending-the-bull-run?source=feed_all_articles"
-        },
-        {
-          "id": "92dc21b7eb55",
-          "titulo": "The S&P Is Soaring, But Two-Thirds Of Stocks Are Stalling",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "14:38",
-          "link": "https://seekingalpha.com/article/4955185-sp-soaring-two-thirds-stocks-stalling?source=feed_all_articles"
-        },
-        {
-          "id": "a76065e5e764",
-          "titulo": "US stocks rebound after AI sell-off",
-          "fonte": "FT Markets",
-          "data": "2026-10-19",
-          "hora": "14:37",
-          "link": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1"
-        },
-        {
-          "id": "17e727444257",
-          "titulo": "MOO Imbalance",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "14:30",
-          "link": "https://www.financialjuice.com/News/9811425/MOO-Imbalance.aspx?xy=rss"
-        },
-        {
-          "id": "75c6b0a33c42",
-          "titulo": "Micron and other chip stocks spring back to life after bruising selloff",
-          "fonte": "MarketWatch",
-          "data": "2026-10-19",
-          "hora": "14:22",
-          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories"
-        },
-        {
-          "id": "406a1acc0bae",
-          "titulo": "S&P 500 Falls As Investors Shift Forward-Looking Focus Back To Q4 2026",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "14:22",
-          "link": "https://seekingalpha.com/article/4955181-sp500-falls-investors-shift-forward-looking-focus-back-q4-2026?source=feed_all_articles"
-        },
-        {
-          "id": "f384704ec18a",
-          "titulo": "A Stealth Bear Market Has Just Made U.S. Stocks A Generational Buy",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "14:14",
-          "link": "https://seekingalpha.com/article/4955178-stealth-bear-market-made-u-s-stocks-generational-buy?source=feed_all_articles"
-        },
-        {
-          "id": "ecc58b55df94",
-          "titulo": "Goldman Sachs on AI - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "14:00",
-          "link": "https://www.financialjuice.com/News/9811376/Goldman-Sachs-on-AI---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "f1a4c1995a9b",
-          "titulo": "Micron: Don't Fear Chinese Memory Competition",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "14:00",
-          "link": "https://seekingalpha.com/article/4955143-micron-dont-fear-chinese-memory-competition?source=feed_all_articles"
-        },
-        {
-          "id": "dbd59fed5738",
-          "titulo": "Euro Marked Down, China's GDP Firmer Than Expected, AI Equities Stabilize",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "13:45",
-          "link": "https://seekingalpha.com/article/4955184-euro-marked-down-china-gdp-firmer-than-expected-ai-equities-stabilize?source=feed_all_articles"
-        },
-        {
-          "id": "187bd1b2daee",
-          "titulo": "Goldman Sachs raises CoreWeave to buy from neutral. Cuts target price to $106 from $139",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "13:41",
-          "link": "https://www.financialjuice.com/News/9810730/Goldman-Sachs-raises-CoreWeave-to-buy-from-neutral-Cuts-target-price-to-106-from-139.aspx?xy=rss"
-        },
-        {
-          "id": "51a6c09a888e",
-          "titulo": "Micron: The Undisputed King Of Memory Chips",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "13:25",
-          "link": "https://seekingalpha.com/article/4955162-micron-the-undisputed-king-of-memory-chips?source=feed_all_articles"
-        },
-        {
-          "id": "b4af1e190783",
-          "titulo": "Arista Networks' Share Price Slump: To Buy Or Not To Buy",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "13:17",
-          "link": "https://seekingalpha.com/article/4955159-arista-networks-share-price-slump-to-buy-or-not-to-buy?source=feed_all_articles"
-        },
-        {
-          "id": "e084d68080ec",
-          "titulo": "Chart Of The Day: Put Spreads Back On Your Screens",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "13:05",
-          "link": "https://seekingalpha.com/article/4955166-chart-of-day-put-spreads-back-on-your-screens?source=feed_all_articles"
-        },
-        {
-          "id": "45d5a2d4cd52",
-          "titulo": "Microsoft: Still committed to partnership with Nscale - NYT $MSFT",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "12:54",
-          "link": "https://www.financialjuice.com/News/9811271/Microsoft-Still-committed-to-partnership-with-Nscale---NYT-MSFT.aspx?xy=rss"
-        },
-        {
-          "id": "4b7a497a329c",
-          "titulo": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
-          "fonte": "MarketWatch",
-          "data": "2026-10-19",
-          "hora": "11:23",
-          "link": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories"
-        },
-        {
-          "id": "398df3b87a82",
-          "titulo": "Tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
-          "fonte": "MarketWatch",
-          "data": "2026-10-19",
-          "hora": "10:58",
-          "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories"
-        },
-        {
-          "id": "3514fdbdfe41",
-          "titulo": "US stocks set for rebound after AI sell-off",
-          "fonte": "FT Markets",
-          "data": "2026-10-19",
-          "hora": "10:16",
-          "link": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1"
-        },
-        {
-          "id": "b3617b7f4ec7",
-          "titulo": "Investors turn on data centres",
-          "fonte": "FT Markets",
-          "data": "2026-10-19",
-          "hora": "06:00",
-          "link": "https://www.ft.com/content/5970614a-b1f7-4b4e-b1e5-6038e1dde654?syn-25a6b1a6=1"
-        },
-        {
-          "id": "f33169403795",
-          "titulo": "US futures look to rebound after tech rout but the real test is still ahead",
-          "fonte": "ForexLive",
-          "data": "2026-10-19",
-          "hora": "05:58",
-          "link": "https://investinglive.com/stocks/us-futures-look-to-rebound-after-tech-rout-but-the-real-test-is-still-ahead/"
-        },
-        {
-          "id": "049e6bb155b4",
-          "titulo": "Microsoft pulls out of UK's largest AI data centre",
-          "fonte": "BBC Business",
-          "data": "2026-10-18",
-          "hora": "17:46",
-          "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "854e234d4594",
-          "titulo": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
-          "fonte": "Guardian Business",
-          "data": "2026-10-18",
-          "hora": "14:05",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns"
-        }
-      ],
-      "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-19T15:11"
+      "atualizado_em": "2026-10-19T16:06"
     },
     {
       "titulo": "Inflação do Canadá abaixo do esperado e confiança dos construtores americanos no mínimo desde 2012",
       "sinal": "neutro",
-      "resumo": "O CPI canadiano subiu 3,1% homólogo em setembro, abaixo dos 3,2% esperados, e o núcleo do BoC abrandou para 2,2%; a probabilidade de uma subida em outubro caiu de 74% para 68% nos swaps. Nos EUA, o índice NAHB dos construtores caiu para 29 em outubro (previsão 31), o mínimo desde 2012, com 4 em cada 10 construtores a cortar preços. Hassett, da Casa Branca, disse que a inflação parece precisar de mais trabalho e a taxa efetiva dos Fed funds está em 3,88%; o Reino Unido publica inflação na quarta.",
+      "resumo": "O CPI canadiano subiu 3,1% homólogo em setembro, abaixo dos 3,2% esperados, e o núcleo do BoC abrandou para 2,2%; a probabilidade de uma subida em outubro caiu de 74% para 68% nos swaps. Nos EUA, o índice NAHB dos construtores caiu para 29 em outubro (previsão 31), o mínimo desde 2012, com 4 em cada 10 construtores a cortar preços. Hassett, da Casa Branca, disse que a inflação parece precisar de mais trabalho, mas que as pessoas estão 'eufóricas' com a economia; a SOFR fixou em 3,88% a 16/10 e o Reino Unido publica inflação na quarta.",
       "impacto": "Dados de atividade mais fracos nos EUA e inflação mais branda no Canadá aliviam a pressão de subida de juros globais e as Treasuries, o que ajuda a curva brasileira; o lado negativo é o sinal de abrandamento da procura americana.",
       "especulacao": "",
-      "n_noticias": 19,
+      "n_noticias": 22,
       "noticias": [
         {
           "id": "343ad4f31ee0",
@@ -467,12 +579,12 @@
           "link": "https://seekingalpha.com/article/4955197-gdp-nowcasts-point-faster-growth-inflation-risks-mount?source=feed_all_articles"
         },
         {
-          "id": "1ac605f0e93d",
-          "titulo": "Meet the home buyers totally unfazed by 7% mortgage rates",
-          "fonte": "MarketWatch",
+          "id": "9bfae11c5c9f",
+          "titulo": "USDCAD bounces after softer CPI data but they have work to do.",
+          "fonte": "ForexLive",
           "data": "2026-10-19",
-          "hora": "14:33",
-          "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories"
+          "hora": "14:29",
+          "link": "https://investinglive.com/technical-analysis/usdcad-bounces-after-softer-cpi-data-but-they-have-work-to-do/"
         },
         {
           "id": "26d51ce1e2c7",
@@ -489,6 +601,22 @@
           "data": "2026-10-19",
           "hora": "13:59",
           "link": "https://www.financialjuice.com/News/9811375/Effective-Fed-Funds-Rate-388-October-16-vs-388-October-15.aspx?xy=rss"
+        },
+        {
+          "id": "f8dac215be89",
+          "titulo": "WH Sr. Adviser Hassett: People are 'euphoric' about how great economy is.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "13:42",
+          "link": "https://www.financialjuice.com/News/9811349/WH-Sr-Adviser-Hassett-People-are-euphoric-about-how-great-economy-is.aspx?xy=rss"
+        },
+        {
+          "id": "4680940b7065",
+          "titulo": "WH Sr. Adviser Hassett: Discretionary travel is a sign people are feeling good",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "13:39",
+          "link": "https://www.financialjuice.com/News/9811348/WH-Sr-Adviser-Hassett-Discretionary-travel-is-a-sign-people-are-feeling-good.aspx?xy=rss"
         },
         {
           "id": "7a7257685f7d",
@@ -579,6 +707,14 @@
           "link": "https://investinglive.com/news/canada-september-cpi-3-1-y-y-vs-3-2-expected/"
         },
         {
+          "id": "0c193defa0c0",
+          "titulo": "Secured Overnight Financing Rate 3.88% October 16 vs 3.89% October 15",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "12:59",
+          "link": "https://www.financialjuice.com/News/9811272/Secured-Overnight-Financing-Rate-388-October-16-vs-389-October-15.aspx?xy=rss"
+        },
+        {
           "id": "b063a0281af3",
           "titulo": "Economic data spotlight: UK inflation set to climb as BOE rate hike and autumn budget collide",
           "fonte": "ForexLive",
@@ -588,7 +724,7 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-19T15:11"
+      "atualizado_em": "2026-10-19T16:06"
     },
     {
       "titulo": "China cresce 4,5% no 3T acima do esperado e o PBOC anuncia novas ferramentas de liquidez",
@@ -739,12 +875,144 @@
       "atualizado_em": "2026-10-19T15:11"
     },
     {
+      "titulo": "Protestos violentos em França e Itália derrubam bolsas europeias e o euro",
+      "sinal": "risk_off",
+      "resumo": "Os protestos de rua em França e Itália provocaram vendas de ações e obrigações e puxaram o euro para baixo; o EUR/USD chegou a cair abaixo de 1,120. O primeiro-ministro francês disse que declarará estado de emergência se for necessário e abriu a partir de terça o lay-off para empresas afetadas, com o voto do orçamento francês em foco. Uma sondagem Cluster 17 dá Le Pen a vencer a 1.ª volta de uma presidencial francesa, com Philippe e Mélenchon empatados em 2.º.",
+      "impacto": "Stress de dívida soberana europeia aumenta a aversão ao risco e reforça o dólar, o que pesa sobre o real e os emergentes; o efeito na carteira é indireto, via câmbio e fluxo estrangeiro.",
+      "especulacao": "",
+      "n_noticias": 15,
+      "noticias": [
+        {
+          "id": "2c345658d539",
+          "titulo": "Le Pen would win first round of French election - Cluster 17 poll",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:37",
+          "link": "https://www.financialjuice.com/News/9811544/Le-Pen-would-win-first-round-of-French-election---Cluster-17-poll.aspx?xy=rss"
+        },
+        {
+          "id": "4c6b9b1205a8",
+          "titulo": "Philippe and Melenchon would tie for 2nd place in French vote - Cluster 17 Poll",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:37",
+          "link": "https://www.financialjuice.com/News/9811545/Philippe-and-Melenchon-would-tie-for-2nd-place-in-French-vote---Cluster-17-Poll.aspx?xy=rss"
+        },
+        {
+          "id": "d9712540a1a1",
+          "titulo": "France and the U.S. share the same debt trap. Why the U.S. has an escape valve.",
+          "fonte": "MarketWatch",
+          "data": "2026-10-19",
+          "hora": "14:19",
+          "link": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories"
+        },
+        {
+          "id": "0db7275e063f",
+          "titulo": "Violent street protests in France and Italy trigger stock and bond sell-off and send euro lower – business live",
+          "fonte": "Guardian Business",
+          "data": "2026-10-19",
+          "hora": "14:13",
+          "link": "https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates"
+        },
+        {
+          "id": "a362c2ad92c4",
+          "titulo": "Deutsche Bank's View on EUR - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "13:56",
+          "link": "https://www.financialjuice.com/News/9811374/Deutsche-Banks-View-on-EUR---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "a3863ee35797",
+          "titulo": "investingLive European session wrap: French unrest weighs on the euro as Wall Street looks to bounce back",
+          "fonte": "ForexLive",
+          "data": "2026-10-19",
+          "hora": "12:17",
+          "link": "https://investinglive.com/news/investinglive-european-session-wrap-french-unrest-weighs-on-the-euro-as-wall-street-looks-to-bounce-back/"
+        },
+        {
+          "id": "5857d1fb3bad",
+          "titulo": "EUR/USD seems to be forming a bottom as growth concerns and France budget vote come into focus",
+          "fonte": "ForexLive",
+          "data": "2026-10-19",
+          "hora": "11:56",
+          "link": "https://investinglive.com/forex/eur-usd-seems-to-be-forming-a-bottom-as-growth-concerns-and-france-budget-vote-come-into-focus/"
+        },
+        {
+          "id": "e4eaae847e25",
+          "titulo": "French PM: If declaring a state of emergency is deemed necessary, we would do so",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "11:50",
+          "link": "https://www.financialjuice.com/News/9811203/French-PM-If-declaring-a-state-of-emergency-is-deemed-necessary-we-would-do-so.aspx?xy=rss"
+        },
+        {
+          "id": "c8a933c55496",
+          "titulo": "French PM: Furlough measures open from Tuesday onwards for businesses impacted by the protests.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "11:36",
+          "link": "https://www.financialjuice.com/News/9811195/French-PM-Furlough-measures-open-from-Tuesday-onwards-for-businesses-impacted-by-the-protests.aspx?xy=rss"
+        },
+        {
+          "id": "edb000f889cf",
+          "titulo": "ING: The EUR - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "09:42",
+          "link": "https://www.financialjuice.com/News/9811064/ING-The-EUR---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "7deee7e26952",
+          "titulo": "Chart of the day: France's bond market is flashing another warning for EUR/USD",
+          "fonte": "ForexLive",
+          "data": "2026-10-19",
+          "hora": "09:40",
+          "link": "https://investinglive.com/technical-analysis/chart-of-the-day-france-s-bond-market-is-flashing-another-warning-for-eur-usd/"
+        },
+        {
+          "id": "3cf076a81327",
+          "titulo": "Protestos na França derrubam bolsas europeias e pressionam o euro; entenda",
+          "fonte": "Exame",
+          "data": "2026-10-19",
+          "hora": "09:34",
+          "link": "https://exame.com/invest/mercados/protestos-na-franca-derrubam-bolsas-europeias-e-pressionam-o-euro-entenda/"
+        },
+        {
+          "id": "4872eab09041",
+          "titulo": "Europe Sentiment: Stoxx Drop and Euro Weakens As Turmoil Takes France - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "09:25",
+          "link": "https://www.financialjuice.com/News/9811035/Europe-Sentiment-Stoxx-Drop-and-Euro-Weakens-As-Turmoil-Takes-France---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "5bcbe2b16fc1",
+          "titulo": "France hit by debt sell-off as protests unnerve investors",
+          "fonte": "Guardian Business",
+          "data": "2026-10-19",
+          "hora": "08:32",
+          "link": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors"
+        },
+        {
+          "id": "cba9dacca0cb",
+          "titulo": "European stock market open: French unrest weighs on stocks to start the new week",
+          "fonte": "ForexLive",
+          "data": "2026-10-19",
+          "hora": "08:28",
+          "link": "https://investinglive.com/stocks/european-stock-market-open-french-unrest-weighs-on-stocks-to-start-the-new-week/"
+        }
+      ],
+      "criado_em": "2026-10-19T14:27",
+      "atualizado_em": "2026-10-19T16:06"
+    },
+    {
       "titulo": "Petróleo recua depois de Trump suspender sanções à Rússia, mas oferta do Golfo continua 5 a 7 milhões de barris/dia abaixo do pré-guerra",
       "sinal": "neutro",
       "resumo": "Trump suspendeu várias sanções e tarifas sobre a Rússia para conter a escassez de combustível, e o crude abriu a semana em queda; Rubio disse que Trump terá até 60 dias para reavaliar a suspensão. Em sentido contrário, a Ucrânia lançou um ataque de drones a infraestrutura energética em torno de São Petersburgo, incluindo um terminal de exportação, e o economista-chefe da Trafigura estima os fluxos de crude do Médio Oriente 5 a 7 milhões de barris/dia abaixo do pré-guerra (derivados: menos 4 milhões). No Reino Unido, os profit warnings subiram a 65 no 3.º trimestre, o máximo em dois anos, atribuídos aos custos da guerra.",
       "impacto": "Petróleo mais baixo alivia a inflação e o câmbio (dólar abriu em queda no Brasil) mas tira suporte de curto prazo a PETR4 e PRIO3; com a oferta do Golfo ainda cortada, o prémio de risco no Brent não desaparece.",
       "especulacao": "Analistas da ForexLive consideram que a suspensão das sanções dificilmente chega para baixar o petróleo de forma duradoura sem desescalada no Médio Oriente.",
-      "n_noticias": 14,
+      "n_noticias": 13,
       "noticias": [
         {
           "id": "31ab0d5d56b7",
@@ -849,135 +1117,143 @@
           "data": "2026-10-19",
           "hora": "06:00",
           "link": "https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs"
-        },
-        {
-          "id": "8ec4db0aca0d",
-          "titulo": "Heating oil customers face tough winter",
-          "fonte": "BBC Business",
-          "data": "2026-10-18",
-          "hora": "07:07",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "criado_em": "2026-10-19T14:27",
       "atualizado_em": "2026-10-19T15:11"
     },
     {
-      "titulo": "Protestos violentos em França e Itália derrubam bolsas europeias e o euro",
-      "sinal": "risk_off",
-      "resumo": "Os protestos de rua em França e Itália provocaram vendas de ações e obrigações e puxaram o euro para baixo; o EUR/USD chegou a cair abaixo de 1,120. O primeiro-ministro francês disse que declarará estado de emergência se for necessário e abriu a partir de terça o lay-off para empresas afetadas, com o voto do orçamento francês em foco.",
-      "impacto": "Stress de dívida soberana europeia aumenta a aversão ao risco e reforça o dólar, o que pesa sobre o real e os emergentes; o efeito na carteira é indireto, via câmbio e fluxo estrangeiro.",
+      "titulo": "Risco político em Washington: Pentágono ameaça os laboratórios de IA e ações de defesa caem com apostas numa vitória democrata",
+      "sinal": "neutro",
+      "resumo": "Emil Michael, do Pentágono, prometeu controlos de exportação se os laboratórios de IA não cooperarem com o governo; a administração Trump está a retirar a chinesa DeepSeek dos sistemas das agências civis e sancionou 5 entidades ligadas a Ding, cidadão chinês acusado de roubo de segredos comerciais. As ações americanas de defesa caíram com investidores a apostar numa vitória democrata nas intercalares de 3/11, que põe em risco o aumento de US$ 500 bilhões no orçamento militar (FT), e o UBS vê um Congresso mais democrata como cenário mais provável, com efeitos que podem chegar à composição do Fed. A Anthropic comprometeu 5% das ações, cerca de US$ 48 bilhões, com um fundo para o 'bem público'.",
+      "impacto": "Mais intervenção do Estado na IA e um possível Congresso dividido acrescentam incerteza regulatória e orçamental ao mercado americano; para a B3 o canal é indireto, via apetite global pelo risco, dólar e, se o Fed mudar de composição, a trajetória dos juros americanos.",
       "especulacao": "",
       "n_noticias": 12,
       "noticias": [
         {
-          "id": "d9712540a1a1",
-          "titulo": "France and the U.S. share the same debt trap. Why the U.S. has an escape valve.",
-          "fonte": "MarketWatch",
+          "id": "83437a6481d8",
+          "titulo": "WATCH LIVE: Trump to sign an executive order 11 AM ET",
+          "fonte": "FinancialJuice",
           "data": "2026-10-19",
-          "hora": "14:19",
-          "link": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories"
+          "hora": "15:50",
+          "link": "https://www.financialjuice.com/News/9811563/WATCH-LIVE-Trump-to-sign-an-executive-order-11-AM-ET.aspx?xy=rss"
         },
         {
-          "id": "0db7275e063f",
-          "titulo": "Violent street protests in France and Italy trigger stock and bond sell-off and send euro lower – business live",
-          "fonte": "Guardian Business",
+          "id": "72aade3f3d33",
+          "titulo": "Eleições legislativas dos EUA podem ter um risco subestimado pelo mercado, aponta UBS",
+          "fonte": "InfoMoney",
+          "data": "2026-10-19",
+          "hora": "15:48",
+          "link": "https://www.infomoney.com.br/mercados/eleicoes-legislativas-dos-eua-podem-ter-um-risco-subestimado-pelo-mercado-aponta-ubs/"
+        },
+        {
+          "id": "961cad25ce5e",
+          "titulo": "US cites alleged trade-secret theft by Chinese national Ding.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:35",
+          "link": "https://www.financialjuice.com/News/9811543/US-cites-alleged-trade-secret-theft-by-Chinese-national-Ding.aspx?xy=rss"
+        },
+        {
+          "id": "57fae16e57b1",
+          "titulo": "US: Sanctioned 5 entities connected to China's Ding.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:34",
+          "link": "https://www.financialjuice.com/News/9811542/US-Sanctioned-5-entities-connected-to-Chinas-Ding.aspx?xy=rss"
+        },
+        {
+          "id": "86c8bea90764",
+          "titulo": "Anthropic readies model that reads users' intentions better - The Information",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:02",
+          "link": "https://www.financialjuice.com/News/9811504/Anthropic-readies-model-that-reads-users-intentions-better---The-Information.aspx?xy=rss"
+        },
+        {
+          "id": "7685abc2932e",
+          "titulo": "Trump administration removing Chinese AI DeepSeek from civilian government agency IT systems, barring purchase of DeepSeek-related products by government agencies - Notice",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "14:14",
+          "link": "https://www.financialjuice.com/News/9811404/Trump-administration-removing-Chinese-AI-DeepSeek-from-civilian-government-agency-IT-systems-barring-purchase-of-DeepSeek-related-products-by-government-agencies---Notice.aspx?xy=rss"
+        },
+        {
+          "id": "87d306b577a2",
+          "titulo": "Pentagon's Michael: We are seeking AI framework on incident response.",
+          "fonte": "FinancialJuice",
           "data": "2026-10-19",
           "hora": "14:13",
-          "link": "https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates"
+          "link": "https://www.financialjuice.com/News/9811403/Pentagons-Michael-We-are-seeking-AI-framework-on-incident-response.aspx?xy=rss"
         },
         {
-          "id": "a362c2ad92c4",
-          "titulo": "Deutsche Bank's View on EUR - FJElite",
+          "id": "7b4bdb61b8f3",
+          "titulo": "Pentagon's Michael: Current laws are more than sufficient for AI regulation",
           "fonte": "FinancialJuice",
           "data": "2026-10-19",
-          "hora": "13:56",
-          "link": "https://www.financialjuice.com/News/9811374/Deutsche-Banks-View-on-EUR---FJElite.aspx?xy=rss"
+          "hora": "14:09",
+          "link": "https://www.financialjuice.com/News/9811400/Pentagons-Michael-Current-laws-are-more-than-sufficient-for-AI-regulation.aspx?xy=rss"
         },
         {
-          "id": "a3863ee35797",
-          "titulo": "investingLive European session wrap: French unrest weighs on the euro as Wall Street looks to bounce back",
-          "fonte": "ForexLive",
+          "id": "6c49fa7089a9",
+          "titulo": "US defence stocks tumble as investors bet on Democratic election sweep",
+          "fonte": "FT Markets",
           "data": "2026-10-19",
-          "hora": "12:17",
-          "link": "https://investinglive.com/news/investinglive-european-session-wrap-french-unrest-weighs-on-the-euro-as-wall-street-looks-to-bounce-back/"
+          "hora": "14:04",
+          "link": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1"
         },
         {
-          "id": "5857d1fb3bad",
-          "titulo": "EUR/USD seems to be forming a bottom as growth concerns and France budget vote come into focus",
-          "fonte": "ForexLive",
-          "data": "2026-10-19",
-          "hora": "11:56",
-          "link": "https://investinglive.com/forex/eur-usd-seems-to-be-forming-a-bottom-as-growth-concerns-and-france-budget-vote-come-into-focus/"
-        },
-        {
-          "id": "e4eaae847e25",
-          "titulo": "French PM: If declaring a state of emergency is deemed necessary, we would do so",
+          "id": "6bd9938a6365",
+          "titulo": "Pentagon's Emil Michael vows export controls if AI labs don't cooperate with government - The Information.",
           "fonte": "FinancialJuice",
           "data": "2026-10-19",
-          "hora": "11:50",
-          "link": "https://www.financialjuice.com/News/9811203/French-PM-If-declaring-a-state-of-emergency-is-deemed-necessary-we-would-do-so.aspx?xy=rss"
+          "hora": "14:03",
+          "link": "https://www.financialjuice.com/News/9811393/Pentagons-Emil-Michael-vows-export-controls-if-AI-labs-dont-cooperate-with-government---The-Information.aspx?xy=rss"
         },
         {
-          "id": "c8a933c55496",
-          "titulo": "French PM: Furlough measures open from Tuesday onwards for businesses impacted by the protests.",
-          "fonte": "FinancialJuice",
+          "id": "112f7966c2f6",
+          "titulo": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
+          "fonte": "Guardian Business",
           "data": "2026-10-19",
-          "hora": "11:36",
-          "link": "https://www.financialjuice.com/News/9811195/French-PM-Furlough-measures-open-from-Tuesday-onwards-for-businesses-impacted-by-the-protests.aspx?xy=rss"
+          "hora": "13:51",
+          "link": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good"
         },
         {
-          "id": "edb000f889cf",
-          "titulo": "ING: The EUR - FJElite",
-          "fonte": "FinancialJuice",
+          "id": "ecb694a5354d",
+          "titulo": "Musk and Anthropic pledge public share giveaways",
+          "fonte": "BBC Business",
           "data": "2026-10-19",
-          "hora": "09:42",
-          "link": "https://www.financialjuice.com/News/9811064/ING-The-EUR---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "7deee7e26952",
-          "titulo": "Chart of the day: France's bond market is flashing another warning for EUR/USD",
-          "fonte": "ForexLive",
-          "data": "2026-10-19",
-          "hora": "09:40",
-          "link": "https://investinglive.com/technical-analysis/chart-of-the-day-france-s-bond-market-is-flashing-another-warning-for-eur-usd/"
-        },
-        {
-          "id": "3cf076a81327",
-          "titulo": "Protestos na França derrubam bolsas europeias e pressionam o euro; entenda",
-          "fonte": "Exame",
-          "data": "2026-10-19",
-          "hora": "09:34",
-          "link": "https://exame.com/invest/mercados/protestos-na-franca-derrubam-bolsas-europeias-e-pressionam-o-euro-entenda/"
-        },
-        {
-          "id": "4872eab09041",
-          "titulo": "Europe Sentiment: Stoxx Drop and Euro Weakens As Turmoil Takes France - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "09:25",
-          "link": "https://www.financialjuice.com/News/9811035/Europe-Sentiment-Stoxx-Drop-and-Euro-Weakens-As-Turmoil-Takes-France---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "cba9dacca0cb",
-          "titulo": "European stock market open: French unrest weighs on stocks to start the new week",
-          "fonte": "ForexLive",
-          "data": "2026-10-19",
-          "hora": "08:28",
-          "link": "https://investinglive.com/stocks/european-stock-market-open-french-unrest-weighs-on-stocks-to-start-the-new-week/"
+          "hora": "10:38",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-19T14:27"
+      "atualizado_em": "2026-10-19T16:06"
     },
     {
-      "titulo": "Ibovespa sobe e dólar e juros futuros recuam depois do debate; Focus corta o PIB de 2026 para 1,83%",
-      "sinal": "risk_on",
-      "resumo": "O Ibovespa sobe e o dólar recua, com Magazine Luiza, MRV, Cogna e Azzas a liderar os ganhos e a Petrobras a limitar o índice; o DI de janeiro de 2028 estava em 12,9% às 10h07, 2 pontos-base abaixo do ajuste anterior, e as taxas prefixadas do Tesouro chegaram a recuar 9 pontos-base, apesar de um IGP-10 acima do esperado. O Boletim Focus baixou a projeção do PIB de 2026 para 1,83%, manteve a inflação em 5,22% e a Selic em 13,25%, e reduziu o dólar esperado para R$ 5,13.",
-      "impacto": "Curva a fechar e real mais forte favorecem os setores sensíveis a juros da carteira (MRVE3 entre as maiores altas, CYRE3, AMER3, bancos); PETR4 a cair com o petróleo trava o índice, e o PIB revisto em baixa é um travão para os cíclicos domésticos.",
-      "especulacao": "",
-      "n_noticias": 9,
+      "titulo": "Ibovespa vira para queda e defende os 205 mil pontos, depois de abrir em alta com o debate; DI e dólar recuam",
+      "sinal": "neutro",
+      "resumo": "Depois de abrir em alta com o debate e as sondagens, o Ibovespa virou para queda a meio da sessão e tenta manter os 205 mil pontos, com as bolsas americanas mistas; de manhã o DI de janeiro de 2028 estava em 12,9%, 2 pontos-base abaixo do ajuste, e as taxas prefixadas do Tesouro chegaram a recuar 9 pontos-base, apesar de um IGP-10 acima do esperado. O Boletim Focus baixou a projeção do PIB de 2026 para 1,83%, manteve a inflação em 5,22% e a Selic em 13,25%, e reduziu o dólar esperado para R$ 5,13.",
+      "impacto": "Curva a fechar e real mais forte continuam a favorecer os setores sensíveis a juros da carteira (MRVE3, CYRE3, AMER3, bancos), mas a viragem do índice mostra que o alívio das sondagens não chega para sustentar a alta; PETR4 a cair com o petróleo pesa, e o PIB revisto em baixa trava os cíclicos domésticos.",
+      "especulacao": "A gestora Vinland defende que juros em queda e uma reforma das estatais abrem espaço para a bolsa subir no médio prazo; é leitura de casa, não um facto de mercado.",
+      "n_noticias": 11,
       "noticias": [
+        {
+          "id": "2c5788bf1105",
+          "titulo": "Juros em queda e reforma nas estatais abrem espaço para alta na Bolsa, sugere Vinland",
+          "fonte": "InfoMoney",
+          "data": "2026-10-19",
+          "hora": "16:00",
+          "link": "https://www.infomoney.com.br/onde-investir/juros-em-queda-e-reforma-nas-estatais-abrem-espaco-para-alta-na-bolsa-sugere-vinland/"
+        },
+        {
+          "id": "7f017a801a10",
+          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e tenta manter os 205 mil pontos",
+          "fonte": "InfoMoney",
+          "data": "2026-10-19",
+          "hora": "15:50",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/"
+        },
         {
           "id": "166056c019e0",
           "titulo": "Dólar opera em queda e Ibovespa sobe na reta final da eleição presidencial",
@@ -1052,100 +1328,24 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-19T15:11"
+      "atualizado_em": "2026-10-19T16:06"
     },
     {
-      "titulo": "Washington aperta a IA: Pentágono ameaça controlos de exportação e governo bane a DeepSeek, enquanto a Anthropic prepara a bolsa",
+      "titulo": "Flávio Bolsonaro lidera por margem estreita na reta final do 2.º turno e o TSE abre investigação à campanha",
       "sinal": "neutro",
-      "resumo": "Emil Michael, do Pentágono, prometeu controlos de exportação se os laboratórios de IA não cooperarem com o governo e disse que as leis atuais bastam para regular a IA; a administração Trump está a retirar a chinesa DeepSeek dos sistemas das agências civis. A Anthropic comprometeu 5% das ações, cerca de US$ 48 bilhões, com um fundo para o 'bem público' antes da entrada em bolsa, e Musk prometeu uma ação da SpaceX a cada criança americana em 2027.",
-      "impacto": "Mais intervenção do Estado no setor de IA acrescenta risco regulatório à tese de IA que tem sustentado o mercado americano; o efeito na B3 é indireto, via apetite global pelo risco.",
-      "especulacao": "",
-      "n_noticias": 9,
-      "noticias": [
-        {
-          "id": "86c8bea90764",
-          "titulo": "Anthropic readies model that reads users' intentions better - The Information",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "15:02",
-          "link": "https://www.financialjuice.com/News/9811504/Anthropic-readies-model-that-reads-users-intentions-better---The-Information.aspx?xy=rss"
-        },
-        {
-          "id": "b7b587f58636",
-          "titulo": "Elon Musk promete dar ações da SpaceX a crianças dos EUA; doação pode valer R$ 53 bilhões",
-          "fonte": "G1 Economia",
-          "data": "2026-10-19",
-          "hora": "14:22",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/19/elon-musk-acoes-da-spacex-criancas.ghtml"
-        },
-        {
-          "id": "7685abc2932e",
-          "titulo": "Trump administration removing Chinese AI DeepSeek from civilian government agency IT systems, barring purchase of DeepSeek-related products by government agencies - Notice",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "14:14",
-          "link": "https://www.financialjuice.com/News/9811404/Trump-administration-removing-Chinese-AI-DeepSeek-from-civilian-government-agency-IT-systems-barring-purchase-of-DeepSeek-related-products-by-government-agencies---Notice.aspx?xy=rss"
-        },
-        {
-          "id": "87d306b577a2",
-          "titulo": "Pentagon's Michael: We are seeking AI framework on incident response.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "14:13",
-          "link": "https://www.financialjuice.com/News/9811403/Pentagons-Michael-We-are-seeking-AI-framework-on-incident-response.aspx?xy=rss"
-        },
-        {
-          "id": "7b4bdb61b8f3",
-          "titulo": "Pentagon's Michael: Current laws are more than sufficient for AI regulation",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "14:09",
-          "link": "https://www.financialjuice.com/News/9811400/Pentagons-Michael-Current-laws-are-more-than-sufficient-for-AI-regulation.aspx?xy=rss"
-        },
-        {
-          "id": "6bd9938a6365",
-          "titulo": "Pentagon's Emil Michael vows export controls if AI labs don't cooperate with government - The Information.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "14:03",
-          "link": "https://www.financialjuice.com/News/9811393/Pentagons-Emil-Michael-vows-export-controls-if-AI-labs-dont-cooperate-with-government---The-Information.aspx?xy=rss"
-        },
-        {
-          "id": "112f7966c2f6",
-          "titulo": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
-          "fonte": "Guardian Business",
-          "data": "2026-10-19",
-          "hora": "13:51",
-          "link": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good"
-        },
-        {
-          "id": "ecb694a5354d",
-          "titulo": "Musk and Anthropic pledge public share giveaways",
-          "fonte": "BBC Business",
-          "data": "2026-10-19",
-          "hora": "10:38",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "cfb4c78c614c",
-          "titulo": "Elon Musk diz que dará uma ação da SpaceX a cada criança dos EUA em 2027",
-          "fonte": "Exame",
-          "data": "2026-10-19",
-          "hora": "08:55",
-          "link": "https://exame.com/invest/mercados/elon-musk-diz-que-dara-uma-acao-da-spacex-a-cada-crianca-dos-eua-em-2027/"
-        }
-      ],
-      "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-19T15:11"
-    },
-    {
-      "titulo": "Flávio Bolsonaro mantém vantagem nas sondagens a uma semana do 2.º turno, com margem a estreitar na AtlasIntel",
-      "sinal": "neutro",
-      "resumo": "A PoderData/Aya dá Flávio Bolsonaro com 52% contra 48% de Lula nos votos válidos, depois de um empate na ronda anterior; a AtlasIntel dá 51,1% contra 48,9%, com a vantagem a cair de 5,6 para 2,2 pontos. A imprensa estrangeira descreveu o debate entre os dois como marcado por ataques e poucas propostas. A coordenadora de campanha de Flávio disse que o Bolsa Família terá uma regra de transição de dois anos.",
+      "resumo": "A PoderData/Aya dá Flávio Bolsonaro com 52% contra 48% de Lula nos votos válidos, a AtlasIntel 51,1% contra 48,9% (vantagem a cair de 5,6 para 2,2 pontos) e a Futura 50,4% contra 49,6%, com Flávio a perder 0,4 ponto desde a sondagem de 16/10. O TSE abriu uma investigação a Flávio, Nikolas Ferreira e Pablo Marçal por uso indevido dos meios de comunicação e deu 24h à Meta e ao X para entregarem dados dos perfis. A coordenadora de campanha de Flávio disse que o Bolsa Família terá uma regra de transição de dois anos.",
       "impacto": "A eleição é o evento dominante para os ativos domésticos: juros futuros, real e os bancos e estatais (BBAS3, PETR4, CMIG4) reagem a cada sondagem até ao 2.º turno.",
       "especulacao": "",
-      "n_noticias": 7,
+      "n_noticias": 10,
       "noticias": [
+        {
+          "id": "062790675bec",
+          "titulo": "A 5 dias da eleição, Real Time mede transferência de votos entre Lula e Flávio",
+          "fonte": "InfoMoney",
+          "data": "2026-10-19",
+          "hora": "15:30",
+          "link": "https://www.infomoney.com.br/politica/a-5-dias-da-eleicao-real-time-mede-transferencia-de-votos-entre-lula-e-flavio/"
+        },
         {
           "id": "cd33cd100e46",
           "titulo": "Bolsa Família vai ter regra de transição de dois anos, diz coordenadora de campanha de Flávio Bolsonaro",
@@ -1187,6 +1387,22 @@
           "link": "https://www.infomoney.com.br/politica/o-que-e-o-ministerio-da-prosperidade-promessa-de-flavio-bolsonaro-se-eleito/"
         },
         {
+          "id": "c2fe943016c1",
+          "titulo": "TSE abre investigação a Flávio, Nikolas e Marçal sobre 'uso indevido dos meios de comunicação'",
+          "fonte": "Exame",
+          "data": "2026-10-19",
+          "hora": "11:58",
+          "link": "https://exame.com/brasil/tse-abre-investigacao-a-flavio-nikolas-e-marcal-sobre-uso-indevido-dos-meios-de-comunicacao/"
+        },
+        {
+          "id": "7bc783d6d62b",
+          "titulo": "Pesquisa Futura para presidente: Flávio Bolsonaro tem 50,4% e Lula, 49,6%, no 2º turno",
+          "fonte": "Exame",
+          "data": "2026-10-19",
+          "hora": "11:09",
+          "link": "https://exame.com/brasil/pesquisa-futura-para-presidente-flavio-bolsonaro-tem-504-e-lula-496-no-2o-turno/"
+        },
+        {
           "id": "c928662b8d3d",
           "titulo": "Flávio Bolsonaro volta a abrir vantagem sobre Lula e marca 52% a 48%, diz PoderData/Aya",
           "fonte": "Exame",
@@ -1204,16 +1420,32 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-19T15:11"
+      "atualizado_em": "2026-10-19T16:06"
     },
     {
       "titulo": "Bitcoin ressalta de suporte com o petróleo a recuar; Strategy compra mais 267 BTC e a Qubic sofre ataque a 1.404 carteiras",
       "sinal": "neutro",
-      "resumo": "O bitcoin recuperou de um suporte técnico com a melhoria do sentimento após a descida do petróleo; a Strategy comprou 267 BTC por US$ 22,1 milhões. A rede Qubic foi parada depois de um atacante drenar 1.404 carteiras com seeds fracas, e o Zcash recuperou parte das perdas. A Exame nota que as compras por empresas cotadas (Strategy, Strive, Bitmine) sustentam a subida.",
+      "resumo": "O bitcoin recuperou de um suporte técnico com a melhoria do sentimento após a descida do petróleo; a Strategy comprou 267 BTC por US$ 22,1 milhões. A rede Qubic foi parada depois de um atacante drenar 1.404 carteiras com seeds fracas, e o Zcash recuperou parte das perdas. A Exame nota que as compras por empresas cotadas (Strategy, Strive, Bitmine) sustentam a subida. A Mesh e a Visa fecharam uma parceria para tornar saldos de stablecoins e cripto utilizáveis em 175 milhões de comerciantes; o Crypto Fear & Greed está em 59/100 (ganância), contra o medo extremo nas ações.",
       "impacto": "Afeta diretamente os tokens seguidos na app (cripto_qualitativo); a correlação com a tech americana mantém o cripto exposto à mesma correção da IA.",
       "especulacao": "",
-      "n_noticias": 7,
+      "n_noticias": 9,
       "noticias": [
+        {
+          "id": "8ae92d60532c",
+          "titulo": "Mesh and Visa partner to make stablecoin and crypto balances spendable across 175 million merchants. $V",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "16:01",
+          "link": "https://www.financialjuice.com/News/9811570/Mesh-and-Visa-partner-to-make-stablecoin-and-crypto-balances-spendable-across-175-million-merchants-V.aspx?xy=rss"
+        },
+        {
+          "id": "822cfa1e1740",
+          "titulo": "Crypto Fear & Greed Index: 59/100 - Greed",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:19",
+          "link": "https://www.financialjuice.com/News/9811524/Crypto-Fear--Greed-Index-59100---Greed.aspx?xy=rss"
+        },
         {
           "id": "042bc8411576",
           "titulo": "O que aconteceu com o experimento de Bukele para transformar El Salvador no 'país do bitcoin'",
@@ -1272,16 +1504,24 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-19T15:11"
+      "atualizado_em": "2026-10-19T16:06"
     },
     {
       "titulo": "Temporada de resultados do 3T arranca com Microsoft e Meta em foco nos EUA e WEG a abrir a carteira na quarta",
       "sinal": "neutro",
-      "resumo": "Wall Street entra numa semana carregada de resultados, depois da venda de tecnologia; a Microsoft prepara o 1.º trimestre fiscal e a Meta é apontada como o teste dos US$ 145 bilhões de capex após a queda da tech. No Brasil, a Automob (AMOB3) reportou receita bruta 9% acima no 3T.",
-      "impacto": "Da carteira, a WEGE3 divulga o 3T26 a 21/10 antes da abertura (data confirmada), e a VALE3 a 29/10 após o fecho (confirmada); BBDC4, GGBR4 e USIM5 têm data estimada a 29/10, PRIO3 a 03/11 e ITUB4/SUZB3/KLBN11 a 04/11 (estimadas). O guidance de capex de IA da Microsoft e da Meta condiciona o humor global e, por correlação, o Ibovespa.",
+      "resumo": "Wall Street entra numa semana carregada de resultados, depois da venda de tecnologia; a Microsoft prepara o 1.º trimestre fiscal e a Meta é apontada como o teste dos US$ 145 bilhões de capex após a queda da tech. No Brasil, a Automob (AMOB3) reportou receita bruta 9% acima no 3T. Nos EUA, a siderúrgica Cleveland-Cliffs já divulgou o 3T.",
+      "impacto": "Da carteira, a WEGE3 divulga o 3T26 a 21/10 antes da abertura (data confirmada), e a VALE3 a 29/10 após o fecho (confirmada); BBDC4, GGBR4 e USIM5 têm data estimada a 29/10, PRIO3 a 03/11 e ITUB4/SUZB3/KLBN11 a 04/11 (estimadas). O guidance de capex de IA da Microsoft e da Meta condiciona o humor global e, por correlação, o Ibovespa. O resultado da Cleveland-Cliffs é a primeira leitura do aço americano no trimestre, com proxy direto para GGBR4 (operação nos EUA) e USIM5.",
       "especulacao": "",
-      "n_noticias": 5,
+      "n_noticias": 6,
       "noticias": [
+        {
+          "id": "184687746bf8",
+          "titulo": "Cleveland-Cliffs Inc. 2026 Q3 - Results - Earnings Call Presentation",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "15:31",
+          "link": "https://seekingalpha.com/article/4955222-cleveland-cliffs-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles"
+        },
         {
           "id": "258fdf66fc59",
           "titulo": "Automob (AMOB3) tem alta de 9% na receita bruta no 3º trimestre",
@@ -1324,16 +1564,24 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-19T14:27"
+      "atualizado_em": "2026-10-19T16:06"
     },
     {
       "titulo": "Banco de Inglaterra investiga a exposição do Barclays a crédito privado, com o CCC americano no pior nível do ano",
       "sinal": "risk_off",
-      "resumo": "A PRA do Banco de Inglaterra está a rever o tratamento pelo Barclays de derivados usados para financiar empréstimos de crédito privado, depois de uma denúncia interna de que o risco foi subavaliado (FT). O FT nota também que os 'cofres' cripto canalizam bilhões de dólares para empréstimos de risco e atraíram reguladores. No crédito dos EUA, o índice de risco da app está em 75,6 (tenso, +6,7 em 7 dias), com o CCC OAS em 12,82 p.p. no fecho de 14/10, o percentil mais alto do ano, e o HY OAS em 3,25 p.p.",
+      "resumo": "A PRA do Banco de Inglaterra está a rever o tratamento pelo Barclays de derivados usados para financiar empréstimos de crédito privado, depois de uma denúncia interna de que o risco foi subavaliado (FT); o FT nota também que os 'cofres' cripto canalizam bilhões de dólares para empréstimos de risco. No crédito dos EUA, o índice de risco da app subiu para 79,6 (tenso, +11,3 em 7 dias), com o CCC OAS em 12,78 p.p. no fecho de 15/10, no percentil 99,5 do ano, e o HY OAS em 3,23 p.p. (+0,58 p.p. em 30 dias).",
       "impacto": "A ponta frágil do crédito americano está no extremo do ano e o escrutínio ao crédito privado alarga-se aos bancos europeus: canal de risk-off global que pesa no fluxo para emergentes e nos bancos da carteira (ITUB4, BBDC4, BPAC11) por correlação.",
       "especulacao": "",
-      "n_noticias": 4,
+      "n_noticias": 5,
       "noticias": [
+        {
+          "id": "902e7985f3cf",
+          "titulo": "Navigating This Income Market Sell-Off",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "16:00",
+          "link": "https://seekingalpha.com/article/4955212-navigating-this-income-market-sell-off?source=feed_all_articles"
+        },
         {
           "id": "0f29e0b394df",
           "titulo": "Bank of England said to be reviewing Barclays’ handling of private credit loans",
@@ -1368,7 +1616,7 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-19T14:27"
+      "atualizado_em": "2026-10-19T16:06"
     }
   ]
 }
