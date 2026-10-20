@@ -1,15 +1,159 @@
 {
-  "atualizado_em": "2026-10-20T11:12",
-  "total_feed": 373,
+  "atualizado_em": "2026-10-20T14:11",
+  "total_feed": 464,
   "temas": [
     {
-      "titulo": "Rebote das ações de IA perde fôlego: estreia da coreana Elice cai 32% e futuros de Nova Iorque operam mistos",
-      "sinal": "neutro",
-      "resumo": "Depois de a tech americana recuperar na segunda da pior semana desde abril de 2025, os futuros de NY abriram mistos nesta terça; em Seul a construtora de centros de dados Elice caiu 32% na estreia e outubro já conta três IPOs de centros de dados adiados. A Seeking Alpha cortou a recomendação da Nebius, o Morgan Stanley pôs a Amazon como 'top pick' com alvo de US$ 350 e Merz anunciou a meta de quadruplicar a capacidade de computação de IA da Alemanha até 2030.",
-      "impacto": "O beta da tech americana passa ao Ibovespa pelo canal do apetite por risco e dos fluxos para emergentes; a B3 tem pouca tech direta, mas uma nova perna de queda nas ações de IA tenderia a pesar no índice.",
-      "especulacao": "Colunistas (Guardian, Seeking Alpha) discutem se é o início do fim do boom das ações de IA; é opinião, sem confirmação no preço.",
-      "n_noticias": 47,
+      "titulo": "Ações de IA voltam a ceder: Nasdaq sob pressão, Elice cai 32% na estreia e o JPMorgan calcula a exposição dos bancos a um incumprimento da CoreWeave",
+      "sinal": "risk_off",
+      "resumo": "Depois do rebote de segunda, os futuros de Nova Iorque abriram mistos e o Nasdaq voltou a cair nesta terça com inflação, receios de crescimento e spreads de crédito a alargar; em Seul a Elice caiu 32% na estreia e outubro já tem três IPOs de centros de dados adiados. Um analista do JPMorgan estimou a exposição dos bancos a um eventual incumprimento da CoreWeave, a Qualcomm vai cortar empregos a partir de novembro, os EUA vetaram a DeepSeek nas agências do governo e a Meta é apontada pela MarketWatch como a primeira a poder sinalizar capex de IA acima do esperado.",
+      "impacto": "O beta da tech americana passa ao Ibovespa pelo canal do apetite por risco e dos fluxos para emergentes; a B3 tem pouca tech direta, mas uma nova perna de queda nas ações de IA pesa no índice e reforça a tensão no crédito (ver tema de crédito).",
+      "especulacao": "Colunistas (Guardian, Seeking Alpha, FT) discutem se é o fim do boom das ações de IA e se a CoreWeave é o 'SVB de 2026'; Tom Lee diz estar a comprar a queda. É opinião, sem confirmação no preço.",
+      "n_noticias": 66,
       "noticias": [
+        {
+          "id": "7e59661ea15e",
+          "titulo": "Governo dos Estados Unidos veta uso da IA chinesa DeepSeek em agências governamentais",
+          "fonte": "G1 Economia",
+          "data": "2026-10-20",
+          "hora": "14:07",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/10/20/governo-dos-estados-unidos-veta-uso-da-ia-chinesa-deepseek-em-agencias-governamentais.ghtml"
+        },
+        {
+          "id": "616075f18bf8",
+          "titulo": "All Booms End In A Bust - The AI Boom Is Likely No Different",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "14:05",
+          "link": "https://seekingalpha.com/article/4955477-all-booms-end-in-bust-ai-boom-likely-no-different?source=feed_all_articles"
+        },
+        {
+          "id": "d55edf53b6d7",
+          "titulo": "Bad Korean Debut of Elice Leads to Tech Weakness - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "14:01",
+          "link": "https://www.financialjuice.com/News/9813111/Bad-Korean-Debut-of-Elice-Leads-to-Tech-Weakness---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "80294a706002",
+          "titulo": "Broadcom: Once-In-A-Decade Opportunity",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "14:01",
+          "link": "https://seekingalpha.com/article/4955468-broadcom-once-in-a-decade-opportunity?source=feed_all_articles"
+        },
+        {
+          "id": "fc88f977d34a",
+          "titulo": "Meta is back on offense — and its next move could signal higher AI spending across Big Tech",
+          "fonte": "MarketWatch",
+          "data": "2026-10-20",
+          "hora": "13:56",
+          "link": "https://www.marketwatch.com/story/meta-is-back-on-offense-and-its-next-move-could-signal-higher-ai-spending-across-big-tech-09682ff7?mod=mw_rss_topstories"
+        },
+        {
+          "id": "77576737f6b0",
+          "titulo": "Google Cloud outage: service recovery underway after power problem causes widespread disruption – latest updates",
+          "fonte": "Guardian Business",
+          "data": "2026-10-20",
+          "hora": "13:53",
+          "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates"
+        },
+        {
+          "id": "7905e0525d24",
+          "titulo": "The Nasdaq remains under pressure amid an ugly mix of higher inflation, growth concerns and widening credit spreads",
+          "fonte": "ForexLive",
+          "data": "2026-10-20",
+          "hora": "13:51",
+          "link": "https://investinglive.com/stocks/the-nasdaq-remains-under-pressure-amid-an-ugly-mix-of-higher-inflation-growth-concerns-and-widening-credit-spreads/"
+        },
+        {
+          "id": "cf65312f0241",
+          "titulo": "AI Anxiety Returns, Peripheral Premiums Widen In Europe, And Oil Extends Gains",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:50",
+          "link": "https://seekingalpha.com/article/4955478-ai-anxiety-returns-peripheral-premiums-widen-europe-oil-extends-gains?source=feed_all_articles"
+        },
+        {
+          "id": "dad93b7177f0",
+          "titulo": "DRAM: Competition Is Real, But The Selloff Creates A Tactical Buying Opportunity",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:43",
+          "link": "https://seekingalpha.com/article/4955459-dram-competition-is-real-but-the-selloff-creates-a-tactical-buying-opportunity?source=feed_all_articles"
+        },
+        {
+          "id": "7c0bd9d14244",
+          "titulo": "Why Tesla Could Make Much More Money",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:30",
+          "link": "https://seekingalpha.com/article/4955458-why-tesla-could-make-much-more-money?source=feed_all_articles"
+        },
+        {
+          "id": "ceb14a0f3c7b",
+          "titulo": "Micron Stock: The AI Memory Tax Could Change Everything",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:18",
+          "link": "https://seekingalpha.com/article/4955452-micron-stock-the-ai-memory-tax-could-change-everything?source=feed_all_articles"
+        },
+        {
+          "id": "ce5372cd2ec2",
+          "titulo": "CoreWeave: Excitedly Holding Onto Our Short Position",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:13",
+          "link": "https://seekingalpha.com/article/4955451-coreweave-excitedly-holding-onto-our-short-position?source=feed_all_articles"
+        },
+        {
+          "id": "57914229ebc9",
+          "titulo": "What happens to Wall Street if CoreWeave defaults? JPMorgan checked the math.",
+          "fonte": "MarketWatch",
+          "data": "2026-10-20",
+          "hora": "13:10",
+          "link": "https://www.marketwatch.com/story/what-happens-to-wall-street-if-coreweave-defaults-jpmorgan-checked-the-math-cd16938c?mod=mw_rss_topstories"
+        },
+        {
+          "id": "6c3a643bd5d8",
+          "titulo": "Is CoreWeave the Silicon Valley Bank of 2026?",
+          "fonte": "FT Markets",
+          "data": "2026-10-20",
+          "hora": "12:50",
+          "link": "https://www.ft.com/content/4fb42dd7-a72c-4e20-9e7c-cdc9d3215159"
+        },
+        {
+          "id": "4b282b7b26ec",
+          "titulo": "Qualcomm to cut jobs globally beginning in November - Sources",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "11:55",
+          "link": "https://www.financialjuice.com/News/9812922/Qualcomm-to-cut-jobs-globally-beginning-in-November---Sources.aspx?xy=rss"
+        },
+        {
+          "id": "1f4fd189f7e8",
+          "titulo": "HSBC reviews Palantir holding in $9bn Islamic fund - FT",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "11:50",
+          "link": "https://www.financialjuice.com/News/9812921/HSBC-reviews-Palantir-holding-in-9bn-Islamic-fund---FT.aspx?xy=rss"
+        },
+        {
+          "id": "7ce3a8ece4fc",
+          "titulo": "HSBC reviews Palantir holding in $9bn Islamic fund",
+          "fonte": "FT Markets",
+          "data": "2026-10-20",
+          "hora": "11:48",
+          "link": "https://www.ft.com/content/f3d80441-2ab4-4ccb-bf8c-e2b6c040f238?syn-25a6b1a6=1"
+        },
+        {
+          "id": "cd9381895c95",
+          "titulo": "Strategist Tom Lee says he’s buying the AI-stock dip, and Cisco holds the key",
+          "fonte": "MarketWatch",
+          "data": "2026-10-20",
+          "hora": "11:15",
+          "link": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories"
+        },
         {
           "id": "248f555e826e",
           "titulo": "Apple pode ter de pagar mais em caso de patente com indenização de US$ 5,7 bilhões",
@@ -73,6 +217,14 @@
           "data": "2026-10-20",
           "hora": "10:09",
           "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-operam-mistos-com-perda-de-folego-das-acoes-de-ia-brent-atinge-us-111/"
+        },
+        {
+          "id": "facc2fb07b7f",
+          "titulo": "Com nome de titã grego, supercomputador da Meta quer fazer 1 milhão de chips funcionarem como um só",
+          "fonte": "Exame",
+          "data": "2026-10-20",
+          "hora": "09:32",
+          "link": "https://exame.com/inteligencia-artificial/com-nome-de-tita-grego-supercomputador-da-meta-quer-fazer-1-milhao-de-chips-funcionarem-como-um-so/"
         },
         {
           "id": "75cd54df67c5",
@@ -388,16 +540,120 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-20T11:12"
+      "atualizado_em": "2026-10-20T14:11"
     },
     {
-      "titulo": "PPI alemão sobe 6,7% em termos homólogos e o desemprego britânico cai para 4,7%, com o gilt a 10 anos em 5,418%",
+      "titulo": "Sondagem a 100 economistas: 94 veem o Fed a subir os juros para 4,00%–4,25% até ao fim do ano; PPI alemão sobe 6,7% a 12 meses",
       "sinal": "risk_off",
-      "resumo": "Os preços no produtor na Alemanha subiram 1,9% em setembro (6,7% a 12 meses, máximo desde março de 2023) com a energia; o ZEW de condições atuais melhorou para -35,9 mas as expectativas caíram para 28,1. No Reino Unido o desemprego caiu para 4,7% (esperado 4,9%), mantendo as apostas de subida do BoE, e o gilt a 10 anos saiu num leilão a 5,418%. No Japão, a primeira-ministra Takaichi disse não tencionar pressionar os preços.",
-      "impacto": "Inflação de energia a passar para os preços e bancos centrais em modo de aperto sustentam yields globais altas — desfavorável à curva de DI e ao fluxo para a B3.",
-      "especulacao": "Fontes citadas pelo FinancialJuice relatam que o BoJ deve manter os juros a 29–30 de outubro, rever em alta a inflação de 2027 e abrir a porta a uma subida em dezembro; não está confirmado pelo banco.",
-      "n_noticias": 28,
+      "resumo": "Numa sondagem divulgada nesta terça, 94 de 100 economistas esperam que o Fed suba os juros para 4,00%–4,25% até ao fim de 2026 (eram 29 de 76 em setembro), com manutenção em 3,75%–4,00% na reunião de 27–28/10. Nos EUA os inícios de construção caíram 5,2% em setembro (1,221 milhões vs 1,305 milhões esperados) e o índice NAHB dos construtores caiu para 29, mínimo desde 2012. Na Europa o PPI alemão subiu 1,9% no mês (6,7% a 12 meses) e no Reino Unido o desemprego caiu para 4,7%, com o gilt a 10 anos colocado a 5,418%.",
+      "impacto": "Um Fed a subir com a inflação de energia sustenta yields globais altas e dólar forte — desfavorável à curva de DI, ao fluxo para a B3 e a construtoras e bancos por via do custo de capital; a fraqueza da habitação americana é o primeiro sinal de que o aperto já morde.",
+      "especulacao": "Fontes citadas pelo FinancialJuice relatam que o BoJ deve manter os juros a 29–30 de outubro e abrir a porta a uma subida em dezembro; não está confirmado pelo banco.",
+      "n_noticias": 46,
       "noticias": [
+        {
+          "id": "8f348c64199a",
+          "titulo": "Effective Fed Funds Rate 3.88% October 19 vs 3.88% October 16.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:59",
+          "link": "https://www.financialjuice.com/News/9813103/Effective-Fed-Funds-Rate-388-October-19-vs-388-October-16.aspx?xy=rss"
+        },
+        {
+          "id": "4f4c024fe662",
+          "titulo": "US Redbook YoY Actual 9.0% (Forecast -, Previous 10.4%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:56",
+          "link": "https://www.financialjuice.com/News/9813102/US-Redbook-YoY-Actual-90-Forecast---Previous-104.aspx?xy=rss"
+        },
+        {
+          "id": "c7644f5162e1",
+          "titulo": "Fed will hike Fed funds rate in December 2026, said all 100 economists - Poll.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:38",
+          "link": "https://www.financialjuice.com/News/9813084/Fed-will-hike-Fed-funds-rate-in-December-2026-said-all-100-economists---Poll.aspx?xy=rss"
+        },
+        {
+          "id": "49f6b47493d3",
+          "titulo": "Poll: Fed to hike fed funds rate to 4.00%-4.25% by end-2026, said 94 of 100 economists (vs 29 of 76 expecting that rate in September)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:38",
+          "link": "https://www.financialjuice.com/News/9813083/Poll-Fed-to-hike-fed-funds-rate-to-400-425-by-end-2026-said-94-of-100-economists-vs-29-of-76-expecting-that-rate-in-September.aspx?xy=rss"
+        },
+        {
+          "id": "766783a83f36",
+          "titulo": "Fed to hold fed funds rate steady at 3.75%-4.00% at October 27-28 meeting, said 94 of 100 economists; rest saw a hike to 4.00%-4.25% - Poll.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:38",
+          "link": "https://www.financialjuice.com/News/9813082/Fed-to-hold-fed-funds-rate-steady-at-375-400-at-October-27-28-meeting-said-94-of-100-economists-rest-saw-a-hike-to-400-425---Poll.aspx?xy=rss"
+        },
+        {
+          "id": "f637968f4cf8",
+          "titulo": "US September housing starts 1.221M vs 1.305M",
+          "fonte": "ForexLive",
+          "data": "2026-10-20",
+          "hora": "13:30",
+          "link": "https://investinglive.com/news/us-september-housing-starts-vs-1-305m/"
+        },
+        {
+          "id": "9b0144c0f0b4",
+          "titulo": "US Building Permits Actual 1.4M (Forecast 1.385M, Previous 1.403M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:30",
+          "link": "https://www.financialjuice.com/News/9813048/US-Building-Permits-Actual-14M-Forecast-1385M-Previous-1403M.aspx?xy=rss"
+        },
+        {
+          "id": "cfa8437e1141",
+          "titulo": "US Housing Starts Actual 1.221M (Forecast 1.305M, Previous 1.275M, Revised 1.288M)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:30",
+          "link": "https://www.financialjuice.com/News/9813045/US-Housing-Starts-Actual-1221M-Forecast-1305M-Previous-1275M-Revised-1288M.aspx?xy=rss"
+        },
+        {
+          "id": "b8408980e286",
+          "titulo": "US Housing Starts Change MoM Actual -5.2% (Forecast 1.9%, Previous -2.6%, Revised -5.9%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:30",
+          "link": "https://www.financialjuice.com/News/9813047/US-Housing-Starts-Change-MoM-Actual--52-Forecast-19-Previous--26-Revised--59.aspx?xy=rss"
+        },
+        {
+          "id": "964be3770fc8",
+          "titulo": "US Building Permits Change MoM Actual -0.2% (Forecast -1.3%, Previous -2.1%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:30",
+          "link": "https://www.financialjuice.com/News/9813046/US-Building-Permits-Change-MoM-Actual--02-Forecast--13-Previous--21.aspx?xy=rss"
+        },
+        {
+          "id": "41be07ed8eda",
+          "titulo": "US ADP Wkly Employment Change Actual 18.5k (Forecast -, Previous 24.75k)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:15",
+          "link": "https://www.financialjuice.com/News/9813023/US-ADP-Wkly-Employment-Change-Actual-185k-Forecast---Previous-2475k.aspx?xy=rss"
+        },
+        {
+          "id": "c4647e78b5d1",
+          "titulo": "US home prices ticked up 0.25% in September - Redfin",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:01",
+          "link": "https://www.financialjuice.com/News/9813001/US-home-prices-ticked-up-025-in-September---Redfin.aspx?xy=rss"
+        },
+        {
+          "id": "faf4954f06e3",
+          "titulo": "Secured Overnight Financing Rate 3.87% October 19 vs 3.88% October 16",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "12:59",
+          "link": "https://www.financialjuice.com/News/9812996/Secured-Overnight-Financing-Rate-387-October-19-vs-388-October-16.aspx?xy=rss"
+        },
         {
           "id": "036b1118b3e5",
           "titulo": "Finally, The U.K. Jobs Market Is Levelling Out",
@@ -501,6 +757,14 @@
           "data": "2026-10-20",
           "hora": "09:22",
           "link": "https://www.financialjuice.com/News/9812740/Europe-Sentiment-UK-Employment-Surprises-To-The-Upside---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "97fcf3193589",
+          "titulo": "It’s a rough housing market, and Goldman Sachs expects it to get worse",
+          "fonte": "MarketWatch",
+          "data": "2026-10-20",
+          "hora": "09:13",
+          "link": "https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac?mod=mw_rss_topstories"
         },
         {
           "id": "49fb08e0ce69",
@@ -621,19 +885,423 @@
           "data": "2026-10-20",
           "hora": "04:09",
           "link": "https://investinglive.com/central-banks/daiwa-boj-shifts-focus-from-reaching-2-inflation-to-keeping-it-there-wages-hold-the-key/"
+        },
+        {
+          "id": "343ad4f31ee0",
+          "titulo": "US NAHB Housing Market Index Actual 29 (Forecast 31, Previous 32)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:01",
+          "link": "https://www.financialjuice.com/News/9811476/US-NAHB-Housing-Market-Index-Actual-29-Forecast-31-Previous-32.aspx?xy=rss"
+        },
+        {
+          "id": "a984f867b7aa",
+          "titulo": "US Oct. homebuilder index falls to 29, lowest since 2012 - NAHB.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:00",
+          "link": "https://www.financialjuice.com/News/9811490/US-Oct-homebuilder-index-falls-to-29-lowest-since-2012---NAHB.aspx?xy=rss"
+        },
+        {
+          "id": "6bc4f00a232e",
+          "titulo": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+          "fonte": "MarketWatch",
+          "data": "2026-10-19",
+          "hora": "15:00",
+          "link": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories"
+        },
+        {
+          "id": "2d424d18d971",
+          "titulo": "GDP Nowcasts Point To Faster Growth As Inflation Risks Mount",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "15:00",
+          "link": "https://seekingalpha.com/article/4955197-gdp-nowcasts-point-faster-growth-inflation-risks-mount?source=feed_all_articles"
         }
       ],
       "criado_em": "2026-10-20T11:12",
-      "atualizado_em": "2026-10-20T11:12"
+      "atualizado_em": "2026-10-20T14:11"
     },
     {
-      "titulo": "Negociação EUA–Irão emperra e a Guarda Revolucionária diz que dois petroleiros atingiram minas no Ormuz",
+      "titulo": "Brent ultrapassa US$ 111, máximo de cinco meses, com ataques houthis a alvos energéticos sauditas; AIE pronta a libertar mais reservas",
       "sinal": "risk_off",
-      "resumo": "O Irão reiterou que as 'exigências excessivas' dos EUA bloqueiam as conversações, enquanto o Qatar diz que a mediação continua; a IRGC, citada pela Tasnim, afirma que dois petroleiros bateram em minas no Estreito de Ormuz e a defesa civil saudita voltou a emitir alertas em Riade. A Turquia submeteu ao parlamento um pacto de defesa de Meca e os Emirados assinaram um quadro de defesa com a França, depois de Lavrov ter estado em Teerão na segunda.",
-      "impacto": "Escalada no Golfo sustenta o prémio no petróleo (positivo para PETR4/PRIO3) mas pesa no apetite por risco e no câmbio; aumenta a pressão inflacionária global que já empurra as yields.",
-      "especulacao": "A Al-Arabiya relatou na segunda que um avanço nas negociações seria anunciado esta semana; não há confirmação oficial de Washington nem de Teerão, e o Irão disse hoje o contrário.",
-      "n_noticias": 23,
+      "resumo": "O Brent chegou a US$ 111 nesta terça, o nível mais alto desde maio, depois de ataques houthis a alvos energéticos sauditas e com as negociações EUA–Irão paradas. Fatih Birol disse que a AIE vai ponderar libertar mais petróleo das reservas de emergência; Arábia Saudita e Emirados comprometeram-se a fornecer cerca de 195 mil toneladas/mês de gasóleo à França e o gasóleo russo voltou aos destinos habituais com o fim da proibição de exportação.",
+      "impacto": "Positivo para PETR4 e PRIO3 (a InfoMoney nota a Petrobras perto de R$ 900 bilhões de valor depois de subir 100% no ano); negativo para inflação, curva de DI e setores consumidores de combustível. Reforça o câmbio+Brent como driver do modelo direcional.",
+      "especulacao": "O FT cita um relatório que alerta para um possível 'choque alimentar' global se a crise do Ormuz se combinar com um El Niño forte; é cenário, não dado.",
+      "n_noticias": 38,
       "noticias": [
+        {
+          "id": "fe3599411055",
+          "titulo": "Petróleo supera US$ 111 e atinge maior cotação em cinco meses com escalada de conflitos no Oriente Médio",
+          "fonte": "G1 Economia",
+          "data": "2026-10-20",
+          "hora": "14:07",
+          "link": "https://g1.globo.com/economia/noticia/2026/10/20/petroleo-supera-us-111-e-atinge-maior-cotacao-em-cinco-meses.ghtml"
+        },
+        {
+          "id": "8d75fc54930f",
+          "titulo": "Trump Administration's Last-Ditch Effort To Avoid A Global Diesel And Energy Crisis Failed",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "14:05",
+          "link": "https://seekingalpha.com/article/4955413-trump-administrations-last-ditch-effort-to-avoid-global-diesel-and-energy-crisis-failed?source=feed_all_articles"
+        },
+        {
+          "id": "f481bab1c360",
+          "titulo": "PBF Energy: 99th-Percentile Refining Margins Won't Last",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:52",
+          "link": "https://seekingalpha.com/article/4955464-pbf-energy-99th-percentile-refining-margins-won-t-last?source=feed_all_articles"
+        },
+        {
+          "id": "36a9ee6690fd",
+          "titulo": "AIE está pronta para nova liberação de reservas de petróleo se necessário",
+          "fonte": "InfoMoney",
+          "data": "2026-10-20",
+          "hora": "13:42",
+          "link": "https://www.infomoney.com.br/mercados/aie-esta-pronta-para-nova-liberacao-de-reservas-de-petroleo-se-necessario/"
+        },
+        {
+          "id": "80d6dad7d31d",
+          "titulo": "Petróleo Brent chega US$ 111, maior nível em 5 meses, após ataques de houthis",
+          "fonte": "InfoMoney",
+          "data": "2026-10-20",
+          "hora": "13:40",
+          "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-20102026/"
+        },
+        {
+          "id": "54368f0f1ec1",
+          "titulo": "New EU Arctic Strategy: The EU position remains \"ensuring that oil, coal and gas stay in the ground, including in Arctic regions\"",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "13:38",
+          "link": "https://www.financialjuice.com/News/9813081/New-EU-Arctic-Strategy-The-EU-position-remains-ensuring-that-oil-coal-and-gas-stay-in-the-ground-including-in-Arctic-regions.aspx?xy=rss"
+        },
+        {
+          "id": "7fa83886c485",
+          "titulo": "Diesel russo volta a destinos habituais após fim da proibição de exportação",
+          "fonte": "InfoMoney",
+          "data": "2026-10-20",
+          "hora": "13:36",
+          "link": "https://www.infomoney.com.br/mundo/diesel-russo-volta-a-destinos-habituais-apos-fim-da-proibicao-de-exportacao/"
+        },
+        {
+          "id": "b1ed298d22d4",
+          "titulo": "Morning Kickstart: Dollar mixed as oil tops $100 and European stocks retreat",
+          "fonte": "ForexLive",
+          "data": "2026-10-20",
+          "hora": "13:21",
+          "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-mixed-as-oil-tops-100-and-european-stocks-retreat/"
+        },
+        {
+          "id": "0aaf44ca35f3",
+          "titulo": "Saudis: Energy and supply chain security need international cooperation",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "12:49",
+          "link": "https://www.financialjuice.com/News/9812995/Saudis-Energy-and-supply-chain-security-need-international-cooperation.aspx?xy=rss"
+        },
+        {
+          "id": "d907092c8b2d",
+          "titulo": "investingLive European news wrap: Rising oil prices keep weighing on risk sentiment",
+          "fonte": "ForexLive",
+          "data": "2026-10-20",
+          "hora": "12:40",
+          "link": "https://investinglive.com/news/investinglive-european-news-wrap-rising-oil-prices-keep-weighing-on-risk-sentiment/"
+        },
+        {
+          "id": "1a4b9adca699",
+          "titulo": "Do not worry too much about European gas prices",
+          "fonte": "FT Markets",
+          "data": "2026-10-20",
+          "hora": "12:30",
+          "link": "https://www.ft.com/content/31df1d21-159c-4c24-be0a-566c00c2d100?syn-25a6b1a6=1"
+        },
+        {
+          "id": "058adef539de",
+          "titulo": "How the Hormuz crisis could trigger a global ‘food shock’",
+          "fonte": "FT Markets",
+          "data": "2026-10-20",
+          "hora": "12:00",
+          "link": "https://www.ft.com/content/52fab4c1-0561-43ce-bc3c-0d43f6e217c5?syn-25a6b1a6=1"
+        },
+        {
+          "id": "56d9cd77f757",
+          "titulo": "The Indian Rupee's sharp rebound following RBI intervention may prove temporary amid renewed surge in oil prices",
+          "fonte": "ForexLive",
+          "data": "2026-10-20",
+          "hora": "11:49",
+          "link": "https://investinglive.com/forex/the-indian-rupee-s-sharp-rebound-following-rbi-intervention-may-prove-temporary-amid-renewed-surge-in-oil-prices/"
+        },
+        {
+          "id": "3a7ab74d2b37",
+          "titulo": "IEA's Birol: Agency will consider releasing more oil from emergency stocks if needed",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "10:54",
+          "link": "https://www.financialjuice.com/News/9812841/IEAs-Birol-Agency-will-consider-releasing-more-oil-from-emergency-stocks-if-needed.aspx?xy=rss"
+        },
+        {
+          "id": "7ebb2a18b86c",
+          "titulo": "Crude oil surges further amid Houthis attacks on Saudi energy targets and stalled US-Iran negotiations",
+          "fonte": "ForexLive",
+          "data": "2026-10-20",
+          "hora": "10:18",
+          "link": "https://investinglive.com/commodities/crude-oil-surges-further-amid-houthis-attacks-on-saudi-energy-targets-and-stalled-us-iran-negotiations/"
+        },
+        {
+          "id": "7f835c00abd4",
+          "titulo": "Futuros de NY operam mistos com perda de fôlego das ações de IA; Brent atinge US$ 111",
+          "fonte": "InfoMoney",
+          "data": "2026-10-20",
+          "hora": "10:09",
+          "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-operam-mistos-com-perda-de-folego-das-acoes-de-ia-brent-atinge-us-111/"
+        },
+        {
+          "id": "50421a3028ce",
+          "titulo": "Par Pacific: A Boom, Fully Priced In",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "10:08",
+          "link": "https://seekingalpha.com/article/4955414-par-pacific-a-boom-fully-priced-in?source=feed_all_articles"
+        },
+        {
+          "id": "0c808cb08856",
+          "titulo": "Petrobras além dos R$ 900 bi de valor? Até onde ação pode ir após saltar 100% no ano",
+          "fonte": "InfoMoney",
+          "data": "2026-10-20",
+          "hora": "10:00",
+          "link": "https://www.infomoney.com.br/mercados/petrobras-alem-dos-r-900-bi-de-valor-ate-onde-acao-pode-ir-apos-saltar-100-no-ano/"
+        },
+        {
+          "id": "d1eee9db31ea",
+          "titulo": "Sell Devon Energy To Buy Permian Resources",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "09:57",
+          "link": "https://seekingalpha.com/article/4955411-sell-devon-energy-to-buy-permian-resources?source=feed_all_articles"
+        },
+        {
+          "id": "8df12154a1fd",
+          "titulo": "Petróleo bate US$ 111 e atinge maior nível desde maio; mercado teme crise",
+          "fonte": "Exame",
+          "data": "2026-10-20",
+          "hora": "09:04",
+          "link": "https://exame.com/invest/mercados/petroleo-bate-us-111-e-atinge-maior-nivel-desde-maio-mercado-teme-crise/"
+        },
+        {
+          "id": "50f28041422f",
+          "titulo": "Gold rejects a key trendline as higher oil prices and yields weigh; growth concerns remain in focus",
+          "fonte": "ForexLive",
+          "data": "2026-10-20",
+          "hora": "08:45",
+          "link": "https://investinglive.com/commodities/gold-rejects-a-key-trendline-as-higher-oil-prices-and-yields-weigh-growth-concerns-remain-in-focus/"
+        },
+        {
+          "id": "e18416141d31",
+          "titulo": "Bahrain, UAE deliveries to France to start in coming weeks.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "08:00",
+          "link": "https://www.financialjuice.com/News/9812623/Bahrain-UAE-deliveries-to-France-to-start-in-coming-weeks.aspx?xy=rss"
+        },
+        {
+          "id": "ce51b41a0ec9",
+          "titulo": "UAE commits to provide 100k tons/month of diesel to France",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "08:00",
+          "link": "https://www.financialjuice.com/News/9812622/UAE-commits-to-provide-100k-tonsmonth-of-diesel-to-France.aspx?xy=rss"
+        },
+        {
+          "id": "220fffd50fb6",
+          "titulo": "Saudi commits to provide 95k tons/month of diesel to France",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "08:00",
+          "link": "https://www.financialjuice.com/News/9812620/Saudi-commits-to-provide-95k-tonsmonth-of-diesel-to-France.aspx?xy=rss"
+        },
+        {
+          "id": "dfd6ac3a46dc",
+          "titulo": "Novo acordo de combustíveis entre Trump e Putin pode prejudicar a Ucrânia",
+          "fonte": "Exame",
+          "data": "2026-10-20",
+          "hora": "06:01",
+          "link": "https://exame.com/mundo/novo-acordo-de-combustiveis-entre-trump-e-putin-pode-prejudicar-a-ucrania/"
+        },
+        {
+          "id": "ba6040ed1f21",
+          "titulo": "Iran war tilts balance of global oil power towards Americas",
+          "fonte": "FT Markets",
+          "data": "2026-10-20",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1"
+        },
+        {
+          "id": "017f313e8b5a",
+          "titulo": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
+          "fonte": "Guardian Business",
+          "data": "2026-10-19",
+          "hora": "18:39",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns"
+        },
+        {
+          "id": "8ebf5431a216",
+          "titulo": "EU drops push for global ban on Arctic drilling",
+          "fonte": "FT Markets",
+          "data": "2026-10-19",
+          "hora": "16:36",
+          "link": "https://www.ft.com/content/8b1990d1-b4b2-4147-ba4b-76d1869ee2db?syn-25a6b1a6=1"
+        },
+        {
+          "id": "31ab0d5d56b7",
+          "titulo": "US uses $42 mln in wartime law funding for Constitution pipeline.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "15:07",
+          "link": "https://www.financialjuice.com/News/9811507/US-uses-42-mln-in-wartime-law-funding-for-Constitution-pipeline.aspx?xy=rss"
+        },
+        {
+          "id": "4b749bc976bf",
+          "titulo": "Parex Resources: License To Print Money Is Now Fully Active",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "14:46",
+          "link": "https://seekingalpha.com/article/4955192-parex-resources-license-to-print-money-is-now-fully-active?source=feed_all_articles"
+        },
+        {
+          "id": "3964c7adcaa2",
+          "titulo": "Qatar to construct two power plants, sign 20-Yr LNG supply deal with Lebanon under draft electricity plan - document.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "14:46",
+          "link": "https://www.financialjuice.com/News/9811465/Qatar-to-construct-two-power-plants-sign-20-Yr-LNG-supply-deal-with-Lebanon-under-draft-electricity-plan---document.aspx?xy=rss"
+        },
+        {
+          "id": "8e5dff22a0b1",
+          "titulo": "North Sea oil producer threatens to stop investing if UK blocks Rosebank oilfield",
+          "fonte": "FT Markets",
+          "data": "2026-10-19",
+          "hora": "14:37",
+          "link": "https://www.ft.com/content/2ad6e5dd-b8c2-4186-a6e2-ba27f222e1f0?syn-25a6b1a6=1"
+        },
+        {
+          "id": "3675da2d507a",
+          "titulo": "FTSE 100 newcomer Ithaca warns of halt to investment if Rosebank blocked",
+          "fonte": "FT Markets",
+          "data": "2026-10-19",
+          "hora": "14:37",
+          "link": "https://www.ft.com/content/2ad6e5dd-b8c2-4186-a6e2-ba27f222e1f0?syn-25a6b1a6=1"
+        },
+        {
+          "id": "38130a5d611f",
+          "titulo": "Rubio diz que Trump terá até 60 dias para reavaliar suspensão de sanções à Rússia",
+          "fonte": "G1 Economia",
+          "data": "2026-10-19",
+          "hora": "14:22",
+          "link": "https://g1.globo.com/mundo/noticia/2026/10/18/rubio-diz-que-trump-tera-ate-60-dias-para-reavaliar-suspensao-de-sancoes-a-russia.ghtml"
+        },
+        {
+          "id": "0ddd079f91c7",
+          "titulo": "Trump diz que não quer afastar Rússia de negociações e acusa Zelensky de prolongar guerra",
+          "fonte": "G1 Economia",
+          "data": "2026-10-19",
+          "hora": "14:22",
+          "link": "https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-nao-quer-afastar-russia-de-negociacoes-e-acusa-zelensky-de-prolongar-guerra.ghtml"
+        },
+        {
+          "id": "b2f763cb5c8f",
+          "titulo": "Crude oil comes off the highs as Trump waives Russian sanctions, but it's unlikely to be enough",
+          "fonte": "ForexLive",
+          "data": "2026-10-19",
+          "hora": "10:27",
+          "link": "https://investinglive.com/commodities/crude-oil-comes-off-the-highs-as-trump-waives-russian-sanctions-but-it-s-unlikely-to-be-enough/"
+        },
+        {
+          "id": "c7d9ace788d7",
+          "titulo": "Trafigura Chief Economist Rahim: MidEast oil products flows down 4m b/d v. pre-war level.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "09:48",
+          "link": "https://www.financialjuice.com/News/9811072/Trafigura-Chief-Economist-Rahim-MidEast-oil-products-flows-down-4m-bd-v-pre-war-level.aspx?xy=rss"
+        },
+        {
+          "id": "3f5e254cc7d4",
+          "titulo": "Trafigura Chief Economist Rahim: MidEast crude flows down 5m-7m b/d v. pre-war level.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-19",
+          "hora": "09:47",
+          "link": "https://www.financialjuice.com/News/9811071/Trafigura-Chief-Economist-Rahim-MidEast-crude-flows-down-5m-7m-bd-v-pre-war-level.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-10-19T14:27",
+      "atualizado_em": "2026-10-20T14:11"
+    },
+    {
+      "titulo": "Reino Unido vai voar missões para defender a Arábia Saudita dos houthis e o Irão diz que dois petroleiros bateram em minas no Ormuz",
+      "sinal": "risk_off",
+      "resumo": "Londres anunciou missões aéreas de defesa da Arábia Saudita contra ataques houthis, embora o porta-voz de Starmer rejeite que o país esteja a ser arrastado para a guerra; a UKMTO recebeu relato de novo incidente a leste de Duqm (Omã). O Irão reiterou que as 'exigências excessivas' dos EUA bloqueiam as conversações, o Qatar diz que a mediação continua, o chefe do exército paquistanês chegou a Teerão e a IRGC, citada pela Tasnim, afirma que dois petroleiros bateram em minas no Ormuz.",
+      "impacto": "Escalada no Golfo sustenta o prémio no petróleo (positivo para PETR4/PRIO3) mas pesa no apetite por risco e no câmbio; aumenta a pressão inflacionária global que já empurra as yields.",
+      "especulacao": "O NYT relata que o secretário da Defesa Hegseth fará uma visita não anunciada a Israel; não há confirmação oficial.",
+      "n_noticias": 30,
+      "noticias": [
+        {
+          "id": "b96c5f13119d",
+          "titulo": "UKMTO gets report of incident 121nm east of Duqm, Oman",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "12:33",
+          "link": "https://www.financialjuice.com/News/9812982/UKMTO-gets-report-of-incident-121nm-east-of-Duqm-Oman.aspx?xy=rss"
+        },
+        {
+          "id": "40d06a2d8955",
+          "titulo": "US Sec. of Defense Hegseth is said to make an unannounced visit to Israel - NYT",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "12:24",
+          "link": "https://www.financialjuice.com/News/9812958/US-Sec-of-Defense-Hegseth-is-said-to-make-an-unannounced-visit-to-Israel---NYT.aspx?xy=rss"
+        },
+        {
+          "id": "af58662f4834",
+          "titulo": "UK's PM Starmer's Spokesman Wells: We don't accept UK risks being drawn into the Saudi-Houthi war",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "12:22",
+          "link": "https://www.financialjuice.com/News/9812957/UKs-PM-Starmers-Spokesman-Wells-We-dont-accept-UK-risks-being-drawn-into-the-Saudi-Houthi-war.aspx?xy=rss"
+        },
+        {
+          "id": "37e931a4ace8",
+          "titulo": "Russia attacks energy facility in Ukraine's Lviv region - Governor",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "11:37",
+          "link": "https://www.financialjuice.com/News/9812903/Russia-attacks-energy-facility-in-Ukraines-Lviv-region---Governor.aspx?xy=rss"
+        },
+        {
+          "id": "27f3470541f7",
+          "titulo": "US Secretary of State Rubio: A China, Russia, US arms control discussion would be a positive thing for the world.",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "11:23",
+          "link": "https://www.financialjuice.com/News/9812888/US-Secretary-of-State-Rubio-A-China-Russia-US-arms-control-discussion-would-be-a-positive-thing-for-the-world.aspx?xy=rss"
+        },
+        {
+          "id": "22004e23f96f",
+          "titulo": "Pakistan's army chief Munir arrives in Tehran for talks - Tasnim",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "11:21",
+          "link": "https://www.financialjuice.com/News/9812887/Pakistans-army-chief-Munir-arrives-in-Tehran-for-talks---Tasnim.aspx?xy=rss"
+        },
+        {
+          "id": "b941020edb9c",
+          "titulo": "The UK are to fly missions to defend Saudi Arabia from Houthi attacks",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "11:14",
+          "link": "https://www.financialjuice.com/News/9812342/The-UK-are-to-fly-missions-to-defend-Saudi-Arabia-from-Houthi-attacks.aspx?xy=rss"
+        },
         {
           "id": "a04d686bd1b7",
           "titulo": "Qatar: Efforts to resolve the US-Iran crisis are ongoing - Al Jazeera",
@@ -820,47 +1488,79 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-20T11:12"
+      "atualizado_em": "2026-10-20T14:11"
     },
     {
-      "titulo": "Brent chega a US$ 111 com ataques houthis a alvos energéticos sauditas e a AIE admite libertar mais reservas",
-      "sinal": "risk_off",
-      "resumo": "O crude prolongou a subida para novos máximos da semana, apagando o recuo que se seguiu à suspensão das sanções à Rússia por Trump; o Brent atingiu US$ 111 nesta terça. Fatih Birol (AIE) disse que a agência vai ponderar libertar mais petróleo das reservas de emergência; Arábia Saudita e Emirados comprometeram-se a fornecer cerca de 195 mil toneladas/mês de gasóleo à França e a Trafigura estima os fluxos de crude do Médio Oriente 5 a 7 milhões de barris/dia abaixo do pré-guerra.",
-      "impacto": "Positivo para PETR4 e PRIO3 (a InfoMoney nota a Petrobras perto de R$ 900 bilhões de valor depois de subir 100% no ano); negativo para inflação, curva de DI e setores consumidores de combustível. Reforça o câmbio+Brent como driver do modelo direcional.",
+      "titulo": "Ibovespa futuro sobe mais de 1% e dólar e taxas do Tesouro caem após as pesquisas pós-debate; Justiça encerra a RJ da Americanas",
+      "sinal": "risk_on",
+      "resumo": "Nesta terça o EWZ subia 1,48% em Nova Iorque e o Ibovespa futuro mais de 1% depois das pesquisas, com o dólar em queda e as taxas do Tesouro Direto a recuar forte mesmo com o petróleo em alta — na segunda o índice tinha virado para queda à tarde e o dólar fechou a R$ 5,04. Entre as empresas, a Justiça encerrou a recuperação judicial da Americanas, a Frasle (FRAS3) cortou a previsão de receita de 2026 para R$ 5,2–5,5 bilhões, a Randoncorp teve receita 3,3% maior em setembro e a InfoMoney aponta a Vale em sobrevenda técnica.",
+      "impacto": "Câmbio e juros a ceder ajudam bancos, construtoras (CYRE3, MRVE3) e utilities; fim da RJ é marco para AMER3 (primeiro pagamento de juros das debêntures a 26/10); VALE3 chega ao 3T de 29/10 em sobrevenda e com opcionalidade no cobre.",
       "especulacao": "",
-      "n_noticias": 23,
+      "n_noticias": 21,
       "noticias": [
         {
-          "id": "3a7ab74d2b37",
-          "titulo": "IEA's Birol: Agency will consider releasing more oil from emergency stocks if needed",
-          "fonte": "FinancialJuice",
+          "id": "417f75d67501",
+          "titulo": "Dólar opera em queda, com avanço do petróleo e de olho em dados dos EUA e protestos na Europa",
+          "fonte": "G1 Economia",
           "data": "2026-10-20",
-          "hora": "10:54",
-          "link": "https://www.financialjuice.com/News/9812841/IEAs-Birol-Agency-will-consider-releasing-more-oil-from-emergency-stocks-if-needed.aspx?xy=rss"
+          "hora": "14:07",
+          "link": "https://g1.globo.com/economia/noticia/2026/10/20/dolar-ibovespa.ghtml"
         },
         {
-          "id": "7ebb2a18b86c",
-          "titulo": "Crude oil surges further amid Houthis attacks on Saudi energy targets and stalled US-Iran negotiations",
-          "fonte": "ForexLive",
-          "data": "2026-10-20",
-          "hora": "10:18",
-          "link": "https://investinglive.com/commodities/crude-oil-surges-further-amid-houthis-attacks-on-saudi-energy-targets-and-stalled-us-iran-negotiations/"
-        },
-        {
-          "id": "7f835c00abd4",
-          "titulo": "Futuros de NY operam mistos com perda de fôlego das ações de IA; Brent atinge US$ 111",
+          "id": "4673439c27b1",
+          "titulo": "Vale (VALE3) entra em sobrevenda; ação pode reagir ou ainda tem espaço para cair?",
           "fonte": "InfoMoney",
           "data": "2026-10-20",
-          "hora": "10:09",
-          "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-operam-mistos-com-perda-de-folego-das-acoes-de-ia-brent-atinge-us-111/"
+          "hora": "13:59",
+          "link": "https://www.infomoney.com.br/mercados/vale-vale3-entra-em-sobrevenda-acao-pode-reagir-ou-ainda-tem-espaco-para-cair/"
         },
         {
-          "id": "50421a3028ce",
-          "titulo": "Par Pacific: A Boom, Fully Priced In",
-          "fonte": "Seeking Alpha",
+          "id": "60a83bf85f25",
+          "titulo": "Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo",
+          "fonte": "InfoMoney",
           "data": "2026-10-20",
-          "hora": "10:08",
-          "link": "https://seekingalpha.com/article/4955414-par-pacific-a-boom-fully-priced-in?source=feed_all_articles"
+          "hora": "13:52",
+          "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-20102026/"
+        },
+        {
+          "id": "eb9e70b9aab6",
+          "titulo": "Receita da Randoncorp (RAPT4) cresce 3,3% em setembro",
+          "fonte": "InfoMoney",
+          "data": "2026-10-20",
+          "hora": "13:38",
+          "link": "https://www.infomoney.com.br/mercados/receita-da-randoncorp-rapt4-cresce-33-em-setembro/"
+        },
+        {
+          "id": "ef852330b7f3",
+          "titulo": "Frasle (FRAS3) reduz previsão de receita em 2026 para entre R$5,2 bi e R$5,5 bi",
+          "fonte": "InfoMoney",
+          "data": "2026-10-20",
+          "hora": "13:35",
+          "link": "https://www.infomoney.com.br/mercados/frasle-fras3-reduz-previsao-de-receita-em-2026-para-entre-r52-bi-e-r55-bi/"
+        },
+        {
+          "id": "da2c76029fe9",
+          "titulo": "Dólar cai e fecha a R$ 5,04 com mercado de olho na reta final das eleições; Ibovespa recua",
+          "fonte": "G1 Economia",
+          "data": "2026-10-20",
+          "hora": "11:05",
+          "link": "https://g1.globo.com/economia/noticia/2026/10/19/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "7428e133c4c6",
+          "titulo": "Justiça encerra recuperação judicial da Americanas",
+          "fonte": "G1 Economia",
+          "data": "2026-10-20",
+          "hora": "11:05",
+          "link": "https://g1.globo.com/economia/noticia/2026/10/19/justica-do-rj-fim-de-recuperacao-judicial-da-americanas.ghtml"
+        },
+        {
+          "id": "1b283a896f30",
+          "titulo": "Além do minério de ferro: o que falta para a Vale (VALE3) dobrar a produção de cobre?",
+          "fonte": "InfoMoney",
+          "data": "2026-10-20",
+          "hora": "10:00",
+          "link": "https://www.infomoney.com.br/mercados/alem-do-minerio-de-ferro-o-que-falta-para-a-vale-vale3-dobrar-a-producao-de-cobre/"
         },
         {
           "id": "0c808cb08856",
@@ -871,161 +1571,129 @@
           "link": "https://www.infomoney.com.br/mercados/petrobras-alem-dos-r-900-bi-de-valor-ate-onde-acao-pode-ir-apos-saltar-100-no-ano/"
         },
         {
-          "id": "d1eee9db31ea",
-          "titulo": "Sell Devon Energy To Buy Permian Resources",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-20",
-          "hora": "09:57",
-          "link": "https://seekingalpha.com/article/4955411-sell-devon-energy-to-buy-permian-resources?source=feed_all_articles"
-        },
-        {
-          "id": "e18416141d31",
-          "titulo": "Bahrain, UAE deliveries to France to start in coming weeks.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-20",
-          "hora": "08:00",
-          "link": "https://www.financialjuice.com/News/9812623/Bahrain-UAE-deliveries-to-France-to-start-in-coming-weeks.aspx?xy=rss"
-        },
-        {
-          "id": "ce51b41a0ec9",
-          "titulo": "UAE commits to provide 100k tons/month of diesel to France",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-20",
-          "hora": "08:00",
-          "link": "https://www.financialjuice.com/News/9812622/UAE-commits-to-provide-100k-tonsmonth-of-diesel-to-France.aspx?xy=rss"
-        },
-        {
-          "id": "220fffd50fb6",
-          "titulo": "Saudi commits to provide 95k tons/month of diesel to France",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-20",
-          "hora": "08:00",
-          "link": "https://www.financialjuice.com/News/9812620/Saudi-commits-to-provide-95k-tonsmonth-of-diesel-to-France.aspx?xy=rss"
-        },
-        {
-          "id": "dfd6ac3a46dc",
-          "titulo": "Novo acordo de combustíveis entre Trump e Putin pode prejudicar a Ucrânia",
+          "id": "064fcc59ac36",
+          "titulo": "Ibovespa futuro sobe mais de 1% e dólar cai após pesquisas eleitorais pós-debate",
           "fonte": "Exame",
           "data": "2026-10-20",
-          "hora": "06:01",
-          "link": "https://exame.com/mundo/novo-acordo-de-combustiveis-entre-trump-e-putin-pode-prejudicar-a-ucrania/"
+          "hora": "09:39",
+          "link": "https://exame.com/invest/mercados/ibovespa-futuro-sobe-mais-de-1-e-dolar-cai-apos-pesquisas-eleitorais-pos-debate/"
         },
         {
-          "id": "ba6040ed1f21",
-          "titulo": "Iran war tilts balance of global oil power towards Americas",
-          "fonte": "FT Markets",
+          "id": "5dd682a5bf79",
+          "titulo": "Marcopolo abre avenida na Europa após vendas desacelerarem no Brasil",
+          "fonte": "Exame",
           "data": "2026-10-20",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1"
+          "hora": "07:00",
+          "link": "https://exame.com/exame-in/na-marcopolo-uma-avenida-de-crescimento-na-europa-apos-vendas-abaixo-do-previsto-no-brasil/"
         },
         {
-          "id": "017f313e8b5a",
-          "titulo": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
-          "fonte": "Guardian Business",
+          "id": "28b5c7bf424f",
+          "titulo": "Justiça encerra recuperação judicial da Americanas após três anos",
+          "fonte": "Exame",
           "data": "2026-10-19",
-          "hora": "18:39",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns"
+          "hora": "21:01",
+          "link": "https://exame.com/invest/mercados/justica-encerra-recuperacao-judicial-da-americanas-apos-tres-anos/"
         },
         {
-          "id": "8ebf5431a216",
-          "titulo": "EU drops push for global ban on Arctic drilling",
-          "fonte": "FT Markets",
+          "id": "2c5788bf1105",
+          "titulo": "Juros em queda e reforma nas estatais abrem espaço para alta na Bolsa, sugere Vinland",
+          "fonte": "InfoMoney",
           "data": "2026-10-19",
-          "hora": "16:36",
-          "link": "https://www.ft.com/content/8b1990d1-b4b2-4147-ba4b-76d1869ee2db?syn-25a6b1a6=1"
+          "hora": "16:00",
+          "link": "https://www.infomoney.com.br/onde-investir/juros-em-queda-e-reforma-nas-estatais-abrem-espaco-para-alta-na-bolsa-sugere-vinland/"
         },
         {
-          "id": "31ab0d5d56b7",
-          "titulo": "US uses $42 mln in wartime law funding for Constitution pipeline.",
-          "fonte": "FinancialJuice",
+          "id": "7f017a801a10",
+          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e tenta manter os 205 mil pontos",
+          "fonte": "InfoMoney",
           "data": "2026-10-19",
-          "hora": "15:07",
-          "link": "https://www.financialjuice.com/News/9811507/US-uses-42-mln-in-wartime-law-funding-for-Constitution-pipeline.aspx?xy=rss"
+          "hora": "15:50",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/"
         },
         {
-          "id": "4b749bc976bf",
-          "titulo": "Parex Resources: License To Print Money Is Now Fully Active",
-          "fonte": "Seeking Alpha",
+          "id": "166056c019e0",
+          "titulo": "Dólar opera em queda e Ibovespa sobe na reta final da eleição presidencial",
+          "fonte": "G1 Economia",
           "data": "2026-10-19",
-          "hora": "14:46",
-          "link": "https://seekingalpha.com/article/4955192-parex-resources-license-to-print-money-is-now-fully-active?source=feed_all_articles"
+          "hora": "15:09",
+          "link": "https://g1.globo.com/economia/noticia/2026/10/19/dolar-ibovespa.ghtml"
         },
         {
-          "id": "3964c7adcaa2",
-          "titulo": "Qatar to construct two power plants, sign 20-Yr LNG supply deal with Lebanon under draft electricity plan - document.",
-          "fonte": "FinancialJuice",
+          "id": "16e0d1c4ad47",
+          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe após debate e com pesquisas em foco",
+          "fonte": "InfoMoney",
           "data": "2026-10-19",
-          "hora": "14:46",
-          "link": "https://www.financialjuice.com/News/9811465/Qatar-to-construct-two-power-plants-sign-20-Yr-LNG-supply-deal-with-Lebanon-under-draft-electricity-plan---document.aspx?xy=rss"
+          "hora": "14:40",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/"
         },
         {
-          "id": "8e5dff22a0b1",
-          "titulo": "North Sea oil producer threatens to stop investing if UK blocks Rosebank oilfield",
-          "fonte": "FT Markets",
+          "id": "b88be57a7682",
+          "titulo": "Taxas dos DIs caem após novas pesquisas eleitorais e debate entre Flávio e Lula",
+          "fonte": "InfoMoney",
           "data": "2026-10-19",
-          "hora": "14:37",
-          "link": "https://www.ft.com/content/2ad6e5dd-b8c2-4186-a6e2-ba27f222e1f0?syn-25a6b1a6=1"
+          "hora": "14:34",
+          "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-apos-novas-pesquisas-eleitorais-e-debate-entre-flavio-e-lula/"
         },
         {
-          "id": "3675da2d507a",
-          "titulo": "FTSE 100 newcomer Ithaca warns of halt to investment if Rosebank blocked",
-          "fonte": "FT Markets",
-          "data": "2026-10-19",
-          "hora": "14:37",
-          "link": "https://www.ft.com/content/2ad6e5dd-b8c2-4186-a6e2-ba27f222e1f0?syn-25a6b1a6=1"
-        },
-        {
-          "id": "38130a5d611f",
-          "titulo": "Rubio diz que Trump terá até 60 dias para reavaliar suspensão de sanções à Rússia",
+          "id": "95459be2f0bb",
+          "titulo": "Dólar abre em queda, na reta final da eleição e com petróleo no radar",
           "fonte": "G1 Economia",
           "data": "2026-10-19",
           "hora": "14:22",
-          "link": "https://g1.globo.com/mundo/noticia/2026/10/18/rubio-diz-que-trump-tera-ate-60-dias-para-reavaliar-suspensao-de-sancoes-a-russia.ghtml"
+          "link": "https://g1.globo.com/economia/noticia/2026/10/19/dolar-ibovespa.ghtml"
         },
         {
-          "id": "0ddd079f91c7",
-          "titulo": "Trump diz que não quer afastar Rússia de negociações e acusa Zelensky de prolongar guerra",
+          "id": "26c9fd429b99",
+          "titulo": "Perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas",
           "fonte": "G1 Economia",
           "data": "2026-10-19",
           "hora": "14:22",
-          "link": "https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-nao-quer-afastar-russia-de-negociacoes-e-acusa-zelensky-de-prolongar-guerra.ghtml"
+          "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/18/perdao-de-dividas-de-meis-pode-aliviar-contas-mas-nao-resolve-causas-dizem-especialistas.ghtml"
         },
         {
-          "id": "b2f763cb5c8f",
-          "titulo": "Crude oil comes off the highs as Trump waives Russian sanctions, but it's unlikely to be enough",
-          "fonte": "ForexLive",
+          "id": "2dc19215321a",
+          "titulo": "Taxas do Tesouro recuam até 9 pontos-base seguindo exterior, e em meio a pesquisas",
+          "fonte": "InfoMoney",
           "data": "2026-10-19",
-          "hora": "10:27",
-          "link": "https://investinglive.com/commodities/crude-oil-comes-off-the-highs-as-trump-waives-russian-sanctions-but-it-s-unlikely-to-be-enough/"
+          "hora": "14:18",
+          "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-19102026/"
         },
         {
-          "id": "c7d9ace788d7",
-          "titulo": "Trafigura Chief Economist Rahim: MidEast oil products flows down 4m b/d v. pre-war level.",
-          "fonte": "FinancialJuice",
+          "id": "3de8eee0f949",
+          "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+          "fonte": "InfoMoney",
           "data": "2026-10-19",
-          "hora": "09:48",
-          "link": "https://www.financialjuice.com/News/9811072/Trafigura-Chief-Economist-Rahim-MidEast-oil-products-flows-down-4m-bd-v-pre-war-level.aspx?xy=rss"
-        },
-        {
-          "id": "3f5e254cc7d4",
-          "titulo": "Trafigura Chief Economist Rahim: MidEast crude flows down 5m-7m b/d v. pre-war level.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-19",
-          "hora": "09:47",
-          "link": "https://www.financialjuice.com/News/9811071/Trafigura-Chief-Economist-Rahim-MidEast-crude-flows-down-5m-7m-bd-v-pre-war-level.aspx?xy=rss"
+          "hora": "14:05",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/"
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-20T11:12"
+      "atualizado_em": "2026-10-20T14:11"
     },
     {
       "titulo": "China mantém as taxas LPR pelo 17.º mês e o PBOC passa a injetar liquidez overnight diária até 2 de novembro",
       "sinal": "neutro",
-      "resumo": "Depois do PIB do 3T a crescer 4,5% (acima do esperado), a China manteve as taxas de referência e o PBOC lançou reverse repos overnight diários com teto de 1 trilhão de yuan, primeiro passo da mudança para a taxa overnight como taxa diretora. Em paralelo, os EUA retiraram a DeepSeek dos sistemas do governo civil e Pequim promete defender as suas empresas; o FT relata que o Japão está a meses de esgotar terras raras críticas com o aperto chinês ao ítrio.",
-      "impacto": "Procura chinesa estável sustenta minério e aço (VALE3, CSNA3, GGBR4, USIM5), mas a concorrência chinesa em frango e veículos e a fricção tecnológica EUA–China são riscos para exportadores brasileiros.",
+      "resumo": "Depois do PIB do 3T a crescer 4,5% (acima do esperado), a China manteve as taxas de referência e o PBOC lançou reverse repos overnight diários com teto de 1 trilhão de yuan, primeiro passo da mudança para a taxa overnight como taxa diretora. Em paralelo, os EUA retiraram a DeepSeek dos sistemas do governo civil e Pequim promete defender as suas empresas; o FT relata que o Japão está a meses de esgotar terras raras críticas com o aperto chinês ao ítrio. O Goldman Sachs subiu as previsões para o cobre com oferta mais apertada e a competição EUA–China.",
+      "impacto": "Procura chinesa estável sustenta minério e aço (VALE3, CSNA3, GGBR4, USIM5), mas a concorrência chinesa em frango e veículos e a fricção tecnológica EUA–China são riscos para exportadores brasileiros. O cobre mais firme reforça a opcionalidade de VALE3 nesse metal.",
       "especulacao": "",
-      "n_noticias": 18,
+      "n_noticias": 21,
       "noticias": [
+        {
+          "id": "7e59661ea15e",
+          "titulo": "Governo dos Estados Unidos veta uso da IA chinesa DeepSeek em agências governamentais",
+          "fonte": "G1 Economia",
+          "data": "2026-10-20",
+          "hora": "14:07",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/10/20/governo-dos-estados-unidos-veta-uso-da-ia-chinesa-deepseek-em-agencias-governamentais.ghtml"
+        },
+        {
+          "id": "6159fb9e93ba",
+          "titulo": "Efeito BYD: como Brasil virou 'laboratório' de empresas chinesas",
+          "fonte": "G1 Economia",
+          "data": "2026-10-20",
+          "hora": "14:07",
+          "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/20/efeito-byd-como-brasil-virou-laboratorio-de-empresas-chinesas.ghtml"
+        },
         {
           "id": "19a558d416d2",
           "titulo": "Luxury Feels The Pinch As Beijing Comes For The Offshore Billions",
@@ -1033,6 +1701,14 @@
           "data": "2026-10-20",
           "hora": "10:58",
           "link": "https://seekingalpha.com/article/4955425-luxury-feels-the-pinch-as-beijing-comes-for-the-offshore-billions?source=feed_all_articles"
+        },
+        {
+          "id": "bc81bf63917d",
+          "titulo": "Goldman Sachs: Copper - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "09:37",
+          "link": "https://www.financialjuice.com/News/9812752/Goldman-Sachs-Copper---FJElite.aspx?xy=rss"
         },
         {
           "id": "889c374c1f82",
@@ -1172,16 +1848,32 @@
         }
       ],
       "criado_em": "2026-10-20T11:12",
-      "atualizado_em": "2026-10-20T11:12"
+      "atualizado_em": "2026-10-20T14:11"
     },
     {
       "titulo": "Spread francês face à Alemanha alarga, admite Rehn do BCE, e bolsas europeias abrem em queda com o risco orçamental",
       "sinal": "risk_off",
-      "resumo": "Depois de protestos violentos em França e Itália terem derrubado ações, obrigações e o euro na segunda, Olli Rehn (BCE) reconheceu nesta terça que o diferencial francês face à Alemanha 'alargou um pouco'; as bolsas europeias abriram a recuar com yields e riscos orçamentais. Uma sondagem Cluster 17 dá Le Pen como vencedora da primeira volta de uma eleição francesa.",
+      "resumo": "Depois de protestos violentos em França e Itália terem derrubado ações, obrigações e o euro na segunda, Olli Rehn (BCE) reconheceu nesta terça que o diferencial francês face à Alemanha 'alargou um pouco'; as bolsas europeias abriram a recuar com yields e riscos orçamentais. Uma sondagem Cluster 17 dá Le Pen como vencedora da primeira volta de uma eleição francesa. Os prémios dos periféricos voltaram a alargar nesta terça, enquanto os gilts britânicos recuperaram terreno face aos pares do G7.",
       "impacto": "Stress soberano europeu reforça a procura por dólar e pressiona as moedas emergentes; efeito no Real indireto, via aversão global ao risco e yields mais altas.",
       "especulacao": "",
-      "n_noticias": 16,
+      "n_noticias": 19,
       "noticias": [
+        {
+          "id": "cf65312f0241",
+          "titulo": "AI Anxiety Returns, Peripheral Premiums Widen In Europe, And Oil Extends Gains",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:50",
+          "link": "https://seekingalpha.com/article/4955478-ai-anxiety-returns-peripheral-premiums-widen-europe-oil-extends-gains?source=feed_all_articles"
+        },
+        {
+          "id": "4313b365cd80",
+          "titulo": "Gilt market catches up with peers as investor worries over Budget ease",
+          "fonte": "FT Markets",
+          "data": "2026-10-20",
+          "hora": "12:54",
+          "link": "https://www.ft.com/content/31f86452-c16a-4fbf-b393-bb5282c1cb59?syn-25a6b1a6=1"
+        },
         {
           "id": "3d186d8f9694",
           "titulo": "ECB's Rehn: French spread to Germany has widened  \"somewhat\"",
@@ -1189,6 +1881,14 @@
           "data": "2026-10-20",
           "hora": "10:42",
           "link": "https://www.financialjuice.com/News/9812829/ECBs-Rehn-French-spread-to-Germany-has-widened--somewhat.aspx?xy=rss"
+        },
+        {
+          "id": "a33097fbfe16",
+          "titulo": "A modest increase in bank taxes is not the end of the world for lenders | Nils Pratley",
+          "fonte": "Guardian Business",
+          "data": "2026-10-20",
+          "hora": "09:00",
+          "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/20/modest-increase-bank-taxes-not-end-of-world-for-lenders"
         },
         {
           "id": "3e46bb28348c",
@@ -1312,16 +2012,188 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-20T11:12"
+      "atualizado_em": "2026-10-20T14:11"
     },
     {
-      "titulo": "Pesquisa Real Time Big Data após o debate da Band dá Flávio Bolsonaro com 52% e Lula com 48% no 2.º turno",
+      "titulo": "Temporada do 3T: GM, GE Aerospace e 3M batem estimativas e a WEG divulga na quarta antes da abertura",
       "sinal": "neutro",
-      "resumo": "O levantamento divulgado nesta terça mostra empate técnico; um recorte BTG/Nexus indica que a rejeição de Flávio supera a de Lula entre os eleitores não polarizados e a Quaest divulga hoje nova pesquisa. O governo antecipou o calendário do Bolsa Família para antes do 2.º turno e a campanha de Flávio fala numa regra de transição de dois anos para o programa; o TSE abriu investigação à campanha por uso indevido dos meios de comunicação.",
-      "impacto": "A corrida apertada é o principal driver doméstico: pesquisas favoráveis a Flávio têm sido lidas pelo mercado com queda de DI e do dólar e alta de estatais (PETR4, BBAS3, CMIG4); viragem para Lula tenderia a inverter o movimento.",
+      "resumo": "Nesta terça a GM reportou EPS ajustado de US$ 3,70 (estimativa 3,56) e receita de US$ 50,02 bilhões, a GE Aerospace EPS de US$ 2,25 (estimativa 2,01), a 3M EPS de US$ 2,50 (estimativa 2,38) e a RTX ficou em linha (US$ 1,79) com receita acima; a Netflix reporta após o fecho e a Amazon a 29/10. Da carteira, a WEGE3 divulga a 21/10 antes da abertura e a VALE3 a 29/10 após o fecho; a Petrobras publica produção a 28/10 e resultados a 10/11, e GGBR4, USIM5 e BBDC4 têm data estimada para 29/10.",
+      "impacto": "Resultados industriais fortes nos EUA (GE Aerospace, 3M, GM) são leitura positiva para a WEGE3 na véspera do seu 3T; a Cleveland-Cliffs e a Steel Dynamics dão a primeira leitura do aço americano para GGBR4 (operação nos EUA), CSNA3 e USIM5. Balanços de mega-caps com capex de IA podem reacender ou acalmar a volatilidade global que passa ao Ibovespa.",
       "especulacao": "",
-      "n_noticias": 15,
+      "n_noticias": 19,
       "noticias": [
+        {
+          "id": "3f02be3c6bf4",
+          "titulo": "RTX Corporation 2026 Q3 - Results - Earnings Call Presentation",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "14:01",
+          "link": "https://seekingalpha.com/article/4955482-rtx-corporation-2026-q3-results-earnings-call-presentation?source=feed_all_articles"
+        },
+        {
+          "id": "bca4bf313b12",
+          "titulo": "Steel Dynamics: Strong Expectations Already Priced In",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:30",
+          "link": "https://seekingalpha.com/article/4955373-steel-dynamics-strong-expectations-already-priced-in?source=feed_all_articles"
+        },
+        {
+          "id": "76fb406f65ae",
+          "titulo": "Alphabet: Consolidation Brings Great Opportunity (Q3 Preview)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:30",
+          "link": "https://seekingalpha.com/article/4955455-alphabet-consolidation-brings-great-opportunity-q3-preview?source=feed_all_articles"
+        },
+        {
+          "id": "bf7f30ff4285",
+          "titulo": "Blackstone: Expectations Sit Low Going Into Q3 Earnings While The Yield Approaches 5%",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:30",
+          "link": "https://seekingalpha.com/article/4955358-blackstone-expectations-sit-low-going-into-q3-earnings-while-the-yield-approaches-5-percent?source=feed_all_articles"
+        },
+        {
+          "id": "98c29ce4712b",
+          "titulo": "Amazon: Buy Now Before Q3 Earnings On 29 October",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "13:09",
+          "link": "https://seekingalpha.com/article/4955450-amazon-buy-now-before-q3-earnings-on-29-october?source=feed_all_articles"
+        },
+        {
+          "id": "a76577936329",
+          "titulo": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
+          "fonte": "MarketWatch",
+          "data": "2026-10-20",
+          "hora": "12:30",
+          "link": "https://www.marketwatch.com/story/the-ai-boom-is-getting-all-the-attention-were-about-to-find-out-how-the-rest-of-the-economy-is-holding-up-77b2266d?mod=mw_rss_topstories"
+        },
+        {
+          "id": "f72c9ff8ee7e",
+          "titulo": "$RTX RTX Q3 2026 Earnings",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "11:56",
+          "link": "https://www.financialjuice.com/News/9812923/RTX-RTX-Q3-2026-Earnings.aspx?xy=rss"
+        },
+        {
+          "id": "1255566428af",
+          "titulo": "$MMM 3M Q3 Earnings",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "11:32",
+          "link": "https://www.financialjuice.com/News/9812902/MMM-3M-Q3-Earnings.aspx?xy=rss"
+        },
+        {
+          "id": "74f20c16ed8a",
+          "titulo": "$GM General Motors Q3 Earnings",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "11:31",
+          "link": "https://www.financialjuice.com/News/9812896/GM-General-Motors-Q3-Earnings.aspx?xy=rss"
+        },
+        {
+          "id": "6cb7a2dae7f7",
+          "titulo": "$GE GE Aerospace Q3 Earnings",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-20",
+          "hora": "11:26",
+          "link": "https://www.financialjuice.com/News/9812474/GE-GE-Aerospace-Q3-Earnings.aspx?xy=rss"
+        },
+        {
+          "id": "dd7448c2cd2b",
+          "titulo": "Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª",
+          "fonte": "InfoMoney",
+          "data": "2026-10-20",
+          "hora": "10:34",
+          "link": "https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/"
+        },
+        {
+          "id": "b2785c94badb",
+          "titulo": "Goldman Sachs: Undervalued Growth With A Buy Rating",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "09:13",
+          "link": "https://seekingalpha.com/article/4955399-goldman-sachs-stock-undervalued-growth-with-buy-rating?source=feed_all_articles"
+        },
+        {
+          "id": "460b8b450abb",
+          "titulo": "Novas pesquisas eleitorais e balanços de Netflix e SpaceX: o que move os mercados",
+          "fonte": "Exame",
+          "data": "2026-10-20",
+          "hora": "05:30",
+          "link": "https://exame.com/invest/mercados/novas-pesquisas-eleitorais-e-balancos-de-netflix-e-spacex-o-que-move-os-mercados/"
+        },
+        {
+          "id": "92e27b233068",
+          "titulo": "How to trade gold today before Netflix reports tonight",
+          "fonte": "ForexLive",
+          "data": "2026-10-20",
+          "hora": "05:10",
+          "link": "https://investinglive.com/commodities/how-to-trade-gold-today-before-netflix-reports-tonight/"
+        },
+        {
+          "id": "184687746bf8",
+          "titulo": "Cleveland-Cliffs Inc. 2026 Q3 - Results - Earnings Call Presentation",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "15:31",
+          "link": "https://seekingalpha.com/article/4955222-cleveland-cliffs-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles"
+        },
+        {
+          "id": "258fdf66fc59",
+          "titulo": "Automob (AMOB3) tem alta de 9% na receita bruta no 3º trimestre",
+          "fonte": "InfoMoney",
+          "data": "2026-10-19",
+          "hora": "14:10",
+          "link": "https://www.infomoney.com.br/mercados/automob-amob3-tem-alta-de-9-na-receita-bruta-no-3o-trimestre/"
+        },
+        {
+          "id": "c4d1223d75fd",
+          "titulo": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+          "fonte": "MarketWatch",
+          "data": "2026-10-19",
+          "hora": "12:53",
+          "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories"
+        },
+        {
+          "id": "39cf7edbf4c7",
+          "titulo": "Microsoft: What To Watch For In The Q1 Release",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-19",
+          "hora": "12:52",
+          "link": "https://seekingalpha.com/article/4955156-microsoft-what-to-watch-for-in-the-q1-release?source=feed_all_articles"
+        },
+        {
+          "id": "5082c43a869e",
+          "titulo": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
+          "fonte": "MarketWatch",
+          "data": "2026-10-19",
+          "hora": "12:30",
+          "link": "https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories"
+        }
+      ],
+      "criado_em": "2026-10-19T14:27",
+      "atualizado_em": "2026-10-20T14:11"
+    },
+    {
+      "titulo": "Pesquisas pós-debate dão Flávio Bolsonaro à frente de Lula no 2.º turno, dentro da margem de erro",
+      "sinal": "neutro",
+      "resumo": "A Real Time Big Data dá Flávio com 52% e Lula com 48% e a Alfa 51,5% contra 48,5%, ambas em empate técnico; um recorte BTG/Nexus indica que a rejeição de Flávio supera a de Lula entre os eleitores não polarizados. O governo antecipou o calendário do Bolsa Família para antes do 2.º turno, a campanha de Flávio fala numa regra de transição de dois anos para o programa e a InfoMoney compara as propostas dos dois para a reforma tributária.",
+      "impacto": "A corrida apertada é o principal driver doméstico: pesquisas favoráveis a Flávio têm sido lidas com queda de DI e do dólar e alta de estatais (PETR4, BBAS3, CMIG4); viragem para Lula tenderia a inverter o movimento.",
+      "especulacao": "",
+      "n_noticias": 18,
+      "noticias": [
+        {
+          "id": "a26d7a76e932",
+          "titulo": "Eleições 2026: O que Lula e Flávio Bolsonaro propõem para reforma tributária",
+          "fonte": "InfoMoney",
+          "data": "2026-10-20",
+          "hora": "14:00",
+          "link": "https://www.infomoney.com.br/politica/propostas-lula-flavio-reforma-tributaria/"
+        },
         {
           "id": "9e9c5689920c",
           "titulo": "Governo antecipa calendário do Bolsa Família a seis dias do 2º turno; veja as datas",
@@ -1337,6 +2209,22 @@
           "data": "2026-10-20",
           "hora": "10:00",
           "link": "https://www.infomoney.com.br/politica/a-4-dias-do-2o-turno-quaest-mostrara-o-que-eleitores-buscam-no-proximo-presidente/"
+        },
+        {
+          "id": "064fcc59ac36",
+          "titulo": "Ibovespa futuro sobe mais de 1% e dólar cai após pesquisas eleitorais pós-debate",
+          "fonte": "Exame",
+          "data": "2026-10-20",
+          "hora": "09:39",
+          "link": "https://exame.com/invest/mercados/ibovespa-futuro-sobe-mais-de-1-e-dolar-cai-apos-pesquisas-eleitorais-pos-debate/"
+        },
+        {
+          "id": "0f0a5682378b",
+          "titulo": "Pesquisa para presidente Alfa: Flávio Bolsonaro tem 51,5% e Lula, 48,5%, no 2º turno",
+          "fonte": "Exame",
+          "data": "2026-10-20",
+          "hora": "07:31",
+          "link": "https://exame.com/brasil/pesquisa-para-presidente-alfa-flavio-bolsonaro-tem-515-e-lula-485-no-2o-turno/"
         },
         {
           "id": "6b59ee3d9690",
@@ -1444,140 +2332,40 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-20T11:12"
+      "atualizado_em": "2026-10-20T14:11"
     },
     {
-      "titulo": "Dólar fecha a R$ 5,04 e Ibovespa recua na segunda; Justiça encerra a recuperação judicial da Americanas",
-      "sinal": "neutro",
-      "resumo": "O Ibovespa virou para queda à tarde depois de abrir em alta com o debate, tentando defender os 205 mil pontos, enquanto o dólar caiu para R$ 5,04 e os DI e as taxas do Tesouro recuaram até 9 pontos-base. Entre as empresas, a Justiça encerrou a recuperação judicial da Americanas ao fim de três anos, a InfoMoney analisa o caminho da Vale para dobrar a produção de cobre e a Marcopolo acelera na Europa.",
-      "impacto": "Fim da RJ é um marco para AMER3 (remove a supervisão judicial e abre caminho à normalização do crédito); câmbio e juros a ceder ajudam bancos, construtoras (CYRE3, MRVE3) e utilities; VALE3 com opcionalidade no cobre antes do 3T a 29/10.",
-      "especulacao": "",
-      "n_noticias": 14,
-      "noticias": [
-        {
-          "id": "da2c76029fe9",
-          "titulo": "Dólar cai e fecha a R$ 5,04 com mercado de olho na reta final das eleições; Ibovespa recua",
-          "fonte": "G1 Economia",
-          "data": "2026-10-20",
-          "hora": "11:05",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/19/dolar-ibovespa.ghtml"
-        },
-        {
-          "id": "7428e133c4c6",
-          "titulo": "Justiça encerra recuperação judicial da Americanas",
-          "fonte": "G1 Economia",
-          "data": "2026-10-20",
-          "hora": "11:05",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/19/justica-do-rj-fim-de-recuperacao-judicial-da-americanas.ghtml"
-        },
-        {
-          "id": "1b283a896f30",
-          "titulo": "Além do minério de ferro: o que falta para a Vale (VALE3) dobrar a produção de cobre?",
-          "fonte": "InfoMoney",
-          "data": "2026-10-20",
-          "hora": "10:00",
-          "link": "https://www.infomoney.com.br/mercados/alem-do-minerio-de-ferro-o-que-falta-para-a-vale-vale3-dobrar-a-producao-de-cobre/"
-        },
-        {
-          "id": "5dd682a5bf79",
-          "titulo": "Marcopolo abre avenida na Europa após vendas desacelerarem no Brasil",
-          "fonte": "Exame",
-          "data": "2026-10-20",
-          "hora": "07:00",
-          "link": "https://exame.com/exame-in/na-marcopolo-uma-avenida-de-crescimento-na-europa-apos-vendas-abaixo-do-previsto-no-brasil/"
-        },
-        {
-          "id": "28b5c7bf424f",
-          "titulo": "Justiça encerra recuperação judicial da Americanas após três anos",
-          "fonte": "Exame",
-          "data": "2026-10-19",
-          "hora": "21:01",
-          "link": "https://exame.com/invest/mercados/justica-encerra-recuperacao-judicial-da-americanas-apos-tres-anos/"
-        },
-        {
-          "id": "2c5788bf1105",
-          "titulo": "Juros em queda e reforma nas estatais abrem espaço para alta na Bolsa, sugere Vinland",
-          "fonte": "InfoMoney",
-          "data": "2026-10-19",
-          "hora": "16:00",
-          "link": "https://www.infomoney.com.br/onde-investir/juros-em-queda-e-reforma-nas-estatais-abrem-espaco-para-alta-na-bolsa-sugere-vinland/"
-        },
-        {
-          "id": "7f017a801a10",
-          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e tenta manter os 205 mil pontos",
-          "fonte": "InfoMoney",
-          "data": "2026-10-19",
-          "hora": "15:50",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/"
-        },
-        {
-          "id": "166056c019e0",
-          "titulo": "Dólar opera em queda e Ibovespa sobe na reta final da eleição presidencial",
-          "fonte": "G1 Economia",
-          "data": "2026-10-19",
-          "hora": "15:09",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/19/dolar-ibovespa.ghtml"
-        },
-        {
-          "id": "16e0d1c4ad47",
-          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe após debate e com pesquisas em foco",
-          "fonte": "InfoMoney",
-          "data": "2026-10-19",
-          "hora": "14:40",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/"
-        },
-        {
-          "id": "b88be57a7682",
-          "titulo": "Taxas dos DIs caem após novas pesquisas eleitorais e debate entre Flávio e Lula",
-          "fonte": "InfoMoney",
-          "data": "2026-10-19",
-          "hora": "14:34",
-          "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-apos-novas-pesquisas-eleitorais-e-debate-entre-flavio-e-lula/"
-        },
-        {
-          "id": "95459be2f0bb",
-          "titulo": "Dólar abre em queda, na reta final da eleição e com petróleo no radar",
-          "fonte": "G1 Economia",
-          "data": "2026-10-19",
-          "hora": "14:22",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/19/dolar-ibovespa.ghtml"
-        },
-        {
-          "id": "26c9fd429b99",
-          "titulo": "Perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas",
-          "fonte": "G1 Economia",
-          "data": "2026-10-19",
-          "hora": "14:22",
-          "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/18/perdao-de-dividas-de-meis-pode-aliviar-contas-mas-nao-resolve-causas-dizem-especialistas.ghtml"
-        },
-        {
-          "id": "2dc19215321a",
-          "titulo": "Taxas do Tesouro recuam até 9 pontos-base seguindo exterior, e em meio a pesquisas",
-          "fonte": "InfoMoney",
-          "data": "2026-10-19",
-          "hora": "14:18",
-          "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-19102026/"
-        },
-        {
-          "id": "3de8eee0f949",
-          "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-          "fonte": "InfoMoney",
-          "data": "2026-10-19",
-          "hora": "14:05",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/"
-        }
-      ],
-      "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-20T11:12"
-    },
-    {
-      "titulo": "Crédito americano em tensão: CCC no pior nível do ano e disparo na procura de proteção contra incumprimento das big tech",
+      "titulo": "Crédito americano no pior nível do ano: CCC e high yield no topo do intervalo e índice de risco da app a 79,3",
       "sinal": "risk_off",
-      "resumo": "O índice de risco de crédito da app está em 78,3 ('tenso'), mais 10 pontos em 7 dias, com o OAS do CCC a 12,78 p.p. (+2,27 p.p. em 30 dias, fecho de 15/10) no percentil 99,5 do ano e o high yield a 3,23 p.p. O FT relata que o volume de CDS ligados às grandes tecnológicas disparou com o receio sobre a dívida da IA, a MarketWatch nota que o junk de pior qualidade está a enviar sinais de alerta e o Banco de Inglaterra está a rever a exposição do Barclays a crédito privado.",
+      "resumo": "O índice de risco de crédito da app está em 79,3 ('tenso'), mais 11,3 pontos em 7 dias, com o OAS do CCC a 12,97 p.p. (+2,43 p.p. em 30 dias) e o high yield a 3,31 p.p., ambos no topo do ano (fecho de 16/10); só o rácio HYG/LQD continua calmo (percentil 23,5). O FT relata que o volume de CDS ligados às grandes tecnológicas disparou com o receio sobre a dívida da IA e um analista do JPMorgan estimou a exposição dos bancos a um incumprimento da CoreWeave.",
       "impacto": "Spreads a abrir com yields a subir apertam as condições financeiras globais: negativo para fluxo a emergentes, para os bancos (ITUB4, BBDC4, BBAS3, BPAC11) pelo canal do custo de funding e para empresas alavancadas da carteira.",
       "especulacao": "",
-      "n_noticias": 10,
+      "n_noticias": 13,
       "noticias": [
+        {
+          "id": "8369171e0e51",
+          "titulo": "The Coming Wave Of IG Supply Is A Case For Selectivity",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-20",
+          "hora": "14:00",
+          "link": "https://seekingalpha.com/article/4955429-coming-wave-ig-supply-case-selectivity?source=feed_all_articles"
+        },
+        {
+          "id": "57914229ebc9",
+          "titulo": "What happens to Wall Street if CoreWeave defaults? JPMorgan checked the math.",
+          "fonte": "MarketWatch",
+          "data": "2026-10-20",
+          "hora": "13:10",
+          "link": "https://www.marketwatch.com/story/what-happens-to-wall-street-if-coreweave-defaults-jpmorgan-checked-the-math-cd16938c?mod=mw_rss_topstories"
+        },
+        {
+          "id": "6c3a643bd5d8",
+          "titulo": "Is CoreWeave the Silicon Valley Bank of 2026?",
+          "fonte": "FT Markets",
+          "data": "2026-10-20",
+          "hora": "12:50",
+          "link": "https://www.ft.com/content/4fb42dd7-a72c-4e20-9e7c-cdc9d3215159"
+        },
         {
           "id": "048d88ecebc8",
           "titulo": "Bonds Are Down, CLOs Are Up: What The 10Y At 5% Is Saying",
@@ -1660,100 +2448,24 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-20T11:12"
-    },
-    {
-      "titulo": "Temporada do 3T: Netflix e SpaceX reportam esta terça nos EUA e a WEG abre a carteira na quarta antes da abertura",
-      "sinal": "neutro",
-      "resumo": "Nos EUA, Netflix e SpaceX divulgam esta terça, a Cleveland-Cliffs já apresentou o 3T e a Microsoft está entre os próximos; no Brasil a Automob (AMOB3) teve receita bruta 9% maior no 3T. Da carteira, a WEGE3 divulga a 21/10 antes da abertura e a VALE3 a 29/10 após o fecho; ITUB4, GGBR4, USIM5, BBDC4 e PRIO3 têm datas apenas estimadas (fim de outubro a início de novembro).",
-      "impacto": "O resultado da Cleveland-Cliffs é a primeira leitura do aço americano para GGBR4 (que tem operação nos EUA), CSNA3 e USIM5; a WEGE3 testa o múltiplo elevado na quarta. Balanços de mega-caps com capex de IA podem reacender ou acalmar a volatilidade global que passa ao Ibovespa.",
-      "especulacao": "",
-      "n_noticias": 9,
-      "noticias": [
-        {
-          "id": "dd7448c2cd2b",
-          "titulo": "Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª",
-          "fonte": "InfoMoney",
-          "data": "2026-10-20",
-          "hora": "10:34",
-          "link": "https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/"
-        },
-        {
-          "id": "b2785c94badb",
-          "titulo": "Goldman Sachs: Undervalued Growth With A Buy Rating",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-20",
-          "hora": "09:13",
-          "link": "https://seekingalpha.com/article/4955399-goldman-sachs-stock-undervalued-growth-with-buy-rating?source=feed_all_articles"
-        },
-        {
-          "id": "460b8b450abb",
-          "titulo": "Novas pesquisas eleitorais e balanços de Netflix e SpaceX: o que move os mercados",
-          "fonte": "Exame",
-          "data": "2026-10-20",
-          "hora": "05:30",
-          "link": "https://exame.com/invest/mercados/novas-pesquisas-eleitorais-e-balancos-de-netflix-e-spacex-o-que-move-os-mercados/"
-        },
-        {
-          "id": "92e27b233068",
-          "titulo": "How to trade gold today before Netflix reports tonight",
-          "fonte": "ForexLive",
-          "data": "2026-10-20",
-          "hora": "05:10",
-          "link": "https://investinglive.com/commodities/how-to-trade-gold-today-before-netflix-reports-tonight/"
-        },
-        {
-          "id": "184687746bf8",
-          "titulo": "Cleveland-Cliffs Inc. 2026 Q3 - Results - Earnings Call Presentation",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "15:31",
-          "link": "https://seekingalpha.com/article/4955222-cleveland-cliffs-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles"
-        },
-        {
-          "id": "258fdf66fc59",
-          "titulo": "Automob (AMOB3) tem alta de 9% na receita bruta no 3º trimestre",
-          "fonte": "InfoMoney",
-          "data": "2026-10-19",
-          "hora": "14:10",
-          "link": "https://www.infomoney.com.br/mercados/automob-amob3-tem-alta-de-9-na-receita-bruta-no-3o-trimestre/"
-        },
-        {
-          "id": "c4d1223d75fd",
-          "titulo": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-          "fonte": "MarketWatch",
-          "data": "2026-10-19",
-          "hora": "12:53",
-          "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories"
-        },
-        {
-          "id": "39cf7edbf4c7",
-          "titulo": "Microsoft: What To Watch For In The Q1 Release",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-19",
-          "hora": "12:52",
-          "link": "https://seekingalpha.com/article/4955156-microsoft-what-to-watch-for-in-the-q1-release?source=feed_all_articles"
-        },
-        {
-          "id": "5082c43a869e",
-          "titulo": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
-          "fonte": "MarketWatch",
-          "data": "2026-10-19",
-          "hora": "12:30",
-          "link": "https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories"
-        }
-      ],
-      "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-20T11:12"
+      "atualizado_em": "2026-10-20T14:11"
     },
     {
       "titulo": "JPMorgan leva o JPM Coin à rede principal do Ethereum e o ouro digital triplica para US$ 55 bilhões",
       "sinal": "neutro",
-      "resumo": "O JPMorgan estendeu o JPMD, o seu token de depósito em dólares, ao Ethereum para clientes institucionais aprovados; o World Gold Council estima a posse global de ouro tokenizado em 370 toneladas (US$ 55 bilhões) e a Mesh e a Visa permitem gastar saldos cripto em 175 milhões de comerciantes. A Strategy comprou mais 267 BTC e o índice Fear & Greed cripto está em 59 (ganância), enquanto o Ethereum consolida.",
+      "resumo": "O JPMorgan estendeu o JPMD, o seu token de depósito em dólares, ao Ethereum para clientes institucionais aprovados; o World Gold Council estima a posse global de ouro tokenizado em 370 toneladas (US$ 55 bilhões) e a Mesh e a Visa permitem gastar saldos cripto em 175 milhões de comerciantes. A Strategy comprou mais 267 BTC e o índice Fear & Greed cripto está em 59 (ganância), enquanto o Ethereum consolida. A Solana está sob pressão com os ventos contrários macro e geopolíticos, apesar da atualização Alpenglow.",
       "impacto": "Adoção institucional é suporte estrutural para ETH e BTC na carteira cripto; no curto prazo os tokens seguem o apetite por risco e as yields.",
-      "especulacao": "",
-      "n_noticias": 8,
+      "especulacao": "Um analista citado pela Exame prevê o bitcoin a US$ 1 milhão neste ciclo; é projeção, não dado.",
+      "n_noticias": 10,
       "noticias": [
+        {
+          "id": "2a65626b5d82",
+          "titulo": "Solana remains under pressure as macro and geopolitical headwinds overshadow Alpenglow upgrade",
+          "fonte": "ForexLive",
+          "data": "2026-10-20",
+          "hora": "11:26",
+          "link": "https://investinglive.com/cryptocurrency/solana-remains-under-pressure-as-macro-and-geopolitical-headwinds-overshadow-alpenglow-upgrade/"
+        },
         {
           "id": "3764059cf3e0",
           "titulo": "Ethereum consolidates around key technical levels amid a challenging macro backdrop. What to watch next?",
@@ -1761,6 +2473,14 @@
           "data": "2026-10-20",
           "hora": "09:33",
           "link": "https://investinglive.com/cryptocurrency/ethereum-consolidates-around-key-technical-levels-amid-a-challenging-macro-backdrop-what-to-watch-next/"
+        },
+        {
+          "id": "fecd9f85edb3",
+          "titulo": "Analista prevê bitcoin a US$ 1 milhão neste ciclo com analogia ao 'boom da internet'",
+          "fonte": "Exame",
+          "data": "2026-10-20",
+          "hora": "09:30",
+          "link": "https://exame.com/future-of-money/analista-preve-bitcoin-a-us-1-milhao-neste-ciclo-com-analogia-ao-boom-da-internet/"
         },
         {
           "id": "e67ae6f37c39",
@@ -1820,7 +2540,7 @@
         }
       ],
       "criado_em": "2026-10-19T14:27",
-      "atualizado_em": "2026-10-20T11:12"
+      "atualizado_em": "2026-10-20T14:11"
     },
     {
       "titulo": "México suspende importação de frango do Brasil após foco da doença de Newcastle numa granja de perus em SC",
@@ -1828,7 +2548,7 @@
       "resumo": "O Ministério da Agricultura confirmou um foco da doença de Newcastle numa granja de perus em Santa Catarina e mais de 130 granjas estão a ser monitorizadas; o México suspendeu as importações de frango brasileiro e o G1 nota o risco para as exportações para a China, num momento em que a China já oferece frango até 20% mais barato aos clientes do Brasil.",
       "impacto": "Negativo para JBSS32 (Seara, exposição a aves e às exportações de SC); suspensões em cadeia por outros importadores ampliariam o efeito. BEEF3 (carne bovina) é menos exposta.",
       "especulacao": "",
-      "n_noticias": 5,
+      "n_noticias": 6,
       "noticias": [
         {
           "id": "5994b23efeff",
@@ -1863,6 +2583,14 @@
           "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/doenca-newcastle-130-granjas-monitoradas-confirmacao-foco-sc.ghtml"
         },
         {
+          "id": "6fb3a197a53d",
+          "titulo": "México suspende importação de frango brasileiro por Doença de Newcastle; entenda o que é",
+          "fonte": "Exame",
+          "data": "2026-10-20",
+          "hora": "07:46",
+          "link": "https://exame.com/agro/mexico-suspende-importacao-de-frango-brasileiro-por-doenca-de-newcastle-entenda-o-que-e/"
+        },
+        {
           "id": "da9041f85bcf",
           "titulo": "Depois dos carros, a carne: como a China avança sobre clientes do Brasil com frango até 20% mais barato",
           "fonte": "G1 Economia",
@@ -1872,7 +2600,7 @@
         }
       ],
       "criado_em": "2026-10-20T11:12",
-      "atualizado_em": "2026-10-20T11:12"
+      "atualizado_em": "2026-10-20T14:11"
     }
   ]
 }
