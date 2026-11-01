@@ -1,15 +1,79 @@
 {
-  "atualizado_em": "2026-10-31T11:20",
-  "total_feed": 376,
+  "atualizado_em": "2026-10-31T18:08",
+  "total_feed": 316,
   "temas": [
     {
-      "titulo": "Big tech fecha outubro com o pior mês do Nasdaq desde março de 2025 e a OpenAI reduz em US$ 10 bilhões a meta de captação",
+      "titulo": "Big tech fecha outubro com o pior mês do Nasdaq desde março de 2025 e o custo da IA domina as leituras dos balanços",
       "sinal": "risk_off",
-      "resumo": "O Nasdaq Composite caiu 5,3% em outubro, com a Intel a afundar 29% num só dia, o pior em pelo menos quatro décadas, e a Alphabet a perder cerca de US$ 500 bilhões após o balanço. Segundo o FT, a OpenAI procura agora cerca de US$ 20 bilhões a uma avaliação de US$ 1,25 trilhão, e a Blackstone espera que a Anthropic receba rating 'high junk' após o IPO; a S&P diz que a Meta tem menos capacidade do que os pares para rentabilizar o investimento em IA.",
+      "resumo": "O Nasdaq caiu 5,3% em outubro, com a Intel a afundar 29% num só dia, o pior em pelo menos quatro décadas, e a Alphabet a perder cerca de US$ 500 bilhões após o balanço. Segundo o FT, a OpenAI reduziu em US$ 10 bilhões a meta de captação, para cerca de US$ 20 bilhões a uma avaliação de US$ 1,25 trilhão, e a Blackstone espera rating 'high junk' para a Anthropic após o IPO; a Meta construiu com uma startup chinesa um protótipo de humanoide, segundo o The Information.",
       "impacto": "Aversão a risco global e saída de emergentes pesam no Ibovespa via estrangeiro; a próxima semana traz os balanços de Apple, AMD e Palantir. Sem proxy direto de tech na carteira, o canal é o fluxo e o dólar.",
       "especulacao": "",
-      "n_noticias": 39,
+      "n_noticias": 30,
       "noticias": [
+        {
+          "id": "46bc717591b2",
+          "titulo": "IA virou um problema para as gigantes de tecnologia? Entenda o tombo bilionário nas bolsas",
+          "fonte": "G1 Economia",
+          "data": "2026-10-31",
+          "hora": "18:02",
+          "link": "https://g1.globo.com/economia/noticia/2026/10/31/ia-virou-um-problema-para-as-gigantes-de-tecnologia-entenda-o-tombo-bilionario-nas-bolsas.ghtml"
+        },
+        {
+          "id": "e5dd95cbd90a",
+          "titulo": "Alphabet: Noisy Q3 Metrics Meet Outsized Cloud Opportunities - Deep Value Buy",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-31",
+          "hora": "15:00",
+          "link": "https://seekingalpha.com/article/4960433-alphabet-noisy-q3-metrics-meet-outsized-cloud-opportunities-deep-value-buy?source=feed_all_articles"
+        },
+        {
+          "id": "3126b1380907",
+          "titulo": "Lumentum: Buy Before Earnings And A Potential Takeover (Rating Downgrade)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-31",
+          "hora": "13:16",
+          "link": "https://seekingalpha.com/article/4960644-lumentum-buy-before-earnings-and-a-potential-takeover-rating-downgrade?source=feed_all_articles"
+        },
+        {
+          "id": "62b992495f96",
+          "titulo": "Microsoft Q1: CROCI Says My 'Trim, Not Exit' Thesis Remains Firmly In Place",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-31",
+          "hora": "13:07",
+          "link": "https://seekingalpha.com/article/4960643-microsoft-q1-croci-says-my-trim-not-exit-thesis-remains-firmly-in-place?source=feed_all_articles"
+        },
+        {
+          "id": "c5ca3141a2ab",
+          "titulo": "Meta and Fourier constructed the roughly 106-pound humanoid known as Max in just three months: The Information",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:03",
+          "link": "https://www.financialjuice.com/News/9830891/Meta-and-Fourier-constructed-the-roughly-106-pound-humanoid-known-as-Max-in-just-three-months-The-Information.aspx?xy=rss"
+        },
+        {
+          "id": "af3c2c6dbf1d",
+          "titulo": "Meta builds humanoid prototype with Chinese startup to accelerate robotics drive - The Information",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:02",
+          "link": "https://www.financialjuice.com/News/9830890/Meta-builds-humanoid-prototype-with-Chinese-startup-to-accelerate-robotics-drive---The-Information.aspx?xy=rss"
+        },
+        {
+          "id": "2673817f415e",
+          "titulo": "Apple Leads Packed Earnings Calendar As Investors Eye Tech, Pharma Results",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-31",
+          "hora": "12:00",
+          "link": "https://seekingalpha.com/article/4960413-apple-leads-packed-earnings-calendar-as-investors-eye-tech-pharma-results?source=feed_all_articles"
+        },
+        {
+          "id": "680689f3f6cd",
+          "titulo": "OpenAI, Google e Microsoft prometem novo bloqueio para treinamento de IA",
+          "fonte": "Exame",
+          "data": "2026-10-31",
+          "hora": "11:02",
+          "link": "https://exame.com/tecnologia/openai-google-e-microsoft-prometem-novo-bloqueio-para-treinamento-de-ia/"
+        },
         {
           "id": "f02f74549877",
           "titulo": "Sandisk: The Selloff Is Just The Beginning",
@@ -41,22 +105,6 @@
           "data": "2026-10-31",
           "hora": "10:15",
           "link": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories"
-        },
-        {
-          "id": "7bed5be6b05d",
-          "titulo": "Cipher Digital And TeraWulf Vs. CoreWeave: Less Debt, More Upside",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-31",
-          "hora": "10:05",
-          "link": "https://seekingalpha.com/article/4960620-cifr-and-wulf-vs-crwv-less-debt-more-upside?source=feed_all_articles"
-        },
-        {
-          "id": "fea9fc23f8d8",
-          "titulo": "Don't Buy This Halloween Bloodbath",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-31",
-          "hora": "10:03",
-          "link": "https://seekingalpha.com/article/4960619-dont-buy-this-halloween-bloodbath?source=feed_all_articles"
         },
         {
           "id": "d808be28758e",
@@ -123,14 +171,6 @@
           "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1"
         },
         {
-          "id": "e539701817da",
-          "titulo": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-          "fonte": "MarketWatch",
-          "data": "2026-10-30",
-          "hora": "20:14",
-          "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories"
-        },
-        {
           "id": "cf5100e56a97",
           "titulo": "investingLive Americas FX news wrap 30 Oct: It’s a wrap: Nasdaq tumbles as AI costs worry investors; Fed speakers keep hikes in play",
           "fonte": "ForexLive",
@@ -195,22 +235,6 @@
           "link": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer"
         },
         {
-          "id": "eed8e6d953af",
-          "titulo": "Earnings next week: Can Apple, Palantir and AMD restore confidence?",
-          "fonte": "ForexLive",
-          "data": "2026-10-30",
-          "hora": "15:53",
-          "link": "https://investinglive.com/stocks/earnings-next-week-can-apple-palantir-and-amd-restore-confidence/"
-        },
-        {
-          "id": "ed0acd2f5444",
-          "titulo": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
-          "fonte": "Guardian Business",
-          "data": "2026-10-30",
-          "hora": "15:27",
-          "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report"
-        },
-        {
           "id": "cfdaa9935fc7",
           "titulo": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
           "fonte": "FT Markets",
@@ -225,327 +249,215 @@
           "data": "2026-10-30",
           "hora": "14:19",
           "link": "https://investinglive.com/stocks/anthropic-may-not-secure-investment-grade-rating-after-ipo-ft-reports/"
-        },
-        {
-          "id": "a4cadf0e665c",
-          "titulo": "How has the Magnificent 7 done relatively to the broader stock indices today?",
-          "fonte": "ForexLive",
-          "data": "2026-10-30",
-          "hora": "13:52",
-          "link": "https://investinglive.com/stocks/how-has-the-magnificent-7-done-relatively-to-the-broader-stock-indices-today/"
-        },
-        {
-          "id": "d1b837f0736c",
-          "titulo": "AMD: Circular AI Financing With Meta Just Reached A New Level",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-30",
-          "hora": "12:05",
-          "link": "https://seekingalpha.com/article/4960227-amd-circular-ai-financing-with-meta-just-reached-a-new-level?source=feed_all_articles"
-        },
-        {
-          "id": "3605b4d3a447",
-          "titulo": "US tech stocks see sharp falls over AI cost concerns",
-          "fonte": "BBC Business",
-          "data": "2026-10-30",
-          "hora": "12:01",
-          "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "7b93d59a8da8",
-          "titulo": "Intel: Wait For A Bottom Before Catching This Falling Knife (Rating Upgrade)",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-30",
-          "hora": "11:56",
-          "link": "https://seekingalpha.com/article/4960215-intel-wait-for-a-bottom-before-catching-this-falling-knife-rating-upgrade?source=feed_all_articles"
-        },
-        {
-          "id": "568b0586c2a2",
-          "titulo": "Ações de tecnologia despencam nos EUA com temores sobre gastos em IA",
-          "fonte": "InfoMoney",
-          "data": "2026-10-30",
-          "hora": "11:48",
-          "link": "https://www.infomoney.com.br/mercados/acoes-de-tecnologia-despencam-nos-eua-com-temores-sobre-gastos-em-ia/"
-        },
-        {
-          "id": "d2edf5f60899",
-          "titulo": "Alphabet's Post-Earnings Selloff Is The Best Buying Opportunity In Years",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-30",
-          "hora": "11:40",
-          "link": "https://seekingalpha.com/article/4960207-alphabet-post-earnings-selloff-is-the-best-buying-opportunity-in-years?source=feed_all_articles"
-        },
-        {
-          "id": "331fcda554b2",
-          "titulo": "US tech stocks tumble as earnings stoke AI spending fears",
-          "fonte": "FT Markets",
-          "data": "2026-10-30",
-          "hora": "11:34",
-          "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1"
-        },
-        {
-          "id": "aac1a92f0b7e",
-          "titulo": "Intel: A Major Technical 'Buy' Signal Triggers After The 25% Plunge (Rating Upgrade)",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-30",
-          "hora": "11:30",
-          "link": "https://seekingalpha.com/article/4960195-intel-a-major-technical-buy-signal-triggers-after-the-25-percent-plunge-rating-upgrade?source=feed_all_articles"
-        },
-        {
-          "id": "e394b671f1c8",
-          "titulo": "AMD’s stock slides after Intel earnings reveal two big issues",
-          "fonte": "MarketWatch",
-          "data": "2026-10-30",
-          "hora": "11:19",
-          "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories"
-        },
-        {
-          "id": "b7221665a7d6",
-          "titulo": "Why Intel’s stock is sinking toward its worst day in decades — and a $140 billion wipeout",
-          "fonte": "MarketWatch",
-          "data": "2026-10-30",
-          "hora": "11:10",
-          "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories"
-        },
-        {
-          "id": "5b2a25339a1a",
-          "titulo": "BofA global research cuts intel to neutral from buy; cuts price objective to $100 from $145. $INTC",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "10:42",
-          "link": "https://www.financialjuice.com/News/9829612/BofA-global-research-cuts-intel-to-neutral-from-buy-cuts-price-objective-to-100-from-145-INTC.aspx?xy=rss"
-        },
-        {
-          "id": "11712282825c",
-          "titulo": "Google value plunges by $500bn as its own AI search hits ad sales",
-          "fonte": "BBC Business",
-          "data": "2026-10-30",
-          "hora": "09:04",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "criado_em": "2026-10-31T11:20",
-      "atualizado_em": "2026-10-31T11:20"
+      "atualizado_em": "2026-10-31T18:08"
     },
     {
-      "titulo": "Binance tenta recuperar US$ 6,3 bilhões roubados e bolsas rivais apertam regras de levantamento",
-      "sinal": "risk_off",
-      "resumo": "A Binance mantém os levantamentos suspensos enquanto reconstrói o serviço, depois de um roubo de US$ 6,3 bilhões atribuído a hackers norte-coreanos; os atacantes detinham 18.270 BTC e mais de 500 mil ETH na sexta-feira. Outras bolsas impuseram alertas e restrições adicionais à circulação de fundos, e o bitcoin chegou a cair 5% na quinta.",
-      "impacto": "Pressão vendedora em cripto (BTC/ETH da carteira) enquanto os fundos roubados puderem chegar ao mercado; contágio limitado à B3 via sentimento de risco.",
+      "titulo": "Irão mantém Ormuz fechado até ver as suas condições cumpridas e Rubio diz que os EUA estão abertos a uma solução diplomática",
+      "sinal": "neutro",
+      "resumo": "O chefe de segurança iraniano Rezaei disse que o Estreito de Ormuz fica fechado até Teerão ver cumpridas as suas condições e que o dossiê nuclear só se discute depois; acrescentou que o tom da carta de Vance mudou. Rubio disse que Trump ainda não decidiu uma ação militar contra o Irão e que não há calendário para as conversas mediadas pelo Catar, onde os negociadores iranianos continuam em Doha.",
+      "impacto": "Abrir Ormuz seria o principal alívio para o Brent (negativo para PETR4/PRIO3, positivo para inflação, câmbio e curva de juros no Brasil); por agora há só condições, sem acordo.",
       "especulacao": "",
-      "n_noticias": 25,
+      "n_noticias": 21,
       "noticias": [
         {
-          "id": "058e3937b897",
-          "titulo": "Saque de bitcoin do hacker da Binance supera a tesouraria corporativa da Coinbase",
-          "fonte": "Exame",
-          "data": "2026-10-31",
-          "hora": "11:00",
-          "link": "https://exame.com/future-of-money/saque-de-bitcoin-do-hacker-da-binance-supera-a-tesouraria-corporativa-da-coinbase/"
-        },
-        {
-          "id": "e6fb89408f43",
-          "titulo": "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another crypto nightmare?",
-          "fonte": "ForexLive",
-          "data": "2026-10-31",
-          "hora": "10:33",
-          "link": "https://investinglive.com/cryptocurrency/bitcoin-got-spooked-this-halloween-is-a-monster-rebound-brewing-or-another-crypto-nightmare/"
-        },
-        {
-          "id": "aee49445fbae",
-          "titulo": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
-          "fonte": "FT Markets",
-          "data": "2026-10-31",
-          "hora": "07:38",
-          "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1"
-        },
-        {
-          "id": "4c645a740881",
-          "titulo": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
-          "fonte": "FT Markets",
-          "data": "2026-10-30",
-          "hora": "19:17",
-          "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1"
-        },
-        {
-          "id": "d4c1353c243d",
-          "titulo": "Binance rushes to recover customer money after $6.3bn heist",
-          "fonte": "FT Markets",
-          "data": "2026-10-30",
-          "hora": "19:12",
-          "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
-        },
-        {
-          "id": "79ade1ef360b",
-          "titulo": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "fonte": "BBC Business",
-          "data": "2026-10-30",
-          "hora": "18:13",
-          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "9336d3b0f98b",
-          "titulo": "Bitcoin tests key support as Binance security fears weigh",
-          "fonte": "ForexLive",
-          "data": "2026-10-30",
-          "hora": "17:19",
-          "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-key-support-as-binance-security-fears-weigh/"
-        },
-        {
-          "id": "d7290bcadaae",
-          "titulo": "Binance's $6.3bn crypto hack biggest in history",
-          "fonte": "BBC Business",
-          "data": "2026-10-30",
-          "hora": "14:41",
-          "link": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "51d3b12b9a38",
-          "titulo": "How crypto hacking funds isolated North Korea’s nuclear programme",
-          "fonte": "Guardian Business",
-          "data": "2026-10-30",
-          "hora": "14:37",
-          "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
-        },
-        {
-          "id": "01f238eda328",
-          "titulo": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
-          "fonte": "Guardian Business",
-          "data": "2026-10-30",
-          "hora": "13:35",
-          "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
-        },
-        {
-          "id": "8ee8197474a0",
-          "titulo": "Binance: notebook invadido pode ter aberto caminho para roubo de US$ 6,3 bilhões",
-          "fonte": "G1 Economia",
-          "data": "2026-10-30",
-          "hora": "12:22",
-          "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/binance-notebook-invadido-pode-ter-aberto-caminho-para-roubo-de-us-63-bilhoes.ghtml"
-        },
-        {
-          "id": "1e509357497b",
-          "titulo": "Hackers roubam R$ 34 bilhões em criptomoedas da Binance; veja os maiores ataques já registrados",
-          "fonte": "G1 Economia",
-          "data": "2026-10-30",
-          "hora": "12:22",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/30/hackers-roubam-r-34-bilhoes-em-criptomoedas-da-binance-veja-os-maiores-ataques-ja-registrados.ghtml"
-        },
-        {
-          "id": "ced40e707d7e",
-          "titulo": "How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?",
-          "fonte": "Guardian Business",
-          "data": "2026-10-30",
-          "hora": "12:17",
-          "link": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe"
-        },
-        {
-          "id": "01ecbf3b895d",
-          "titulo": "Binance halts withdrawals after record $6.3bn heist",
-          "fonte": "FT Markets",
-          "data": "2026-10-30",
-          "hora": "12:06",
-          "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
-        },
-        {
-          "id": "98bed938e825",
-          "titulo": "FBI working with Binance after crypto exchange hit by $6.3bn heist – business live",
-          "fonte": "Guardian Business",
-          "data": "2026-10-30",
-          "hora": "12:03",
-          "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates"
-        },
-        {
-          "id": "cd008cc2636b",
-          "titulo": "Binance Hack: The Real Test For Bitcoin Comes Tonight And On November 1st",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-30",
-          "hora": "11:56",
-          "link": "https://seekingalpha.com/article/4960216-binance-hack-the-real-test-for-bitcoin-and-ibit-comes-tonight-and-on-november-1st?source=feed_all_articles"
-        },
-        {
-          "id": "2efcbfb64310",
-          "titulo": "Bitcoin cai 5% após Binance sofrer maior ataque hacker da história",
-          "fonte": "Exame",
-          "data": "2026-10-30",
-          "hora": "11:49",
-          "link": "https://exame.com/future-of-money/bitcoin-cai-5-apos-binance-sofrer-maior-ataque-hacker-da-historia/"
-        },
-        {
-          "id": "6fc9e1a80fc6",
-          "titulo": "Binance's Teng: We are rebuilding the withdrawal service, and we are not switching it back on until it passes rigorous testing.",
+          "id": "cadeb67f0140",
+          "titulo": "Iran’s security chief Rezaei: Strait of Hormuz to stay closed until Tehran’s conditions fulfilled",
           "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:37",
-          "link": "https://www.financialjuice.com/News/9829704/Binances-Teng-We-are-rebuilding-the-withdrawal-service-and-we-are-not-switching-it-back-on-until-it-passes-rigorous-testing.aspx?xy=rss"
+          "data": "2026-10-31",
+          "hora": "16:01",
+          "link": "https://www.financialjuice.com/News/9830986/Irans-security-chief-Rezaei-Strait-of-Hormuz-to-stay-closed-until-Tehrans-conditions-fulfilled.aspx?xy=rss"
         },
         {
-          "id": "9c9b8d78f836",
-          "titulo": "Crypto Fear & Greed Index: 30/100 - Fear",
+          "id": "bbb0fdb0510e",
+          "titulo": "Iran’s Rezaei: Iran’s nuclear rights under non-proliferation treaty must be respected if talks happen in later stages",
           "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:17",
-          "link": "https://www.financialjuice.com/News/9829688/Crypto-Fear--Greed-Index-30100---Fear.aspx?xy=rss"
+          "data": "2026-10-31",
+          "hora": "15:58",
+          "link": "https://www.financialjuice.com/News/9830953/Irans-Rezaei-Irans-nuclear-rights-under-non-proliferation-treaty-must-be-respected-if-talks-happen-in-later-stages.aspx?xy=rss"
         },
         {
-          "id": "9113bd0ac3a1",
-          "titulo": "What we know about the $6.3bn Binance hack",
-          "fonte": "FT Markets",
-          "data": "2026-10-30",
-          "hora": "10:23",
-          "link": "https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1"
+          "id": "7dffb3710adb",
+          "titulo": "Iran's Rezaei: War must end permanently, no nation should dare attack Iran again",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "15:53",
+          "link": "https://www.financialjuice.com/News/9830952/Irans-Rezaei-War-must-end-permanently-no-nation-should-dare-attack-Iran-again.aspx?xy=rss"
         },
         {
-          "id": "ff1696287c55",
-          "titulo": "How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?",
-          "fonte": "Guardian Business",
-          "data": "2026-10-30",
-          "hora": "10:22",
-          "link": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe"
+          "id": "128f42d91a0e",
+          "titulo": "Iran security chief Rezaei tells state TV: we seriously pursue diplomacy but won’t forsake Iranian people’s rights",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "15:52",
+          "link": "https://www.financialjuice.com/News/9830951/Iran-security-chief-Rezaei-tells-state-TV-we-seriously-pursue-diplomacy-but-wont-forsake-Iranian-peoples-rights.aspx?xy=rss"
         },
         {
-          "id": "fc63f1c9861c",
-          "titulo": "Bitcoin sellers jump on the risk-off bandwagon",
-          "fonte": "ForexLive",
-          "data": "2026-10-30",
-          "hora": "10:14",
-          "link": "https://investinglive.com/cryptocurrency/bitcoin-sellers-jump-on-the-risk-off-bandwagon/"
+          "id": "549b28890af6",
+          "titulo": "Security chief Rezaei: Iran's nuclear issue can be discussed only after US meets Iran's demands - state TV",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "15:27",
+          "link": "https://www.financialjuice.com/News/9830941/Security-chief-Rezaei-Irans-nuclear-issue-can-be-discussed-only-after-US-meets-Irans-demands---state-TV.aspx?xy=rss"
         },
         {
-          "id": "fde8c5a0818b",
-          "titulo": "Como hackers norte-coreanos roubaram US$ 6,3 bilhões da Binance em 20 minutos",
-          "fonte": "Exame",
-          "data": "2026-10-30",
-          "hora": "09:54",
-          "link": "https://exame.com/future-of-money/como-hackers-norte-coreanos-roubaram-us-63-bilhoes-da-binance-em-20-minutos/"
+          "id": "bfa83c9959d5",
+          "titulo": "Iran security chief Rezaei: no new decision on changing nuclear doctrine, debate ongoing if same doctrine should continue in another war",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "14:56",
+          "link": "https://www.financialjuice.com/News/9830935/Iran-security-chief-Rezaei-no-new-decision-on-changing-nuclear-doctrine-debate-ongoing-if-same-doctrine-should-continue-in-another-war.aspx?xy=rss"
         },
         {
-          "id": "0cd3a4f1f30c",
-          "titulo": "What we know about Binance's $6.3bn hack",
-          "fonte": "BBC Business",
-          "data": "2026-10-30",
-          "hora": "09:27",
-          "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+          "id": "719c39e0748c",
+          "titulo": "Iran's security chief Rezaei: tone of Vance letter has changed, signaling Iranian people's victory - Iran news agencies",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "14:35",
+          "link": "https://www.financialjuice.com/News/9830930/Irans-security-chief-Rezaei-tone-of-Vance-letter-has-changed-signaling-Iranian-peoples-victory---Iran-news-agencies.aspx?xy=rss"
         },
         {
-          "id": "11f1c72c271d",
-          "titulo": "Fundador da Binance ameaça vender ações da SpaceX após post de Musk sobre ataque hacker",
-          "fonte": "Exame",
-          "data": "2026-10-30",
-          "hora": "09:12",
-          "link": "https://exame.com/future-of-money/fundador-da-binance-critica-elon-musk-por-comentario-sobre-ataque-hacker/"
+          "id": "5518b7c3f505",
+          "titulo": "US Secretary of State Rubio: Trump yet to decide on military action against Iran",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:36",
+          "link": "https://www.financialjuice.com/News/9830913/US-Secretary-of-State-Rubio-Trump-yet-to-decide-on-military-action-against-Iran.aspx?xy=rss"
+        },
+        {
+          "id": "c943e8d8068f",
+          "titulo": "US Secretary of State Rubio: US open to diplomatic resolution of Iran conflict",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:29",
+          "link": "https://www.financialjuice.com/News/9830901/US-Secretary-of-State-Rubio-US-open-to-diplomatic-resolution-of-Iran-conflict.aspx?xy=rss"
+        },
+        {
+          "id": "0f9ccdfc647c",
+          "titulo": "US Secretary of State Rubio: no known timeframe for Qatar-led talks",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:29",
+          "link": "https://www.financialjuice.com/News/9830900/US-Secretary-of-State-Rubio-no-known-timeframe-for-Qatar-led-talks.aspx?xy=rss"
+        },
+        {
+          "id": "01a7dbfabc0b",
+          "titulo": "Iran's Aragchi to Al Jazeera: reopening Strait of Hormuz on Tehran terms would open door for talks with Washington",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "10:15",
+          "link": "https://www.financialjuice.com/News/9830827/Irans-Aragchi-to-Al-Jazeera-reopening-Strait-of-Hormuz-on-Tehran-terms-would-open-door-for-talks-with-Washington.aspx?xy=rss"
+        },
+        {
+          "id": "9df62152c905",
+          "titulo": "Iran's FM to Al Jazeera: Tehran seeks recognition of new shipping lane agreed with Oman in Strait of Hormuz, closure of alternative routes",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "10:13",
+          "link": "https://www.financialjuice.com/News/9830817/Irans-FM-to-Al-Jazeera-Tehran-seeks-recognition-of-new-shipping-lane-agreed-with-Oman-in-Strait-of-Hormuz-closure-of-alternative-routes.aspx?xy=rss"
+        },
+        {
+          "id": "f745a8646b66",
+          "titulo": "Iran's Aragchi to Al Jazeera: conditions include lifting post-Islamabad sanctions, reducing US forces in region",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "10:12",
+          "link": "https://www.financialjuice.com/News/9830816/Irans-Aragchi-to-Al-Jazeera-conditions-include-lifting-post-Islamabad-sanctions-reducing-US-forces-in-region.aspx?xy=rss"
+        },
+        {
+          "id": "fa5a01a704b3",
+          "titulo": "Iran's FM to Al Jazeera: Iranian plan is only proposal currently on table to reopen Strait of Hormuz",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "10:09",
+          "link": "https://www.financialjuice.com/News/9830815/Irans-FM-to-Al-Jazeera-Iranian-plan-is-only-proposal-currently-on-table-to-reopen-Strait-of-Hormuz.aspx?xy=rss"
+        },
+        {
+          "id": "121d0e631d37",
+          "titulo": "Iran's FM to Al Jazeera: mediators offer proposals on nuclear issue, Tehran reviewing",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "10:08",
+          "link": "https://www.financialjuice.com/News/9830814/Irans-FM-to-Al-Jazeera-mediators-offer-proposals-on-nuclear-issue-Tehran-reviewing.aspx?xy=rss"
+        },
+        {
+          "id": "dc4789946476",
+          "titulo": "Iran's FM to Al Jazeera: Tehran to determine if talks with Washington are direct or indirect after US accepts conditions",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "10:05",
+          "link": "https://www.financialjuice.com/News/9830812/Irans-FM-to-Al-Jazeera-Tehran-to-determine-if-talks-with-Washington-are-direct-or-indirect-after-US-accepts-conditions.aspx?xy=rss"
+        },
+        {
+          "id": "836fb7aae664",
+          "titulo": "Iran's FM to Al Jazeera: no intentions for talks with US officials currently",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "10:04",
+          "link": "https://www.financialjuice.com/News/9830811/Irans-FM-to-Al-Jazeera-no-intentions-for-talks-with-US-officials-currently.aspx?xy=rss"
+        },
+        {
+          "id": "2b9e94c1679d",
+          "titulo": "Iran's FM to Al Jazeera: US attempt to start wider talks with Tehran is positive move",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "10:04",
+          "link": "https://www.financialjuice.com/News/9830810/Irans-FM-to-Al-Jazeera-US-attempt-to-start-wider-talks-with-Tehran-is-positive-move.aspx?xy=rss"
+        },
+        {
+          "id": "94466c0cb15f",
+          "titulo": "Iran's foreign minister Araqchi tells Al Jazeera: Tehran examined US Vance message, reviewed it in top-level talks",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "10:03",
+          "link": "https://www.financialjuice.com/News/9830809/Irans-foreign-minister-Araqchi-tells-Al-Jazeera-Tehran-examined-US-Vance-message-reviewed-it-in-top-level-talks.aspx?xy=rss"
+        },
+        {
+          "id": "c4bb2b8aef84",
+          "titulo": "Iranian negotiators in Doha to continue talks with Qatari mediators after 12-hour session in Tehran yesterday, part of ongoing effort to end US-Iran war - official brief",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "09:20",
+          "link": "https://www.financialjuice.com/News/9830784/Iranian-negotiators-in-Doha-to-continue-talks-with-Qatari-mediators-after-12-hour-session-in-Tehran-yesterday-part-of-ongoing-effort-to-end-US-Iran-war---official-brief.aspx?xy=rss"
+        },
+        {
+          "id": "5c54ca97dc00",
+          "titulo": "Qatari mediation team in regular contact with US negotiators during talks: source",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "09:20",
+          "link": "https://www.financialjuice.com/News/9830785/Qatari-mediation-team-in-regular-contact-with-US-negotiators-during-talks-source.aspx?xy=rss"
         }
       ],
-      "criado_em": "2026-10-30T12:28",
-      "atualizado_em": "2026-10-31T11:20"
+      "criado_em": "2026-10-31T11:20",
+      "atualizado_em": "2026-10-31T18:08"
     },
     {
-      "titulo": "Mojtaba Khamenei manda rever a lista de alvos dos EUA e de Israel e ordena resposta sem limites geográficos",
+      "titulo": "Petroleiro incendeia-se em Ormuz depois de atingir minas e Khamenei ordena resposta sem limites geográficos",
       "sinal": "risk_off",
-      "resumo": "O líder supremo do Irão ordenou às forças armadas uma resposta imediata e sem limite geográfico a qualquer ameaça e mais produção de munições; o chefe das forças armadas diz já ter nova lista de alvos. Durante a madrugada, a Arábia Saudita intercetou drones em Riade, Jizan e Najran, e um petroleiro foi atingido por projétil em Ormuz (UKMTO, 30/10).",
-      "impacto": "Mantém o prémio de risco no Brent: positivo para PETR4 e PRIO3, negativo para o câmbio e para as ações domésticas sensíveis a juros via inflação de combustíveis.",
+      "resumo": "A marinha iraniana diz, através dos media estatais, que um petroleiro se incendiou no Estreito de Ormuz depois de atingir minas navais. O líder supremo Mojtaba Khamenei ordenou uma resposta imediata e sem limite geográfico a qualquer ameaça e mais produção de munições, e o chefe das forças armadas diz ter nova lista de alvos dos EUA e de Israel; a Arábia Saudita intercetou drones em Riade, Jizan e Najran durante a madrugada.",
+      "impacto": "Mantém o prémio de risco no Brent: positivo para PETR4 e PRIO3 (resultado do 3T26 a 04/11), negativo para o câmbio e para as ações domésticas sensíveis a juros via inflação de combustíveis.",
       "especulacao": "",
-      "n_noticias": 23,
+      "n_noticias": 19,
       "noticias": [
+        {
+          "id": "020044833edb",
+          "titulo": "Iran's navy: oil tanker 'operated in limited zone' - state media",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:56",
+          "link": "https://www.financialjuice.com/News/9830922/Irans-navy-oil-tanker-operated-in-limited-zone---state-media.aspx?xy=rss"
+        },
+        {
+          "id": "a25a7ef1362b",
+          "titulo": "Iran's navy: oil tanker ignites in Strait of Hormuz after hitting naval mines - state media",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:55",
+          "link": "https://www.financialjuice.com/News/9830921/Irans-navy-oil-tanker-ignites-in-Strait-of-Hormuz-after-hitting-naval-mines---state-media.aspx?xy=rss"
+        },
         {
           "id": "4367eccb776d",
           "titulo": "Iran's armed forces chief: military compiles new list of US and Israeli targets, assets across expanded region",
@@ -681,191 +593,175 @@
           "data": "2026-10-30",
           "hora": "21:46",
           "link": "https://www.financialjuice.com/News/9830400/Saudi-led-coalition-intercepted-and-neutralized-drone-launched-by-Yemens-Houthis-toward-southern-region.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-10-31T11:20",
+      "atualizado_em": "2026-10-31T18:08"
+    },
+    {
+      "titulo": "Binance diz ter coberto 90% das perdas do roubo de US$ 6,3 bilhões e Trump confirma investigação à Coreia do Norte",
+      "sinal": "neutro",
+      "resumo": "A Binance afirma ter usado recursos próprios para recompor 90% dos ativos afetados pelo roubo de US$ 6,3 bilhões; Trump disse que os EUA investigam se o ataque foi obra de hackers norte-coreanos. Os atacantes detinham 18.270 BTC na sexta-feira e bolsas rivais impuseram alertas e restrições adicionais à circulação de fundos.",
+      "impacto": "A cobertura de 90% reduz o risco de contágio, mas os fundos roubados continuam a ser uma oferta potencial de BTC/ETH (cripto da carteira); efeito na B3 limitado ao sentimento de risco.",
+      "especulacao": "",
+      "n_noticias": 16,
+      "noticias": [
+        {
+          "id": "598d657949ca",
+          "titulo": "Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
+          "fonte": "G1 Economia",
+          "data": "2026-10-31",
+          "hora": "18:02",
+          "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/trump-diz-que-eua-investigam-se-ataque-contra-a-binance-foi-feita-por-hackers-da-coreia-do-norte.ghtml"
         },
         {
-          "id": "263ddab020e8",
-          "titulo": "Saudi-led coalition: intercepted and destroyed drone over eastern region",
-          "fonte": "FinancialJuice",
+          "id": "3bcb5e5e4e63",
+          "titulo": "Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
+          "fonte": "G1 Economia",
+          "data": "2026-10-31",
+          "hora": "18:02",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/10/30/ataque-hacker-de-us63-bi-a-binance-como-funciona-o-seguro-de-criptomoedas.ghtml"
+        },
+        {
+          "id": "b39c00609bfa",
+          "titulo": "Binance diz ter coberto 90% das perdas após ataque hacker de mais de US$ 6 bilhões",
+          "fonte": "G1 Economia",
+          "data": "2026-10-31",
+          "hora": "18:02",
+          "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/31/binance-diz-ter-coberto-90percent-das-perdas-apos-ataque-hacker-de-mais-de-us-6-bilhoes.ghtml"
+        },
+        {
+          "id": "b1c1d23e15e8",
+          "titulo": "Binance diz ter coberto 90% das perdas após ataque hacker de US$ 6,3 bilhões",
+          "fonte": "Exame",
+          "data": "2026-10-31",
+          "hora": "13:54",
+          "link": "https://exame.com/future-of-money/binance-diz-ter-coberto-90-das-perdas-apos-ataque-hacker-de-us-63-bilhoes/"
+        },
+        {
+          "id": "058e3937b897",
+          "titulo": "Saque de bitcoin do hacker da Binance supera a tesouraria corporativa da Coinbase",
+          "fonte": "Exame",
+          "data": "2026-10-31",
+          "hora": "11:00",
+          "link": "https://exame.com/future-of-money/saque-de-bitcoin-do-hacker-da-binance-supera-a-tesouraria-corporativa-da-coinbase/"
+        },
+        {
+          "id": "e6fb89408f43",
+          "titulo": "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another crypto nightmare?",
+          "fonte": "ForexLive",
+          "data": "2026-10-31",
+          "hora": "10:33",
+          "link": "https://investinglive.com/cryptocurrency/bitcoin-got-spooked-this-halloween-is-a-monster-rebound-brewing-or-another-crypto-nightmare/"
+        },
+        {
+          "id": "aee49445fbae",
+          "titulo": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
+          "fonte": "FT Markets",
+          "data": "2026-10-31",
+          "hora": "07:38",
+          "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1"
+        },
+        {
+          "id": "4c645a740881",
+          "titulo": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+          "fonte": "FT Markets",
           "data": "2026-10-30",
-          "hora": "19:52",
-          "link": "https://www.financialjuice.com/News/9830309/Saudi-led-coalition-intercepted-and-destroyed-drone-over-eastern-region.aspx?xy=rss"
+          "hora": "19:17",
+          "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1"
         },
         {
-          "id": "6b97dba84c4e",
-          "titulo": "UKMTO: Received a time-late report of an incident in the Strait of Hormuz. Crude tanker hit by projectile transiting Hormuz strait",
-          "fonte": "FinancialJuice",
+          "id": "d4c1353c243d",
+          "titulo": "Binance rushes to recover customer money after $6.3bn heist",
+          "fonte": "FT Markets",
           "data": "2026-10-30",
-          "hora": "17:18",
-          "link": "https://www.financialjuice.com/News/9830182/UKMTO-Received-a-time-late-report-of-an-incident-in-the-Strait-of-Hormuz-Crude-tanker-hit-by-projectile-transiting-Hormuz-strait.aspx?xy=rss"
+          "hora": "19:12",
+          "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
         },
         {
-          "id": "9017310f6fed",
-          "titulo": "Yemen's Houthis deny launching attacks against Saudi Arabia's Medina - Statement",
-          "fonte": "FinancialJuice",
+          "id": "79ade1ef360b",
+          "titulo": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "fonte": "BBC Business",
           "data": "2026-10-30",
-          "hora": "17:10",
-          "link": "https://www.financialjuice.com/News/9830161/Yemens-Houthis-deny-launching-attacks-against-Saudi-Arabias-Medina---Statement.aspx?xy=rss"
+          "hora": "18:13",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "65401178db48",
-          "titulo": "Axios' Ravid: Multiple US officials say focus of yesterday's meeting wasn't strikes; more than 20 attended, blockade and economic pressure discussed at length; strikes could still happen immediately after the midterms",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:19",
-          "link": "https://www.financialjuice.com/News/9829690/Axios-Ravid-Multiple-US-officials-say-focus-of-yesterdays-meeting-wasnt-strikes-more-than-20-attended-blockade-and-economic-pressure-discussed-at-length-strikes-could-still-happen-immediately-after-the-midterms.aspx?xy=rss"
-        },
-        {
-          "id": "b966902d8c15",
-          "titulo": "Crude oil extends gains as traders hedge into weekend amid risks of US strikes on Iran",
+          "id": "9336d3b0f98b",
+          "titulo": "Bitcoin tests key support as Binance security fears weigh",
           "fonte": "ForexLive",
           "data": "2026-10-30",
-          "hora": "09:46",
-          "link": "https://investinglive.com/commodities/crude-oil-extends-gains-as-traders-hedge-into-weekend-amid-risks-of-us-strikes-on-iran/"
+          "hora": "17:19",
+          "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-key-support-as-binance-security-fears-weigh/"
         },
         {
-          "id": "244077d7e4cd",
-          "titulo": "IRIB News: A super tanker exploded an hour ago after hitting a sea mine on the unauthorized route of the Strait of Hormuz.",
-          "fonte": "FinancialJuice",
+          "id": "ff1696287c55",
+          "titulo": "How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?",
+          "fonte": "Guardian Business",
           "data": "2026-10-30",
-          "hora": "09:22",
-          "link": "https://www.financialjuice.com/News/9829460/IRIB-News-A-super-tanker-exploded-an-hour-ago-after-hitting-a-sea-mine-on-the-unauthorized-route-of-the-Strait-of-Hormuz.aspx?xy=rss"
+          "hora": "10:22",
+          "link": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe"
+        },
+        {
+          "id": "fc63f1c9861c",
+          "titulo": "Bitcoin sellers jump on the risk-off bandwagon",
+          "fonte": "ForexLive",
+          "data": "2026-10-30",
+          "hora": "10:14",
+          "link": "https://investinglive.com/cryptocurrency/bitcoin-sellers-jump-on-the-risk-off-bandwagon/"
+        },
+        {
+          "id": "fde8c5a0818b",
+          "titulo": "Como hackers norte-coreanos roubaram US$ 6,3 bilhões da Binance em 20 minutos",
+          "fonte": "Exame",
+          "data": "2026-10-30",
+          "hora": "09:54",
+          "link": "https://exame.com/future-of-money/como-hackers-norte-coreanos-roubaram-us-63-bilhoes-da-binance-em-20-minutos/"
+        },
+        {
+          "id": "0cd3a4f1f30c",
+          "titulo": "What we know about Binance's $6.3bn hack",
+          "fonte": "BBC Business",
+          "data": "2026-10-30",
+          "hora": "09:27",
+          "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "11f1c72c271d",
+          "titulo": "Fundador da Binance ameaça vender ações da SpaceX após post de Musk sobre ataque hacker",
+          "fonte": "Exame",
+          "data": "2026-10-30",
+          "hora": "09:12",
+          "link": "https://exame.com/future-of-money/fundador-da-binance-critica-elon-musk-por-comentario-sobre-ataque-hacker/"
         }
       ],
-      "criado_em": "2026-10-31T11:20",
-      "atualizado_em": "2026-10-31T11:20"
+      "criado_em": "2026-10-30T12:28",
+      "atualizado_em": "2026-10-31T18:08"
     },
     {
-      "titulo": "Rússia prolonga até janeiro a proibição de exportar diesel enquanto a Ucrânia ataca refinarias e fábricas russas",
-      "sinal": "neutro",
-      "resumo": "A Rússia estendeu até ao fim de janeiro a proibição de exportação de diesel, com exceções; Novak admitiu que os ataques a refinarias afetam o abastecimento mundial e a Exxon estima metade da capacidade de refinação russa parada. A Ucrânia atingiu uma fábrica de combustível de mísseis em Rostov e a Rússia atacou instalações energéticas ucranianas, deixando cerca de 280 mil famílias sem luz; Lavrov diz que a posição russa sobre um acordo não mudou.",
-      "impacto": "Diesel caro sustenta margens de refinação (PETR4) e o Brent (PRIO3), mas pressiona a inflação de fretes no Brasil e o custo de JBSS32/BEEF3 e do agro.",
-      "especulacao": "",
-      "n_noticias": 14,
-      "noticias": [
-        {
-          "id": "a13889380dee",
-          "titulo": "Russia prolongs diesel export prohibition through January: IFX",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "08:00",
-          "link": "https://www.financialjuice.com/News/9830756/Russia-prolongs-diesel-export-prohibition-through-January-IFX.aspx?xy=rss"
-        },
-        {
-          "id": "aeb4374c736e",
-          "titulo": "Ukraine's military: missile fuel plant hit in Russia's Rostov region, fire breaks out",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "07:51",
-          "link": "https://www.financialjuice.com/News/9830755/Ukraines-military-missile-fuel-plant-hit-in-Russias-Rostov-region-fire-breaks-out.aspx?xy=rss"
-        },
-        {
-          "id": "2c4562db2d0c",
-          "titulo": "Ukraine's Zelenskiy: Russia struck energy facilities, nearly 280,000 families without power",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "07:03",
-          "link": "https://www.financialjuice.com/News/9830729/Ukraines-Zelenskiy-Russia-struck-energy-facilities-nearly-280000-families-without-power.aspx?xy=rss"
-        },
-        {
-          "id": "fe436c745a7c",
-          "titulo": "Russia's Lavrov: unclear what Ukraine will bring to new settlement talks but Zelenskiy's mention of long-range strikes is unhelpful",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "18:20",
-          "link": "https://www.financialjuice.com/News/9830237/Russias-Lavrov-unclear-what-Ukraine-will-bring-to-new-settlement-talks-but-Zelenskiys-mention-of-long-range-strikes-is-unhelpful.aspx?xy=rss"
-        },
-        {
-          "id": "f8925d067952",
-          "titulo": "Lavrov: Russia's stance on a Ukraine settlement unchanged, Moscow rejects military threat from Ukraine",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "18:20",
-          "link": "https://www.financialjuice.com/News/9830236/Lavrov-Russias-stance-on-a-Ukraine-settlement-unchanged-Moscow-rejects-military-threat-from-Ukraine.aspx?xy=rss"
-        },
-        {
-          "id": "5410831a1843",
-          "titulo": "Russia's Lavrov: key issues in US-Russian relations unresolved, sanctions continue, arms still supplied to Ukraine",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "18:20",
-          "link": "https://www.financialjuice.com/News/9830235/Russias-Lavrov-key-issues-in-US-Russian-relations-unresolved-sanctions-continue-arms-still-supplied-to-Ukraine.aspx?xy=rss"
-        },
-        {
-          "id": "dbf1b5d9f8de",
-          "titulo": "Russia's Novak: Russia will draw up plan for December diesel exports at the end of November",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:50",
-          "link": "https://www.financialjuice.com/News/9829729/Russias-Novak-Russia-will-draw-up-plan-for-December-diesel-exports-at-the-end-of-November.aspx?xy=rss"
-        },
-        {
-          "id": "db6decf09e3f",
-          "titulo": "Russia's Novak: Russian oil production in October is higher than in September.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:47",
-          "link": "https://www.financialjuice.com/News/9829725/Russias-Novak-Russian-oil-production-in-October-is-higher-than-in-September.aspx?xy=rss"
-        },
-        {
-          "id": "8f683e8e23ec",
-          "titulo": "Russia's Novak: Attacks on oil refineries will have negative impact on diesel fuel supplies to global market.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:45",
-          "link": "https://www.financialjuice.com/News/9829707/Russias-Novak-Attacks-on-oil-refineries-will-have-negative-impact-on-diesel-fuel-supplies-to-global-market.aspx?xy=rss"
-        },
-        {
-          "id": "10122ecc8026",
-          "titulo": "Major banks raise 1Q27 Brent price forecast, WSJ survey finds",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:14",
-          "link": "https://www.financialjuice.com/News/9829664/Major-banks-raise-1Q27-Brent-price-forecast-WSJ-survey-finds.aspx?xy=rss"
-        },
-        {
-          "id": "e18bcb79f838",
-          "titulo": "Major banks raise 2026 oil price forecast, WSJ survey finds",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:14",
-          "link": "https://www.financialjuice.com/News/9829663/Major-banks-raise-2026-oil-price-forecast-WSJ-survey-finds.aspx?xy=rss"
-        },
-        {
-          "id": "9dbd8ed4a8ca",
-          "titulo": "Exxon estimates half of Russia's refining capacity is offline.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:12",
-          "link": "https://www.financialjuice.com/News/9829661/Exxon-estimates-half-of-Russias-refining-capacity-is-offline.aspx?xy=rss"
-        },
-        {
-          "id": "7291e13aab92",
-          "titulo": "Russia plans to extend ban on diesel exports, with certain exceptions, until the end of January - IFX",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "09:36",
-          "link": "https://www.financialjuice.com/News/9829488/Russia-plans-to-extend-ban-on-diesel-exports-with-certain-exceptions-until-the-end-of-January---IFX.aspx?xy=rss"
-        },
-        {
-          "id": "6948eb0bfde8",
-          "titulo": "Russia’s Deputy PM Novak: Ukraine attacked Russian refinery overnight.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "09:32",
-          "link": "https://www.financialjuice.com/News/9829487/Russias-Deputy-PM-Novak-Ukraine-attacked-Russian-refinery-overnight.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-10-31T11:20",
-      "atualizado_em": "2026-10-31T11:20"
-    },
-    {
-      "titulo": "Logan, do Fed, pede pelo menos mais duas altas de 0,25 p.p. numa semana com midterms, payroll e refunding do Tesouro",
+      "titulo": "Logan, do Fed, pede pelo menos mais duas altas de 0,25 p.p. antes de uma semana com midterms, payroll e refunding do Tesouro",
       "sinal": "risk_off",
-      "resumo": "Lorie Logan disse que o Fed precisa de pelo menos mais duas altas de 0,25 p.p.; Musalem defendeu subir mais cedo e Daly disse que a IA conta para a política de curto e médio prazo. A próxima semana junta as eleições intercalares dos EUA, o relatório de emprego de outubro e o refunding do Tesouro. No crédito, o índice de risco da app está em 74,5 (tenso), com o CCC no percentil 98 do ano, apesar de ter recuado 6,3 pontos em 7 dias.",
-      "impacto": "Juros americanos mais altos por mais tempo apertam a curva brasileira e o câmbio; spreads de crédito largos são sinal de alerta para o fluxo para emergentes e para BPAC11/B3SA3.",
+      "resumo": "Lorie Logan disse que o Fed precisa de pelo menos mais duas altas de 0,25 p.p. e Musalem defendeu subir mais cedo. As eleições intercalares dos EUA são a 3/11, com o voto antecipado acima de 49 milhões, e a semana traz o emprego de outubro e o refunding do Tesouro. No crédito, o índice de risco da app está em 74,5 (tenso), com o CCC no percentil 98 do ano e o HY OAS em 3,26 p.p. (+0,56 p.p. em 30 dias, dado de 29/10), apesar de ter recuado 6,3 pontos em 7 dias.",
+      "impacto": "Juros americanos mais altos por mais tempo apertam a curva brasileira e o câmbio antes do Copom de 3 e 4/11; spreads de crédito largos são sinal de alerta para o fluxo para emergentes e para BPAC11/B3SA3.",
       "especulacao": "",
-      "n_noticias": 13,
+      "n_noticias": 11,
       "noticias": [
+        {
+          "id": "8c58383727d1",
+          "titulo": "Midterms nos EUA entram na reta final com disputas no Alasca e Califórnia",
+          "fonte": "InfoMoney",
+          "data": "2026-10-31",
+          "hora": "15:57",
+          "link": "https://www.infomoney.com.br/mundo/midterms-eua-alasca-california-reta-final/"
+        },
+        {
+          "id": "738e0a561828",
+          "titulo": "Eleições nos EUA: voto antecipado bate recorde e supera 49 milhões",
+          "fonte": "Exame",
+          "data": "2026-10-31",
+          "hora": "13:12",
+          "link": "https://exame.com/mundo/eleicoes-nos-eua-voto-antecipado-bate-recorde-e-supera-49-milhoes/"
+        },
         {
           "id": "10e33a1ec9a3",
           "titulo": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
@@ -931,157 +827,241 @@
           "link": "https://investinglive.com/central-banks/fed-s-musalem-moving-sooner-with-rate-hikes-lessens-risk-of-hit-to-broader-economy/"
         },
         {
-          "id": "893f7db8ca10",
-          "titulo": "Fed’s Daly: AI matters for near- and medium-term policy",
-          "fonte": "ForexLive",
-          "data": "2026-10-30",
-          "hora": "13:13",
-          "link": "https://investinglive.com/central-banks/fed-s-daly-ai-matters-for-near-and-medium-term-policy/"
-        },
-        {
           "id": "2ec4d39a7052",
           "titulo": "The Fed Wanted More Data, It Got More Inflation",
           "fonte": "Seeking Alpha",
           "data": "2026-10-30",
           "hora": "12:12",
           "link": "https://seekingalpha.com/article/4960230-fed-wanted-more-data-got-more-inflation?source=feed_all_articles"
-        },
-        {
-          "id": "3150e81caa09",
-          "titulo": "A Liquidity Storm May Be Brewing Ahead Of The Treasury's Refunding",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-30",
-          "hora": "12:00",
-          "link": "https://seekingalpha.com/article/4960279-a-liquidity-storm-may-be-brewing-ahead-of-the-treasury-refunding?source=feed_all_articles"
-        },
-        {
-          "id": "a1e554084aad",
-          "titulo": "Fed's Barkin: AI investment is leading to demand side inflation, which is the kind of thing the fed can lean against.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "10:39",
-          "link": "https://www.financialjuice.com/News/9829611/Feds-Barkin-AI-investment-is-leading-to-demand-side-inflation-which-is-the-kind-of-thing-the-fed-can-lean-against.aspx?xy=rss"
-        },
-        {
-          "id": "1ca784eac80c",
-          "titulo": "Fed's Barkin: The direction of travel is \"straightforward\" for the Fed, the question is pace - SiriusXM Business Briefing.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "10:34",
-          "link": "https://www.financialjuice.com/News/9829606/Feds-Barkin-The-direction-of-travel-is-straightforward-for-the-Fed-the-question-is-pace---SiriusXM-Business-Briefing.aspx?xy=rss"
         }
       ],
       "criado_em": "2026-10-31T11:20",
-      "atualizado_em": "2026-10-31T11:20"
+      "atualizado_em": "2026-10-31T18:08"
     },
     {
-      "titulo": "Araghchi põe condições para reabrir Ormuz e o Irão continua a negociar em Doha com mediadores do Catar",
+      "titulo": "OPEP+ concorda em princípio manter as metas de produção em dezembro e a Rússia prolonga até janeiro a proibição de exportar diesel",
       "sinal": "neutro",
-      "resumo": "O chefe da diplomacia iraniana disse à Al Jazeera que reabrir o Estreito de Ormuz nos termos de Teerão abriria a porta a conversas com Washington, exigindo o levantamento de sanções, menos forças dos EUA na região e o reconhecimento de uma rota acordada com Omã; acrescentou que não há intenção de falar já com responsáveis americanos. Negociadores iranianos seguem em Doha após uma sessão de 12 horas.",
-      "impacto": "Abrir Ormuz seria o principal alívio para o Brent (negativo para PETR4/PRIO3, positivo para inflação, câmbio e curva de juros no Brasil); por agora há só condições, sem acordo.",
+      "resumo": "Segundo fontes citadas pela FinancialJuice e pelo InfoMoney, a OPEP+ acordou em princípio manter as metas de produção em dezembro e o foco passa para as quotas de 2027. A Rússia estendeu até janeiro a proibição de exportação de diesel; a Exxon estima metade da capacidade de refinação russa parada e a Ucrânia atingiu uma fábrica de combustível de mísseis em Rostov.",
+      "impacto": "Oferta de crude estável com diesel escasso sustenta margens de refinação (PETR4) e o Brent (PRIO3), mas pressiona fretes e custos do agro e de JBSS32/BEEF3.",
       "especulacao": "",
       "n_noticias": 11,
       "noticias": [
         {
-          "id": "01a7dbfabc0b",
-          "titulo": "Iran's Aragchi to Al Jazeera: reopening Strait of Hormuz on Tehran terms would open door for talks with Washington",
-          "fonte": "FinancialJuice",
+          "id": "4fa3f97c1f1f",
+          "titulo": "OPEP+ sinaliza produção estável em dezembro e volta foco para cotas de 2027",
+          "fonte": "InfoMoney",
           "data": "2026-10-31",
-          "hora": "10:15",
-          "link": "https://www.financialjuice.com/News/9830827/Irans-Aragchi-to-Al-Jazeera-reopening-Strait-of-Hormuz-on-Tehran-terms-would-open-door-for-talks-with-Washington.aspx?xy=rss"
+          "hora": "15:46",
+          "link": "https://www.infomoney.com.br/mercados/opep-producao-petroleo-dezembro-cotas-2027/"
         },
         {
-          "id": "9df62152c905",
-          "titulo": "Iran's FM to Al Jazeera: Tehran seeks recognition of new shipping lane agreed with Oman in Strait of Hormuz, closure of alternative routes",
-          "fonte": "FinancialJuice",
+          "id": "47075fe82d16",
+          "titulo": "YPF Sociedad Anónima (YPF) Q3 2026 Earnings Call Transcript",
+          "fonte": "Seeking Alpha",
           "data": "2026-10-31",
-          "hora": "10:13",
-          "link": "https://www.financialjuice.com/News/9830817/Irans-FM-to-Al-Jazeera-Tehran-seeks-recognition-of-new-shipping-lane-agreed-with-Oman-in-Strait-of-Hormuz-closure-of-alternative-routes.aspx?xy=rss"
+          "hora": "15:38",
+          "link": "https://seekingalpha.com/article/4959693-ypf-sociedad-anonima-ypf-q3-2026-earnings-call-transcript?source=feed_all_articles"
         },
         {
-          "id": "f745a8646b66",
-          "titulo": "Iran's Aragchi to Al Jazeera: conditions include lifting post-Islamabad sanctions, reducing US forces in region",
+          "id": "3875de57fc15",
+          "titulo": "OPEC+ agrees in principle to maintain production targets in December, source says",
           "fonte": "FinancialJuice",
           "data": "2026-10-31",
-          "hora": "10:12",
-          "link": "https://www.financialjuice.com/News/9830816/Irans-Aragchi-to-Al-Jazeera-conditions-include-lifting-post-Islamabad-sanctions-reducing-US-forces-in-region.aspx?xy=rss"
+          "hora": "13:34",
+          "link": "https://www.financialjuice.com/News/9830911/OPEC-agrees-in-principle-to-maintain-production-targets-in-December-source-says.aspx?xy=rss"
         },
         {
-          "id": "fa5a01a704b3",
-          "titulo": "Iran's FM to Al Jazeera: Iranian plan is only proposal currently on table to reopen Strait of Hormuz",
+          "id": "a13889380dee",
+          "titulo": "Russia prolongs diesel export prohibition through January: IFX",
           "fonte": "FinancialJuice",
           "data": "2026-10-31",
-          "hora": "10:09",
-          "link": "https://www.financialjuice.com/News/9830815/Irans-FM-to-Al-Jazeera-Iranian-plan-is-only-proposal-currently-on-table-to-reopen-Strait-of-Hormuz.aspx?xy=rss"
+          "hora": "08:00",
+          "link": "https://www.financialjuice.com/News/9830756/Russia-prolongs-diesel-export-prohibition-through-January-IFX.aspx?xy=rss"
         },
         {
-          "id": "121d0e631d37",
-          "titulo": "Iran's FM to Al Jazeera: mediators offer proposals on nuclear issue, Tehran reviewing",
+          "id": "aeb4374c736e",
+          "titulo": "Ukraine's military: missile fuel plant hit in Russia's Rostov region, fire breaks out",
           "fonte": "FinancialJuice",
           "data": "2026-10-31",
-          "hora": "10:08",
-          "link": "https://www.financialjuice.com/News/9830814/Irans-FM-to-Al-Jazeera-mediators-offer-proposals-on-nuclear-issue-Tehran-reviewing.aspx?xy=rss"
+          "hora": "07:51",
+          "link": "https://www.financialjuice.com/News/9830755/Ukraines-military-missile-fuel-plant-hit-in-Russias-Rostov-region-fire-breaks-out.aspx?xy=rss"
         },
         {
-          "id": "dc4789946476",
-          "titulo": "Iran's FM to Al Jazeera: Tehran to determine if talks with Washington are direct or indirect after US accepts conditions",
+          "id": "2c4562db2d0c",
+          "titulo": "Ukraine's Zelenskiy: Russia struck energy facilities, nearly 280,000 families without power",
           "fonte": "FinancialJuice",
           "data": "2026-10-31",
-          "hora": "10:05",
-          "link": "https://www.financialjuice.com/News/9830812/Irans-FM-to-Al-Jazeera-Tehran-to-determine-if-talks-with-Washington-are-direct-or-indirect-after-US-accepts-conditions.aspx?xy=rss"
+          "hora": "07:03",
+          "link": "https://www.financialjuice.com/News/9830729/Ukraines-Zelenskiy-Russia-struck-energy-facilities-nearly-280000-families-without-power.aspx?xy=rss"
         },
         {
-          "id": "836fb7aae664",
-          "titulo": "Iran's FM to Al Jazeera: no intentions for talks with US officials currently",
+          "id": "dbf1b5d9f8de",
+          "titulo": "Russia's Novak: Russia will draw up plan for December diesel exports at the end of November",
           "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "10:04",
-          "link": "https://www.financialjuice.com/News/9830811/Irans-FM-to-Al-Jazeera-no-intentions-for-talks-with-US-officials-currently.aspx?xy=rss"
+          "data": "2026-10-30",
+          "hora": "11:50",
+          "link": "https://www.financialjuice.com/News/9829729/Russias-Novak-Russia-will-draw-up-plan-for-December-diesel-exports-at-the-end-of-November.aspx?xy=rss"
         },
         {
-          "id": "2b9e94c1679d",
-          "titulo": "Iran's FM to Al Jazeera: US attempt to start wider talks with Tehran is positive move",
+          "id": "db6decf09e3f",
+          "titulo": "Russia's Novak: Russian oil production in October is higher than in September.",
           "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "10:04",
-          "link": "https://www.financialjuice.com/News/9830810/Irans-FM-to-Al-Jazeera-US-attempt-to-start-wider-talks-with-Tehran-is-positive-move.aspx?xy=rss"
+          "data": "2026-10-30",
+          "hora": "11:47",
+          "link": "https://www.financialjuice.com/News/9829725/Russias-Novak-Russian-oil-production-in-October-is-higher-than-in-September.aspx?xy=rss"
         },
         {
-          "id": "94466c0cb15f",
-          "titulo": "Iran's foreign minister Araqchi tells Al Jazeera: Tehran examined US Vance message, reviewed it in top-level talks",
+          "id": "8f683e8e23ec",
+          "titulo": "Russia's Novak: Attacks on oil refineries will have negative impact on diesel fuel supplies to global market.",
           "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "10:03",
-          "link": "https://www.financialjuice.com/News/9830809/Irans-foreign-minister-Araqchi-tells-Al-Jazeera-Tehran-examined-US-Vance-message-reviewed-it-in-top-level-talks.aspx?xy=rss"
+          "data": "2026-10-30",
+          "hora": "11:45",
+          "link": "https://www.financialjuice.com/News/9829707/Russias-Novak-Attacks-on-oil-refineries-will-have-negative-impact-on-diesel-fuel-supplies-to-global-market.aspx?xy=rss"
         },
         {
-          "id": "c4bb2b8aef84",
-          "titulo": "Iranian negotiators in Doha to continue talks with Qatari mediators after 12-hour session in Tehran yesterday, part of ongoing effort to end US-Iran war - official brief",
+          "id": "10122ecc8026",
+          "titulo": "Major banks raise 1Q27 Brent price forecast, WSJ survey finds",
           "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "09:20",
-          "link": "https://www.financialjuice.com/News/9830784/Iranian-negotiators-in-Doha-to-continue-talks-with-Qatari-mediators-after-12-hour-session-in-Tehran-yesterday-part-of-ongoing-effort-to-end-US-Iran-war---official-brief.aspx?xy=rss"
+          "data": "2026-10-30",
+          "hora": "11:14",
+          "link": "https://www.financialjuice.com/News/9829664/Major-banks-raise-1Q27-Brent-price-forecast-WSJ-survey-finds.aspx?xy=rss"
         },
         {
-          "id": "5c54ca97dc00",
-          "titulo": "Qatari mediation team in regular contact with US negotiators during talks: source",
+          "id": "9dbd8ed4a8ca",
+          "titulo": "Exxon estimates half of Russia's refining capacity is offline.",
           "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "09:20",
-          "link": "https://www.financialjuice.com/News/9830785/Qatari-mediation-team-in-regular-contact-with-US-negotiators-during-talks-source.aspx?xy=rss"
+          "data": "2026-10-30",
+          "hora": "11:12",
+          "link": "https://www.financialjuice.com/News/9829661/Exxon-estimates-half-of-Russias-refining-capacity-is-offline.aspx?xy=rss"
         }
       ],
       "criado_em": "2026-10-31T11:20",
-      "atualizado_em": "2026-10-31T11:20"
+      "atualizado_em": "2026-10-31T18:08"
     },
     {
-      "titulo": "Ibovespa fecha a quinta queda seguida após a vitória de Lula e o governo enfrenta agenda fiscal para 2027",
-      "sinal": "risk_off",
-      "resumo": "O Ibovespa fechou a 30/10 em 167.922 pontos (−0,75%), quinta sessão de queda, com o dólar a R$ 5,38; o FT diz que a forte desvalorização do real após a vitória de Lula fez cair as commodities agrícolas. O governo tem de rever o Orçamento e incorporar promessas eleitorais, com a IFI a alertar para um défice de 1% do PIB em 2027; Kassab condiciona a aproximação do PSD a medidas que tranquilizem a economia, e Eduardo Braga será relator da alíquota da CBS no Senado.",
-      "impacto": "Prémio de risco fiscal e de governança pesa nas estatais (BBAS3, PETR4) e nos bancos; real fraco ajuda exportadoras (VALE3, SUZB3, JBSS32, BEEF3). Na próxima semana saem ITUB4 (03/11), PRIO3, BEEF3 e AXIA3 (04/11) e SUZB3 (05/11).",
+      "titulo": "No G20, Rubio aponta interesse num cessar-fogo limitado no Mar Negro e admite convidar Zelensky para a cimeira de dezembro",
+      "sinal": "neutro",
+      "resumo": "Rubio disse que a comunidade internacional mostra interesse crescente num cessar-fogo limitado no Mar Negro e que a Índia e a Turquia propõem planos para retomar a exportação de grãos; admitiu convidar Zelensky para a cimeira do G20, decisão que cabe a Trump, e discutiu com Lavrov um encontro Trump-Putin na APEC. Erdogan classificou como inaceitáveis os ataques a navios comerciais no Mar Negro.",
+      "impacto": "Retomar os grãos do Mar Negro pressionaria os preços agrícolas (custo de ração mais baixo para JBSS32/BEEF3, concorrência para o agro exportador); sem acordo, por agora.",
       "especulacao": "",
-      "n_noticias": 9,
+      "n_noticias": 10,
       "noticias": [
+        {
+          "id": "4a085ddfec82",
+          "titulo": "Trade in food and agricultural products should not be used as tool for economic or political coercion: G20 chair says",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "15:22",
+          "link": "https://www.financialjuice.com/News/9830939/Trade-in-food-and-agricultural-products-should-not-be-used-as-tool-for-economic-or-political-coercion-G20-chair-says.aspx?xy=rss"
+        },
+        {
+          "id": "47622e1664ff",
+          "titulo": "US Secretary of State Rubio: discussed with Russia's Lavrov chance for Trump, Putin to meet at APEC next month",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:46",
+          "link": "https://www.financialjuice.com/News/9830918/US-Secretary-of-State-Rubio-discussed-with-Russias-Lavrov-chance-for-Trump-Putin-to-meet-at-APEC-next-month.aspx?xy=rss"
+        },
+        {
+          "id": "0d8d353e70c5",
+          "titulo": "US Secretary of State Rubio: Zelenskiy invite possible if 'something positive' results from attending G20 summit",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:39",
+          "link": "https://www.financialjuice.com/News/9830915/US-Secretary-of-State-Rubio-Zelenskiy-invite-possible-if-something-positive-results-from-attending-G20-summit.aspx?xy=rss"
+        },
+        {
+          "id": "99f23a04e9d2",
+          "titulo": "US Secretary of State Rubio: might consider inviting Zelenskiy to G20 leaders summit in December, but decision rests with President Trump",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:38",
+          "link": "https://www.financialjuice.com/News/9830914/US-Secretary-of-State-Rubio-might-consider-inviting-Zelenskiy-to-G20-leaders-summit-in-December-but-decision-rests-with-President-Trump.aspx?xy=rss"
+        },
+        {
+          "id": "0b8b5c400a47",
+          "titulo": "US Secretary of State Rubio: international community shows rising interest in limited Black Sea ceasefire",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:33",
+          "link": "https://www.financialjuice.com/News/9830910/US-Secretary-of-State-Rubio-international-community-shows-rising-interest-in-limited-Black-Sea-ceasefire.aspx?xy=rss"
+        },
+        {
+          "id": "814e04db8915",
+          "titulo": "US Secretary of State Rubio: India, Turkey propose plans to resume grain shipments in Black Sea",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:31",
+          "link": "https://www.financialjuice.com/News/9830909/US-Secretary-of-State-Rubio-India-Turkey-propose-plans-to-resume-grain-shipments-in-Black-Sea.aspx?xy=rss"
+        },
+        {
+          "id": "4abfc635df22",
+          "titulo": "US Secretary of State Rubio: G20 foreign ministers agree on importance of food security, critical mineral supply chains and navigation freedom",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:27",
+          "link": "https://www.financialjuice.com/News/9830899/US-Secretary-of-State-Rubio-G20-foreign-ministers-agree-on-importance-of-food-security-critical-mineral-supply-chains-and-navigation-freedom.aspx?xy=rss"
+        },
+        {
+          "id": "bd34483f5c3d",
+          "titulo": "Istanbul: Zelenskiy discusses upcoming meeting of US, Ukraine, Russian peace negotiators with Turkey's Erdogan",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:07",
+          "link": "https://www.financialjuice.com/News/9830892/Istanbul-Zelenskiy-discusses-upcoming-meeting-of-US-Ukraine-Russian-peace-negotiators-with-Turkeys-Erdogan.aspx?xy=rss"
+        },
+        {
+          "id": "8ae06334ef6d",
+          "titulo": "Turkey’s President Erdogan: assaults on commercial ships in Black Sea unacceptable regardless of perpetrator",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:01",
+          "link": "https://www.financialjuice.com/News/9830889/Turkeys-President-Erdogan-assaults-on-commercial-ships-in-Black-Sea-unacceptable-regardless-of-perpetrator.aspx?xy=rss"
+        },
+        {
+          "id": "fefdb8d85e03",
+          "titulo": "Turkey’s President Erdogan: discussed navigation safety in Black Sea with Ukraine’s Zelenskiy during meeting",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:00",
+          "link": "https://www.financialjuice.com/News/9830887/Turkeys-President-Erdogan-discussed-navigation-safety-in-Black-Sea-with-Ukraines-Zelenskiy-during-meeting.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-10-31T18:08",
+      "atualizado_em": "2026-10-31T18:08"
+    },
+    {
+      "titulo": "Reforma tributária: estimativa põe o novo imposto sobre consumo acima de 30% e o Boticário defende adiar a implementação",
+      "sinal": "risk_off",
+      "resumo": "Uma comparação publicada pelo G1 estima que o novo imposto sobre consumo pode ficar acima de 30%, acima do de países ricos; Artur Grynbaum, do Grupo Boticário, defendeu adiar a implementação e Eduardo Braga será relator da alíquota da CBS no Senado. O governo tem de rever o Orçamento de 2027 e incorporar promessas eleitorais; Boulos citou R$ 600 bilhões em desonerações e Kassab condiciona a aproximação do PSD a medidas económicas. O Ibovespa fechou a 30/10 a quinta sessão de queda.",
+      "impacto": "Prémio de risco fiscal pesa nas estatais (BBAS3, PETR4), nos bancos e no consumo (AMER3) e alimenta a curva antes do Copom; real fraco ajuda exportadoras (VALE3, SUZB3, JBSS32, BEEF3). ITUB4 divulga o 3T26 a 03/11.",
+      "especulacao": "",
+      "n_noticias": 8,
+      "noticias": [
+        {
+          "id": "b27e606f5d4e",
+          "titulo": "Reforma tributária: novo imposto sobre consumo pode ficar acima de 30% e superar o de países ricos; veja a comparação",
+          "fonte": "G1 Economia",
+          "data": "2026-10-31",
+          "hora": "18:02",
+          "link": "https://g1.globo.com/economia/noticia/2026/10/31/reforma-tributaria-novo-imposto-sobre-consumo-pode-ficar-acima-de-30percent-e-superar-o-de-paises-ricos-veja-a-comparacao.ghtml"
+        },
+        {
+          "id": "0210108d7840",
+          "titulo": "Boulos cita R$ 600 bi em desonerações e fala em ‘chantagem’ do mercado",
+          "fonte": "InfoMoney",
+          "data": "2026-10-31",
+          "hora": "15:25",
+          "link": "https://www.infomoney.com.br/politica/boulos-cita-r-600-bi-em-desoneracoes-e-fala-em-chantagem-do-mercado/"
+        },
+        {
+          "id": "62f4b67f368a",
+          "titulo": "Artur Grynbaum, do Grupo Boticário, defende adiar reforma tributária: 'É mais sensato postergar'",
+          "fonte": "Exame",
+          "data": "2026-10-31",
+          "hora": "13:38",
+          "link": "https://exame.com/negocios/artur-grynbaum-do-grupo-boticario-defende-adiar-reforma-tributaria-e-mais-sensato-postergar/"
+        },
         {
           "id": "9f5262885394",
           "titulo": "NU: Opportunity Following The Brazil Election Results",
@@ -1121,30 +1101,170 @@
           "data": "2026-10-31",
           "hora": "02:00",
           "link": "https://www.ft.com/content/f0ca6771-20a2-4146-bd3f-4796d3c86094?syn-25a6b1a6=1"
+        }
+      ],
+      "criado_em": "2026-10-31T11:20",
+      "atualizado_em": "2026-10-31T18:08"
+    },
+    {
+      "titulo": "PMI industrial oficial da China cai para 49,3 em outubro e Rubio prevê encontro de Trump com Xi no G20 e na APEC",
+      "sinal": "risk_off",
+      "resumo": "O PMI industrial oficial da China caiu para 49,3 em outubro, de 50,1 em setembro e abaixo dos 49,9 previstos, e o não industrial recuou para 49,7; o compósito ficou em 49,7. Rubio disse esperar que Trump e Xi se encontrem nas cimeiras do G20 e da APEC.",
+      "impacto": "Contração industrial chinesa pesa no minério e no aço (VALE3, GGBR4, CSNA3, USIM5) e na celulose (SUZB3, KLBN11).",
+      "especulacao": "",
+      "n_noticias": 7,
+      "noticias": [
+        {
+          "id": "e3e347285646",
+          "titulo": "US Secretary of State Rubio: anticipate Trump, China's Xi to convene at G20 and APEC gatherings",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:53",
+          "link": "https://www.financialjuice.com/News/9830920/US-Secretary-of-State-Rubio-anticipate-Trump-Chinas-Xi-to-convene-at-G20-and-APEC-gatherings.aspx?xy=rss"
         },
         {
-          "id": "cff05c9e5c05",
-          "titulo": "Ibovespa opera em queda e chega aos 167 mil pontos; dólar opera em alta, de olho em novos dados econômicos",
-          "fonte": "G1 Economia",
+          "id": "98d89d0f0d90",
+          "titulo": "Chinese Composite PMI Actual 49.7 (Forecast -, Previous 50.7)",
+          "fonte": "FinancialJuice",
           "data": "2026-10-30",
-          "hora": "12:22",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/30/dolar-ibovespa.ghtml"
+          "hora": "22:33",
+          "link": "https://www.financialjuice.com/News/9830439/Chinese-Composite-PMI-Actual-497-Forecast---Previous-507.aspx?xy=rss"
         },
         {
-          "id": "25586c6d6ad8",
-          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai 1% e engata 5ª sessão negativa; VALE3 e PETR4 sobem",
+          "id": "830680dc3e67",
+          "titulo": "Chinese NBS Manufacturing PMI Actual 49.3 (Forecast 49.9, Previous 50.1)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-30",
+          "hora": "22:31",
+          "link": "https://www.financialjuice.com/News/9830430/Chinese-NBS-Manufacturing-PMI-Actual-493-Forecast-499-Previous-501.aspx?xy=rss"
+        },
+        {
+          "id": "4be17f58b142",
+          "titulo": "Chinese NBS Non-Manufacturing PMI Actual 49.7 (Forecast 50, Previous 50.2)",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-30",
+          "hora": "22:31",
+          "link": "https://www.financialjuice.com/News/9830432/Chinese-NBS-Non-Manufacturing-PMI-Actual-497-Forecast-50-Previous-502.aspx?xy=rss"
+        },
+        {
+          "id": "047b5d1717c4",
+          "titulo": "China October official manufacturing PMI at 49.3 vs 50.1 in September",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-30",
+          "hora": "22:30",
+          "link": "https://www.financialjuice.com/News/9830431/China-October-official-manufacturing-PMI-at-493-vs-501-in-September.aspx?xy=rss"
+        },
+        {
+          "id": "a1e644b04d12",
+          "titulo": "China October official non-manufacturing PMI drops to 49.7 from September's 50.2",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-30",
+          "hora": "22:30",
+          "link": "https://www.financialjuice.com/News/9830434/China-October-official-non-manufacturing-PMI-drops-to-497-from-Septembers-502.aspx?xy=rss"
+        },
+        {
+          "id": "0451fafcd200",
+          "titulo": "China October official composite PMI at 49.7",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-30",
+          "hora": "22:30",
+          "link": "https://www.financialjuice.com/News/9830433/China-October-official-composite-PMI-at-497.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-10-31T18:08",
+      "atualizado_em": "2026-10-31T18:08"
+    },
+    {
+      "titulo": "Raízen aprova plano para sair de crise de R$ 65 bilhões e Oncoclínicas e Chilli Beans renegociam dívida",
+      "sinal": "risk_off",
+      "resumo": "A Raízen aprovou um plano para sair de uma crise de R$ 65 bilhões que a divide em duas empresas. A Oncoclínicas obteve apoio de credores para renegociar R$ 5,7 bilhões e a Chilli Beans pediu recuperação extrajudicial para R$ 340 milhões, juntando-se à lista de empresas que recorreram à recuperação em 2026.",
+      "impacto": "A sequência de reestruturações confirma o stress de crédito corporativo com juros altos: risco de provisões para os bancos (ITUB4 a 03/11, BPAC11 a 10/11, BBAS3 a 11/11) e argumento a favor de cortes na Selic.",
+      "especulacao": "",
+      "n_noticias": 5,
+      "noticias": [
+        {
+          "id": "143f930f2759",
+          "titulo": "Raízen aprova plano para sair de crise de R$ 65 bilhões e será dividida em duas empresas",
+          "fonte": "G1 Economia",
+          "data": "2026-10-31",
+          "hora": "18:02",
+          "link": "https://g1.globo.com/economia/noticia/2026/10/30/raizen-aprova-plano-para-evitar-falencia-e-preve-injecao-de-ate-r-398-bilhoes.ghtml"
+        },
+        {
+          "id": "fe25b032e4ae",
+          "titulo": "Oncoclínicas obtém apoio de credores para renegociar dívida de R$ 5,7 bilhões",
+          "fonte": "G1 Economia",
+          "data": "2026-10-31",
+          "hora": "18:02",
+          "link": "https://g1.globo.com/economia/noticia/2026/10/30/oncoclinicas-obtem-apoio-de-credores-para-renegociar-divida-de-r-57-bilhoes.ghtml"
+        },
+        {
+          "id": "30452845e14a",
+          "titulo": "Chilli Beans entra com pedido de recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+          "fonte": "G1 Economia",
+          "data": "2026-10-31",
+          "hora": "18:02",
+          "link": "https://g1.globo.com/economia/noticia/2026/10/31/chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial.ghtml"
+        },
+        {
+          "id": "fd9a1187f46a",
+          "titulo": "Chilli Beans entra para lista de empresas que recorreram à recuperação em 2026; veja os casos",
+          "fonte": "G1 Economia",
+          "data": "2026-10-31",
+          "hora": "18:02",
+          "link": "https://g1.globo.com/economia/negocios/noticia/2026/10/31/chilli-beans-entra-para-lista-de-empresas-que-recorreram-a-recuperacao-em-2026-veja-os-casos.ghtml"
+        },
+        {
+          "id": "1be12f09a24c",
+          "titulo": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+          "fonte": "InfoMoney",
+          "data": "2026-10-31",
+          "hora": "16:48",
+          "link": "https://www.infomoney.com.br/business/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas/"
+        }
+      ],
+      "criado_em": "2026-10-31T18:08",
+      "atualizado_em": "2026-10-31T18:08"
+    },
+    {
+      "titulo": "Balanços do Brasil: Ambev é rebaixada após o 3T26, Vamos triplica o lucro e a CSN vende a CSN Cimentos à Huaxin",
+      "sinal": "neutro",
+      "resumo": "A Ambev sofreu um rebaixamento de recomendação no Seeking Alpha depois do 3T26 e a Vamos triplicou o lucro, acima do esperado; a CSN vendeu o braço de cimentos à Huaxin, que superou a Votorantim, um passo para a desalavancagem. A Braskem detalhou negócios de gás de R$ 51,3 milhões entre a Voqen e a Petrobras.",
+      "impacto": "A venda dos cimentos é leitura positiva para a alavancagem de CSNA3 antes do 3T26 a 12/11; os negócios de gás são marginais para PETR4. Na semana saem ITUB4 (03/11), PRIO3, BEEF3 e AXIA3 (04/11) e SUZB3 (05/11), depois JBSS32 (09/11) e BPAC11 (10/11).",
+      "especulacao": "",
+      "n_noticias": 5,
+      "noticias": [
+        {
+          "id": "5f21a2e91b48",
+          "titulo": "Ambev Q3: The Day After The Hangover (Rating Downgrade)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-31",
+          "hora": "13:41",
+          "link": "https://seekingalpha.com/article/4960647-ambev-q3-the-day-after-the-hangover-rating-downgrade?source=feed_all_articles"
+        },
+        {
+          "id": "55373d0e9a3f",
+          "titulo": "Ambev: The Post-Election Selloff Has Created A More Compelling Buying Opportunity",
+          "fonte": "Seeking Alpha",
+          "data": "2026-10-31",
+          "hora": "12:16",
+          "link": "https://seekingalpha.com/article/4960629-ambev-the-post-election-selloff-has-created-a-more-compelling-buying-opportunity?source=feed_all_articles"
+        },
+        {
+          "id": "1a2431e78875",
+          "titulo": "Braskem detalha negócios de gás entre Voqen e Petrobras que somam R$ 51,3 mi",
+          "fonte": "InfoMoney",
+          "data": "2026-10-31",
+          "hora": "09:50",
+          "link": "https://www.infomoney.com.br/mercados/braskem-petrobras-voqen-gas-51-milhoes/"
+        },
+        {
+          "id": "c96a1fc6c577",
+          "titulo": "CSN (CSNA3) dá passo importante para desalavancagem com venda de braço de cimentos",
           "fonte": "InfoMoney",
           "data": "2026-10-30",
-          "hora": "12:16",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/"
-        },
-        {
-          "id": "833acc475e94",
-          "titulo": "Ibovespa tem 5º dia seguido de queda e dólar oscila acima de R$ 5,40",
-          "fonte": "Exame",
-          "data": "2026-10-30",
-          "hora": "11:23",
-          "link": "https://exame.com/invest/mercados/ibovespa-tem-5o-dia-seguido-de-queda-e-dolar-oscila-acima-de-r-540/"
+          "hora": "11:49",
+          "link": "https://www.infomoney.com.br/mercados/csn-csna3-da-passo-importante-para-desalavancagem-com-venda-de-braco-de-cimentos/"
         },
         {
           "id": "cc95e5604508",
@@ -1155,17 +1275,25 @@
           "link": "https://exame.com/invest/mercados/vamos-triplica-lucro-mas-resultado-pode-nao-reverter-tombo-na-bolsa-pos-eleicao/"
         }
       ],
-      "criado_em": "2026-10-31T11:20",
-      "atualizado_em": "2026-10-31T11:20"
+      "criado_em": "2026-10-31T18:08",
+      "atualizado_em": "2026-10-31T18:08"
     },
     {
-      "titulo": "Fitch corta a perspetiva da França fora do calendário e avisa derrapagem orçamental no Reino Unido",
+      "titulo": "Fitch corta a perspetiva da França fora do calendário e 320 mil pessoas protestam no país",
       "sinal": "risk_off",
-      "resumo": "A Fitch rebaixou a perspetiva do rating francês numa ação não agendada, horas depois de o PIB do 3.º trimestre ter contraído inesperadamente. Sobre o orçamento britânico, a agência prevê derrapagem significativa face aos planos de despesa e diz que a consolidação será muito mais difícil a partir de 2027; o Banco de Inglaterra estuda aliviar o limite ao crédito hipotecário de maior risco.",
+      "resumo": "A Fitch rebaixou a perspetiva do rating francês numa ação não agendada, horas depois de o PIB do 3.º trimestre ter contraído inesperadamente; os protestos em França juntaram 320 mil pessoas, 70 mil em Paris, segundo o Ministério do Interior. A agência prevê também derrapagem orçamental no Reino Unido, e o Banco de Inglaterra estuda aliviar o limite ao crédito hipotecário de maior risco.",
       "impacto": "Stress soberano europeu reforça o dólar e a procura de refúgio, com efeito indireto no câmbio brasileiro; sem exposição direta da carteira.",
       "especulacao": "",
-      "n_noticias": 7,
+      "n_noticias": 4,
       "noticias": [
+        {
+          "id": "68dce5ed9839",
+          "titulo": "Turnout for French protests reached 320,000 nationwide, 70,000 in Paris: Interior Ministry",
+          "fonte": "FinancialJuice",
+          "data": "2026-10-31",
+          "hora": "13:15",
+          "link": "https://www.financialjuice.com/News/9830893/Turnout-for-French-protests-reached-320000-nationwide-70000-in-Paris-Interior-Ministry.aspx?xy=rss"
+        },
         {
           "id": "c0d26bc3b29e",
           "titulo": "Rating agency Fitch hits France with unscheduled outlook downgrade",
@@ -1189,42 +1317,10 @@
           "data": "2026-10-30",
           "hora": "12:42",
           "link": "https://investinglive.com/news/fitch-on-uk-budget-policy-continuity-leaves-a-tough-delivery-challenge/"
-        },
-        {
-          "id": "028b6c26dc9f",
-          "titulo": "Fitch on UK budget: We see moderately more policy risk closer to next general election.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:48",
-          "link": "https://www.financialjuice.com/News/9829728/Fitch-on-UK-budget-We-see-moderately-more-policy-risk-closer-to-next-general-election.aspx?xy=rss"
-        },
-        {
-          "id": "966861a73aba",
-          "titulo": "Fitch on UK budget: Fiscal consolidation plan remains much more challenging to deliver from 2027.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:47",
-          "link": "https://www.financialjuice.com/News/9829726/Fitch-on-UK-budget-Fiscal-consolidation-plan-remains-much-more-challenging-to-deliver-from-2027.aspx?xy=rss"
-        },
-        {
-          "id": "1c87bd51137d",
-          "titulo": "Fitch on UK budget: Continues to anticipate significant fiscal slippage against spending plans.",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:47",
-          "link": "https://www.financialjuice.com/News/9829727/Fitch-on-UK-budget-Continues-to-anticipate-significant-fiscal-slippage-against-spending-plans.aspx?xy=rss"
-        },
-        {
-          "id": "08b78386347e",
-          "titulo": "Fitch Ratings on UK budget: Broad policy continuity leaves sizeable delivery challenge",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "11:46",
-          "link": "https://www.financialjuice.com/News/9829710/Fitch-Ratings-on-UK-budget-Broad-policy-continuity-leaves-sizeable-delivery-challenge.aspx?xy=rss"
         }
       ],
       "criado_em": "2026-10-31T11:20",
-      "atualizado_em": "2026-10-31T11:20"
+      "atualizado_em": "2026-10-31T18:08"
     }
   ]
 }
