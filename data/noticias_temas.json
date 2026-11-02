@@ -1,15 +1,431 @@
 {
-  "atualizado_em": "2026-11-01T16:58",
-  "total_feed": 218,
+  "atualizado_em": "2026-11-02T14:49",
+  "total_feed": 195,
   "temas": [
     {
-      "titulo": "Binance retoma saques e regista saídas líquidas de US$ 3,64 bilhões depois de o FBI atribuir o roubo à Coreia do Norte",
-      "sinal": "risk_off",
-      "resumo": "O FBI confirmou que um grupo norte-coreano está por trás do roubo de US$ 6,3 bilhões à Binance. A corretora diz ter coberto 90% das perdas com recursos próprios, retomou os saques de bitcoin e ether e viu sair US$ 3,6 bilhões após a reabertura.",
-      "impacto": "Fuga de liquidez da maior corretora pesa sobre BTC/ETH e os tokens da carteira cripto; não toca diretamente a B3, mas reforça o tom defensivo em ativos de risco no arranque da semana.",
-      "especulacao": "",
-      "n_noticias": 14,
+      "titulo": "Pezeshkian diz que o Líder Supremo deu ao governo autoridade para negociar com os EUA e Araghchi liga a reabertura de Ormuz às condições do Irão",
+      "sinal": "risk_on",
+      "resumo": "O presidente iraniano disse que o Líder Supremo concedeu ao governo poderes para negociar e que Teerão tentará resolver a guerra pelo diálogo; o chanceler Araghchi afirmou que as consultas via Catar e Paquistão são muito intensas e que Ormuz reabre se as condições do Irão forem aceites. Trump disse que o Irão quer um acordo; Netanyahu pressiona Trump a retomar a guerra depois das eleições americanas e a Rússia diz-se preocupada com sinais de nova ação militar.",
+      "impacto": "Desanuviamento tira prémio de risco ao petróleo e ajuda o beta global e o real; é negativo na margem para PETR4 e PRIO3 (Brent em queda) e positivo para curva de juros, varejo e aéreas via inflação de combustíveis.",
+      "especulacao": "A Exame noticia, citando fontes, que Netanyahu quer a guerra retomada logo após as eleições nos EUA; não há decisão anunciada nesse sentido.",
+      "n_noticias": 24,
       "noticias": [
+        {
+          "id": "a678bb35c082",
+          "titulo": "Iran’s Foreign Minister Araghchi: Tehran's conditions for reopening the Strait of Hormuz are clear; if accepted, the Strait will be opened and negotiations will resume; otherwise, Iran will not bow down.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:20",
+          "link": "https://www.financialjuice.com/News/9832734/Irans-Foreign-Minister-Araghchi-Tehrans-conditions-for-reopening-the-Strait-of-Hormuz-are-clear-if-accepted-the-Strait-will-be-opened-and-negotiations-will-resume-otherwise-Iran-will-not-bow-down.aspx?xy=rss"
+        },
+        {
+          "id": "dccd700a5e3f",
+          "titulo": "Iran’s Foreign Minister Araghchi: Consultations through mediators (Qatar and Pakistan) are very intensive. We have presented our terms and plan, and all depends on US's political rationality",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:18",
+          "link": "https://www.financialjuice.com/News/9832731/Irans-Foreign-Minister-Araghchi-Consultations-through-mediators-Qatar-and-Pakistan-are-very-intensive-We-have-presented-our-terms-and-plan-and-all-depends-on-USs-political-rationality.aspx?xy=rss"
+        },
+        {
+          "id": "a406de5eed2d",
+          "titulo": "Iran FM Araghchi: Ready to Work With US if It Chooses Honest Diplomacy; Deception, Military Operations Will Face Harsher Response Than Before",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:18",
+          "link": "https://www.financialjuice.com/News/9832732/Iran-FM-Araghchi-Ready-to-Work-With-US-if-It-Chooses-Honest-Diplomacy-Deception-Military-Operations-Will-Face-Harsher-Response-Than-Before.aspx?xy=rss"
+        },
+        {
+          "id": "80be3a0ac7b4",
+          "titulo": "Iran’s Foreign Minister Araghchi: Reopening of the Strait of Hormuz is subject to accepting Iran's conditions",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:17",
+          "link": "https://www.financialjuice.com/News/9832730/Irans-Foreign-Minister-Araghchi-Reopening-of-the-Strait-of-Hormuz-is-subject-to-accepting-Irans-conditions.aspx?xy=rss"
+        },
+        {
+          "id": "bfb5698c0757",
+          "titulo": "Iran’s Foreign Minister Araghchi: We are more ready for a military response and diplomatic path than before - IRNA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:17",
+          "link": "https://www.financialjuice.com/News/9832729/Irans-Foreign-Minister-Araghchi-We-are-more-ready-for-a-military-response-and-diplomatic-path-than-before---IRNA.aspx?xy=rss"
+        },
+        {
+          "id": "128556d54efb",
+          "titulo": "Iran's top security official Mohsen Rezai and Russia's Putin discuss Middle East developments in a phone call - Fars news agency",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:09",
+          "link": "https://www.financialjuice.com/News/9832714/Irans-top-security-official-Mohsen-Rezai-and-Russias-Putin-discuss-Middle-East-developments-in-a-phone-call---Fars-news-agency.aspx?xy=rss"
+        },
+        {
+          "id": "a8544f3a1188",
+          "titulo": "Trump diz que Irã quer alcançar acordo sobre guerra e minimiza pesquisas de eleições",
+          "fonte": "InfoMoney",
+          "data": "2026-11-02",
+          "hora": "14:08",
+          "link": "https://www.infomoney.com.br/mundo/trump-diz-que-ira-quer-alcancar-acordo-sobre-guerra-e-minimiza-pesquisas-de-eleicoes/"
+        },
+        {
+          "id": "b96c3bc42c5d",
+          "titulo": "Iran’s Pezeshkian says Supreme Leader has granted government some authority on dialogue",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "13:51",
+          "link": "https://investinglive.com/news/iran-s-pezeshkian-says-supreme-leader-has-granted-government-some-authority-on-dialogue/"
+        },
+        {
+          "id": "fb677b3d7ec4",
+          "titulo": "Iran's President Pezeshkian on war with the US: We will try to resolve the problem with dialogue - State Media",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:46",
+          "link": "https://www.financialjuice.com/News/9832686/Irans-President-Pezeshkian-on-war-with-the-US-We-will-try-to-resolve-the-problem-with-dialogue---State-Media.aspx?xy=rss"
+        },
+        {
+          "id": "73847a25b3f9",
+          "titulo": "China's Foreign Minister to Saudi National Security Advisor: Hopes all parties resolve disputes and end hostilities through dialogue and negotiation - Xinhua",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:45",
+          "link": "https://www.financialjuice.com/News/9832661/Chinas-Foreign-Minister-to-Saudi-National-Security-Advisor-Hopes-all-parties-resolve-disputes-and-end-hostilities-through-dialogue-and-negotiation---Xinhua.aspx?xy=rss"
+        },
+        {
+          "id": "caf78c6271fa",
+          "titulo": "China's Foreign Minister urges safeguarding regional energy and shipping lane security",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:45",
+          "link": "https://www.financialjuice.com/News/9832671/Chinas-Foreign-Minister-urges-safeguarding-regional-energy-and-shipping-lane-security.aspx?xy=rss"
+        },
+        {
+          "id": "3396dae94aa1",
+          "titulo": "Iran's President Pezeshkian: We firmly reject the enemy’s false claims and excessive demands - Press TV",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:36",
+          "link": "https://www.financialjuice.com/News/9832658/Irans-President-Pezeshkian-We-firmly-reject-the-enemys-false-claims-and-excessive-demands---Press-TV.aspx?xy=rss"
+        },
+        {
+          "id": "222e2c6ddc9b",
+          "titulo": "Iran's President Pezeshkian: The Supreme Leader has granted the government certain authorities regarding negotiations - ISNA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:30",
+          "link": "https://www.financialjuice.com/News/9832660/Irans-President-Pezeshkian-The-Supreme-Leader-has-granted-the-government-certain-authorities-regarding-negotiations---ISNA.aspx?xy=rss"
+        },
+        {
+          "id": "b45d6874ae3a",
+          "titulo": "Iran's President Pezeshkian: The Supreme Leader has granted the government certain authorities regarding negotiations - ISNA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:30",
+          "link": "https://www.financialjuice.com/News/9832648/Irans-President-Pezeshkian-The-Supreme-Leader-has-granted-the-government-certain-authorities-regarding-negotiations---ISNA.aspx?xy=rss"
+        },
+        {
+          "id": "93f119c1ffcb",
+          "titulo": "Netanyahu pressiona Trump a retomar guerra contra o Irã logo após eleições nos EUA",
+          "fonte": "Exame",
+          "data": "2026-11-02",
+          "hora": "11:26",
+          "link": "https://exame.com/mundo/netanyahu-pressiona-trump-a-retomar-guerra-contra-o-ira-logo-apos-eleicoes-nos-eua/"
+        },
+        {
+          "id": "ad062f2b6631",
+          "titulo": "Trump on Iran: We'll see about a deal, they want to make one.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "11:13",
+          "link": "https://www.financialjuice.com/News/9832447/Trump-on-Iran-Well-see-about-a-deal-they-want-to-make-one.aspx?xy=rss"
+        },
+        {
+          "id": "193dec2b89bc",
+          "titulo": "Trump on Iran: We've knocked out two of their regimes.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "11:12",
+          "link": "https://www.financialjuice.com/News/9832446/Trump-on-Iran-Weve-knocked-out-two-of-their-regimes.aspx?xy=rss"
+        },
+        {
+          "id": "3bc9fc445313",
+          "titulo": "Russian Foreign Ministry: Signals of planned new military action against Iran are causing extreme concern - Tass.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "10:34",
+          "link": "https://www.financialjuice.com/News/9832424/Russian-Foreign-Ministry-Signals-of-planned-new-military-action-against-Iran-are-causing-extreme-concern---Tass.aspx?xy=rss"
+        },
+        {
+          "id": "f918c0614c25",
+          "titulo": "Irã diz que pode reabrir Ormuz em dois dias se os EUA aceitarem suas condições",
+          "fonte": "Exame",
+          "data": "2026-11-02",
+          "hora": "09:07",
+          "link": "https://exame.com/mundo/ira-diz-que-pode-reabrir-ormuz-em-dois-dias-se-os-eua-aceitarem-suas-condicoes/"
+        },
+        {
+          "id": "e5246bfe1a20",
+          "titulo": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+          "fonte": "Guardian Business",
+          "data": "2026-11-01",
+          "hora": "17:49",
+          "link": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
+        },
+        {
+          "id": "b1c9023b9120",
+          "titulo": "Irã e mediadores do Catar travam 3º dia de negociações para fim de guerra",
+          "fonte": "InfoMoney",
+          "data": "2026-11-01",
+          "hora": "14:47",
+          "link": "https://www.infomoney.com.br/mundo/ira-e-mediadores-do-catar-travam-3o-dia-de-negociacoes-para-fim-de-guerra/"
+        },
+        {
+          "id": "df1fbf207ce0",
+          "titulo": "Iran's Foreign Minister Aragchi on talks with Qatari mediators: negotiations ongoing and advancing, no definitive conclusion reached yet",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-01",
+          "hora": "10:11",
+          "link": "https://www.financialjuice.com/News/9831456/Irans-Foreign-Minister-Aragchi-on-talks-with-Qatari-mediators-negotiations-ongoing-and-advancing-no-definitive-conclusion-reached-yet.aspx?xy=rss"
+        },
+        {
+          "id": "4f3ec4b0cd14",
+          "titulo": "Iran's state media citing Foreign Minister Aragchi on talks with Qatari mediators: hope for rationality from other side",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-01",
+          "hora": "10:10",
+          "link": "https://www.financialjuice.com/News/9831455/Irans-state-media-citing-Foreign-Minister-Aragchi-on-talks-with-Qatari-mediators-hope-for-rationality-from-other-side.aspx?xy=rss"
+        },
+        {
+          "id": "812860f820e7",
+          "titulo": "Iranian negotiators in Doha for third day of talks with Qatari mediators: official briefed on discussions",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-01",
+          "hora": "08:09",
+          "link": "https://www.financialjuice.com/News/9831373/Iranian-negotiators-in-Doha-for-third-day-of-talks-with-Qatari-mediators-official-briefed-on-discussions.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-11-02T14:49",
+      "atualizado_em": "2026-11-02T14:49"
+    },
+    {
+      "titulo": "Oracle anuncia captação de US$ 20 bilhões e a Alphabet emite €6 bilhões em dívida para financiar a IA, com o crédito americano em zona tensa",
+      "sinal": "risk_off",
+      "resumo": "A Oracle registou uma oferta de US$ 10 bilhões em ações dentro de um plano de US$ 20 bilhões e a ação caiu; a Moody's manteve o Baa2 com perspetiva negativa. A Alphabet vai emitir €6 bilhões em obrigações. O índice de risco de crédito da app está em 74,5 (tenso), 6,3 pontos abaixo de há 7 dias mas 13,2 acima de há 30, com o CCC OAS em 13,25 p.p. (fecho de 29/10, percentil 98 do ano). Hassett disse não ver risco de venda generalizada de IA; o BCE inclui as avaliações de IA nos riscos de estabilidade.",
+      "impacto": "Emissões em série para pagar capex de IA confirmam a pressão sobre o balanço das big techs e o beta de tecnologia, que se transmite ao Ibovespa via fluxo estrangeiro; a recuperação do Nasdaq hoje veio da geopolítica, não do crédito.",
+      "especulacao": "",
+      "n_noticias": 18,
+      "noticias": [
+        {
+          "id": "8b1ce575cf2a",
+          "titulo": "Bank of America: AI Capex and Tighter Financial Conditions Drive Cautious Market Tone - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:41",
+          "link": "https://www.financialjuice.com/News/9832759/Bank-of-America-AI-Capex-and-Tighter-Financial-Conditions-Drive-Cautious-Market-Tone---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "2ab00267f8d4",
+          "titulo": "The AI Bubble Ran Into Reality Last Week",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-02",
+          "hora": "14:28",
+          "link": "https://seekingalpha.com/article/4960959-ai-bubble-ran-into-reality-last-week?source=feed_all_articles"
+        },
+        {
+          "id": "c9bf668e9875",
+          "titulo": "US Sentiment: Geopolitical Optimism Helps Tech Pare Losses",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:20",
+          "link": "https://www.financialjuice.com/News/9832733/US-Sentiment-Geopolitical-Optimism-Helps-Tech-Pare-Losses.aspx?xy=rss"
+        },
+        {
+          "id": "2550efeb2918",
+          "titulo": "Oracle’s stock falls as the company details plan to raise $20 billion",
+          "fonte": "MarketWatch",
+          "data": "2026-11-02",
+          "hora": "14:03",
+          "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories"
+        },
+        {
+          "id": "b79077726a98",
+          "titulo": "Alphabet set to raise €6 billion from Euro bond sale\n$GOOGL",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:49",
+          "link": "https://www.financialjuice.com/News/9832688/Alphabet-set-to-raise-6-billion-from-Euro-bond-saleGOOGL.aspx?xy=rss"
+        },
+        {
+          "id": "8a30c4be53c9",
+          "titulo": "Nasdaq trims losses as renewed hopes for US-Iran deal improve the risk sentiment ahead of the midterms",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "13:39",
+          "link": "https://investinglive.com/stocks/nasdaq-trims-losses-as-renewed-hopes-for-us-iran-deal-improve-the-risk-sentiment-ahead-of-the-midterms/"
+        },
+        {
+          "id": "43199fb35f06",
+          "titulo": "Moody's affirms Oracle's Baa2 rating on new note offering; outlook remains negative $ORCL",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:35",
+          "link": "https://www.financialjuice.com/News/9832657/Moodys-affirms-Oracles-Baa2-rating-on-new-note-offering-outlook-remains-negative-ORCL.aspx?xy=rss"
+        },
+        {
+          "id": "0dc41782fe69",
+          "titulo": "What A Difference The Weekend Made",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-02",
+          "hora": "13:30",
+          "link": "https://seekingalpha.com/article/4960956-what-difference-weekend-made?source=feed_all_articles"
+        },
+        {
+          "id": "e0987f6f0198",
+          "titulo": "Oracle files to offer $10b of common stock, $ORCL",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:18",
+          "link": "https://www.financialjuice.com/News/9832642/Oracle-files-to-offer-10b-of-common-stock-ORCL.aspx?xy=rss"
+        },
+        {
+          "id": "3054c81cb472",
+          "titulo": "Hassett: AI is a really well financed ecosystem. This is not like financial crisis at all. So much cash in ecosystem, people should be reassured - CNBC",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:17",
+          "link": "https://www.financialjuice.com/News/9832640/Hassett-AI-is-a-really-well-financed-ecosystem-This-is-not-like-financial-crisis-at-all-So-much-cash-in-ecosystem-people-should-be-reassured---CNBC.aspx?xy=rss"
+        },
+        {
+          "id": "c5ea2df45c71",
+          "titulo": "WH Sr. Adviser Hassett: I don't think there's risk of AI wholesale selloff",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:17",
+          "link": "https://www.financialjuice.com/News/9832641/WH-Sr-Adviser-Hassett-I-dont-think-theres-risk-of-AI-wholesale-selloff.aspx?xy=rss"
+        },
+        {
+          "id": "508220759028",
+          "titulo": "ECB's Vujcic: AI valuations are one of the risks highlighted in financial stability review.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "10:18",
+          "link": "https://www.financialjuice.com/News/9832406/ECBs-Vujcic-AI-valuations-are-one-of-the-risks-highlighted-in-financial-stability-review.aspx?xy=rss"
+        },
+        {
+          "id": "50340f0ac17a",
+          "titulo": "Unpicking Microsoft’s free cash flow",
+          "fonte": "FT Markets",
+          "data": "2026-11-02",
+          "hora": "06:30",
+          "link": "https://www.ft.com/content/f16babea-fd38-440b-8278-5871d3a47b17?syn-25a6b1a6=1"
+        },
+        {
+          "id": "dc5d712ce4f5",
+          "titulo": "What the increasingly awkward data centre construction delays mean for investors",
+          "fonte": "FT Markets",
+          "data": "2026-11-02",
+          "hora": "06:00",
+          "link": "https://www.ft.com/content/824fcec4-bded-44f3-9e42-565ba0d2cfa8"
+        },
+        {
+          "id": "a651023a1e46",
+          "titulo": "AI mania can’t survive higher interest rates",
+          "fonte": "FT Markets",
+          "data": "2026-11-02",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/6e99dc59-8bd0-4c5c-8186-f6ceed04233a?syn-25a6b1a6=1"
+        },
+        {
+          "id": "555d84764f35",
+          "titulo": "SOXX: Don't Expect A Quick Recovery For AI Stocks",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-01",
+          "hora": "15:08",
+          "link": "https://seekingalpha.com/article/4960737-soxx-dont-expect-a-quick-recovery-for-ai-stocks?source=feed_all_articles"
+        },
+        {
+          "id": "15bc534ac67f",
+          "titulo": "QQQM: The Nasdaq 100 Is Having A Panic Attack And I Think This Pullback Should Be Bought",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-01",
+          "hora": "14:55",
+          "link": "https://seekingalpha.com/article/4960736-qqqm-the-nasdaq-100-is-having-a-panic-attack-and-i-think-this-pullback-should-be-bought?source=feed_all_articles"
+        },
+        {
+          "id": "137dfebbe8b4",
+          "titulo": "Growth Vs. Value Hit An Extreme As AI Spending Broke Big Tech",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-01",
+          "hora": "14:40",
+          "link": "https://seekingalpha.com/article/4960740-growth-vs-value-hit-extreme-as-ai-spending-broke-big-tech?source=feed_all_articles"
+        }
+      ],
+      "criado_em": "2026-11-02T14:49",
+      "atualizado_em": "2026-11-02T14:49"
+    },
+    {
+      "titulo": "Saídas da Binance chegam a US$ 5,16 bilhões após o roubo de US$ 6,3 bilhões e a Casa Branca diz estar a acompanhar o caso",
+      "sinal": "risk_off",
+      "resumo": "Depois de retomar os saques, a Binance liberou mais cinco moedas e as retiradas acumuladas chegaram a US$ 5,16 bilhões; a exchange publicou dados de prova de reservas de dez criptomoedas. O FBI atribuiu o roubo à Coreia do Norte; Hassett disse que a Casa Branca está a olhar para o caso. O bitcoin recuperou parte da queda e a Strategy comprou 811 BTC na semana.",
+      "impacto": "Fuga de liquidez da maior exchange pesa no apetite por cripto (tokens da carteira) e é foco de contágio enquanto as saídas continuarem; a recuperação do bitcoin e as compras da Strategy limitam, por agora, o efeito ao segmento.",
+      "especulacao": "",
+      "n_noticias": 17,
+      "noticias": [
+        {
+          "id": "0f8c4d74b71c",
+          "titulo": "Investidores retiram US$ 3,6 bilhões da Binance após ataque hacker",
+          "fonte": "G1 Economia",
+          "data": "2026-11-02",
+          "hora": "14:44",
+          "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/investidores-retiram-us-36-bilhoes-da-binance-apos-ataque-hacker.ghtml"
+        },
+        {
+          "id": "5287fa9ff4ad",
+          "titulo": "Binance libera mais 5 moedas para saque e volume de retiradas chega a US$ 5,16 bi",
+          "fonte": "InfoMoney",
+          "data": "2026-11-02",
+          "hora": "13:57",
+          "link": "https://www.infomoney.com.br/mercados/binance-libera-mais-5-moedas-para-saque-e-volume-de-retiradas-chega-a-us-516-bi/"
+        },
+        {
+          "id": "4a812e5923ea",
+          "titulo": "WH Sr. Adviser Hassett on Binance: Very much looking at this at White House",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:19",
+          "link": "https://www.financialjuice.com/News/9832643/WH-Sr-Adviser-Hassett-on-Binance-Very-much-looking-at-this-at-White-House.aspx?xy=rss"
+        },
+        {
+          "id": "2f45d97dcd19",
+          "titulo": "Strategy buys 811 Bitcoin for aggregate purchase price of $65.5m; avg. purchase price $80,846, Oct. 26 to Nov. 1",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:01",
+          "link": "https://www.financialjuice.com/News/9832614/Strategy-buys-811-Bitcoin-for-aggregate-purchase-price-of-655m-avg-purchase-price-80846-Oct-26-to-Nov-1.aspx?xy=rss"
+        },
+        {
+          "id": "ff02418e99cb",
+          "titulo": "Binance users pull $5bn as crypto exchange restarts services after heist",
+          "fonte": "FT Markets",
+          "data": "2026-11-02",
+          "hora": "10:01",
+          "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1"
+        },
+        {
+          "id": "a178ca491dca",
+          "titulo": "Bitcoin rebounds after the Binance hack driven selloff as US-Iran deal hopes improve risk sentiment",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "09:56",
+          "link": "https://investinglive.com/cryptocurrency/bitcoin-rebounds-after-the-binance-hack-driven-selloff-as-us-iran-deal-hopes-improve-risk-sentiment/"
+        },
+        {
+          "id": "7a525c9ba5c4",
+          "titulo": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+          "fonte": "BBC Business",
+          "data": "2026-11-02",
+          "hora": "07:42",
+          "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "id": "9dfc3f4e3ef5",
           "titulo": "Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
@@ -89,358 +505,114 @@
           "data": "2026-10-31",
           "hora": "18:02",
           "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/31/binance-diz-ter-coberto-90percent-das-perdas-apos-ataque-hacker-de-mais-de-us-6-bilhoes.ghtml"
-        },
-        {
-          "id": "3bcb5e5e4e63",
-          "titulo": "Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
-          "fonte": "G1 Economia",
-          "data": "2026-10-31",
-          "hora": "18:02",
-          "link": "https://g1.globo.com/tecnologia/noticia/2026/10/30/ataque-hacker-de-us63-bi-a-binance-como-funciona-o-seguro-de-criptomoedas.ghtml"
-        },
-        {
-          "id": "b1c1d23e15e8",
-          "titulo": "Binance diz ter coberto 90% das perdas após ataque hacker de US$ 6,3 bilhões",
-          "fonte": "Exame",
-          "data": "2026-10-31",
-          "hora": "13:54",
-          "link": "https://exame.com/future-of-money/binance-diz-ter-coberto-90-das-perdas-apos-ataque-hacker-de-us-63-bilhoes/"
-        },
-        {
-          "id": "058e3937b897",
-          "titulo": "Saque de bitcoin do hacker da Binance supera a tesouraria corporativa da Coinbase",
-          "fonte": "Exame",
-          "data": "2026-10-31",
-          "hora": "11:00",
-          "link": "https://exame.com/future-of-money/saque-de-bitcoin-do-hacker-da-binance-supera-a-tesouraria-corporativa-da-coinbase/"
-        },
-        {
-          "id": "aee49445fbae",
-          "titulo": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
-          "fonte": "FT Markets",
-          "data": "2026-10-31",
-          "hora": "07:38",
-          "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1"
         }
       ],
       "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
+      "atualizado_em": "2026-11-02T14:49"
     },
     {
-      "titulo": "Big tech chega a novembro depois do pior mês do Nasdaq desde março de 2025 e o custo da IA domina as análises",
-      "sinal": "risk_off",
-      "resumo": "O Nasdaq fechou outubro com a pior queda mensal desde março de 2025, com a Intel a cair 29% num só dia. No fim de semana, o Seeking Alpha rebaixou a Alphabet e as análises dividem-se entre comprar a queda (Amazon, Nasdaq 100) e esperar mais pressão nos semicondutores; o estilo crescimento-contra-valor chegou a um extremo.",
-      "impacto": "Beta global em baixa contamina o Ibovespa por correlação e o fluxo estrangeiro; o rodízio para valor favorece bancos e commodities (ITUB4, VALE3, PETR4) face a nomes de crescimento.",
-      "especulacao": "O Seeking Alpha publica teses opostas — de que a queda é para comprar e de que não haverá recuperação rápida nos semicondutores; nenhuma está confirmada pelo mercado.",
-      "n_noticias": 13,
+      "titulo": "Petróleo abre a semana em queda com a esperança de acordo EUA-Irão e a reserva estratégica americana desce ao mínimo desde 1982",
+      "sinal": "neutro",
+      "resumo": "O crude recua desde a abertura de segunda-feira com o avanço das conversas com o Irão. A reserva estratégica dos EUA caiu para 282,2 milhões de barris, o nível mais baixo desde 1982; o CEO da Vitol diz que a procura levará um ano a voltar ao nível de 2025 e o Goldman Sachs projeta média de US$ 130 por barril no próximo ano. A OPEP+ manteve as quotas de dezembro e a Petrobras subiu 7,2% o querosene de aviação.",
+      "impacto": "Brent mais baixo pesa em PETR4 e PRIO3 (PRIO reporta o 3T26 a 04/11) mas alivia a inflação e a curva antes do Copom de 3-4/11; a reserva estratégica no mínimo reduz a almofada americana contra novos choques em Ormuz.",
+      "especulacao": "",
+      "n_noticias": 16,
       "noticias": [
         {
-          "id": "555d84764f35",
-          "titulo": "SOXX: Don't Expect A Quick Recovery For AI Stocks",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "15:08",
-          "link": "https://seekingalpha.com/article/4960737-soxx-dont-expect-a-quick-recovery-for-ai-stocks?source=feed_all_articles"
-        },
-        {
-          "id": "15bc534ac67f",
-          "titulo": "QQQM: The Nasdaq 100 Is Having A Panic Attack And I Think This Pullback Should Be Bought",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "14:55",
-          "link": "https://seekingalpha.com/article/4960736-qqqm-the-nasdaq-100-is-having-a-panic-attack-and-i-think-this-pullback-should-be-bought?source=feed_all_articles"
-        },
-        {
-          "id": "137dfebbe8b4",
-          "titulo": "Growth Vs. Value Hit An Extreme As AI Spending Broke Big Tech",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "14:40",
-          "link": "https://seekingalpha.com/article/4960740-growth-vs-value-hit-extreme-as-ai-spending-broke-big-tech?source=feed_all_articles"
-        },
-        {
-          "id": "a950504c5332",
-          "titulo": "Alphabet: This Isn't Time To Buy The Dip (Rating Downgrade)",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "13:34",
-          "link": "https://seekingalpha.com/article/4960730-alphabet-not-time-to-buy-dip-rating-downgrade?source=feed_all_articles"
-        },
-        {
-          "id": "7ed87c5a46af",
-          "titulo": "Intel: PC Demand Destruction Meets AI Supply Headwinds-Profit Taking Continues",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "13:28",
-          "link": "https://seekingalpha.com/article/4960729-intel-pc-demand-destruction-meets-ai-supply-headwinds-profit-taking-continues?source=feed_all_articles"
-        },
-        {
-          "id": "8bda08772cfa",
-          "titulo": "Amazon: Keep It Simple, Buy The Dip",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "12:15",
-          "link": "https://seekingalpha.com/article/4960725-amazon-keep-it-simple-buy-dip?source=feed_all_articles"
-        },
-        {
-          "id": "9053e8150448",
-          "titulo": "I'm Not Swayed By AI Bubble Burst Doomerism",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "11:55",
-          "link": "https://seekingalpha.com/article/4960723-i-am-not-swayed-by-ai-bubble-burst-doomerism?source=feed_all_articles"
-        },
-        {
-          "id": "3b9f4997bc1e",
-          "titulo": "This is the biggest threat to the AI-powered bull market",
-          "fonte": "MarketWatch",
-          "data": "2026-11-01",
-          "hora": "11:00",
-          "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories"
-        },
-        {
-          "id": "31993c165e95",
-          "titulo": "IREN And IRE: Demand Is Exploding, Yet Questions Remain",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "10:00",
-          "link": "https://seekingalpha.com/article/4960694-iren-and-ire-demand-is-exploding-yet-questions-remain?source=feed_all_articles"
-        },
-        {
-          "id": "46bc717591b2",
-          "titulo": "IA virou um problema para as gigantes de tecnologia? Entenda o tombo bilionário nas bolsas",
-          "fonte": "G1 Economia",
-          "data": "2026-10-31",
-          "hora": "18:02",
-          "link": "https://g1.globo.com/economia/noticia/2026/10/31/ia-virou-um-problema-para-as-gigantes-de-tecnologia-entenda-o-tombo-bilionario-nas-bolsas.ghtml"
-        },
-        {
-          "id": "1dc1e9fcfcbf",
-          "titulo": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+          "id": "5414095d84c6",
+          "titulo": "Oil slides as US tech stocks steady after AI rout",
           "fonte": "FT Markets",
-          "data": "2026-10-30",
-          "hora": "21:05",
-          "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1"
+          "data": "2026-11-02",
+          "hora": "14:42",
+          "link": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1"
         },
         {
-          "id": "6b516f2296d5",
-          "titulo": "Nasdaq suffers worst month since March 2025 as technology stocks tumble",
+          "id": "314608c12b55",
+          "titulo": "Stocks of crude oil in the US SPR fell to 282.2 million barrels last week, the lowest level since 1982",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:25",
+          "link": "https://www.financialjuice.com/News/9832735/Stocks-of-crude-oil-in-the-US-SPR-fell-to-2822-million-barrels-last-week-the-lowest-level-since-1982.aspx?xy=rss"
+        },
+        {
+          "id": "a5aced351188",
+          "titulo": "Binance releases proof of reserves data for ten cryptocurrencies; oil tumbles amid hopes of Iran war breakthrough – business live",
+          "fonte": "Guardian Business",
+          "data": "2026-11-02",
+          "hora": "14:01",
+          "link": "https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news"
+        },
+        {
+          "id": "df164d6bfccf",
+          "titulo": "Oil prices sink as Iran's President says Supreme Leader granted certain authorities regarding negotiations",
           "fonte": "ForexLive",
-          "data": "2026-10-30",
-          "hora": "17:39",
-          "link": "https://investinglive.com/stocks/nasdaq-suffers-worst-month-since-march-2025-as-technology-stocks-tumble/"
+          "data": "2026-11-02",
+          "hora": "13:51",
+          "link": "https://investinglive.com/news/oil-prices-sink-as-iran-s-president-says-supreme-leader-granted-certain-authorities-regarding-negotiations/"
         },
         {
-          "id": "02d056409d6d",
-          "titulo": "Intel shares plunge 29% for worst day in at least four decades",
+          "id": "ebe5e65cf7ac",
+          "titulo": "Oil prices could average $130 a barrel next year, according to Goldman Sachs",
+          "fonte": "MarketWatch",
+          "data": "2026-11-02",
+          "hora": "13:46",
+          "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories"
+        },
+        {
+          "id": "92119a28f0b4",
+          "titulo": "Morning Kickstart: Oil tumbles as Iran talks continue. USD mixed ahead of ISM",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "13:15",
+          "link": "https://investinglive.com/technical-analysis/morning-kickstart-oil-tumbles-as-iran-talks-continue-usd-mixed-ahead-of-ism/"
+        },
+        {
+          "id": "441964486cfe",
+          "titulo": "investingLive European session wrap: Oil sinks, stocks steady as US midterm elections loom",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "13:03",
+          "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-sinks-stocks-steady-as-us-midterm-elections-loom/"
+        },
+        {
+          "id": "7e129ce3cc39",
+          "titulo": "Vitol CEO: Oil market could see a pretty difficult spring.",
           "fonte": "FinancialJuice",
-          "data": "2026-10-30",
-          "hora": "17:07",
-          "link": "https://www.financialjuice.com/News/9830160/Intel-shares-plunge-29-for-worst-day-in-at-least-four-decades.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
-    },
-    {
-      "titulo": "EUA vão a votos na terça com o voto antecipado acima de 49 milhões e disputas renhidas no Senado",
-      "sinal": "neutro",
-      "resumo": "As intercalares de 3 de novembro chegam com voto antecipado recorde, acima de 49 milhões. Um juiz rejeitou a contestação prévia do governo Trump na corrida ao Senado do Alasca e, no Michigan, a democrata Haley Stevens apoiou o republicano Mike Rogers. Os grandes gestores de obrigações estão a ficar de fora até ao voto e ao payroll de sexta.",
-      "impacto": "Semana binária para o dólar e as Treasuries, que se transmite ao câmbio e ao DI; coincide com o Copom (3 e 4/11), o que concentra o risco de curva na B3.",
-      "especulacao": "O Morgan Stanley (Mike Wilson) estima que o S&P 500 pode cair 9% com as eleições e vê aí ponto de compra — é uma projeção de casa, não um movimento ocorrido.",
-      "n_noticias": 11,
-      "noticias": [
-        {
-          "id": "06dfab39f672",
-          "titulo": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
-          "fonte": "G1 Economia",
-          "data": "2026-11-01",
-          "hora": "16:54",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/01/por-que-trump-enfrenta-o-mesmo-problema-economico-que-derrubou-biden.ghtml"
+          "data": "2026-11-02",
+          "hora": "12:39",
+          "link": "https://www.financialjuice.com/News/9832578/Vitol-CEO-Oil-market-could-see-a-pretty-difficult-spring.aspx?xy=rss"
         },
         {
-          "id": "a234ba2d0c3a",
-          "titulo": "US judge rejects Trump administration's early legal challenge to Alaska Senate race",
+          "id": "2bb8e5adbce9",
+          "titulo": "Vitol CEO: Oil demand will take year to recover to 2025 level.",
           "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "14:45",
-          "link": "https://www.financialjuice.com/News/9831551/US-judge-rejects-Trump-administrations-early-legal-challenge-to-Alaska-Senate-race.aspx?xy=rss"
+          "data": "2026-11-02",
+          "hora": "12:36",
+          "link": "https://www.financialjuice.com/News/9832577/Vitol-CEO-Oil-demand-will-take-year-to-recover-to-2025-level.aspx?xy=rss"
         },
         {
-          "id": "850d51e74041",
-          "titulo": "Democrat Haley Stevens backs Republican Mike Rogers in crucial US Senate race in Michigan - social media post",
+          "id": "f21da47114e2",
+          "titulo": "Kazakhstan's oil and gas condensate output in October rises 8% from September to 2.08 million barrels per day.",
           "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "14:40",
-          "link": "https://www.financialjuice.com/News/9831544/Democrat-Haley-Stevens-backs-Republican-Mike-Rogers-in-crucial-US-Senate-race-in-Michigan---social-media-post.aspx?xy=rss"
+          "data": "2026-11-02",
+          "hora": "11:42",
+          "link": "https://www.financialjuice.com/News/9832513/Kazakhstans-oil-and-gas-condensate-output-in-October-rises-8-from-September-to-208-million-barrels-per-day.aspx?xy=rss"
         },
         {
-          "id": "5f4b0d51448e",
-          "titulo": "Dan Sullivan contra Dan Sullivan: a disputa no Alasca que levou o governo Trump à Justiça",
-          "fonte": "Exame",
-          "data": "2026-11-01",
-          "hora": "14:20",
-          "link": "https://exame.com/mundo/dan-sullivan-contra-dan-sullivan-a-disputa-no-alasca-que-levou-o-governo-trump-a-justica/"
+          "id": "6758b0c83fbd",
+          "titulo": "Crude oil opens the week lower and extends the losses as US-Iran deal hopes return. What's next?",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "10:55",
+          "link": "https://investinglive.com/commodities/crude-oil-opens-the-week-lower-and-extends-the-losses-as-us-iran-deal-hopes-return-what-s-next/"
         },
         {
-          "id": "c8e1027123b1",
-          "titulo": "S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra",
-          "fonte": "InfoMoney",
-          "data": "2026-11-01",
-          "hora": "14:19",
-          "link": "https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/"
-        },
-        {
-          "id": "7b89d446748b",
-          "titulo": "Wall Street Brunch: Midterms, Jobs And Apple",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "11:45",
-          "link": "https://seekingalpha.com/article/4960724-wall-street-brunch-midterms-jobs-and-apple?source=feed_all_articles"
-        },
-        {
-          "id": "491671f7859a",
-          "titulo": "Senator Dan Sullivan: I will accept the results in Alaska US Senate race - CNN interview",
+          "id": "1ebcf93a833c",
+          "titulo": "UAE's Energy, Infrastructure Minister: At a certain time our exports were better than prior to war.",
           "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "11:18",
-          "link": "https://www.financialjuice.com/News/9831472/Senator-Dan-Sullivan-I-will-accept-the-results-in-Alaska-US-Senate-race---CNN-interview.aspx?xy=rss"
-        },
-        {
-          "id": "f08b192ded83",
-          "titulo": "Bond investors sit out ‘most consequential’ US midterm elections in years",
-          "fonte": "FT Markets",
-          "data": "2026-11-01",
-          "hora": "02:00",
-          "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1"
-        },
-        {
-          "id": "8c58383727d1",
-          "titulo": "Midterms nos EUA entram na reta final com disputas no Alasca e Califórnia",
-          "fonte": "InfoMoney",
-          "data": "2026-10-31",
-          "hora": "15:57",
-          "link": "https://www.infomoney.com.br/mundo/midterms-eua-alasca-california-reta-final/"
-        },
-        {
-          "id": "738e0a561828",
-          "titulo": "Eleições nos EUA: voto antecipado bate recorde e supera 49 milhões",
-          "fonte": "Exame",
-          "data": "2026-10-31",
-          "hora": "13:12",
-          "link": "https://exame.com/mundo/eleicoes-nos-eua-voto-antecipado-bate-recorde-e-supera-49-milhoes/"
-        },
-        {
-          "id": "857028fd6437",
-          "titulo": "US midterms loom over jittery investors",
-          "fonte": "FT Markets",
-          "data": "2026-10-31",
-          "hora": "02:00",
-          "link": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1"
-        }
-      ],
-      "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
-    },
-    {
-      "titulo": "Rússia volta a atacar a energia ucraniana em quatro regiões e a Ucrânia atinge fábricas em Rostov e Nizhny Novgorod",
-      "sinal": "risk_off",
-      "resumo": "Zelensky disse que a Rússia atingiu infraestrutura energética em quatro regiões durante a noite, deixando centenas de milhares sem luz; a Ucrânia atingiu a fábrica de Kamensky, em Rostov, e uma instalação industrial em Nizhny Novgorod. A Letónia relatou invasão do espaço aéreo junto à fronteira com a Rússia e a Bielorrússia, e a Rússia está a escoar cereais pelo Ártico.",
-      "impacto": "Mantém o prémio de risco na energia europeia e encarece o frete de cereais do Mar Negro, o que sustenta os preços agrícolas e as exportações do agro brasileiro.",
-      "especulacao": "",
-      "n_noticias": 9,
-      "noticias": [
-        {
-          "id": "399d2f7d6f58",
-          "titulo": "Letônia relata invasão de espaço aéreo perto de fronteira com Rússia e Belarus",
-          "fonte": "InfoMoney",
-          "data": "2026-11-01",
-          "hora": "16:17",
-          "link": "https://www.infomoney.com.br/mundo/letonia-relata-invasao-de-espaco-aereo-perto-de-fronteira-com-russia-e-belarus/"
-        },
-        {
-          "id": "e2803faa9f87",
-          "titulo": "Kremlin: positive assessment of humanitarian operation in Oleshky and coordination between Russian and Ukrainian ombudsmen",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "09:10",
-          "link": "https://www.financialjuice.com/News/9831417/Kremlin-positive-assessment-of-humanitarian-operation-in-Oleshky-and-coordination-between-Russian-and-Ukrainian-ombudsmen.aspx?xy=rss"
-        },
-        {
-          "id": "3572a4e9eae1",
-          "titulo": "Zelenskiy: Ukraine strikes Kamensky plant in Russia’s Rostov region",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "07:33",
-          "link": "https://www.financialjuice.com/News/9831358/Zelenskiy-Ukraine-strikes-Kamensky-plant-in-Russias-Rostov-region.aspx?xy=rss"
-        },
-        {
-          "id": "3c9c2bfb63bd",
-          "titulo": "Ukraine's Zelenskiy: Russia targeted energy infrastructure in four regions overnight, hundreds of thousands lose power",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "06:46",
-          "link": "https://www.financialjuice.com/News/9831322/Ukraines-Zelenskiy-Russia-targeted-energy-infrastructure-in-four-regions-overnight-hundreds-of-thousands-lose-power.aspx?xy=rss"
-        },
-        {
-          "id": "c7767da14b0d",
-          "titulo": "Russian investigators open criminal case on terrorism over attack on industrial site in Nizhny Novgorod region: TASS cites investigative committee",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "04:39",
-          "link": "https://www.financialjuice.com/News/9831292/Russian-investigators-open-criminal-case-on-terrorism-over-attack-on-industrial-site-in-Nizhny-Novgorod-region-TASS-cites-investigative-committee.aspx?xy=rss"
-        },
-        {
-          "id": "a6e001e37431",
-          "titulo": "Industrial facility in Russia's Nizhny Novgorod region suffers major damage after extensive drone strike, governor says",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "03:50",
-          "link": "https://www.financialjuice.com/News/9831280/Industrial-facility-in-Russias-Nizhny-Novgorod-region-suffers-major-damage-after-extensive-drone-strike-governor-says.aspx?xy=rss"
-        },
-        {
-          "id": "2bf27c631cec",
-          "titulo": "Russia forced to ship grain via Arctic as Black Sea battles rage",
-          "fonte": "FT Markets",
-          "data": "2026-11-01",
-          "hora": "02:00",
-          "link": "https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1"
-        },
-        {
-          "id": "0b8b5c400a47",
-          "titulo": "US Secretary of State Rubio: international community shows rising interest in limited Black Sea ceasefire",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "13:33",
-          "link": "https://www.financialjuice.com/News/9830910/US-Secretary-of-State-Rubio-international-community-shows-rising-interest-in-limited-Black-Sea-ceasefire.aspx?xy=rss"
-        },
-        {
-          "id": "814e04db8915",
-          "titulo": "US Secretary of State Rubio: India, Turkey propose plans to resume grain shipments in Black Sea",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "13:31",
-          "link": "https://www.financialjuice.com/News/9830909/US-Secretary-of-State-Rubio-India-Turkey-propose-plans-to-resume-grain-shipments-in-Black-Sea.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
-    },
-    {
-      "titulo": "OPEP+ confirma quotas inalteradas para dezembro e a Petrobras sobe 7,2% o querosene de aviação",
-      "sinal": "neutro",
-      "resumo": "Na reunião de domingo, a OPEP+ manteve as quotas de produção de dezembro, como tinha sido acordado em princípio no sábado. A Petrobras aumentou o QAV em 7,2% (R$ 0,45 por litro) a partir de 1/11, refletindo a valorização do combustível; o FT nota que as petrolíferas resistem a investir em refinarias com as margens em alta.",
-      "impacto": "Margens de refinação altas e o reajuste do QAV são leitura positiva para PETR4 (resultado do 3T26 a 10/11); o QAV mais caro pesa nas aéreas e na inflação.",
-      "especulacao": "",
-      "n_noticias": 8,
-      "noticias": [
-        {
-          "id": "de183380c34e",
-          "titulo": "Petrobras aumenta preço do querosene de aviação em novembro",
-          "fonte": "G1 Economia",
-          "data": "2026-11-01",
-          "hora": "16:54",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/01/petrobras-querosene-aviacao-novembro.ghtml"
+          "data": "2026-11-02",
+          "hora": "09:38",
+          "link": "https://www.financialjuice.com/News/9832357/UAEs-Energy-Infrastructure-Minister-At-a-certain-time-our-exports-were-better-than-prior-to-war.aspx?xy=rss"
         },
         {
           "id": "bcd366a00be7",
@@ -467,117 +639,349 @@
           "link": "https://www.financialjuice.com/News/9831435/OPEC-keeps-oil-output-quotas-unchanged-for-December-at-Sunday-meeting-statement.aspx?xy=rss"
         },
         {
-          "id": "d9f8011495bd",
-          "titulo": "Oil majors resist pressure to invest in new refineries as fuel prices keep rising",
-          "fonte": "FT Markets",
-          "data": "2026-11-01",
-          "hora": "02:00",
-          "link": "https://www.ft.com/content/4d63f08d-3556-4d84-8e1d-40f866741d15?syn-25a6b1a6=1"
-        },
-        {
           "id": "4fa3f97c1f1f",
           "titulo": "OPEP+ sinaliza produção estável em dezembro e volta foco para cotas de 2027",
           "fonte": "InfoMoney",
           "data": "2026-10-31",
           "hora": "15:46",
           "link": "https://www.infomoney.com.br/mercados/opep-producao-petroleo-dezembro-cotas-2027/"
-        },
-        {
-          "id": "3875de57fc15",
-          "titulo": "OPEC+ agrees in principle to maintain production targets in December, source says",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "13:34",
-          "link": "https://www.financialjuice.com/News/9830911/OPEC-agrees-in-principle-to-maintain-production-targets-in-December-source-says.aspx?xy=rss"
-        },
-        {
-          "id": "a13889380dee",
-          "titulo": "Russia prolongs diesel export prohibition through January: IFX",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "08:00",
-          "link": "https://www.financialjuice.com/News/9830756/Russia-prolongs-diesel-export-prohibition-through-January-IFX.aspx?xy=rss"
         }
       ],
-      "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
+      "criado_em": "2026-11-02T14:49",
+      "atualizado_em": "2026-11-02T14:49"
     },
     {
-      "titulo": "Irão e mediadores do Catar cumprem o 3.º dia de negociações em Doha sem conclusão definitiva",
+      "titulo": "EUA votam na terça nas eleições intercalares e Trump promete vetar tudo se os democratas ganharem",
       "sinal": "neutro",
-      "resumo": "O chefe da diplomacia iraniana, Araghchi, disse que as negociações com os mediadores do Catar estão em curso e a avançar, sem conclusão definitiva. Na véspera, Teerão manteve que Ormuz fica fechado até as suas condições serem cumpridas e Rubio disse que os EUA estão abertos a uma solução diplomática.",
-      "impacto": "Ormuz fechado mantém o prémio no Brent, que sustenta PETR4/PRIO3 mas pressiona a inflação e os juros; um acordo inverteria esse prémio.",
-      "especulacao": "",
-      "n_noticias": 7,
+      "resumo": "As intercalares de 03/11 decidem o controlo do Congresso; Trump disse que vetará tudo se os democratas vencerem e que não acha que as eleições serão seguras. O BofA vê impacto macro limitado; o FT nota que a gasolina deve atingir recorde na véspera das eleições e que o S&P 500 tem registo perfeito em anos de intercalares.",
+      "impacto": "Um Congresso dividido mexe no fiscal americano, nos Treasuries e no dólar, com eco no câmbio e nos fluxos para emergentes; setores como saúde e energia limpa reagem mais do que IA e defesa, segundo o InfoMoney.",
+      "especulacao": "O Morgan Stanley admite queda de até 9% do S&P 500 em torno das eleições e vê potencial de compra depois; é cenário de casa de análise.",
+      "n_noticias": 13,
       "noticias": [
         {
-          "id": "b1c9023b9120",
-          "titulo": "Irã e mediadores do Catar travam 3º dia de negociações para fim de guerra",
+          "id": "f66fa58c5bcf",
+          "titulo": "BofA: Midterms Seen Having Limited Macro Impact - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:37",
+          "link": "https://www.financialjuice.com/News/9832753/BofA-Midterms-Seen-Having-Limited-Macro-Impact---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "104e2c10ff2b",
+          "titulo": "US election: The key races that could tip control of Congress",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "13:58",
+          "link": "https://investinglive.com/news/us-election-the-key-races-that-could-tip-control-of-congress/"
+        },
+        {
+          "id": "49293c886936",
+          "titulo": "Saúde, energia limpa e construtoras podem surfar onda democrata; IA e defesa, não",
+          "fonte": "InfoMoney",
+          "data": "2026-11-02",
+          "hora": "13:53",
+          "link": "https://www.infomoney.com.br/mercados/saude-energia-limpa-e-construtoras-podem-surfar-onda-democrata-ia-e-defesa-nao/"
+        },
+        {
+          "id": "63ead923060e",
+          "titulo": "Trump: I will veto everything if democrats win in midterms.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "11:17",
+          "link": "https://www.financialjuice.com/News/9832478/Trump-I-will-veto-everything-if-democrats-win-in-midterms.aspx?xy=rss"
+        },
+        {
+          "id": "30c0399e4ac4",
+          "titulo": "Trump, asked if he thinks elections will be secure: No.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "11:10",
+          "link": "https://www.financialjuice.com/News/9832445/Trump-asked-if-he-thinks-elections-will-be-secure-No.aspx?xy=rss"
+        },
+        {
+          "id": "4bc6b3aad73d",
+          "titulo": "US midterms 2026: Where are Republicans most vulnerable in the battle for Congress?",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "09:53",
+          "link": "https://investinglive.com/news/us-midterms-2026-where-are-republicans-most-vulnerable-in-the-battle-for-congress/"
+        },
+        {
+          "id": "46ea324afe6a",
+          "titulo": "BofA: US Midterms - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "09:32",
+          "link": "https://www.financialjuice.com/News/9832356/BofA-US-Midterms---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "98b9c0729105",
+          "titulo": "S&P 500’s perfect midterm record faces a test in 2026",
+          "fonte": "FT Markets",
+          "data": "2026-11-02",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/56b565f9-8627-4400-baae-e0a604533b3d?syn-25a6b1a6=1"
+        },
+        {
+          "id": "bf9c7fa00a96",
+          "titulo": "Petrol prices set to hit record high under Trump on eve of US elections",
+          "fonte": "FT Markets",
+          "data": "2026-11-02",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1"
+        },
+        {
+          "id": "06dfab39f672",
+          "titulo": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
+          "fonte": "G1 Economia",
+          "data": "2026-11-01",
+          "hora": "16:54",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/01/por-que-trump-enfrenta-o-mesmo-problema-economico-que-derrubou-biden.ghtml"
+        },
+        {
+          "id": "c8e1027123b1",
+          "titulo": "S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra",
           "fonte": "InfoMoney",
           "data": "2026-11-01",
-          "hora": "14:47",
-          "link": "https://www.infomoney.com.br/mundo/ira-e-mediadores-do-catar-travam-3o-dia-de-negociacoes-para-fim-de-guerra/"
+          "hora": "14:19",
+          "link": "https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/"
         },
         {
-          "id": "df1fbf207ce0",
-          "titulo": "Iran's Foreign Minister Aragchi on talks with Qatari mediators: negotiations ongoing and advancing, no definitive conclusion reached yet",
-          "fonte": "FinancialJuice",
+          "id": "f08b192ded83",
+          "titulo": "Bond investors sit out ‘most consequential’ US midterm elections in years",
+          "fonte": "FT Markets",
           "data": "2026-11-01",
-          "hora": "10:11",
-          "link": "https://www.financialjuice.com/News/9831456/Irans-Foreign-Minister-Aragchi-on-talks-with-Qatari-mediators-negotiations-ongoing-and-advancing-no-definitive-conclusion-reached-yet.aspx?xy=rss"
+          "hora": "02:00",
+          "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1"
         },
         {
-          "id": "4f3ec4b0cd14",
-          "titulo": "Iran's state media citing Foreign Minister Aragchi on talks with Qatari mediators: hope for rationality from other side",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "10:10",
-          "link": "https://www.financialjuice.com/News/9831455/Irans-state-media-citing-Foreign-Minister-Aragchi-on-talks-with-Qatari-mediators-hope-for-rationality-from-other-side.aspx?xy=rss"
-        },
-        {
-          "id": "812860f820e7",
-          "titulo": "Iranian negotiators in Doha for third day of talks with Qatari mediators: official briefed on discussions",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "08:09",
-          "link": "https://www.financialjuice.com/News/9831373/Iranian-negotiators-in-Doha-for-third-day-of-talks-with-Qatari-mediators-official-briefed-on-discussions.aspx?xy=rss"
-        },
-        {
-          "id": "cadeb67f0140",
-          "titulo": "Iran’s security chief Rezaei: Strait of Hormuz to stay closed until Tehran’s conditions fulfilled",
-          "fonte": "FinancialJuice",
+          "id": "8c58383727d1",
+          "titulo": "Midterms nos EUA entram na reta final com disputas no Alasca e Califórnia",
+          "fonte": "InfoMoney",
           "data": "2026-10-31",
-          "hora": "16:01",
-          "link": "https://www.financialjuice.com/News/9830986/Irans-security-chief-Rezaei-Strait-of-Hormuz-to-stay-closed-until-Tehrans-conditions-fulfilled.aspx?xy=rss"
-        },
-        {
-          "id": "5518b7c3f505",
-          "titulo": "US Secretary of State Rubio: Trump yet to decide on military action against Iran",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "13:36",
-          "link": "https://www.financialjuice.com/News/9830913/US-Secretary-of-State-Rubio-Trump-yet-to-decide-on-military-action-against-Iran.aspx?xy=rss"
-        },
-        {
-          "id": "c943e8d8068f",
-          "titulo": "US Secretary of State Rubio: US open to diplomatic resolution of Iran conflict",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "13:29",
-          "link": "https://www.financialjuice.com/News/9830901/US-Secretary-of-State-Rubio-US-open-to-diplomatic-resolution-of-Iran-conflict.aspx?xy=rss"
+          "hora": "15:57",
+          "link": "https://www.infomoney.com.br/mundo/midterms-eua-alasca-california-reta-final/"
         }
       ],
-      "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
+      "criado_em": "2026-11-02T14:49",
+      "atualizado_em": "2026-11-02T14:49"
     },
     {
-      "titulo": "UKMTO reporta novo navio atingido por projétil em Ormuz e Mojtaba Khamenei promete resposta militar sem limites",
+      "titulo": "Balanços: Anthropic reporta receita de US$ 33,2 bilhões em nove meses, Marvell compra a Lumentum e a semana traz ITUB4, PRIO3, BEEF3, AXIA3 e SUZB3",
+      "sinal": "neutro",
+      "resumo": "Segundo a FinancialJuice, a Anthropic reportou receita de US$ 33,2 bilhões em nove meses e prejuízo de US$ 23,3 bilhões no 3T (US$ 12,1 bilhões há um ano), elevou o compromisso de gasto com a Google Cloud para US$ 121,3 bilhões e deu à Google opção de compra de até US$ 10 bilhões em ações. A Marvell anunciou a compra da Lumentum por US$ 115 bilhões em ações; a SK hynix reportou o 3T. No Brasil, pelo calendário da carteira, o Itaú reporta a 03/11, PRIO, Minerva e Axia a 04/11 e a Suzano a 05/11.",
+      "impacto": "Prejuízo crescente da Anthropic e consolidação nos semis de IA mantêm o debate sobre o retorno do capex que pesa no beta global; na carteira, ITUB4 (03/11) testa o crédito com a Selic alta, PRIO3 (04/11) chega com o Brent a recuar e SUZB3 (05/11) depende do câmbio.",
+      "especulacao": "",
+      "n_noticias": 12,
+      "noticias": [
+        {
+          "id": "98c52de84f61",
+          "titulo": "Anthropic raises Google Cloud spend commitment to $121.3b $GOOGL",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:41",
+          "link": "https://www.financialjuice.com/News/9832758/Anthropic-raises-Google-Cloud-spend-commitment-to-1213b-GOOGL.aspx?xy=rss"
+        },
+        {
+          "id": "e87f3608e4e6",
+          "titulo": "Anthropic: Granted Google the option to buy up to $10b in Class N stock $GOOGL",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:39",
+          "link": "https://www.financialjuice.com/News/9832757/Anthropic-Granted-Google-the-option-to-buy-up-to-10b-in-Class-N-stock-GOOGL.aspx?xy=rss"
+        },
+        {
+          "id": "519b573531ea",
+          "titulo": "SK hynix Q3 Earnings: Inventory Doesn't Lie And Points To Continued Cycle",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-02",
+          "hora": "14:35",
+          "link": "https://seekingalpha.com/article/4960933-sk-hynix-q3-earnings-inventory-doesnt-lie-and-points-to-continued-cycle?source=feed_all_articles"
+        },
+        {
+          "id": "7f44a8d791a0",
+          "titulo": "Anthropic Earnings Q3",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:29",
+          "link": "https://www.financialjuice.com/News/9832737/Anthropic-Earnings-Q3.aspx?xy=rss"
+        },
+        {
+          "id": "959bfbeab5d9",
+          "titulo": "Anthropic 9M revenue $33.2B; Q3 net loss $23.3 billion vs $12.1 billion Y/Y",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:27",
+          "link": "https://www.financialjuice.com/News/9832736/Anthropic-9M-revenue-332B-Q3-net-loss-233-billion-vs-121-billion-YY.aspx?xy=rss"
+        },
+        {
+          "id": "25efeea44477",
+          "titulo": "Marvell compra Lumentum por US$ 115 bi em ações e mira mercado de US$ 550 bi",
+          "fonte": "InfoMoney",
+          "data": "2026-11-02",
+          "hora": "13:46",
+          "link": "https://www.infomoney.com.br/business/marvell-compra-lumentum-por-us-115-bi-em-acoes-e-mira-mercado-de-us-550-bi/"
+        },
+        {
+          "id": "857ed8b3ecd2",
+          "titulo": "Coherent: A Great Opportunity To Accumulate At Last Year's Prices (Q1 Preview)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-02",
+          "hora": "13:27",
+          "link": "https://seekingalpha.com/article/4960946-coherent-corp-a-great-opportunity-to-accumulate-at-last-years-prices-q1-preview?source=feed_all_articles"
+        },
+        {
+          "id": "035ac24092e2",
+          "titulo": "Alphabet At The Crossroads: Q3 FY26 Earnings Review",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-02",
+          "hora": "13:12",
+          "link": "https://seekingalpha.com/article/4960940-alphabet-at-crossroads-q3-fy26-earnings-review?source=feed_all_articles"
+        },
+        {
+          "id": "c0c975b0512e",
+          "titulo": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
+          "fonte": "MarketWatch",
+          "data": "2026-11-02",
+          "hora": "12:26",
+          "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories"
+        },
+        {
+          "id": "fe0f77087443",
+          "titulo": "Nine big oil firms on track to share more than $95bn profit two quarters in a row",
+          "fonte": "Guardian Business",
+          "data": "2026-11-02",
+          "hora": "07:44",
+          "link": "https://www.theguardian.com/business/2026/nov/02/nine-of-world-biggest-oil-firms-95bn-profit-third-quarter-iran-war"
+        },
+        {
+          "id": "311a93b39654",
+          "titulo": "Lumentum Earnings Preview: The AI Boom Is Already Priced In",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-01",
+          "hora": "13:40",
+          "link": "https://seekingalpha.com/article/4960731-lumentum-earnings-preview-the-ai-boom-is-already-priced-in?source=feed_all_articles"
+        },
+        {
+          "id": "7ba413a7c4de",
+          "titulo": "Apple’s new earnings era begins at a critical time for Big Tech",
+          "fonte": "MarketWatch",
+          "data": "2026-11-01",
+          "hora": "12:00",
+          "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories"
+        }
+      ],
+      "criado_em": "2026-11-02T14:49",
+      "atualizado_em": "2026-11-02T14:49"
+    },
+    {
+      "titulo": "PMI industrial da zona euro resiste em outubro mas as vendas a retalho alemãs caem e o BCE pede atenção às dívidas soberanas",
+      "sinal": "neutro",
+      "resumo": "O PMI industrial da zona euro aguentou em outubro com pressões de preços em alta; as vendas a retalho da Alemanha caíram em setembro e o PMI do Reino Unido ficou em 52,8. Makhlouf, do BCE, disse que o governo francês tem de corrigir as finanças públicas e Vujcic pediu vigilância sobre o mercado de dívida soberana. O PMI industrial do Canadá caiu para 49,6.",
+      "impacto": "Europa a abrandar com preços a subir limita os cortes do BCE e pesa na procura por aço e celulose (GGBR4, SUZB3, KLBN11); o risco francês é foco de prémio nos soberanos que contagia o crédito global.",
+      "especulacao": "",
+      "n_noticias": 9,
+      "noticias": [
+        {
+          "id": "8e8002a21ac0",
+          "titulo": "Canadian Manufacturing PMI Actual 49.6 (Forecast -, Previous 51.5)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "14:31",
+          "link": "https://www.financialjuice.com/News/9832738/Canadian-Manufacturing-PMI-Actual-496-Forecast---Previous-515.aspx?xy=rss"
+        },
+        {
+          "id": "28426f5a98d1",
+          "titulo": "France’s Economic Slowdown: Could Debt Worries Weigh on the Eurozone Recovery?",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "13:03",
+          "link": "https://investinglive.com/education/france-s-economic-slowdown-could-debt-worries-weigh-on-the-eurozone-recovery/"
+        },
+        {
+          "id": "cb48d7bb7a76",
+          "titulo": "ECB's Makhlouf: French government needs to fix public finances.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "11:33",
+          "link": "https://www.financialjuice.com/News/9832511/ECBs-Makhlouf-French-government-needs-to-fix-public-finances.aspx?xy=rss"
+        },
+        {
+          "id": "d78c47e24a04",
+          "titulo": "ECB's Vujcic: Sovereign bond market must be monitored.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "10:19",
+          "link": "https://www.financialjuice.com/News/9832407/ECBs-Vujcic-Sovereign-bond-market-must-be-monitored.aspx?xy=rss"
+        },
+        {
+          "id": "00e7ce1d1b91",
+          "titulo": "UK Manufacturing PMI Final Actual 52.8 (Forecast 52.8, Previous 52.8)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "09:30",
+          "link": "https://www.financialjuice.com/News/9832333/UK-Manufacturing-PMI-Final-Actual-528-Forecast-528-Previous-528.aspx?xy=rss"
+        },
+        {
+          "id": "0c1455833e31",
+          "titulo": "Eurozone manufacturing PMI holds up in October but rising price pressures give the ECB another headache",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "09:00",
+          "link": "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache/"
+        },
+        {
+          "id": "09e4e9482f8e",
+          "titulo": "European stock market open: Stocks kick start November trading more cautiously",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "08:26",
+          "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-kick-start-november-trading-more-cautiously/"
+        },
+        {
+          "id": "792d0ee6f348",
+          "titulo": "Germany retail sales slump in September as consumer weakness adds to ECB's headache",
+          "fonte": "ForexLive",
+          "data": "2026-11-02",
+          "hora": "07:00",
+          "link": "https://investinglive.com/news/germany-retail-sales-slump-in-september-as-consumer-weakness-adds-to-ecb-s-headache/"
+        },
+        {
+          "id": "f841bfac20d7",
+          "titulo": "Millions in UK brace to remortgage on worse deals as rate rise looms",
+          "fonte": "Guardian Business",
+          "data": "2026-11-02",
+          "hora": "06:00",
+          "link": "https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates"
+        }
+      ],
+      "criado_em": "2026-11-02T14:49",
+      "atualizado_em": "2026-11-02T14:49"
+    },
+    {
+      "titulo": "Petroleiro atinge mina no leste do Estreito de Ormuz e pega fogo, segundo a imprensa estatal iraniana",
       "sinal": "risk_off",
-      "resumo": "A agência britânica UKMTO registou um incidente no Estreito de Ormuz, com o comandante de um navio mercante a relatar outra embarcação atingida por um projétil não identificado. Em reunião pública, o líder supremo iraniano prometeu resposta sem limites geográficos a ataques dos EUA e de Israel, depois de um petroleiro se ter incendiado ao atingir minas no sábado.",
-      "impacto": "Mais um incidente em Ormuz eleva os prémios de seguro e de frete e sustenta o Brent: positivo para PETR4/PRIO3, negativo para a curva de juros e para a Azul/consumo via combustível.",
+      "resumo": "A imprensa estatal iraniana relata que um petroleiro com os sistemas de navegação desligados embateu numa mina na parte oriental de Ormuz e incendiou-se. No domingo a UKMTO já tinha registado outro navio mercante atingido por um projétil não identificado no estreito.",
+      "impacto": "Mantém o prémio físico de risco no frete e no seguro marítimo mesmo com as conversas a avançar: suporta o Brent na margem (PETR4/PRIO3) e limita a queda dos combustíveis que a curva brasileira espera.",
       "especulacao": "",
       "n_noticias": 5,
       "noticias": [
+        {
+          "id": "285a3efe89a0",
+          "titulo": "This tanker had turned off its navigation systems - IRIB News",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:07",
+          "link": "https://www.financialjuice.com/News/9832617/This-tanker-had-turned-off-its-navigation-systems---IRIB-News.aspx?xy=rss"
+        },
+        {
+          "id": "cbe62eee8fd1",
+          "titulo": "Oil tanker catches fire after hitting mine in eastern part of Strait of Hormuz - Iranian state media",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-02",
+          "hora": "13:05",
+          "link": "https://www.financialjuice.com/News/9832616/Oil-tanker-catches-fire-after-hitting-mine-in-eastern-part-of-Strait-of-Hormuz---Iranian-state-media.aspx?xy=rss"
+        },
         {
           "id": "c00d02673ace",
           "titulo": "Ukmto: captain of merchant ship reports another vessel hit by unidentified projectile",
@@ -601,186 +1005,82 @@
           "data": "2026-11-01",
           "hora": "14:17",
           "link": "https://exame.com/mundo/lider-do-ira-promete-resposta-militar-sem-limites-a-ataques-dos-eua-e-israel/"
-        },
-        {
-          "id": "020044833edb",
-          "titulo": "Iran's navy: oil tanker 'operated in limited zone' - state media",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "13:56",
-          "link": "https://www.financialjuice.com/News/9830922/Irans-navy-oil-tanker-operated-in-limited-zone---state-media.aspx?xy=rss"
-        },
-        {
-          "id": "a25a7ef1362b",
-          "titulo": "Iran's navy: oil tanker ignites in Strait of Hormuz after hitting naval mines - state media",
-          "fonte": "FinancialJuice",
-          "data": "2026-10-31",
-          "hora": "13:55",
-          "link": "https://www.financialjuice.com/News/9830921/Irans-navy-oil-tanker-ignites-in-Strait-of-Hormuz-after-hitting-naval-mines---state-media.aspx?xy=rss"
         }
       ],
       "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
+      "atualizado_em": "2026-11-02T14:49"
     },
     {
-      "titulo": "Coligação saudita interceta míssil balístico e drones dos houthis contra o sul da Arábia Saudita",
-      "sinal": "risk_off",
-      "resumo": "A coligação liderada pela Arábia Saudita intercetou e destruiu um míssil balístico e um drone lançados pelos houthis do Iémen contra a região sul; a defesa civil emitiu e depois levantou um alerta em Abha e Khamis Mushait.",
-      "impacto": "Alarga o risco do conflito à infraestrutura do maior exportador da OPEP+, o que acrescenta prémio de oferta ao petróleo (PETR4/PRIO3) e aversão ao risco em emergentes.",
-      "especulacao": "",
-      "n_noticias": 4,
-      "noticias": [
-        {
-          "id": "d185f9a8c807",
-          "titulo": "Saudi-led coalition: intercepted and destroyed drone launched by Yemen's Houthis toward southern region",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "12:50",
-          "link": "https://www.financialjuice.com/News/9831502/Saudi-led-coalition-intercepted-and-destroyed-drone-launched-by-Yemens-Houthis-toward-southern-region.aspx?xy=rss"
-        },
-        {
-          "id": "1952a7385792",
-          "titulo": "Saudi-led coalition: Intercepts and destroys ballistic missile launched by Yemen's Houthis toward southern region",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "12:48",
-          "link": "https://www.financialjuice.com/News/9831501/Saudi-led-coalition-Intercepts-and-destroys-ballistic-missile-launched-by-Yemens-Houthis-toward-southern-region.aspx?xy=rss"
-        },
-        {
-          "id": "986b81b803e6",
-          "titulo": "Saudi civil defense: danger has passed in Abha and Khamis Mushait",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "12:28",
-          "link": "https://www.financialjuice.com/News/9831496/Saudi-civil-defense-danger-has-passed-in-Abha-and-Khamis-Mushait.aspx?xy=rss"
-        },
-        {
-          "id": "8f9844a583a7",
-          "titulo": "Saudi civil defense issues warning of possible threat in Abha and Khamis Mushait",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-01",
-          "hora": "12:20",
-          "link": "https://www.financialjuice.com/News/9831495/Saudi-civil-defense-issues-warning-of-possible-threat-in-Abha-and-Khamis-Mushait.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
-    },
-    {
-      "titulo": "Balanços: Apple reporta na segunda-feira e abre uma semana com ITUB4, PRIO3, BEEF3, AXIA3 e SUZB3",
+      "titulo": "Compras agrícolas da China aos EUA caem ao menor nível em sete anos e o plantio de soja no Brasil chega a 53%",
       "sinal": "neutro",
-      "resumo": "A Apple divulga resultados na segunda-feira, um dia invulgar, no primeiro trimestre completo sob o novo CEO John Ternus; a Lumentum também reporta esta semana. No Brasil, segundo o calendário da carteira, o Itaú reporta a 03/11, PRIO, Minerva e Axia a 04/11 e a Suzano a 05/11.",
-      "impacto": "A Apple é o primeiro teste da big tech depois da venda de outubro e define o tom do beta global; nos nomes da carteira, ITUB4 (03/11) mede o crédito com a Selic alta, PRIO3 (04/11) apanha o Brent com prémio de Ormuz e SUZB3 (05/11) o câmbio.",
-      "especulacao": "",
-      "n_noticias": 4,
-      "noticias": [
-        {
-          "id": "311a93b39654",
-          "titulo": "Lumentum Earnings Preview: The AI Boom Is Already Priced In",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "13:40",
-          "link": "https://seekingalpha.com/article/4960731-lumentum-earnings-preview-the-ai-boom-is-already-priced-in?source=feed_all_articles"
-        },
-        {
-          "id": "7ba413a7c4de",
-          "titulo": "Apple’s new earnings era begins at a critical time for Big Tech",
-          "fonte": "MarketWatch",
-          "data": "2026-11-01",
-          "hora": "12:00",
-          "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories"
-        },
-        {
-          "id": "7b89d446748b",
-          "titulo": "Wall Street Brunch: Midterms, Jobs And Apple",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "11:45",
-          "link": "https://seekingalpha.com/article/4960724-wall-street-brunch-midterms-jobs-and-apple?source=feed_all_articles"
-        },
-        {
-          "id": "2673817f415e",
-          "titulo": "Apple Leads Packed Earnings Calendar As Investors Eye Tech, Pharma Results",
-          "fonte": "Seeking Alpha",
-          "data": "2026-10-31",
-          "hora": "12:00",
-          "link": "https://seekingalpha.com/article/4960413-apple-leads-packed-earnings-calendar-as-investors-eye-tech-pharma-results?source=feed_all_articles"
-        }
-      ],
-      "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
-    },
-    {
-      "titulo": "FT descreve uma venda forte de dívida high yield e os spreads do CCC estão no pior nível do ano",
-      "sinal": "risk_off",
-      "resumo": "O FT relata uma forte venda de dívida high yield, agravada por manobras para pôr ativos fora do alcance dos credores. Os números confirmam: o índice de risco de crédito da app está em 74,5 (tenso), com o CCC OAS em 13,25 p.p. (+2,49 p.p. em 30 dias, percentil 98 do ano) e o HY OAS em 3,26 p.p. no fecho de 29/10; o índice recuou 6,3 pontos em 7 dias, mas sobe 13,2 em 30.",
-      "impacto": "Crédito a abrir aperta as condições financeiras nos EUA e liga-se à venda de tech via o endividamento da IA; para a B3 é risk-off via fluxo estrangeiro e custo de capital, sobretudo nos nomes alavancados.",
+      "resumo": "Apesar do acordo comercial, as compras agrícolas da China nos EUA estão no menor nível em sete anos. No Brasil o plantio de soja chega a 53%, segundo a AgRural, e as exportações do agro para a UE subiram 14,8% nos seis meses do acordo Mercosul-UE.",
+      "impacto": "China a comprar menos aos EUA sustenta a procura pela soja brasileira e o saldo comercial (apoio ao real); leitura indireta para exportadores e para o fluxo cambial, sem ticker do agro na carteira.",
       "especulacao": "",
       "n_noticias": 3,
       "noticias": [
         {
-          "id": "9c5007e8f7f6",
-          "titulo": "The Credit Market's Warning Is Coming Back To Haunt AI Stocks",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-01",
-          "hora": "11:55",
-          "link": "https://seekingalpha.com/article/4960701-credit-markets-warning-coming-back-to-haunt-ai-stocks?source=feed_all_articles"
+          "id": "a6530b5c65fc",
+          "titulo": "Compras agrícolas da China nos EUA vão ao menor nível em 7 anos apesar de acordo comercial",
+          "fonte": "G1 Economia",
+          "data": "2026-11-02",
+          "hora": "14:44",
+          "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/02/compras-agricolas-china-eua.ghtml"
         },
         {
-          "id": "05b634bfadb8",
-          "titulo": "Junk debt rout sparks ‘bloodbath’ for credit investors",
-          "fonte": "FT Markets",
-          "data": "2026-11-01",
-          "hora": "11:54",
-          "link": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1"
+          "id": "ea28d73d07b6",
+          "titulo": "Plantio de soja no Brasil chega a 53%, segundo a AgRural",
+          "fonte": "InfoMoney",
+          "data": "2026-11-02",
+          "hora": "13:39",
+          "link": "https://www.infomoney.com.br/business/plantio-de-soja-no-brasil-chega-a-53-segundo-a-agrural/"
         },
         {
-          "id": "9eb4b80508c4",
-          "titulo": "US tech stocks tumble as concerns over AI spending intensify",
-          "fonte": "FT Markets",
-          "data": "2026-10-30",
-          "hora": "18:13",
-          "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1"
+          "id": "f7c3f37f05ef",
+          "titulo": "Acordo Mercosul-UE completa 6 meses com alta de 14,8% nas exportações do agro",
+          "fonte": "G1 Economia",
+          "data": "2026-11-01",
+          "hora": "16:54",
+          "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/01/agro-ue-acordo-exportacoes-crescem.ghtml"
         }
       ],
-      "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
+      "criado_em": "2026-11-02T14:49",
+      "atualizado_em": "2026-11-02T14:49"
     },
     {
-      "titulo": "Alemanha falha a meta de armazenamento de gás para o inverno e protestos sobre o custo de vida acabam em pilhagens",
-      "sinal": "risk_off",
-      "resumo": "A Alemanha não cumpriu a meta de armazenamento de gás para o inverno e vai depender mais do mercado spot. Protestos contra o custo de vida em Berlim, Hamburgo e Frankfurt tornaram-se violentos, com lojas pilhadas, um dia depois de a Fitch ter cortado a perspetiva da França.",
-      "impacto": "Pressão no gás europeu e stress político no núcleo da zona euro pesam no euro e no apetite global por risco; impacto indireto na B3 via dólar e fluxo.",
+      "titulo": "Eurasia diz que a lua de mel de Lula será curta e Edinho Silva critica especulações na área económica",
+      "sinal": "neutro",
+      "resumo": "O diretor da Eurasia disse à Exame que a lua de mel de Lula será curta; o presidente do PT, Edinho Silva, afirmou que especulações sobre a equipa económica não colaboram com o país. Boulos citou R$ 600 bilhões em desonerações e falou em chantagem do mercado.",
+      "impacto": "O ruído sobre a equipa económica chega na semana do Copom (3-4/11) e pesa no prémio da curva e no real; bancos (ITUB4/BBAS3/BBDC4) e construtoras (CYRE3/MRVE3) são os mais sensíveis aos juros longos.",
       "especulacao": "",
       "n_noticias": 3,
       "noticias": [
         {
-          "id": "afcc0015592f",
-          "titulo": "Shops looted as German cost-of-living protests turn violent",
-          "fonte": "BBC Business",
-          "data": "2026-11-01",
-          "hora": "08:57",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+          "id": "805f8d6d2500",
+          "titulo": "Especulações na área econômica não colaboram com o País, diz Edinho Silva",
+          "fonte": "InfoMoney",
+          "data": "2026-11-02",
+          "hora": "14:21",
+          "link": "https://www.infomoney.com.br/politica/especulacoes-na-area-economica-nao-colaboram-com-o-pais-diz-edinho-silva/"
         },
         {
-          "id": "ac99cef549d0",
-          "titulo": "Germany fails to meet winter gas storage target",
-          "fonte": "FT Markets",
-          "data": "2026-11-01",
-          "hora": "02:00",
-          "link": "https://www.ft.com/content/99b0bbf1-4604-4e56-bc66-9f49d2814737?syn-25a6b1a6=1"
+          "id": "c20c28cddaee",
+          "titulo": "‘Lua de mel de Lula será curta’, diz diretor da Eurasia",
+          "fonte": "Exame",
+          "data": "2026-11-02",
+          "hora": "08:00",
+          "link": "https://exame.com/brasil/lua-de-mel-de-lula-sera-curta-diz-diretor-da-eurasia/"
         },
         {
-          "id": "c0d26bc3b29e",
-          "titulo": "Rating agency Fitch hits France with unscheduled outlook downgrade",
-          "fonte": "FT Markets",
+          "id": "0210108d7840",
+          "titulo": "Boulos cita R$ 600 bi em desonerações e fala em ‘chantagem’ do mercado",
+          "fonte": "InfoMoney",
           "data": "2026-10-31",
-          "hora": "06:36",
-          "link": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1"
+          "hora": "15:25",
+          "link": "https://www.infomoney.com.br/politica/boulos-cita-r-600-bi-em-desoneracoes-e-fala-em-chantagem-do-mercado/"
         }
       ],
-      "criado_em": "2026-11-01T16:58",
-      "atualizado_em": "2026-11-01T16:58"
+      "criado_em": "2026-11-02T14:49",
+      "atualizado_em": "2026-11-02T14:49"
     }
   ]
 }
