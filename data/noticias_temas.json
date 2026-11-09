@@ -1,1254 +1,910 @@
 {
-  "atualizado_em": "2026-11-06T16:52",
-  "total_feed": 303,
+  "atualizado_em": "2026-11-09T09:55",
+  "total_feed": 114,
   "temas": [
     {
-      "titulo": "Tecnologia recupera em Wall Street depois de o Nasdaq 100 cair 6,36% e apagar US$ 3,2 trilhões",
+      "titulo": "Conselho da Nvidia investiga o caso de Jensen Huang com ex-executiva suspeita de espionagem e a ação cai no after-hours",
       "sinal": "risk_off",
-      "resumo": "O Nasdaq 100 fechou 5/11 a cair 6,36% e Wall Street perdeu US$ 3,2 trilhões; hoje Nikkei e Topix caíram quase 6% e a Europa recuou, mas Nvidia e AMD recuperam e o S&P 500 subia perto de 1% e o Nasdaq perto de 2% ao início da tarde em Nova Iorque. O Nasdaq Composite continua +4,6% no ano e mais de 10% abaixo do pico; o medo e ganância está em 25/100. Georgieva (FMI) disse que a volatilidade na IA deve continuar e o CFO da OpenAI mantém o investimento em data centers.",
-      "impacto": "A carteira não tem nomes de IA: o canal é o beta global e o dólar, não os lucros. O ressalto ainda só recupera uma parte da queda, por isso o sinal fica risk_off, mesmo com o Ibovespa a subir hoje.",
-      "especulacao": "A imprensa (FT, Guardian, BBC) pergunta se a bolha de IA está a rebentar e o Bank of America diz que faltam três condições para os investidores voltarem; são leituras, sem desfecho confirmado.",
-      "n_noticias": 35,
+      "resumo": "Huang admitiu aos funcionários ter sido infiel e diz que coopera com a investigação de segurança aberta pelo conselho; a China nega a acusação de espionagem. A ação caiu cerca de 3,5% no after-hours (Blue Ocean) e os futuros perpétuos cerca de 3%; Seul diz que o fornecimento de GPUs contratado não é afetado e a Ásia abriu sem grande contágio.",
+      "impacto": "Golpe de governança no nome que lidera o tema IA, numa altura em que os índices dos EUA já estão em correção — mais beta negativo para Nasdaq e, por correlação, para o Ibovespa e o fluxo estrangeiro.",
+      "especulacao": "A imprensa levanta dúvidas sobre a sucessão na Nvidia; Huang permanece no cargo e nada foi anunciado nesse sentido.",
+      "n_noticias": 13,
       "noticias": [
         {
-          "id": "40b8e762d5ee",
-          "titulo": "Trump chama IA de 'ouro' e defende expansão após queda de ações de tecnologia",
-          "fonte": "G1 Economia",
-          "data": "2026-11-06",
-          "hora": "16:46",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/06/trump-chama-ia-de-ouro-e-defende-expansao-apos-queda-de-acoes-de-tecnologia.ghtml"
-        },
-        {
-          "id": "461e3b49651b",
-          "titulo": "Por que a corrida pela IA virou motivo de preocupação e fez ações despencarem? Gigantes perderam US$ 1 trilhão em um dia",
-          "fonte": "G1 Economia",
-          "data": "2026-11-06",
-          "hora": "16:46",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/06/acoes-ia-globais.ghtml"
-        },
-        {
-          "id": "c778c5b0afbc",
-          "titulo": "Wall Street perde trilhões em um dia: entenda o que derrubou as ações de IA",
-          "fonte": "G1 Economia",
-          "data": "2026-11-06",
-          "hora": "16:46",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/06/wall-street-acoes-inteligencia-artificial.ghtml"
-        },
-        {
-          "id": "cf7680901fe6",
-          "titulo": "DRAM: Post-Election Crash Is An Opportunity",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-06",
-          "hora": "16:42",
-          "link": "https://seekingalpha.com/article/4964110-dram-post-election-crash-is-an-opportnuity?source=feed_all_articles"
-        },
-        {
-          "id": "50b919f3ed81",
-          "titulo": "Is the AI stock bubble finally bursting?",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "16:30",
-          "link": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1"
-        },
-        {
-          "id": "224a60e924c6",
-          "titulo": "Alphabet: TPU Sales And Gemini Enterprise Are Reshaping The Bull Case",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-06",
-          "hora": "16:25",
-          "link": "https://seekingalpha.com/article/4964102-alphabet-tpu-sales-and-gemini-enterprise-reshaping-bull-case?source=feed_all_articles"
-        },
-        {
-          "id": "02a02bdae957",
-          "titulo": "AI stocks climb after trillions wiped from market values",
-          "fonte": "BBC Business",
-          "data": "2026-11-06",
-          "hora": "16:23",
-          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "5d595385f438",
-          "titulo": "The Fed Isn't Coming To Save The AI Trade",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-06",
-          "hora": "16:20",
-          "link": "https://seekingalpha.com/article/4964093-the-fed-isnt-coming-to-save-the-ai-trade?source=feed_all_articles"
-        },
-        {
-          "id": "a0e3b779d7ba",
-          "titulo": "Tech Spending Leads Global Growth, But Only Real Estate Suffers Drop In Activity",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-06",
-          "hora": "16:15",
-          "link": "https://seekingalpha.com/article/4964145-tech-spending-leads-global-growth-real-estate-suffers-drop-in-activity?source=feed_all_articles"
-        },
-        {
-          "id": "19eb2b5f20b1",
-          "titulo": "US tech stocks open higher on Wall Street after worst day in 19 months – business live",
+          "id": "fe7b4a507ab0",
+          "titulo": "Nvidia ‘honeytrap’ scandal rocks AI industry, as China denies spying claims – business live",
           "fonte": "Guardian Business",
-          "data": "2026-11-06",
-          "hora": "16:13",
-          "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+          "data": "2026-11-09",
+          "hora": "09:42",
+          "link": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
         },
         {
-          "id": "f798cc505c4c",
-          "titulo": "Credo: The Sell-Off Has Done Its Job (Rating Upgrade)",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-06",
-          "hora": "16:13",
-          "link": "https://seekingalpha.com/article/4964083-credo-the-sell-off-has-done-its-job-upgrade?source=feed_all_articles"
-        },
-        {
-          "id": "f0f312d10510",
-          "titulo": "US tech stock rout: is the AI bubble bursting?",
-          "fonte": "Guardian Business",
-          "data": "2026-11-06",
-          "hora": "16:09",
-          "link": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer"
-        },
-        {
-          "id": "a68606a325b9",
-          "titulo": "Global PMI Remains Elevated In October, But Dips On Heightened Economic Uncertainty",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-06",
-          "hora": "16:00",
-          "link": "https://seekingalpha.com/article/4964136-global-pmi-remains-elevated-in-october-dips-on-heightened-economic-uncertainty?source=feed_all_articles"
-        },
-        {
-          "id": "9a4945b9f793",
-          "titulo": "Coherent: Selling Volume While Lumentum Sells Scarcity",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-06",
-          "hora": "15:57",
-          "link": "https://seekingalpha.com/article/4964074-coherent-selling-volume-while-lumentum-sells-scarcity?source=feed_all_articles"
-        },
-        {
-          "id": "e954e1f54496",
-          "titulo": "IMF Chief Georgieva: Market volatility on AI likely to continue",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:55",
-          "link": "https://www.financialjuice.com/News/9841065/IMF-Chief-Georgieva-Market-volatility-on-AI-likely-to-continue.aspx?xy=rss"
-        },
-        {
-          "id": "f0f4a323cd49",
-          "titulo": "IMF Chief Georgieva: Should there be a slowdown in AI-driven growth impulse, it would need to be a factor for central banks as they assess steps in the fight against inflation",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:54",
-          "link": "https://www.financialjuice.com/News/9841063/IMF-Chief-Georgieva-Should-there-be-a-slowdown-in-AI-driven-growth-impulse-it-would-need-to-be-a-factor-for-central-banks-as-they-assess-steps-in-the-fight-against-inflation.aspx?xy=rss"
-        },
-        {
-          "id": "5650ffa1d884",
-          "titulo": "Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?",
-          "fonte": "MarketWatch",
-          "data": "2026-11-06",
-          "hora": "15:48",
-          "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories"
-        },
-        {
-          "id": "033a2a3abc23",
-          "titulo": "US stocks rebound after tech rout",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "15:45",
-          "link": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1"
-        },
-        {
-          "id": "ccdc722fc641",
-          "titulo": "Broader US stock indices bounce higher but still has work to do to give buyers more hope",
-          "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "15:33",
-          "link": "https://investinglive.com/stocks/broader-us-stock-indices-bounce-higher-but-still-has-work-to-do-to-give-buyers-more-hope/"
-        },
-        {
-          "id": "fa19ea6a1a94",
-          "titulo": "These three stars need to align before investors rush back into stocks, Bank of America strategist says",
-          "fonte": "MarketWatch",
-          "data": "2026-11-06",
-          "hora": "15:27",
-          "link": "https://www.marketwatch.com/story/these-three-stars-need-to-align-before-investors-rush-back-into-stocks-bank-of-america-strategist-says-52879caa?mod=mw_rss_topstories"
-        },
-        {
-          "id": "aae3615f2b42",
-          "titulo": "Fear and Greed Index: 25/100 = Extreme Fear",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:17",
-          "link": "https://www.financialjuice.com/News/9841020/Fear-and-Greed-Index-25100--Extreme-Fear.aspx?xy=rss"
-        },
-        {
-          "id": "bff783bc819d",
-          "titulo": "UK retail investors buy the dip after bruising tech sell-off",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "14:28",
-          "link": "https://www.ft.com/content/64c72979-1f97-4d25-8dc9-7c47c6089191?syn-25a6b1a6=1"
-        },
-        {
-          "id": "5f8dff852f34",
-          "titulo": "Morning Kickstart | Nasdaq futures rebound after rout as U.S. and Canadian jobs reports loom",
-          "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "13:02",
-          "link": "https://investinglive.com/technical-analysis/morning-kickstart-nasdaq-futures-rebound-after-rout-as-u-s-and-canadian-jobs-reports-loom/"
-        },
-        {
-          "id": "62dcfaf6ebee",
-          "titulo": "Taking stock of the flight-to-quality",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "13:01",
-          "link": "https://www.ft.com/content/11ea58b9-008e-4e09-b384-44b3b7bf5d46"
-        },
-        {
-          "id": "f36eb84c0ab7",
-          "titulo": "investingLive European news wrap: Markets consolidate ahead of the US NFP report",
-          "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "12:34",
-          "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-ahead-of-the-us-nfp-report/"
-        },
-        {
-          "id": "1ac05815ad0e",
-          "titulo": "Por que a Índia resistiu à sangria dos mercados e virou refúgio para investidores na Ásia",
-          "fonte": "Exame",
-          "data": "2026-11-06",
-          "hora": "11:14",
-          "link": "https://exame.com/invest/mercados/por-que-a-india-resistiu-a-sangria-dos-mercados-e-virou-refugio-para-investidores-na-asia/"
-        },
-        {
-          "id": "a6ee8fabe47f",
-          "titulo": "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth concerns",
-          "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "08:05",
-          "link": "https://investinglive.com/news/investinglive-asia-pacific-news-wrap-global-tech-stocks-rout-raises-growth-concerns/"
-        },
-        {
-          "id": "7a7e1e808b23",
-          "titulo": "Japanese stocks post biggest one-day fall since ‘liberation day’ chaos",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "08:00",
-          "link": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1"
-        },
-        {
-          "id": "beb1f5513a87",
-          "titulo": "The sell-off gets deep",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "06:30",
-          "link": "https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1"
-        },
-        {
-          "id": "608ae783e54d",
-          "titulo": "The AI gamble strains for more cash",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/4e0dbca4-5917-483f-b524-8b8a2b4c54b2?syn-25a6b1a6=1"
-        },
-        {
-          "id": "2dc66c047e69",
-          "titulo": "Nasdaq analysis after yesterday's crash: Is this the dip investors have been waiting for?",
-          "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "03:51",
-          "link": "https://investinglive.com/stocks/nasdaq-analysis-after-yesterday-s-crash-is-this-the-dip-investors-have-been-waiting-for/"
-        },
-        {
-          "id": "f04f63df540c",
-          "titulo": "Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges",
-          "fonte": "FT Markets",
-          "data": "2026-11-05",
-          "hora": "22:41",
-          "link": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1"
-        },
-        {
-          "id": "0bb0e85d38d6",
-          "titulo": "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI selloff spreads",
-          "fonte": "ForexLive",
-          "data": "2026-11-05",
-          "hora": "22:00",
-          "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-5-nov-nasdaq-100-plunges-6-36-as-ai-selloff-spreads/"
-        },
-        {
-          "id": "3a76d9cee4e4",
-          "titulo": "Taking stock of tumbling stocks",
-          "fonte": "FT Markets",
-          "data": "2026-11-05",
-          "hora": "21:40",
-          "link": "https://www.ft.com/content/77afb479-14ce-4ede-80a6-cc10eb5d9ef4?syn-25a6b1a6=1"
-        },
-        {
-          "id": "3353d42cf934",
-          "titulo": "Nasdaq 100 suffers worst day since 2020",
-          "fonte": "ForexLive",
-          "data": "2026-11-05",
-          "hora": "21:34",
-          "link": "https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/"
-        }
-      ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
-    },
-    {
-      "titulo": "Ueda diz que a inflação subjacente do Japão chegou aos 2% e Pill afasta repetir o ciclo de altas de 2022",
-      "sinal": "neutro",
-      "resumo": "Ueda (BoJ) disse que a inflação subjacente atingiu 2% pela primeira vez em décadas, com preços no consumidor perto de 3% e a subir até ao início do próximo ano, e que acompanha outros bancos centrais pelo efeito nos ativos e no câmbio. Pill (BoE) disse que não se vai repetir 2022, depois de o BoE subir o juro para 4% por 9-0; Knot e De Cos são os únicos candidatos à presidência do BCE.",
-      "impacto": "Ueda toca o carry trade em iene, que financia posições em emergentes: normalização mais rápida no Japão seria canal de pressão sobre BRL e Ibovespa. Juros mais altos na Europa reforçam a concorrência pelo capital.",
-      "especulacao": "",
-      "n_noticias": 28,
-      "noticias": [
-        {
-          "id": "e2b3e5b9af2f",
-          "titulo": "BoJ's Governor Ueda: We look at the actions of other central banks very, very carefully, as they affect asset prices, including exchange rates and interest rates",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:45",
-          "link": "https://www.financialjuice.com/News/9841139/BoJs-Governor-Ueda-We-look-at-the-actions-of-other-central-banks-very-very-carefully-as-they-affect-asset-prices-including-exchange-rates-and-interest-rates.aspx?xy=rss"
-        },
-        {
-          "id": "cd14ea14c10f",
-          "titulo": "BoJ's Governor Ueda: Underlying inflation will likely stay around 2%, but we recognize there are some upside risks",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:44",
-          "link": "https://www.financialjuice.com/News/9841135/BoJs-Governor-Ueda-Underlying-inflation-will-likely-stay-around-2-but-we-recognize-there-are-some-upside-risks.aspx?xy=rss"
-        },
-        {
-          "id": "81798167cb85",
-          "titulo": "BoJ's Governor Ueda: Consumer prices are now around 3% and expected to rise further into early next year",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:43",
-          "link": "https://www.financialjuice.com/News/9841134/BoJs-Governor-Ueda-Consumer-prices-are-now-around-3-and-expected-to-rise-further-into-early-next-year.aspx?xy=rss"
-        },
-        {
-          "id": "3552f94da895",
-          "titulo": "BoJ's Governor Ueda: If we need to deploy unconventional tools again, we should think about ways to minimize negative effects",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:42",
-          "link": "https://www.financialjuice.com/News/9841133/BoJs-Governor-Ueda-If-we-need-to-deploy-unconventional-tools-again-we-should-think-about-ways-to-minimize-negative-effects.aspx?xy=rss"
-        },
-        {
-          "id": "ea49f428b83b",
-          "titulo": "BoJ's Governor Ueda: Unconventional monetary policy tools have had some positive effects, but they are not perfect substitutes for rate cuts from positive territory.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:42",
-          "link": "https://www.financialjuice.com/News/9841132/BoJs-Governor-Ueda-Unconventional-monetary-policy-tools-have-had-some-positive-effects-but-they-are-not-perfect-substitutes-for-rate-cuts-from-positive-territory.aspx?xy=rss"
-        },
-        {
-          "id": "ff8024a83b26",
-          "titulo": "BoJ's Governor Ueda: If there are big shocks, the bank may be forced to use unconventional policy",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:41",
-          "link": "https://www.financialjuice.com/News/9841131/BoJs-Governor-Ueda-If-there-are-big-shocks-the-bank-may-be-forced-to-use-unconventional-policy.aspx?xy=rss"
-        },
-        {
-          "id": "591902302735",
-          "titulo": "BoJ's Governor Ueda: Unconventional policy had some positive effects.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:40",
-          "link": "https://www.financialjuice.com/News/9841130/BoJs-Governor-Ueda-Unconventional-policy-had-some-positive-effects.aspx?xy=rss"
-        },
-        {
-          "id": "88104cb4ce76",
-          "titulo": "BoJ's Governor Ueda: Real rates haven't gone up as much.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:39",
-          "link": "https://www.financialjuice.com/News/9841129/BoJs-Governor-Ueda-Real-rates-havent-gone-up-as-much.aspx?xy=rss"
-        },
-        {
-          "id": "02b68e63c6d8",
-          "titulo": "BoJ's Governor Ueda: We haven't heard significant complaints about higher interest rates",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:37",
-          "link": "https://www.financialjuice.com/News/9841128/BoJs-Governor-Ueda-We-havent-heard-significant-complaints-about-higher-interest-rates.aspx?xy=rss"
-        },
-        {
-          "id": "c683c47c0afd",
-          "titulo": "BoJ's Governor Ueda: We are in equilibrium with wages growing at a level consistent with 2% inflation",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:35",
-          "link": "https://www.financialjuice.com/News/9841127/BoJs-Governor-Ueda-We-are-in-equilibrium-with-wages-growing-at-a-level-consistent-with-2-inflation.aspx?xy=rss"
-        },
-        {
-          "id": "2575cc83a47c",
-          "titulo": "BoJ's Governor Ueda: It is necessary to keep inflation at 2%",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:35",
-          "link": "https://www.financialjuice.com/News/9841126/BoJs-Governor-Ueda-It-is-necessary-to-keep-inflation-at-2.aspx?xy=rss"
-        },
-        {
-          "id": "d0e4c0378e02",
-          "titulo": "BoJ's Governor Ueda: The general mood on inflation is that there is a lot remaining to do.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:35",
-          "link": "https://www.financialjuice.com/News/9841125/BoJs-Governor-Ueda-The-general-mood-on-inflation-is-that-there-is-a-lot-remaining-to-do.aspx?xy=rss"
-        },
-        {
-          "id": "a271843f0f60",
-          "titulo": "BoJ's Governor Ueda: If monetary policy normalization is achieved, nominal variables will be less of an impediment to official resource allocation.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:34",
-          "link": "https://www.financialjuice.com/News/9841124/BoJs-Governor-Ueda-If-monetary-policy-normalization-is-achieved-nominal-variables-will-be-less-of-an-impediment-to-official-resource-allocation.aspx?xy=rss"
-        },
-        {
-          "id": "75755f6f650c",
-          "titulo": "BoJ's Governor Ueda: Underlying inflation reached 2% for the first time in decades",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:34",
-          "link": "https://www.financialjuice.com/News/9841123/BoJs-Governor-Ueda-Underlying-inflation-reached-2-for-the-first-time-in-decades.aspx?xy=rss"
-        },
-        {
-          "id": "6f4129e4ad19",
-          "titulo": "BoJ's Governor Ueda: Policy normalization is aimed at price stability",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:32",
-          "link": "https://www.financialjuice.com/News/9841122/BoJs-Governor-Ueda-Policy-normalization-is-aimed-at-price-stability.aspx?xy=rss"
-        },
-        {
-          "id": "b6e0d727c81c",
-          "titulo": "IMF's Managing Director Georgieva: The BoJ's policy normalization has been impressively smooth.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:31",
-          "link": "https://www.financialjuice.com/News/9841121/IMFs-Managing-Director-Georgieva-The-BoJs-policy-normalization-has-been-impressively-smooth.aspx?xy=rss"
-        },
-        {
-          "id": "8871ffd90c30",
-          "titulo": "BoJ's Governor Ueda: Expects rising domestic investment in Japan, but the extent is very uncertain",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:26",
-          "link": "https://www.financialjuice.com/News/9841102/BoJs-Governor-Ueda-Expects-rising-domestic-investment-in-Japan-but-the-extent-is-very-uncertain.aspx?xy=rss"
-        },
-        {
-          "id": "ae0845cb05dd",
-          "titulo": "ECB's Knot and ECB's De Cos are the only two candidates for ECB president",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:15",
-          "link": "https://www.financialjuice.com/News/9841090/ECBs-Knot-and-ECBs-De-Cos-are-the-only-two-candidates-for-ECB-president.aspx?xy=rss"
-        },
-        {
-          "id": "ce62e96135a7",
-          "titulo": "BoJ's Governor Ueda doesn't comment on the economy or policy outlook in his speech",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:03",
-          "link": "https://www.financialjuice.com/News/9841088/BoJs-Governor-Ueda-doesnt-comment-on-the-economy-or-policy-outlook-in-his-speech.aspx?xy=rss"
-        },
-        {
-          "id": "3dc3e56807ce",
-          "titulo": "BoJ's Governor Ueda: Japan current account is now driven by income flows",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:00",
-          "link": "https://www.financialjuice.com/News/9841074/BoJs-Governor-Ueda-Japan-current-account-is-now-driven-by-income-flows.aspx?xy=rss"
-        },
-        {
-          "id": "5905a823860a",
-          "titulo": "BoJ's Governor Ueda: Japan's current account underwent a striking shift",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:00",
-          "link": "https://www.financialjuice.com/News/9841070/BoJs-Governor-Ueda-Japans-current-account-underwent-a-striking-shift.aspx?xy=rss"
-        },
-        {
-          "id": "937061af16e9",
-          "titulo": "IMF Chief Georgieva: Widening imbalances have often been accompanied by fragile growth, and in some cases, have preceded financial crises",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:56",
-          "link": "https://www.financialjuice.com/News/9841067/IMF-Chief-Georgieva-Widening-imbalances-have-often-been-accompanied-by-fragile-growth-and-in-some-cases-have-preceded-financial-crises.aspx?xy=rss"
-        },
-        {
-          "id": "fef7f521025f",
-          "titulo": "IMF Chief Georgieva: large and rising global imbalances remain a matter of concern",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:54",
-          "link": "https://www.financialjuice.com/News/9841064/IMF-Chief-Georgieva-large-and-rising-global-imbalances-remain-a-matter-of-concern.aspx?xy=rss"
-        },
-        {
-          "id": "a0545963c2ea",
-          "titulo": "IMF's Managing Director Georgieva: The current time is particularly important for central bankers, requiring the ability to see through uncertainty.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:53",
-          "link": "https://www.financialjuice.com/News/9841061/IMFs-Managing-Director-Georgieva-The-current-time-is-particularly-important-for-central-bankers-requiring-the-ability-to-see-through-uncertainty.aspx?xy=rss"
-        },
-        {
-          "id": "17d6bf31a629",
-          "titulo": "BoJ's Governor Ueda Speaks - WATCH LIVE",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:50",
-          "link": "https://www.financialjuice.com/News/9841060/BoJs-Governor-Ueda-Speaks---WATCH-LIVE.aspx?xy=rss"
-        },
-        {
-          "id": "143f2a0286c2",
-          "titulo": "BoE's Pill: No repeat of 2022 hiking cycle as growth risks could keep rates on hold",
-          "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "13:03",
-          "link": "https://investinglive.com/central-banks/boe-s-pill-no-repeat-of-2022-hiking-cycle-as-growth-risks-could-keep-rates-on-hold/"
-        },
-        {
-          "id": "314c492e1dac",
-          "titulo": "UK house prices fall at steepest rate in more than three years",
-          "fonte": "Guardian Business",
-          "data": "2026-11-06",
-          "hora": "12:54",
-          "link": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years"
-        },
-        {
-          "id": "9f189b8a5d88",
-          "titulo": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-          "fonte": "Guardian Business",
-          "data": "2026-11-05",
-          "hora": "18:00",
-          "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years"
-        }
-      ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
-    },
-    {
-      "titulo": "Payroll de outubro cria 165 mil vagas contra 65 mil previstas e o dólar sobe",
-      "sinal": "neutro",
-      "resumo": "Os EUA criaram 165 mil empregos em outubro (previsão 65 mil), com revisão líquida de +84 mil nos dois meses anteriores, desemprego de 4,1% e salários a +3,1% a/a (previsão 2,9%). O sentimento de Michigan subiu para 51 (previsão 48) e a inflação esperada a 1 ano desceu para 4,3%. Williams (Fed de Nova Iorque) disse ser altura de recolher mais informação e Musalem atribuiu o excesso de inflação à energia e à IA; Hassett disse não ver necessidade de mudar de política.",
-      "impacto": "Dólar mais forte e juros longos dos EUA mais pressionados pesam sobre USD/BRL e sobre o DI; a Bolsa reagiu hoje em alta, por isso a direção fica por definir. Beneficia exportadoras (VALE3, SUZB3, KLBN11) e pressiona alavancadas e construtoras (CYRE3, MRVE3).",
-      "especulacao": "O InfoMoney escreve que o emprego forte deve pressionar o Fed a subir juros e tornar mais apertado um corte da Selic em dezembro; é leitura da imprensa, o Fed não anunciou nada nesse sentido.",
-      "n_noticias": 25,
-      "noticias": [
-        {
-          "id": "a661be6e608a",
-          "titulo": "Emprego forte nos EUA deve pressionar Fed a elevar juros e ameaça cortes na Selic",
+          "id": "5ff062c1ee37",
+          "titulo": "Ações da Nvidia caem enquanto CEO é investigado por alegações de espionagem",
           "fonte": "InfoMoney",
-          "data": "2026-11-06",
-          "hora": "16:06",
-          "link": "https://www.infomoney.com.br/economia/payroll-eua-outubro-juros-fed-selic/"
+          "data": "2026-11-09",
+          "hora": "09:35",
+          "link": "https://www.infomoney.com.br/mundo/acoes-da-nvidia-caem-enquanto-ceo-e-investigado-por-alegacoes-de-espionagem/"
         },
         {
-          "id": "4f9820fe6f65",
-          "titulo": "US economy outstrips forecasts to add 165,000 jobs in October",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "15:18",
-          "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1"
+          "id": "854fe0d7d93d",
+          "titulo": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+          "fonte": "BBC Business",
+          "data": "2026-11-09",
+          "hora": "08:10",
+          "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "d0a6c4e123f9",
-          "titulo": "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected",
+          "id": "e6e79cfd85f4",
+          "titulo": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+          "fonte": "BBC Business",
+          "data": "2026-11-09",
+          "hora": "07:10",
+          "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "f092e5b0e345",
+          "titulo": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+          "fonte": "BBC Business",
+          "data": "2026-11-09",
+          "hora": "06:01",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "810c315da3cf",
+          "titulo": "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil steadies",
           "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "15:00",
-          "link": "https://investinglive.com/news/november-us-umich-prelim-consumer-sentiment-vs-48-0-expected/"
+          "data": "2026-11-09",
+          "hora": "04:19",
+          "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-shrugs-off-nvidia-scandal-oil-steadies/"
         },
         {
-          "id": "e24f53988889",
-          "titulo": "University Michigan 5 Yr Inflation Prelim Actual 3.4% (Forecast 3.5%, Previous 3.5%)",
+          "id": "4e7eca60ab9c",
+          "titulo": "Nvidia shares tumble about 3.5% after hours on Blue Ocean alternative trading system",
           "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9840968/University-Michigan-5-Yr-Inflation-Prelim-Actual-34-Forecast-35-Previous-35.aspx?xy=rss"
+          "data": "2026-11-09",
+          "hora": "02:52",
+          "link": "https://www.financialjuice.com/News/9842740/Nvidia-shares-tumble-about-35-after-hours-on-Blue-Ocean-alternative-trading-system.aspx?xy=rss"
         },
         {
-          "id": "c12483cc1392",
-          "titulo": "University Michigan Sentiment Prelim Actual 51 (Forecast 48, Previous 48.0)",
+          "id": "50fc41f4b0df",
+          "titulo": "Nvidia perpetual futures drop about 3%: Hyperliquid pricing",
           "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9840967/University-Michigan-Sentiment-Prelim-Actual-51-Forecast-48-Previous-480.aspx?xy=rss"
+          "data": "2026-11-09",
+          "hora": "02:52",
+          "link": "https://www.financialjuice.com/News/9842739/Nvidia-perpetual-futures-drop-about-3-Hyperliquid-pricing.aspx?xy=rss"
         },
         {
-          "id": "7e9b47001647",
-          "titulo": "University Michigan Expectations Prelim Actual 50.9 (Forecast 49, Previous 48.8)",
+          "id": "f09496ac9042",
+          "titulo": "South Korea industry vice minister: Nvidia's current issues won't impact country's contracted GPU supply",
           "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9840966/University-Michigan-Expectations-Prelim-Actual-509-Forecast-49-Previous-488.aspx?xy=rss"
+          "data": "2026-11-09",
+          "hora": "01:42",
+          "link": "https://www.financialjuice.com/News/9842643/South-Korea-industry-vice-minister-Nvidias-current-issues-wont-impact-countrys-contracted-GPU-supply.aspx?xy=rss"
         },
         {
-          "id": "bb4e8f6c5d29",
-          "titulo": "University Michigan 1 Yr Inflation Prelim Actual 4.3% (Forecast 4.6%, Previous 4.7%)",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9840965/University-Michigan-1-Yr-Inflation-Prelim-Actual-43-Forecast-46-Previous-47.aspx?xy=rss"
-        },
-        {
-          "id": "7909758775f9",
-          "titulo": "University Michigan Condition Prelim Actual 51 (Forecast 47, Previous 46.7)",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9840964/University-Michigan-Condition-Prelim-Actual-51-Forecast-47-Previous-467.aspx?xy=rss"
-        },
-        {
-          "id": "bc99eee2ea22",
-          "titulo": "Fed's Musalem: Good Fed comms leads to smoother policy transmission",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:51",
-          "link": "https://www.financialjuice.com/News/9840963/Feds-Musalem-Good-Fed-comms-leads-to-smoother-policy-transmission.aspx?xy=rss"
-        },
-        {
-          "id": "72374555279e",
-          "titulo": "WH Sr. Adviser Hassett: We have a job market hitting on all cylinders.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:48",
-          "link": "https://www.financialjuice.com/News/9840961/WH-Sr-Adviser-Hassett-We-have-a-job-market-hitting-on-all-cylinders.aspx?xy=rss"
-        },
-        {
-          "id": "8d2bbebda52d",
-          "titulo": "WH Sr. Adviser Hassett: Trump will read the report and decide on Fed's Cook",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:44",
-          "link": "https://www.financialjuice.com/News/9840928/WH-Sr-Adviser-Hassett-Trump-will-read-the-report-and-decide-on-Feds-Cook.aspx?xy=rss"
-        },
-        {
-          "id": "137b9c294d62",
-          "titulo": "Fed's Musalem: Data center build-out contributing to strong demand",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:43",
-          "link": "https://www.financialjuice.com/News/9840927/Feds-Musalem-Data-center-build-out-contributing-to-strong-demand.aspx?xy=rss"
-        },
-        {
-          "id": "4f946be80a84",
-          "titulo": "Fed's Musalem: AI will bring much higher productivity",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:42",
-          "link": "https://www.financialjuice.com/News/9840926/Feds-Musalem-AI-will-bring-much-higher-productivity.aspx?xy=rss"
-        },
-        {
-          "id": "4362cef700e1",
-          "titulo": "Fed's Musalem: Consumption and investment are both growing at a fast rate based on an optimistic outlook",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:42",
-          "link": "https://www.financialjuice.com/News/9840925/Feds-Musalem-Consumption-and-investment-are-both-growing-at-a-fast-rate-based-on-an-optimistic-outlook.aspx?xy=rss"
-        },
-        {
-          "id": "be7f622aabbf",
-          "titulo": "Fed's Musalem: Excess inflation today is coming from energy shocks and the AI buildout.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:42",
-          "link": "https://www.financialjuice.com/News/9840924/Feds-Musalem-Excess-inflation-today-is-coming-from-energy-shocks-and-the-AI-buildout.aspx?xy=rss"
-        },
-        {
-          "id": "16b189fc52e3",
-          "titulo": "WH Sr. Adviser Hassett: Top-line inflation is being driven by energy and Iran",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:41",
-          "link": "https://www.financialjuice.com/News/9840923/WH-Sr-Adviser-Hassett-Top-line-inflation-is-being-driven-by-energy-and-Iran.aspx?xy=rss"
-        },
-        {
-          "id": "feb09a23c969",
-          "titulo": "Fed's Musalem: Must return inflation to 2% on a timely basis",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:40",
-          "link": "https://www.financialjuice.com/News/9840922/Feds-Musalem-Must-return-inflation-to-2-on-a-timely-basis.aspx?xy=rss"
-        },
-        {
-          "id": "eacce7ceafdb",
-          "titulo": "WH Sr. Adviser Hassett: I don't think we have a policy change we need to plan.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:40",
-          "link": "https://www.financialjuice.com/News/9840918/WH-Sr-Adviser-Hassett-I-dont-think-we-have-a-policy-change-we-need-to-plan.aspx?xy=rss"
-        },
-        {
-          "id": "c72a9f3c8bf6",
-          "titulo": "Fed's Musalem: Inflation expectations remain anchored.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:39",
-          "link": "https://www.financialjuice.com/News/9840916/Feds-Musalem-Inflation-expectations-remain-anchored.aspx?xy=rss"
-        },
-        {
-          "id": "1d03072dc8be",
-          "titulo": "WH Sr. Adviser Hassett: Data is strong on growth, inflation decelerating",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:39",
-          "link": "https://www.financialjuice.com/News/9840915/WH-Sr-Adviser-Hassett-Data-is-strong-on-growth-inflation-decelerating.aspx?xy=rss"
-        },
-        {
-          "id": "5775f4d3d755",
-          "titulo": "Fed's Musalem: People remain concerned about inflation at the current level",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:38",
-          "link": "https://www.financialjuice.com/News/9840914/Feds-Musalem-People-remain-concerned-about-inflation-at-the-current-level.aspx?xy=rss"
-        },
-        {
-          "id": "1734f893ead7",
-          "titulo": "USD moves higher after the US jobs report. What levels are in play now?",
+          "id": "030b4ed5972e",
+          "titulo": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he’d ‘certainly take’ Huang",
           "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "14:22",
-          "link": "https://investinglive.com/technical-analysis/usd-moves-higher-after-the-us-jobs-report-what-levels-are-in-play-now/"
+          "data": "2026-11-08",
+          "hora": "23:56",
+          "link": "https://investinglive.com/news/trump-eyes-xi-putin-meeting-at-apec-on-iran-war-says-he-d-certainly-take-huang/"
         },
         {
-          "id": "7dd229719050",
-          "titulo": "US October non-farm payrolls +165K vs +65K expected",
-          "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "13:32",
-          "link": "https://investinglive.com/news/us-october-non-farm-payrolls-165k-vs-65k-expected/"
+          "id": "d5f99f668dfe",
+          "titulo": "Mercados asiáticos podem sofrer pressão após investigação sobre a Nvidia",
+          "fonte": "InfoMoney",
+          "data": "2026-11-08",
+          "hora": "23:19",
+          "link": "https://www.infomoney.com.br/mercados/mercados-asiaticos-podem-sofrer-pressao-apos-investigacao-sobre-a-nvidia/"
         },
         {
-          "id": "3bce87fd846f",
-          "titulo": "What is the distribution of forecasts for the US NFP?",
+          "id": "ab44bd14e6a3",
+          "titulo": "Is NVDA stock a buy or sell? Spy alert?",
           "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "12:44",
-          "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-2/"
+          "data": "2026-11-08",
+          "hora": "22:21",
+          "link": "https://investinglive.com/stocks/is-nvda-stock-a-buy-or-sell-spy-alert/"
         },
         {
-          "id": "3d53d8b67f66",
-          "titulo": "Fed's Williams says US economy remains resilient, appropriate time to gather more information",
-          "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "09:54",
-          "link": "https://investinglive.com/central-banks/fed-s-williams-says-us-economy-remains-resilient-appropriate-time-to-gather-more-information/"
+          "id": "ea14f675ec17",
+          "titulo": "Conselho da Nvidia investiga espionagem chinesa após CEO admitir caso extraconjugal",
+          "fonte": "Exame",
+          "data": "2026-11-08",
+          "hora": "17:32",
+          "link": "https://exame.com/mundo/conselho-da-nvidia-investiga-espionagem-chinesa-apos-ceo-admitir-caso-extraconjugal/"
         }
       ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
     },
     {
-      "titulo": "Petroleiro afunda no Ormuz, segundo a iraniana Sepah News, e WTI fechou 5/11 em alta de 2,72%",
+      "titulo": "Nasdaq e S&P 500 fecham a 4ª semana seguida em queda e a cesta de memória de IA da Goldman cai 51% do pico",
+      "sinal": "risk_off",
+      "resumo": "A liquidação de tecnologia da semana passada levou vários índices a território de bear market, segundo o FT; esta segunda as bolsas globais estabilizam e o futuro do Dow sobe. A cesta de memória de IA da Goldman acumula queda de 51% desde o pico, a RBA alertou para uma reprecificação brusca de ativos ligada à IA e a vitória democrata nas intercalares trouxe escrutínio aos data centers.",
+      "impacto": "Correção de tech/IA pesa no apetite global e no fluxo para emergentes; sem ações de tecnologia na carteira, o canal para a B3 é a correlação com Wall Street e o dólar. Semana com CPI dos EUA na terça e PPI na sexta.",
+      "especulacao": "",
+      "n_noticias": 13,
+      "noticias": [
+        {
+          "id": "0af9dce0b52c",
+          "titulo": "Global stocks steady after AI rout",
+          "fonte": "FT Markets",
+          "data": "2026-11-09",
+          "hora": "09:19",
+          "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1"
+        },
+        {
+          "id": "2ba6e67f2772",
+          "titulo": "Dow Jones Futuro sobe em início de semana marcada por inflação e balanços de IA",
+          "fonte": "InfoMoney",
+          "data": "2026-11-09",
+          "hora": "08:45",
+          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-em-inicio-de-semana-marcada-por-inflacao-e-balancos-de-ia/"
+        },
+        {
+          "id": "6e6f836a7a7a",
+          "titulo": "Wall Street sob pressão: Nasdaq e S&P 500 caem pela 4ª semana; até onde podem recuar?",
+          "fonte": "InfoMoney",
+          "data": "2026-11-09",
+          "hora": "08:15",
+          "link": "https://www.infomoney.com.br/mercados/wall-street-nasdaq-sp500-quarta-semana-queda-analise-tecnica/"
+        },
+        {
+          "id": "fa135e8668d5",
+          "titulo": "NVIDIA plans investments in Motif Tech, Rlwrld, upstage.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "08:09",
+          "link": "https://www.financialjuice.com/News/9843037/NVIDIA-plans-investments-in-Motif-Tech-Rlwrld-upstage.aspx?xy=rss"
+        },
+        {
+          "id": "5269b38ea0f6",
+          "titulo": "NVIDIA to invest in Korean AI startup Point2.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "08:08",
+          "link": "https://www.financialjuice.com/News/9843036/NVIDIA-to-invest-in-Korean-AI-startup-Point2.aspx?xy=rss"
+        },
+        {
+          "id": "bfb71b2aff38",
+          "titulo": "South Korea Industry Minister: Experts say unlike in the stock market, AI investment in the real economy is still robust.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "06:48",
+          "link": "https://www.financialjuice.com/News/9842939/South-Korea-Industry-Minister-Experts-say-unlike-in-the-stock-market-AI-investment-in-the-real-economy-is-still-robust.aspx?xy=rss"
+        },
+        {
+          "id": "5a3cf2aafd15",
+          "titulo": "South Korea Industry Minister: Do not believe AI investment will slow due to us midterm election - Yonhap.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "06:48",
+          "link": "https://www.financialjuice.com/News/9842938/South-Korea-Industry-Minister-Do-not-believe-AI-investment-will-slow-due-to-us-midterm-election---Yonhap.aspx?xy=rss"
+        },
+        {
+          "id": "cb6c863c7c3d",
+          "titulo": "Mark Blyth: ‘I call it the barbell from hell’",
+          "fonte": "FT Markets",
+          "data": "2026-11-09",
+          "hora": "06:30",
+          "link": "https://www.ft.com/content/92bcf6f9-619c-4f24-82ea-425984d3ecaf?syn-25a6b1a6=1"
+        },
+        {
+          "id": "37e8cdcdd4dc",
+          "titulo": "Nvidia, Rebellions and SK Telecom announce partnership to develop sovereign AI infrastructure with Nvidia NVLink Fusion",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "05:00",
+          "link": "https://www.financialjuice.com/News/9842805/Nvidia-Rebellions-and-SK-Telecom-announce-partnership-to-develop-sovereign-AI-infrastructure-with-Nvidia-NVLink-Fusion.aspx?xy=rss"
+        },
+        {
+          "id": "fa240dfa3f79",
+          "titulo": "Goldman’s AI memory basket plunges 51% from peak, JPMorgan sees earnings buffer for now",
+          "fonte": "ForexLive",
+          "data": "2026-11-09",
+          "hora": "02:07",
+          "link": "https://investinglive.com/stocks/goldman-s-ai-memory-basket-plunges-51-from-peak-jpmorgan-sees-earnings-buffer-for-now/"
+        },
+        {
+          "id": "55cc71356e3b",
+          "titulo": "RBA’s Hunter warns AI could trigger sharp asset repricing as boom adds to inflation",
+          "fonte": "ForexLive",
+          "data": "2026-11-08",
+          "hora": "22:34",
+          "link": "https://investinglive.com/central-banks/rba-s-hunter-warns-ai-could-trigger-sharp-asset-repricing-as-boom-adds-to-inflation/"
+        },
+        {
+          "id": "9e840fb11255",
+          "titulo": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+          "fonte": "Guardian Business",
+          "data": "2026-11-08",
+          "hora": "12:05",
+          "link": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash"
+        },
+        {
+          "id": "799b1388348a",
+          "titulo": "Data centres rebuked",
+          "fonte": "FT Markets",
+          "data": "2026-11-07",
+          "hora": "10:30",
+          "link": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298?syn-25a6b1a6=1"
+        }
+      ],
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
+    },
+    {
+      "titulo": "Inflação ao consumidor da China abranda para 0,7% e a do produtor acelera para 5,7% em outubro",
       "sinal": "neutro",
-      "resumo": "A agência iraniana Sepah News noticiou hoje que um petroleiro está a afundar no Estreito de Ormuz depois de ser atacado. O WTI fechou 5/11 a US$ 90,52 (+2,72%) e Trump disse que tem de decidir se avança com mais ações contra Teerão. A França já vendeu 3,6 milhões de barris de gasóleo das reservas estratégicas.",
-      "impacto": "PETR4 e PRIO3 ganham com o petróleo alto e perdem se houver acordo; companhias de consumo e o IPCA sentem o contrário. A notícia do ataque e os relatos de negociação puxam em sentidos opostos, daí o neutro.",
-      "especulacao": "Relatos por confirmar: a Al-Arabiya, citando uma fonte iraniana, diz que Teerão responde positivamente aos mediadores e espera passos de Washington; o Times of Israel, citando um responsável americano e um diplomata, diz que o Irão analisa propostas para limitar o programa nuclear em troca de alívio de sanções. Não há confirmação oficial de nenhuma das partes.",
+      "resumo": "O CPI ficou em 0,7% a/a (previsão 0,8%) e o PPI em 5,7% (previsão 5,3%); as vendas de automóveis caíram 27,3% a/a em outubro. O Conselho de Estado reforçou a estabilização das bolsas e, segundo fontes, os bancos chineses subiram as taxas de depósito em dólares, por vezes acima de 4%.",
+      "impacto": "Custos a subir sem procura para os repassar pressionam margens industriais chinesas — sinal misto para minério de ferro e aço (VALE3, GGBR4, CSNA3, USIM5).",
+      "especulacao": "",
       "n_noticias": 12,
       "noticias": [
         {
-          "id": "238d4b552986",
-          "titulo": "Energy Stocks Still A Portfolio Hedge",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-06",
-          "hora": "16:17",
-          "link": "https://seekingalpha.com/article/4964092-energy-stocks-still-portfolio-hedge?source=feed_all_articles"
-        },
-        {
-          "id": "2d8b43084e5c",
-          "titulo": "The proposals stop short of complete dismantlement, but do address Iran’s stockpile of highly enriched uranium, the diplomat familiar with the talks adds, saying that the offers would see Iran receive significant sanctions relief from the US - Times of Israel",
+          "id": "50511a8a0f4a",
+          "titulo": "Chinese banks have sharply increased dollar deposit rates in recent weeks, sources say",
           "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:00",
-          "link": "https://www.financialjuice.com/News/9841075/The-proposals-stop-short-of-complete-dismantlement-but-do-address-Irans-stockpile-of-highly-enriched-uranium-the-diplomat-familiar-with-the-talks-adds-saying-that-the-offers-would-see-Iran-receive-significant-sanctions-relief-from-the-US---.aspx?xy=rss"
+          "data": "2026-11-09",
+          "hora": "05:30",
+          "link": "https://www.financialjuice.com/News/9842852/Chinese-banks-have-sharply-increased-dollar-deposit-rates-in-recent-weeks-sources-say.aspx?xy=rss"
         },
         {
-          "id": "41082aa4d672",
-          "titulo": "The Times of Israel reported, citing an American official and a diplomat familiar with the matter: Iranian negotiators are reviewing proposals under which the Islamic Republic would limit its nuclear program.",
+          "id": "1bb1fe1f6b16",
+          "titulo": "Chinese dollar deposit rates sometimes exceed 4% and exporters are hoarding cash: sources",
           "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:59",
-          "link": "https://www.financialjuice.com/News/9841068/The-Times-of-Israel-reported-citing-an-American-official-and-a-diplomat-familiar-with-the-matter-Iranian-negotiators-are-reviewing-proposals-under-which-the-Islamic-Republic-would-limit-its-nuclear-program.aspx?xy=rss"
+          "data": "2026-11-09",
+          "hora": "05:30",
+          "link": "https://www.financialjuice.com/News/9842851/Chinese-dollar-deposit-rates-sometimes-exceed-4-and-exporters-are-hoarding-cash-sources.aspx?xy=rss"
         },
         {
-          "id": "7a4670facd0f",
-          "titulo": "French Energy Ministry: 3.6 million barrels of diesel have been sold out of the French strategic reserves to date",
+          "id": "e5cd45404d51",
+          "titulo": "China auto industry body CPCA: Tesla Inc exported 59,012 China-made vehicles in October",
           "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:56",
-          "link": "https://www.financialjuice.com/News/9841066/French-Energy-Ministry-36-million-barrels-of-diesel-have-been-sold-out-of-the-French-strategic-reserves-to-date.aspx?xy=rss"
+          "data": "2026-11-09",
+          "hora": "05:23",
+          "link": "https://www.financialjuice.com/News/9842850/China-auto-industry-body-CPCA-Tesla-Inc-exported-59012-China-made-vehicles-in-October.aspx?xy=rss"
         },
         {
-          "id": "407c3785ed4b",
-          "titulo": "Oil tanker sinking in the Strait of Hormuz after being targeted - Iran's Sepah News",
+          "id": "646128102363",
+          "titulo": "China auto industry body CPCA: China sold 1.65 million passenger cars in Oct, down 27.3% y/y",
           "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:39",
-          "link": "https://www.financialjuice.com/News/9841041/Oil-tanker-sinking-in-the-Strait-of-Hormuz-after-being-targeted---Irans-Sepah-News.aspx?xy=rss"
+          "data": "2026-11-09",
+          "hora": "05:00",
+          "link": "https://www.financialjuice.com/News/9842807/China-auto-industry-body-CPCA-China-sold-165-million-passenger-cars-in-Oct-down-273-yy.aspx?xy=rss"
         },
         {
-          "id": "5176c33bf201",
-          "titulo": "Iran responds positively to latest mediator proposal - report",
+          "id": "c35de08b8062",
+          "titulo": "Chinese CPI MoM Actual 0.0% (Forecast -, Previous 0.2%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "01:32",
+          "link": "https://www.financialjuice.com/News/9842637/Chinese-CPI-MoM-Actual-00-Forecast---Previous-02.aspx?xy=rss"
+        },
+        {
+          "id": "5df5302ae521",
+          "titulo": "Chinese CPI YoY Actual 0.7% (Forecast 0.8%, Previous 0.9%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "01:32",
+          "link": "https://www.financialjuice.com/News/9842633/Chinese-CPI-YoY-Actual-07-Forecast-08-Previous-09.aspx?xy=rss"
+        },
+        {
+          "id": "59d2ad9c3835",
+          "titulo": "Chinese PPI YoY Actual 5.7% (Forecast 5.3%, Previous 5.0%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "01:32",
+          "link": "https://www.financialjuice.com/News/9842631/Chinese-PPI-YoY-Actual-57-Forecast-53-Previous-50.aspx?xy=rss"
+        },
+        {
+          "id": "3381aa4d24a0",
+          "titulo": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
           "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "14:44",
-          "link": "https://investinglive.com/news/iran-responds-positively-to-latest-mediator-proposal-report/"
+          "data": "2026-11-09",
+          "hora": "01:32",
+          "link": "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/"
         },
         {
-          "id": "1f98116f3194",
-          "titulo": "We are open to negotiations that ensure the realization of our legitimate demands - Al Arabiya, citing an Iranian source",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:40",
-          "link": "https://www.financialjuice.com/News/9840920/We-are-open-to-negotiations-that-ensure-the-realization-of-our-legitimate-demands---Al-Arabiya-citing-an-Iranian-source.aspx?xy=rss"
-        },
-        {
-          "id": "bd70fd8c2266",
-          "titulo": "An Iranian source tells Al Arabiya: No restrictions have been imposed on Ghalibaf in managing the negotiations.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:40",
-          "link": "https://www.financialjuice.com/News/9840919/An-Iranian-source-tells-Al-Arabiya-No-restrictions-have-been-imposed-on-Ghalibaf-in-managing-the-negotiations.aspx?xy=rss"
-        },
-        {
-          "id": "cc87d646a034",
-          "titulo": "Tehran awaits practical steps from Washington to build trust - Al Arabiya citing Iranian source",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "14:39",
-          "link": "https://www.financialjuice.com/News/9840917/Tehran-awaits-practical-steps-from-Washington-to-build-trust---Al-Arabiya-citing-Iranian-source-.aspx?xy=rss"
-        },
-        {
-          "id": "eb1b5320f082",
-          "titulo": "Swinging oil prices highlight majors’ high-quality problem",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "12:42",
-          "link": "https://www.ft.com/content/0f3065ce-239e-4afb-a865-a45ef3e48c42?syn-25a6b1a6=1"
-        },
-        {
-          "id": "780603764371",
-          "titulo": "US-Iran uncertainty keeps the downside in oil limited as markets await further developments",
+          "id": "2c8578fcf6b5",
+          "titulo": "PBOC sets USD/ CNY reference rate for today at 6.7188 (vs. estimate at 6.6799)",
           "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "11:03",
-          "link": "https://investinglive.com/commodities/us-iran-uncertainty-keeps-the-downside-in-oil-limited-as-markets-await-further-developments/"
+          "data": "2026-11-09",
+          "hora": "01:23",
+          "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7188-vs-estimate-at-6-6799/"
         },
         {
-          "id": "c22584944ef4",
-          "titulo": "Petróleo opera abaixo de US$ 100 após revés de Trump elevar apostas no fim da guerra com Irã",
-          "fonte": "G1 Economia",
-          "data": "2026-11-05",
-          "hora": "12:54",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/05/petroleo-abaixo-de-us-100-apos-reves-de-trump-elevar-apostas-no-fim-da-guerra-com-ira.ghtml"
+          "id": "6692e2c8cd43",
+          "titulo": "PBOC is expected to set the USD/CNY reference rate at 6.6799 – Reuters estimate",
+          "fonte": "ForexLive",
+          "data": "2026-11-09",
+          "hora": "00:25",
+          "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6799-reuters-estimate/"
+        },
+        {
+          "id": "3e3af3a284e6",
+          "titulo": "China steps up market stabilisation push: three short-term priorities for equities",
+          "fonte": "ForexLive",
+          "data": "2026-11-08",
+          "hora": "23:25",
+          "link": "https://investinglive.com/stocks/china-steps-up-market-stabilisation-push-three-short-term-priorities-for-equities/"
+        },
+        {
+          "id": "9d7b5717ba95",
+          "titulo": "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
+          "fonte": "ForexLive",
+          "data": "2026-11-08",
+          "hora": "23:07",
+          "link": "https://investinglive.com/news/china-october-inflation-preview-cpi-seen-near-0-8-ppi-above-5/"
         }
       ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
     },
     {
-      "titulo": "Bitcoin recua para US$ 75 mil, o banco central da China mantém o cerco e o Nubank suspende transferências de cripto",
-      "sinal": "risk_off",
-      "resumo": "O Bitcoin prolongou a queda de 5/11 e recuou para US$ 75 mil, na aversão ao risco que veio das ações de tecnologia; o índice de medo e ganância cripto está em 28/100. O banco central da China disse que continua a reprimir atividades ligadas a cripto e o Nubank suspendeu depósitos e levantamentos diretos de cripto, mantendo a compra e venda. O Zcash resistiu com a entrada em vigor da atualização NU7.",
-      "impacto": "Cripto voltou a comportar-se como ativo de risco e perdeu o ganho pós-eleição de 4 a 5/11; pesa sobre os tokens seguidos na app. Sem efeito direto nos 24 ativos B3.",
-      "especulacao": "Michael Saylor defende que o bitcoin é o capital mais seguro em instabilidade política; é a opinião de um grande detentor.",
-      "n_noticias": 8,
+      "titulo": "Rubio diz que as conversas com o Irão não são produtivas, Trump diz não querer escalar e o Qatar garante que o diálogo continua",
+      "sinal": "neutro",
+      "resumo": "Trump afirmou à CNN que não busca escalar a guerra e condicionou novos ataques ao andamento das negociações; Rubio disse que as exigências de Teerão são inaceitáveis. O Irão defende a sua proposta de dois dias, os EUA atacaram a ilha de Qeshm durante a noite (sem danos a infraestrutura essencial, segundo autoridade local) e Trump quer discutir a guerra com Xi e Putin na APEC.",
+      "impacto": "Sinais cruzados mantêm o prémio de risco no petróleo — favorável a PETR4/PRIO3, negativo para inflação, juros e o real.",
+      "especulacao": "",
+      "n_noticias": 11,
       "noticias": [
         {
-          "id": "8ff6a147e57f",
-          "titulo": "The PBOC is to keep cracking down on crypto-related activities",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:45",
-          "link": "https://www.financialjuice.com/News/9841046/The-PBOC-is-to-keep-cracking-down-on-crypto-related-activities-.aspx?xy=rss"
+          "id": "90cfe74e577f",
+          "titulo": "Trump diz não buscar escalar guerra com o Irã e prevê Ucrânia com ‘outro formato’",
+          "fonte": "InfoMoney",
+          "data": "2026-11-09",
+          "hora": "09:40",
+          "link": "https://www.infomoney.com.br/mundo/trump-diz-nao-buscar-escalar-guerra-com-o-ira-e-preve-ucrania-com-outro-formato/"
         },
         {
-          "id": "08a67f302b03",
-          "titulo": "Crypto Fear and Greed Index: 28/100 = Fear",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:18",
-          "link": "https://www.financialjuice.com/News/9841021/Crypto-Fear-and-Greed-Index-28100--Fear.aspx?xy=rss"
-        },
-        {
-          "id": "a3daa6841c83",
-          "titulo": "Bitcoin estende forte queda do dia anterior e recua a US$ 75 mil",
-          "fonte": "Exame",
-          "data": "2026-11-06",
-          "hora": "12:37",
-          "link": "https://exame.com/future-of-money/bitcoin-estende-forte-queda-do-dia-anterior-e-recua-a-us-75-mil/"
-        },
-        {
-          "id": "76c63b601262",
-          "titulo": "Zcash resists crypto market selloff as network upgrade goes live. What's next?",
+          "id": "8c23ada632fe",
+          "titulo": "Gold remains skewed to the upside amid favourable macro backdrop, with US-Iran and CPI in focus",
           "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "11:46",
-          "link": "https://investinglive.com/cryptocurrency/zcash-resists-crypto-market-selloff-as-network-upgrade-goes-live-what-s-next/"
+          "data": "2026-11-09",
+          "hora": "08:45",
+          "link": "https://investinglive.com/commodities/gold-remains-skewed-to-the-upside-amid-favourable-macro-backdrop-with-us-iran-and-cpi-in-focus/"
         },
         {
-          "id": "3dc28f37a925",
-          "titulo": "Nubank suspende depósitos e saques diretos de criptomoedas",
-          "fonte": "Exame",
-          "data": "2026-11-06",
-          "hora": "11:38",
-          "link": "https://exame.com/future-of-money/nubank-suspende-depositos-e-saques-diretos-de-criptomoedas/"
+          "id": "3764b9382d58",
+          "titulo": "Iran's Baghaei, asked about South Korea planning regional naval presence: The best help Seoul can provide is not to involve itself in a complex issue.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "08:05",
+          "link": "https://www.financialjuice.com/News/9843035/Irans-Baghaei-asked-about-South-Korea-planning-regional-naval-presence-The-best-help-Seoul-can-provide-is-not-to-involve-itself-in-a-complex-issue.aspx?xy=rss"
         },
         {
-          "id": "9e2666ad07f4",
-          "titulo": "Michael Saylor diz que bitcoin é o capital mais seguro em um mundo de instabilidade política",
-          "fonte": "Exame",
-          "data": "2026-11-06",
-          "hora": "11:01",
-          "link": "https://exame.com/future-of-money/michael-saylor-diz-que-bitcoin-e-o-capital-mais-seguro-em-um-mundo-de-instabilidade-politica/"
+          "id": "41f8e5f53cff",
+          "titulo": "Iran's Baghaei: IAEA visit to Bushehr has been made in recent days.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "07:55",
+          "link": "https://www.financialjuice.com/News/9843014/Irans-Baghaei-IAEA-visit-to-Bushehr-has-been-made-in-recent-days.aspx?xy=rss"
         },
         {
-          "id": "27843d622fd1",
-          "titulo": "Risk-off wave hits Bitcoin as tech stocks lead global selloff. What's next?",
+          "id": "aec4a09c69ea",
+          "titulo": "Iran's Baghaei: US iron gate task force is a way to deflect from US midterms results.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "07:42",
+          "link": "https://www.financialjuice.com/News/9842994/Irans-Baghaei-US-iron-gate-task-force-is-a-way-to-deflect-from-US-midterms-results.aspx?xy=rss"
+        },
+        {
+          "id": "5e1a89bcd4de",
+          "titulo": "Iran's Baghaei: However strong pressures are, they should not impact the strong bilateral ties between Iran and Iraq.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "07:34",
+          "link": "https://www.financialjuice.com/News/9842992/Irans-Baghaei-However-strong-pressures-are-they-should-not-impact-the-strong-bilateral-ties-between-Iran-and-Iraq.aspx?xy=rss"
+        },
+        {
+          "id": "b9fa1e42e253",
+          "titulo": "Iran Foreign Ministry Spokesperson Baghaei: Iran's two-day proposal is the most reasonable proposal on the table.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "07:32",
+          "link": "https://www.financialjuice.com/News/9842991/Iran-Foreign-Ministry-Spokesperson-Baghaei-Irans-two-day-proposal-is-the-most-reasonable-proposal-on-the-table.aspx?xy=rss"
+        },
+        {
+          "id": "870567081dc4",
+          "titulo": "Iranian provincial official: Overnight US strike on Qeshm island did not affect key infrastructure and services - Fars News",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "04:38",
+          "link": "https://www.financialjuice.com/News/9842792/Iranian-provincial-official-Overnight-US-strike-on-Qeshm-island-did-not-affect-key-infrastructure-and-services---Fars-News.aspx?xy=rss"
+        },
+        {
+          "id": "f5819c1a80d8",
+          "titulo": "Qatar says US-Iran talks alive as Trump meets Qatari PM, oil swings on mixed signals",
           "fonte": "ForexLive",
-          "data": "2026-11-06",
-          "hora": "10:09",
-          "link": "https://investinglive.com/cryptocurrency/risk-off-wave-hits-bitcoin-as-tech-stocks-lead-global-selloff-what-s-next/"
+          "data": "2026-11-09",
+          "hora": "03:53",
+          "link": "https://investinglive.com/commodities/qatar-says-us-iran-talks-alive-as-trump-meets-qatari-pm-oil-swings-on-mixed-signals/"
         },
         {
-          "id": "4846c6120fd8",
-          "titulo": "Why The Midterm Outcome Confirms My Bullish View On FBTC",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-05",
-          "hora": "12:23",
-          "link": "https://seekingalpha.com/article/4962895-why-the-midterm-outcome-confirms-my-bullish-view-on-fbtc?source=feed_all_articles"
+          "id": "030b4ed5972e",
+          "titulo": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he’d ‘certainly take’ Huang",
+          "fonte": "ForexLive",
+          "data": "2026-11-08",
+          "hora": "23:56",
+          "link": "https://investinglive.com/news/trump-eyes-xi-putin-meeting-at-apec-on-iran-war-says-he-d-certainly-take-huang/"
+        },
+        {
+          "id": "c262766694bc",
+          "titulo": "Rubio says Iran talks not productive as Tehran’s demands are unacceptable",
+          "fonte": "ForexLive",
+          "data": "2026-11-08",
+          "hora": "22:18",
+          "link": "https://investinglive.com/commodities/rubio-says-iran-talks-not-productive-as-tehran-s-demands-are-unacceptable/"
         }
       ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
     },
     {
-      "titulo": "Democratas no Congresso põem data centers e o secretário da Defesa sob pressão",
+      "titulo": "Mercado precifica mais três altas do BoE e as exportações alemãs sobem 2% em setembro",
       "sinal": "neutro",
-      "resumo": "Depois da vitória democrata nas intercalares, o FT aponta a onda azul como gatilho da venda de ações de IA e parlamentares e aliados de Trump culpam Pete Hegseth pela guerra com o Irão. A Stoxx 600 passou o S&P 500 no acumulado do ano. O CFO da OpenAI disse que o investimento em data centers continua apesar do resultado eleitoral.",
-      "impacto": "O canal para a B3 é a rotação: capital a sair de tecnologia dos EUA pode favorecer valor e emergentes (VALE3, bancos), e menos apoio à guerra toca o petróleo (PETR4, PRIO3).",
-      "especulacao": "O Goldman Sachs estima que cerca de 45% da expansão planeada de data centers nos EUA pode ser afetada por moratórias locais, e Maurício Moura prevê investigações a Trump e à família; são projeções, nada foi decidido.",
+      "resumo": "Os futuros apontam para mais três altas do BoE depois da subida para 4%, embora analistas esperem um caminho mais curto. As exportações alemãs subiram 2% m/m (previsão 0,5%) e as importações 4,2%, o Sentix da zona euro ficou em 2,4 e Dombrovskis vê riscos descendentes; Klaas Knot, candidato ao BCE, diz que agiria numa crise de dívida.",
+      "impacto": "Ciclo de altas na Europa reforça o aperto global de liquidez; efeito sobre a B3 indireto, via dólar e juros longos.",
+      "especulacao": "",
+      "n_noticias": 11,
+      "noticias": [
+        {
+          "id": "839995061332",
+          "titulo": "Eurozone Sentix Investor Confidence Index Actual 2.4 (Forecast 2.05, Previous 2.7)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "09:30",
+          "link": "https://www.financialjuice.com/News/9843111/Eurozone-Sentix-Investor-Confidence-Index-Actual-24-Forecast-205-Previous-27.aspx?xy=rss"
+        },
+        {
+          "id": "589b8929da65",
+          "titulo": "ING: The EUR - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "09:26",
+          "link": "https://www.financialjuice.com/News/9843110/ING-The-EUR---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "a7979112d792",
+          "titulo": "EU's Economy Commissioner Dombrovskis: Economy facing uncertianty, downside risks.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "07:53",
+          "link": "https://www.financialjuice.com/News/9843013/EUs-Economy-Commissioner-Dombrovskis-Economy-facing-uncertianty-downside-risks.aspx?xy=rss"
+        },
+        {
+          "id": "94929df6d4d0",
+          "titulo": "German Exports MoM SA Actual 2% (Forecast 0.5%, Previous -0.8%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9842942/German-Exports-MoM-SA-Actual-2-Forecast-05-Previous--08.aspx?xy=rss"
+        },
+        {
+          "id": "7e410fec026e",
+          "titulo": "German Imports MoM SA Actual 4.2% (Forecast 0.5%, Previous 0.9%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9842941/German-Imports-MoM-SA-Actual-42-Forecast-05-Previous-09.aspx?xy=rss"
+        },
+        {
+          "id": "082a91f44343",
+          "titulo": "German Trade Balance SA Actual 15.6B (Forecast 19.4B, Previous 19.5B)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "07:00",
+          "link": "https://www.financialjuice.com/News/9842940/German-Trade-Balance-SA-Actual-156B-Forecast-194B-Previous-195B.aspx?xy=rss"
+        },
+        {
+          "id": "8475cde85562",
+          "titulo": "BoE Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "06:28",
+          "link": "https://www.financialjuice.com/News/9842913/BoE-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "5a82c30abec5",
+          "titulo": "ECB Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "06:28",
+          "link": "https://www.financialjuice.com/News/9842912/ECB-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "7cfe37e528af",
+          "titulo": "ECB contender Klaas Knot ‘won’t hesitate’ to act in a debt crisis",
+          "fonte": "FT Markets",
+          "data": "2026-11-09",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/4dfbc7b0-1add-4bc3-ab5e-78c18b2ca87a?syn-25a6b1a6=1"
+        },
+        {
+          "id": "663951163356",
+          "titulo": "How the UK could borrow more without spooking gilt markets",
+          "fonte": "FT Markets",
+          "data": "2026-11-09",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/87a7c28c-deed-457e-b247-cf9bb83d5947?syn-25a6b1a6=1"
+        },
+        {
+          "id": "4de981b796fc",
+          "titulo": "Markets price three more BoE hikes, but analysts see a shallower path after move to 4%",
+          "fonte": "ForexLive",
+          "data": "2026-11-09",
+          "hora": "00:47",
+          "link": "https://investinglive.com/central-banks/markets-price-three-more-boe-hikes-but-analysts-see-a-shallower-path-after-move-to-4/"
+        }
+      ],
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
+    },
+    {
+      "titulo": "Lula reafirma o compromisso fiscal em rede nacional mas não detalha medidas de ajuste",
+      "sinal": "neutro",
+      "resumo": "No primeiro pronunciamento desde a reeleição, Lula prometeu criar condições para reduzir os juros e elevar o investimento acima de 20% do PIB, e anunciou o Ministério da Segurança Pública, sem medidas concretas de ajuste. O Ibovespa interrompeu a sequência de perdas após o tombo pós-eleição e esta segunda tem o Focus no radar.",
+      "impacto": "Sem medidas, o prémio de risco fiscal fica no DI e no dólar — pesa sobre bancos (ITUB4, BBAS3, BBDC4, BPAC11), construtoras (CYRE3, MRVE3) e elétricas.",
+      "especulacao": "",
       "n_noticias": 7,
       "noticias": [
         {
-          "id": "9a34db57f88a",
-          "titulo": "OpenAI CFO: We will keep investing in AI data centers despite the election results - CNBC.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "16:27",
-          "link": "https://www.financialjuice.com/News/9841103/OpenAI-CFO-We-will-keep-investing-in-AI-data-centers-despite-the-election-results---CNBC.aspx?xy=rss"
+          "id": "d3a7b8e5ec99",
+          "titulo": "Ajuste fiscal: o diagnóstico de organismos internacionais e o desafio de Lula 4",
+          "fonte": "G1 Economia",
+          "data": "2026-11-09",
+          "hora": "09:51",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/09/ajuste-fiscal-o-diagnostico-de-organismos-internacionais-e-o-desafio-de-lula-4.ghtml"
         },
         {
-          "id": "eb25e9875a35",
-          "titulo": "Vitória democrata nos EUA pressiona secretário de Defesa, Pete Hegseth; entenda",
+          "id": "7155ed4fb9bc",
+          "titulo": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor em Cambridge defende ajuste fiscal 'suave'",
+          "fonte": "G1 Economia",
+          "data": "2026-11-09",
+          "hora": "09:51",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/08/meu-medo-e-o-governo-lula-buscar-atalhos-e-brigar-com-o-mercado-por-que-professor-em-cambridge-defende-ajuste-fiscal-suave.ghtml"
+        },
+        {
+          "id": "5f7915593d37",
+          "titulo": "Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente",
+          "fonte": "G1 Economia",
+          "data": "2026-11-09",
+          "hora": "09:51",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml"
+        },
+        {
+          "id": "11ca3da8ca99",
+          "titulo": "Focus e discurso de Lula dividem atenções com balanços de Magalu e JBS nesta segunda",
           "fonte": "InfoMoney",
-          "data": "2026-11-06",
-          "hora": "16:23",
-          "link": "https://www.infomoney.com.br/mundo/vitoria-democrata-nos-eua-pressiona-secretario-de-defesa-pete-hegseth-entenda/"
+          "data": "2026-11-09",
+          "hora": "09:12",
+          "link": "https://www.infomoney.com.br/mercados/focus-lula-balancos-magalu-jbs-agenda-09112026/"
         },
         {
-          "id": "a1934a531010",
-          "titulo": "Could the US midterms burst the AI bubble?",
-          "fonte": "BBC Business",
-          "data": "2026-11-06",
-          "hora": "16:14",
-          "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
+          "id": "444ca71015bf",
+          "titulo": "Ibovespa tenta firmar fundo e dólar encosta em sobrecompra: o que vigiar na segunda?",
+          "fonte": "InfoMoney",
+          "data": "2026-11-09",
+          "hora": "08:40",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-tenta-firmar-fundo-e-dolar-encosta-em-sobrecompra-o-que-vigiar-na-segunda/"
         },
         {
-          "id": "712f9f992668",
-          "titulo": "Data centers na mira: o que a vitória democrata muda na corrida da IA nos EUA, segundo bancos",
+          "id": "e5cb4e525aa2",
+          "titulo": "Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros",
+          "fonte": "InfoMoney",
+          "data": "2026-11-09",
+          "hora": "00:22",
+          "link": "https://www.infomoney.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-evita-detalhar-medidas-para-reduzir-juros/"
+        },
+        {
+          "id": "5191500a7526",
+          "titulo": "Em pronunciamento, Lula promete criar condições para reduzir taxa de juros",
           "fonte": "Exame",
-          "data": "2026-11-06",
-          "hora": "13:07",
-          "link": "https://exame.com/invest/mercados/data-centers-na-mira-o-que-a-vitoria-democrata-muda-na-corrida-da-ia-nos-eua-segundo-bancos/"
-        },
-        {
-          "id": "aba51e81b7e3",
-          "titulo": "Trump e família vão ser investigados com Congresso democrata, diz Maurício Moura",
-          "fonte": "Exame",
-          "data": "2026-11-06",
-          "hora": "11:20",
-          "link": "https://exame.com/mundo/trump-e-familia-vao-ser-investigados-com-congresso-democrata-diz-mauricio-moura/"
-        },
-        {
-          "id": "3e25be4a2ee8",
-          "titulo": "Why investors soured on the Democrats",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/f49c25d4-d77c-415d-b25b-5aaf7aaaac4a?syn-25a6b1a6=1"
-        },
-        {
-          "id": "2459d84b8cbd",
-          "titulo": "European stocks overtake Wall Street following Democratic sweep",
-          "fonte": "FT Markets",
-          "data": "2026-11-05",
-          "hora": "17:41",
-          "link": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1"
+          "data": "2026-11-08",
+          "hora": "20:57",
+          "link": "https://exame.com/brasil/em-pronunciamento-lula-promete-criar-condicoes-para-reduzir-taxa-de-juros/"
         }
       ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
     },
     {
-      "titulo": "Ibovespa sobe em dia de balanços, com a Porto a lucrar R$ 839 milhões e a cortar projeções",
-      "sinal": "neutro",
-      "resumo": "O Ibovespa e o dólar operam em alta depois do payroll e da pausa do Copom em 13,75%. A Porto lucrou R$ 839 milhões no 3T (estimativa R$ 797,6 milhões, LSEG), 14% menos a/a, e cortou projeções por causa do calote no cartão. Em sentido contrário, a pesquisa da CNC mostra a inadimplência a cair pelo segundo mês, para 29,3% das famílias.",
-      "impacto": "Já reportaram 3T26: ITUB4, BBDC4, VALE3, GGBR4, USIM5, WEGE3, KLBN11, AXIA3 e PRIO3. Por sair: JBSS32 a 09/11; PETR4 e BPAC11 a 10/11; BBAS3, EQTL3 e MRVE3 a 11/11; CMIG4, CPLE3, CSNA3, CYRE3 e B3SA3 a 12/11; AMER3 a 11/11 (data da imprensa). BEEF3 (04/11) e SUZB3 (05/11) tinham data esta semana, mas o JSON ainda não traz números. O alerta da Porto sobre o cartão é o ponto a confrontar no BBAS3 e no BPAC11.",
+      "titulo": "Houthis atingem a torre da Aramco em Riade e a TV estatal iraniana diz que a sinalização de navegação no sul do Ormuz foi destruída",
+      "sinal": "risk_off",
+      "resumo": "A torre da Aramco no distrito financeiro de Riade sofreu danos por estilhaços e a Arábia Saudita relata danos menores, mísseis intercetados e nenhuma interrupção de produção. A TV estatal iraniana, citando um oficial não identificado da marinha dos Guardas da Revolução, diz que a transição de navios foi interrompida no sul do Ormuz; na Rússia, drones atingiram a zona industrial de Kirishi, onde um incêndio na refinaria já foi localizado.",
+      "impacto": "Risco de oferta no Golfo sustenta o Brent: positivo para PETR4 e PRIO3, negativo para inflação, curva de juros e consumo no Brasil.",
+      "especulacao": "A interrupção do trânsito no Ormuz é relatada só pela TV estatal iraniana, com fonte anónima, sem confirmação independente.",
+      "n_noticias": 6,
+      "noticias": [
+        {
+          "id": "9853b7fc4e53",
+          "titulo": "Fire at Russia's Kirishi refinery localized - Governor",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "07:41",
+          "link": "https://www.financialjuice.com/News/9842993/Fire-at-Russias-Kirishi-refinery-localized---Governor.aspx?xy=rss"
+        },
+        {
+          "id": "3d81d66ffa05",
+          "titulo": "The diesel deal offers a chance for a gradual restoration of business ties between Russia and US - Tass Cites Russian Foreign Ministry",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "06:17",
+          "link": "https://www.financialjuice.com/News/9842900/The-diesel-deal-offers-a-chance-for-a-gradual-restoration-of-business-ties-between-Russia-and-US---Tass-Cites-Russian-Foreign-Ministry.aspx?xy=rss"
+        },
+        {
+          "id": "d775b143ec6a",
+          "titulo": "Iran's state TV, citing unnamed Revolutionary Guards navy official: Navigational aid systems in southern Hormuz destroyed, halting vessel transit on unauthorized route overnight",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "04:12",
+          "link": "https://www.financialjuice.com/News/9842776/Irans-state-TV-citing-unnamed-Revolutionary-Guards-navy-official-Navigational-aid-systems-in-southern-Hormuz-destroyed-halting-vessel-transit-on-unauthorized-route-overnight.aspx?xy=rss"
+        },
+        {
+          "id": "d19498965e22",
+          "titulo": "Drones strike industrial zone in Kirishi in Russia's Leningrad region: officials",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "01:41",
+          "link": "https://www.financialjuice.com/News/9842642/Drones-strike-industrial-zone-in-Kirishi-in-Russias-Leningrad-region-officials.aspx?xy=rss"
+        },
+        {
+          "id": "4ca35188bbfd",
+          "titulo": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
+          "fonte": "ForexLive",
+          "data": "2026-11-08",
+          "hora": "22:36",
+          "link": "https://investinglive.com/commodities/weekend-houthis-hit-riyadh-s-aramco-tower-and-target-oil-storage-as-saudi-supply-risk-grows/"
+        },
+        {
+          "id": "cc247d72dfbf",
+          "titulo": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes",
+          "fonte": "FT Markets",
+          "data": "2026-11-08",
+          "hora": "12:16",
+          "link": "https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996?syn-25a6b1a6=1"
+        }
+      ],
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
+    },
+    {
+      "titulo": "China prolonga por dois meses a suspensão das tarifas de 24% sobre os EUA e dos controlos de exportação",
+      "sinal": "risk_on",
+      "resumo": "Pequim mantém a tarifa de 10% e suspende por mais dois meses, a partir de 10/11, a de 24%; prolonga também até 10/01/2027 a suspensão das taxas portuárias sobre navios americanos e da investigação ao setor naval, antes da APEC.",
+      "impacto": "Trégua comercial EUA-China alivia o risco para a procura chinesa — leitura positiva para VALE3 e metálicas; na soja, a aproximação EUA-China é concorrência para a exportação brasileira.",
       "especulacao": "",
       "n_noticias": 6,
       "noticias": [
         {
-          "id": "3f37c7d29b29",
-          "titulo": "Dólar e Ibovespa operam em alta, com foco em dados de emprego dos EUA e temores com IA",
+          "id": "2d3e14932e94",
+          "titulo": "Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA",
           "fonte": "G1 Economia",
-          "data": "2026-11-06",
-          "hora": "16:46",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/06/dolar-ibovespa.ghtml"
+          "data": "2026-11-09",
+          "hora": "09:51",
+          "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/brasil-pode-perder-seu-maior-comprador-de-soja-entenda-os-planos-da-china-e-a-disputa-com-os-eua.ghtml"
         },
         {
-          "id": "c1ed5da6e556",
-          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe em meio a balanços e dados dos EUA",
-          "fonte": "InfoMoney",
-          "data": "2026-11-06",
-          "hora": "16:22",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/"
+          "id": "130e0c96aca9",
+          "titulo": "China to extend suspension of exports controls targeting US companies.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "08:01",
+          "link": "https://www.financialjuice.com/News/9843033/China-to-extend-suspension-of-exports-controls-targeting-US-companies.aspx?xy=rss"
         },
         {
-          "id": "b2f7561262e4",
-          "titulo": "Endividamento das famílias cai em outubro, e inadimplência atinge menor nível do ano",
-          "fonte": "Exame",
-          "data": "2026-11-06",
-          "hora": "12:13",
-          "link": "https://exame.com/invest/minhas-financas/endividamento-das-familias-cai-em-outubro-e-inadimplencia-atinge-menor-nivel-do-ano/"
+          "id": "1f5cc834e476",
+          "titulo": "China transport ministry: to keep suspending probe into impact on shipping, shipbuilding supply chain security until Jan 10, 2027",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "03:48",
+          "link": "https://www.financialjuice.com/News/9842764/China-transport-ministry-to-keep-suspending-probe-into-impact-on-shipping-shipbuilding-supply-chain-security-until-Jan-10-2027.aspx?xy=rss"
         },
         {
-          "id": "a3191dbe522b",
-          "titulo": "Payroll e reação de Wall Street dão fôlego ao Ibovespa; dólar sobe",
-          "fonte": "Exame",
-          "data": "2026-11-06",
-          "hora": "11:06",
-          "link": "https://exame.com/invest/mercados/payroll-e-reacao-de-wall-street-dao-folego-ao-ibovespa-dolar-sobe/"
+          "id": "d2349f35457f",
+          "titulo": "China transport ministry: to extend suspension of special port fees on US vessels until Jan. 10, 2027",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "03:47",
+          "link": "https://www.financialjuice.com/News/9842763/China-transport-ministry-to-extend-suspension-of-special-port-fees-on-US-vessels-until-Jan-10-2027.aspx?xy=rss"
         },
         {
-          "id": "4df84a6e80e8",
-          "titulo": "Porto Seguro (PSSA3) tem lucro de R$ 839 milhões no 3º tri",
-          "fonte": "InfoMoney",
-          "data": "2026-11-05",
-          "hora": "12:47",
-          "link": "https://www.infomoney.com.br/mercados/porto-seguro-pssa3-tem-lucro-de-r-839-milhoes-no-3o-tri/"
+          "id": "e5f700f3dd98",
+          "titulo": "China extends suspension of 24% tariffs on US goods, keeps 10% levy ahead of APEC",
+          "fonte": "ForexLive",
+          "data": "2026-11-09",
+          "hora": "02:40",
+          "link": "https://investinglive.com/stocks/china-extends-suspension-of-24-tariffs-on-us-goods-keeps-10-levy-ahead-of-apec/"
         },
         {
-          "id": "1257aef61551",
-          "titulo": "Porto vê lucro cair 14% no 3º tri e corta projeções: 'calote' no cartão pesa",
-          "fonte": "Exame",
-          "data": "2026-11-05",
-          "hora": "07:06",
-          "link": "https://exame.com/invest/mercados/porto-ve-lucro-cair-14-no-3o-tri-e-corta-projecoes-calote-no-cartao-pesa/"
+          "id": "c0190ba4d597",
+          "titulo": "China to extend suspension of 24% US tariffs for two months from Nov. 10, maintain 10% tariffs: statement",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "02:34",
+          "link": "https://www.financialjuice.com/News/9842731/China-to-extend-suspension-of-24-US-tariffs-for-two-months-from-Nov-10-maintain-10-tariffs-statement.aspx?xy=rss"
         }
       ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
     },
     {
-      "titulo": "Lula diz que 'pobre não pagará a conta' e André Lara Rezende desmente encontro sobre a proposta fiscal",
-      "sinal": "neutro",
-      "resumo": "Lula afirmou que o Brasil tem 'seriedade fiscal' e que 'pobre não pagará a conta', sob pressão para cortar gastos, depois de ter reunido Haddad, Durigan e Galípolo sobre a dívida pública; o blog de Valdo Cruz (G1) lê nisto os primeiros acenos concretos de ajuste. O economista André Lara Rezende disse que não falou com Lula nem tem nada marcado. Durigan disse que o juro é muito alto, sem criticar o BC.",
-      "impacto": "Toca a parte longa da curva, o real e os mais sensíveis a juros (CYRE3, MRVE3, BBAS3, B3SA3). Ainda não há medida concreta anunciada, daí o neutro.",
+      "titulo": "Mercado precifica 80% de hipótese de alta do Fed em dezembro e a Goldman corta a previsão do ouro para US$ 4.150",
+      "sinal": "risk_off",
+      "resumo": "A Goldman reduziu a previsão do ouro para US$ 4.150 em 2026 e US$ 4.800 em 2027, citando o Fed mais duro; o ouro consolida perto das máximas à espera do CPI dos EUA de terça. Nos spreads, o HY OAS estava em 3,48 p.p. a 05/11, no máximo do ano, e o índice de crédito da app está em 76 (tenso), +12,8 pontos em 30 dias.",
+      "impacto": "Juros americanos a subir e crédito tenso pressionam emergentes e o real; o CPI de terça é o próximo teste para o DI e para o Ibovespa.",
       "especulacao": "",
       "n_noticias": 5,
       "noticias": [
         {
-          "id": "ff4464a61ed9",
-          "titulo": "Lula faz primeiros acenos concretos na direção de ajuste fiscal e alinha discurso com propostas de Durigan",
-          "fonte": "G1 Economia",
-          "data": "2026-11-06",
-          "hora": "16:46",
-          "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/06/lula-faz-primeiros-acenos-concretos-na-direcao-de-ajuste-fiscal-e-alinha-discurso-com-propostas-de-durigan.ghtml"
+          "id": "8c23ada632fe",
+          "titulo": "Gold remains skewed to the upside amid favourable macro backdrop, with US-Iran and CPI in focus",
+          "fonte": "ForexLive",
+          "data": "2026-11-09",
+          "hora": "08:45",
+          "link": "https://investinglive.com/commodities/gold-remains-skewed-to-the-upside-amid-favourable-macro-backdrop-with-us-iran-and-cpi-in-focus/"
         },
         {
-          "id": "b0705c9a331e",
-          "titulo": "Pressionado a cortar gastos, Lula diz que Brasil tem 'seriedade fiscal' e que 'pobre não pagará a conta'",
-          "fonte": "G1 Economia",
-          "data": "2026-11-06",
-          "hora": "16:46",
-          "link": "https://g1.globo.com/politica/noticia/2026/11/06/pressionado-a-cortar-gastos-lula-diz-que-brasil-tem-responsabilidade-e-seriedade-fiscal-e-que-pobre-nao-vai-pagar-a-conta.ghtml"
+          "id": "f683d8cf8e7e",
+          "titulo": "What are the main events for today?",
+          "fonte": "ForexLive",
+          "data": "2026-11-09",
+          "hora": "07:16",
+          "link": "https://investinglive.com/news/what-are-the-main-events-for-today-81/"
         },
         {
-          "id": "f0f90e3fc6a8",
-          "titulo": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Rezende",
-          "fonte": "G1 Economia",
-          "data": "2026-11-06",
-          "hora": "16:46",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/06/nao-falei-com-lula-nem-tenho-nada-marcado-isso-foi-plantado-para-queimar-alguem-que-defendeu-a-proposta-diz-economista-andre-lara-rezende.ghtml"
-        },
-        {
-          "id": "7c5f042bd8c8",
-          "titulo": "Durigan diz que taxa de juros é muito alta no Brasil, mas evita criticar decisão do BC de interromper ciclo de corte da Selic",
-          "fonte": "G1 Economia",
-          "data": "2026-11-05",
-          "hora": "12:54",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/05/durigan-diz-que-taxa-de-juros-e-muito-alta-no-brasil-mas-evita-criticar-decisao-do-bc-de-interromper-ciclo-de-corte-da-selic.ghtml"
-        },
-        {
-          "id": "759e014ae151",
-          "titulo": "Lula reúne Haddad, Durigan e Galípolo para discutir dívida pública e rumo da economia",
-          "fonte": "InfoMoney",
-          "data": "2026-11-05",
-          "hora": "12:53",
-          "link": "https://www.infomoney.com.br/politica/lula-reune-haddad-durigan-e-galipolo-para-discutir-divida-publica-e-rumo-da-economia/"
-        }
-      ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
-    },
-    {
-      "titulo": "Índice de crédito dos EUA continua tenso e a Blackstone duplica o bloqueio de resgates na Ásia",
-      "sinal": "risk_off",
-      "resumo": "O índice de risco de crédito está em 76,3 (faixa Tenso), -3,2 em 7 dias e +7,2 em 30 dias; IG, HY, HY-IG e CCC estão entre os percentis 95 e 97 do ano, com HY OAS em 3,32 p.p. e CCC em 12,97 p.p. (+2,04 em 30 dias), dados de 04/11, antes da queda de 5/11. Os ETF não acompanham: HYG/LQD no percentil 39 e BIZD/HYG no 35. O FT relata perdas do fundo Arini no high yield mais arriscado e a Blackstone duplicou o bloqueio de resgates de investidores asiáticos no BXPE.",
-      "impacto": "Spreads a abrir nos EUA encarecem o dinheiro para emissores de emergentes e pesam em nomes alavancados da carteira (CSNA3, AMER3). A divergência com os ETF diz que o mercado negociado ainda não confirma o aperto.",
-      "especulacao": "",
-      "n_noticias": 4,
-      "noticias": [
-        {
-          "id": "5699309d3946",
-          "titulo": "Morgan's Stanley Day: Low single-digit percentage of portfolio at high AI risk",
+          "id": "afd8c3cf700a",
+          "titulo": "Fed Interest Rate Probabilities",
           "fonte": "FinancialJuice",
-          "data": "2026-11-06",
-          "hora": "15:27",
-          "link": "https://www.financialjuice.com/News/9841022/Morgans-Stanley-Day-Low-single-digit-percentage-of-portfolio-at-high-AI-risk.aspx?xy=rss"
+          "data": "2026-11-09",
+          "hora": "06:27",
+          "link": "https://www.financialjuice.com/News/9842911/Fed-Interest-Rate-Probabilities.aspx?xy=rss"
         },
         {
-          "id": "bc397866e152",
-          "titulo": "Arini’s credit troubles suggest roach-hunting season is back",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "14:23",
-          "link": "https://www.ft.com/content/59a3bb17-5b09-4223-9077-413140b8a05b?syn-25a6b1a6=1"
+          "id": "d91e682b9ff3",
+          "titulo": "ICYMI: Goldman cuts gold forecasts to $4,150 for 2026, $4,800 for 2027 as hawkish Fed bites",
+          "fonte": "ForexLive",
+          "data": "2026-11-09",
+          "hora": "01:28",
+          "link": "https://investinglive.com/commodities/icymi-goldman-cuts-gold-forecasts-to-4-150-for-2026-4-800-for-2027-as-hawkish-fed-bites/"
         },
         {
-          "id": "f331cbe68080",
-          "titulo": "Blackstone doubles lock-up periods for some Asian investors",
-          "fonte": "FT Markets",
-          "data": "2026-11-06",
-          "hora": "00:01",
-          "link": "https://www.ft.com/content/97215edc-736f-45f3-84ee-c1ae0c89493a?syn-25a6b1a6=1"
-        },
-        {
-          "id": "8b9c22d4a634",
-          "titulo": "Hedge fund Walleye hands back capital as it slims down equity business",
-          "fonte": "FT Markets",
-          "data": "2026-11-05",
-          "hora": "19:15",
-          "link": "https://www.ft.com/content/fb02c333-a439-4acd-b0b6-e50633ce863e?syn-25a6b1a6=1"
+          "id": "fb4d44e474e5",
+          "titulo": "Gold ticks higher on softer oil, but Fed’s 80% December hike odds cap gain",
+          "fonte": "ForexLive",
+          "data": "2026-11-09",
+          "hora": "01:00",
+          "link": "https://investinglive.com/commodities/gold-ticks-higher-on-softer-oil-but-fed-s-80-december-hike-odds-cap-gain/"
         }
       ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
     },
     {
-      "titulo": "Tesla vai reduzir a produção do Cybertruck no Texas para dar lugar ao Cybercab",
-      "sinal": "neutro",
-      "resumo": "Musk disse que a Tesla vai reduzir gradualmente a produção do Cybertruck na fábrica do Texas, para usar o espaço no Cybercab e na robótica; o MarketWatch nota que o modelo não vingou por causa do preço alto.",
-      "impacto": "Sem efeito direto na carteira; conta só como mais uma notícia num dia de volatilidade da Mag7.",
+      "titulo": "Japão gastou um recorde de US$ 50 bilhões num só dia para defender o iene e Ueda vê riscos de alta na inflação",
+      "sinal": "risk_off",
+      "resumo": "Dados oficiais, citados pelo WSJ, confirmam a intervenção recorde; o USD/JPY abriu a semana em 157,68 e esbarra nos 158. O governador do BoJ, Ueda, vê a inflação perto de 2% mas com riscos de alta pela energia, e o indicador antecedente japonês caiu 1,6.",
+      "impacto": "Iene defendido e BoJ a normalizar aumentam o risco de desmontagem do carry trade, canal de volatilidade para emergentes e para o real.",
       "especulacao": "",
-      "n_noticias": 4,
+      "n_noticias": 5,
       "noticias": [
         {
-          "id": "bc3e4fc81358",
-          "titulo": "Tesla vai reduzir gradualmente produção do Cybertruck no Texas, diz Musk",
-          "fonte": "G1 Economia",
-          "data": "2026-11-06",
-          "hora": "16:46",
-          "link": "https://g1.globo.com/carros/noticia/2026/11/06/tesla-cybertruck-musk.ghtml"
+          "id": "b1d4b5b9949f",
+          "titulo": "MUFG: The JPY - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "09:32",
+          "link": "https://www.financialjuice.com/News/9843120/MUFG-The-JPY---FJElite.aspx?xy=rss"
         },
         {
-          "id": "8088266ac792",
-          "titulo": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
-          "fonte": "MarketWatch",
-          "data": "2026-11-06",
-          "hora": "16:17",
-          "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories"
+          "id": "b6316002b18e",
+          "titulo": "BoJ Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "06:29",
+          "link": "https://www.financialjuice.com/News/9842915/BoJ-Interest-Rate-Probabilities.aspx?xy=rss"
         },
         {
-          "id": "bfcfb9c91533",
-          "titulo": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-          "fonte": "Guardian Business",
-          "data": "2026-11-06",
-          "hora": "12:38",
-          "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+          "id": "d067420629a2",
+          "titulo": "Japanese Leading Indicator Change Actual -1.6 (Forecast -, Previous 0.4)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "06:10",
+          "link": "https://www.financialjuice.com/News/9842885/Japanese-Leading-Indicator-Change-Actual--16-Forecast---Previous-04.aspx?xy=rss"
         },
         {
-          "id": "fdd573257919",
-          "titulo": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "fonte": "BBC Business",
-          "data": "2026-11-06",
-          "hora": "09:57",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+          "id": "e3406ea43789",
+          "titulo": "WSJ: Japan spent a record $50 billion in one day to defend the yen, data confirms",
+          "fonte": "ForexLive",
+          "data": "2026-11-09",
+          "hora": "03:06",
+          "link": "https://investinglive.com/central-banks/wsj-japan-spent-a-record-50-billion-in-one-day-to-defend-the-yen-data-confirms/"
+        },
+        {
+          "id": "b2c3b62ef1ba",
+          "titulo": "Recap - BOJ’s Ueda sees inflation near 2% but flags upside risks as energy costs bite",
+          "fonte": "ForexLive",
+          "data": "2026-11-08",
+          "hora": "23:45",
+          "link": "https://investinglive.com/central-banks/recap-boj-s-ueda-sees-inflation-near-2-but-flags-upside-risks-as-energy-costs-bite/"
         }
       ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
     },
     {
-      "titulo": "Governo prorroga até 31 de dezembro o imposto de 12% sobre a exportação de petróleo",
-      "sinal": "neutro",
-      "resumo": "O governo prorrogou até 31/12 a cobrança de 12% sobre a exportação de petróleo, em vigor desde março para manter o produto no mercado interno durante a crise no Oriente Médio.",
-      "impacto": "Afeta diretamente PRIO3 e PETR4, que pagam sobre o volume exportado, e reduz parte do ganho do petróleo alto até ao fim do ano. PRIO3 já reportou o 3T26 a 04/11; PETR4 reporta a 10/11. Favorece a arrecadação federal.",
+      "titulo": "Democratas dão até 4 de janeiro à Binance, Tether e empresas cripto de Trump e o bitcoin negocia abaixo de US$ 74,6 mil",
+      "sinal": "risk_off",
+      "resumo": "Depois da vitória nas intercalares, os democratas prometem investigar a família do presidente e o senador Blumenthal fixou o prazo de 4/1 para as empresas responderem. O bitcoin segue pesado, abaixo de US$ 74,6 mil, a negociar como proxy de apetite pelo risco.",
+      "impacto": "Pressão regulatória e aversão ao risco penalizam os tokens da carteira cripto; a lei de estrutura de mercado pode perder prioridade no Congresso.",
       "especulacao": "",
-      "n_noticias": 2,
+      "n_noticias": 3,
       "noticias": [
         {
-          "id": "9f461b55cd6b",
-          "titulo": "Governo prorroga até 31 de dezembro cobrança de imposto de 12% sobre exportação de petróleo",
-          "fonte": "G1 Economia",
-          "data": "2026-11-06",
-          "hora": "16:46",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/06/governo-prorroga-ate-31-de-dezembro-cobranca-de-imposto-de-12percent-sobre-exportacao-de-petroleo.ghtml"
+          "id": "f1b88ecb6a3c",
+          "titulo": "Blumenthal sets Jan 4 deadline for Binance, Tether and Trump crypto firms as power shifts",
+          "fonte": "ForexLive",
+          "data": "2026-11-08",
+          "hora": "22:54",
+          "link": "https://investinglive.com/cryptocurrency/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms-as-power-shifts/"
         },
         {
-          "id": "8d89b274ff08",
-          "titulo": "Governo prorroga imposto de 12% sobre exportação de petróleo; entenda o impacto",
-          "fonte": "Exame",
-          "data": "2026-11-06",
-          "hora": "11:12",
-          "link": "https://exame.com/economia/governo-prorroga-imposto-de-12-sobre-exportacao-de-petroleo-entenda-o-impacto/"
+          "id": "cfcca523d954",
+          "titulo": "Bitcoin continues to trade heavily, under $74,600, risk mood turns wary",
+          "fonte": "ForexLive",
+          "data": "2026-11-08",
+          "hora": "22:11",
+          "link": "https://investinglive.com/cryptocurrency/bitcoin-continues-to-trade-heavily-under-74-600-risk-mood-turns-wary/"
+        },
+        {
+          "id": "b687cb6bcc23",
+          "titulo": "Crypto industry braces for reckoning over Trump ties",
+          "fonte": "FT Markets",
+          "data": "2026-11-08",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1"
         }
       ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
     },
     {
-      "titulo": "Às vésperas da COP31, o Brasil aprova roteiro contra o desmatamento e limita a transferência de créditos de carbono",
+      "titulo": "CSN assina a venda da CSN Cimentos à Huaxin por R$ 12,7 bilhões e a JBS divulga o 3T26 esta segunda",
       "sinal": "neutro",
-      "resumo": "O governo aprovou um roteiro nacional para travar e reverter o desmatamento até 2030 e definiu limites para a transferência internacional de créditos de carbono.",
-      "impacto": "Toca a cadeia de carne (JBSS32, BEEF3) pelo lado da rastreabilidade, e as florestais (SUZB3, KLBN11) pelo lado do mercado de carbono. Efeito de longo prazo, sem número no imediato.",
+      "resumo": "A chinesa Huaxin paga cerca de R$ 9 bilhões pelas ações, num negócio total de R$ 12,7 bilhões que ainda depende do Cade, da Aneel e de reguladores chineses. A JBS divulga o 3T26 hoje após o fecho (teleconferência a 10/11) e o Magalu também reporta; nos EUA a semana traz balanços ligados à IA.",
+      "impacto": "CSNA3: a venda concretiza a desalavancagem esperada na tese (o JSON ainda tinha a alienação como pendente). JBSS32 reporta hoje (data confirmada no RI); BEEF3 tem resultados previstos para 11/11 (data estimada).",
       "especulacao": "",
-      "n_noticias": 2,
+      "n_noticias": 3,
       "noticias": [
         {
-          "id": "b8b29a20efd1",
-          "titulo": "Governo define limites para transferência internacional de créditos de carbono",
+          "id": "11ca3da8ca99",
+          "titulo": "Focus e discurso de Lula dividem atenções com balanços de Magalu e JBS nesta segunda",
           "fonte": "InfoMoney",
-          "data": "2026-11-06",
-          "hora": "16:18",
-          "link": "https://www.infomoney.com.br/brasil/governo-define-limites-para-transferencia-internacional-de-creditos-de-carbono/"
+          "data": "2026-11-09",
+          "hora": "09:12",
+          "link": "https://www.infomoney.com.br/mercados/focus-lula-balancos-magalu-jbs-agenda-09112026/"
         },
         {
-          "id": "77d073126409",
-          "titulo": "Às vésperas da COP31, Brasil aprova roteiro nacional para frear e reverter desmatamento até 2030",
+          "id": "2ba6e67f2772",
+          "titulo": "Dow Jones Futuro sobe em início de semana marcada por inflação e balanços de IA",
+          "fonte": "InfoMoney",
+          "data": "2026-11-09",
+          "hora": "08:45",
+          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-em-inicio-de-semana-marcada-por-inflacao-e-balancos-de-ia/"
+        },
+        {
+          "id": "bd4ae10c3e97",
+          "titulo": "CSN assina contrato de venda da CSN Cimentos à chinesa Huaxin em negócio de R$ 12,7 bi",
           "fonte": "Exame",
-          "data": "2026-11-06",
-          "hora": "13:08",
-          "link": "https://exame.com/esg/as-vesperas-da-cop31-brasil-aprova-roteiro-nacional-para-frear-e-reverter-desmatamento-ate-2030/"
+          "data": "2026-11-08",
+          "hora": "19:10",
+          "link": "https://exame.com/invest/mercados/csn-assina-contrato-de-venda-da-csn-cimentos-a-chinesa-huaxin-em-negocio-de-r-127-bi/"
         }
       ],
-      "criado_em": "2026-11-06T16:52",
-      "atualizado_em": "2026-11-06T16:52"
+      "criado_em": "2026-11-09T09:55",
+      "atualizado_em": "2026-11-09T09:55"
     }
   ]
 }
