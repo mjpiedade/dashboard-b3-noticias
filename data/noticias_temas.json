@@ -1,15 +1,231 @@
 {
-  "atualizado_em": "2026-11-10T15:09",
-  "total_feed": 467,
+  "atualizado_em": "2026-11-10T18:07",
+  "total_feed": 580,
   "temas": [
     {
-      "titulo": "CPI de outubro dos EUA sobe 0,4% e o núcleo 0,3%, acima do esperado, e ganham força as apostas numa subida de 50 p.b. do Fed em dezembro",
+      "titulo": "Logan, do Fed, defende pelo menos mais duas subidas de 25 p.b. e o yield a 10 anos volta aos 5% depois do CPI acima do esperado",
       "sinal": "risk_off",
-      "resumo": "O CPI subiu 0,4% em outubro (previsão 0,3%) e o núcleo 0,3% (previsão 0,2%); o supercore ficou em 0,4%. Waller já tinha admitido uma subida de 50 p.b. em dezembro se o núcleo viesse quente, a subida em dezembro continua 100% descontada e as apostas em 50 p.b. passaram para cerca de 10% no CME FedWatch; Hassett (Casa Branca) chamou ao relatório dececionante e Wall Street recuou depois do dado.",
-      "impacto": "Fed mais duro sobe os yields dos Treasuries e fortalece o dólar: pressiona o câmbio (USD/BRL), o DI longo e o fluxo estrangeiro para a B3, com mais peso em bancos de crescimento (BPAC11), construtoras (CYRE3, MRVE3) e cripto. O crédito já está tenso: o índice de risco da app está em 74,2 (faixa tensa, +9,8 em 30 dias) e o HY OAS em 3,42 p.p. (+0,49 p.p. em 30 dias, fecho anterior, D+1).",
-      "especulacao": "Parte da imprensa (Seeking Alpha, FinancialJuice) fala de uma subida 'jumbo' de 50 p.b. em dezembro; o FedWatch dá-lhe só cerca de 10% e nenhum membro do Fed a anunciou como cenário base.",
-      "n_noticias": 37,
+      "resumo": "O CPI subiu 0,4% em outubro (previsão 0,3%) e o núcleo 0,3% (previsão 0,2%). Logan (Fed de Dallas) disse que o Fed precisa de pelo menos mais duas subidas de 25 p.b., que o juro está pelo menos 50 p.b. abaixo de um nível modestamente restritivo e que pode subir mais depressa este inverno; o Deutsche Bank passou a esperar mais uma subida em janeiro de 2027. O leilão de 10 anos saiu a 5,02% com procura de 2,46x (anterior 2,77x), os Treasuries venderam-se e as bolsas de Nova Iorque caíram com o 10 anos de volta aos 5%.",
+      "impacto": "Fed mais duro e yields acima de 5% fortalecem o dólar e pressionam o USD/BRL, o DI longo e o fluxo estrangeiro para a B3, com mais peso em BPAC11, construtoras (CYRE3, MRVE3) e cripto. No crédito, o índice de risco da app está em 71,3 (faixa tensa; -3,9 em 7 dias, +6,8 em 30 dias) com os quatro spreads OAS acima do percentil 95 do ano (HY OAS 3,42 p.p., +0,49 p.p. em 30 dias, fecho de 06/11), embora os rácios de ETF (HYG/LQD, BIZD/HYG) ainda estejam calmos.",
+      "especulacao": "Parte da imprensa fala de uma subida 'jumbo' de 50 p.b. em dezembro; o FedWatch dava-lhe cerca de 10% e nenhum membro do Fed a apresentou como cenário base.",
+      "n_noticias": 64,
       "noticias": [
+        {
+          "id": "de3f29c7375e",
+          "titulo": "US 10-Year Note High Yield Actual 5.02% (Forecast -, Previous 5.300%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "18:02",
+          "link": "https://www.financialjuice.com/News/9845735/US-10-Year-Note-High-Yield-Actual-502-Forecast---Previous-5300.aspx?xy=rss"
+        },
+        {
+          "id": "1276763c06ff",
+          "titulo": "US 10-Year Note Bid-to-Cover Actual 2.46 (Forecast -, Previous 2.770)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "18:02",
+          "link": "https://www.financialjuice.com/News/9845734/US-10-Year-Note-Bid-to-Cover-Actual-246-Forecast---Previous-2770.aspx?xy=rss"
+        },
+        {
+          "id": "990bc2c30528",
+          "titulo": "Treasury WI 10 Yr yield 5.010% before $42 billion auction",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "18:00",
+          "link": "https://www.financialjuice.com/News/9845729/Treasury-WI-10-Yr-yield-5010-before-42-billion-auction.aspx?xy=rss"
+        },
+        {
+          "id": "f8c7558d0cac",
+          "titulo": "Stocks fall as the 10-year Treasury yield reclaims 5%",
+          "fonte": "MarketWatch",
+          "data": "2026-11-10",
+          "hora": "17:34",
+          "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories"
+        },
+        {
+          "id": "2eb5c1c2c95c",
+          "titulo": "Higher-than-expected October inflation sparks Treasury sell-off",
+          "fonte": "FT Markets",
+          "data": "2026-11-10",
+          "hora": "17:19",
+          "link": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1"
+        },
+        {
+          "id": "26aaa35bf433",
+          "titulo": "As yields run higher so does the US dollar. What next technically for the major currency pairs?",
+          "fonte": "ForexLive",
+          "data": "2026-11-10",
+          "hora": "16:46",
+          "link": "https://investinglive.com/technical-analysis/as-yields-run-higher-so-does-the-us-dollar-what-next-technically-for-the-major-currency-pairs/"
+        },
+        {
+          "id": "267ed68e496c",
+          "titulo": "NY Fed: US Household Debt Rises $334 Billion to $19.1 Trillion in Q3",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "16:00",
+          "link": "https://www.financialjuice.com/News/9845570/NY-Fed-US-Household-Debt-Rises-334-Billion-to-191-Trillion-in-Q3.aspx?xy=rss"
+        },
+        {
+          "id": "c2d990c1311c",
+          "titulo": "Deutsche Bank expects Fed to deliver an additional 25 BPS rate hike in January 2027 vs prior forecast of rate hikes in December and March",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:56",
+          "link": "https://www.financialjuice.com/News/9845564/Deutsche-Bank-expects-Fed-to-deliver-an-additional-25-BPS-rate-hike-in-January-2027-vs-prior-forecast-of-rate-hikes-in-December-and-March.aspx?xy=rss"
+        },
+        {
+          "id": "b9ff8b5edd42",
+          "titulo": "Fed's Logan: It's clear that Fed needs at least two more quarter-point rate hikes",
+          "fonte": "ForexLive",
+          "data": "2026-11-10",
+          "hora": "15:55",
+          "link": "https://investinglive.com/central-banks/fed-s-logan-it-s-clear-that-fed-needs-at-least-two-more-quarter-point-rate-hikes/"
+        },
+        {
+          "id": "13f8cefa16e2",
+          "titulo": "Fed's Logan: Price pressures are also broader than tariffs, and the broad trend is likely to persist.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:52",
+          "link": "https://www.financialjuice.com/News/9845561/Feds-Logan-Price-pressures-are-also-broader-than-tariffs-and-the-broad-trend-is-likely-to-persist.aspx?xy=rss"
+        },
+        {
+          "id": "2c8304761b94",
+          "titulo": "Fed's Logan: Economic growth is strong, consumer spending solid, business spending robust.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:51",
+          "link": "https://www.financialjuice.com/News/9845560/Feds-Logan-Economic-growth-is-strong-consumer-spending-solid-business-spending-robust.aspx?xy=rss"
+        },
+        {
+          "id": "b68e29343f73",
+          "titulo": "Fed's Logan: Inflation is trending meaningfully higher than the 2% goal.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:51",
+          "link": "https://www.financialjuice.com/News/9845559/Feds-Logan-Inflation-is-trending-meaningfully-higher-than-the-2-goal.aspx?xy=rss"
+        },
+        {
+          "id": "d684758e711e",
+          "titulo": "Fed's Logan: Labor market is balanced and even tightening a bit",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:51",
+          "link": "https://www.financialjuice.com/News/9845558/Feds-Logan-Labor-market-is-balanced-and-even-tightening-a-bit.aspx?xy=rss"
+        },
+        {
+          "id": "f8efbf7da17d",
+          "titulo": "Fed's Logan: Concerned that higher-than-expected consumer price index means personal consumption expenditures inflation could rise.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:51",
+          "link": "https://www.financialjuice.com/News/9845557/Feds-Logan-Concerned-that-higher-than-expected-consumer-price-index-means-personal-consumption-expenditures-inflation-could-rise.aspx?xy=rss"
+        },
+        {
+          "id": "bf84e2fc7439",
+          "titulo": "Fed's Logan: Accommodative policy is adding to inflationary pressures; the real Fed funds rate is 78 basis points, data suggest.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:51",
+          "link": "https://www.financialjuice.com/News/9845556/Feds-Logan-Accommodative-policy-is-adding-to-inflationary-pressures-the-real-Fed-funds-rate-is-78-basis-points-data-suggest.aspx?xy=rss"
+        },
+        {
+          "id": "099ca4f1943d",
+          "titulo": "Fed's Logan: Wartime energy disruptions not the only source of price pressures.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:51",
+          "link": "https://www.financialjuice.com/News/9845555/Feds-Logan-Wartime-energy-disruptions-not-the-only-source-of-price-pressures.aspx?xy=rss"
+        },
+        {
+          "id": "738f8cb82da1",
+          "titulo": "Fed's Logan: Fed policy rate is at least 50 basis points below a modestly restrictive level.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:51",
+          "link": "https://www.financialjuice.com/News/9845554/Feds-Logan-Fed-policy-rate-is-at-least-50-basis-points-below-a-modestly-restrictive-level.aspx?xy=rss"
+        },
+        {
+          "id": "22f9b0819410",
+          "titulo": "Fed's Logan: After two more rate hikes, it would make sense to pause and assess what further action may be appropriate.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:51",
+          "link": "https://www.financialjuice.com/News/9845553/Feds-Logan-After-two-more-rate-hikes-it-would-make-sense-to-pause-and-assess-what-further-action-may-be-appropriate.aspx?xy=rss"
+        },
+        {
+          "id": "954a39c9a519",
+          "titulo": "Fed's Logan: Higher bond-market rates signal monetary policy has work to do, not an independent tailwind for activity",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:51",
+          "link": "https://www.financialjuice.com/News/9845552/Feds-Logan-Higher-bond-market-rates-signal-monetary-policy-has-work-to-do-not-an-independent-tailwind-for-activity.aspx?xy=rss"
+        },
+        {
+          "id": "86817c58eab6",
+          "titulo": "Fed's Logan: Important to promptly achieve balance in outlook, risks for inflation and employment",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:50",
+          "link": "https://www.financialjuice.com/News/9845551/Feds-Logan-Important-to-promptly-achieve-balance-in-outlook-risks-for-inflation-and-employment.aspx?xy=rss"
+        },
+        {
+          "id": "1c88d93c685e",
+          "titulo": "Fed's Logan: Adjusting policy gradually can reduce the risk that economic activity deteriorates more sharply than necessary.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:50",
+          "link": "https://www.financialjuice.com/News/9845550/Feds-Logan-Adjusting-policy-gradually-can-reduce-the-risk-that-economic-activity-deteriorates-more-sharply-than-necessary.aspx?xy=rss"
+        },
+        {
+          "id": "dd6efcc6576e",
+          "titulo": "Fed's Logan: It may be possible to raise interest rates more rapidly this winter than the US central bank has moved so far.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:50",
+          "link": "https://www.financialjuice.com/News/9845549/Feds-Logan-It-may-be-possible-to-raise-interest-rates-more-rapidly-this-winter-than-the-US-central-bank-has-moved-so-far.aspx?xy=rss"
+        },
+        {
+          "id": "aefa25e0bf1a",
+          "titulo": "Fed's Logan: More rapid rate hikes possibly needed this winter",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:50",
+          "link": "https://www.financialjuice.com/News/9845548/Feds-Logan-More-rapid-rate-hikes-possibly-needed-this-winter.aspx?xy=rss"
+        },
+        {
+          "id": "470f956c2aee",
+          "titulo": "Fed's Logan: It is clear that Fed needs at least two more quarter-percentage-point rate increases.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:50",
+          "link": "https://www.financialjuice.com/News/9845547/Feds-Logan-It-is-clear-that-Fed-needs-at-least-two-more-quarter-percentage-point-rate-increases.aspx?xy=rss"
+        },
+        {
+          "id": "3b84b8c828dc",
+          "titulo": "WATCH LIVE: Fed's Logan Speaks 10:50 ET",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:41",
+          "link": "https://www.financialjuice.com/News/9845530/WATCH-LIVE-Feds-Logan-Speaks-1050-ET.aspx?xy=rss"
+        },
+        {
+          "id": "ea7aa0b9331b",
+          "titulo": "Stocks rebounding despite higher-than-expected CPI",
+          "fonte": "ForexLive",
+          "data": "2026-11-10",
+          "hora": "15:23",
+          "link": "https://investinglive.com/stocks/stocks-rebounding-despite-higher-than-expected-cpi/"
+        },
+        {
+          "id": "934a88571337",
+          "titulo": "US 2-year yields surge as the market realizes the US has an inflation problem",
+          "fonte": "ForexLive",
+          "data": "2026-11-10",
+          "hora": "15:09",
+          "link": "https://investinglive.com/forex/us-2-year-yields-surge-as-the-market-realizes-the-us-has-an-inflation-problem/"
+        },
         {
           "id": "b388dfa8fff9",
           "titulo": "US CPI Market Reactions, Deviations & Sentiment - FJElite",
@@ -308,16 +524,80 @@
         }
       ],
       "criado_em": "2026-11-10T15:09",
-      "atualizado_em": "2026-11-10T15:09"
+      "atualizado_em": "2026-11-10T18:07"
     },
     {
-      "titulo": "Nagel diz ser óbvio que o BCE tem de subir juros em dezembro e Lombardelli não exclui subidas seguidas no BoE",
+      "titulo": "Nagel diz que o BCE tem de subir em dezembro, Lane espera efeitos de segunda ordem e o mercado desconta duas subidas do BoE até março",
       "sinal": "risk_off",
-      "resumo": "Nagel (BCE) disse que é óbvio que o banco tem de subir em dezembro e que fará o necessário para levar a inflação a 2%; Lane já tinha dito que é prudente subir se os dados não mudarem, com a inflação ligeiramente acima de 4% no fim do ano. Lombardelli (BoE) disse que não exclui subidas seguidas, que os salários não desinflacionam tão depressa como se esperava e que a política é menos restritiva do que se pensava. A inflação holandesa subiu para 3,7% em outubro e a norueguesa para 3,6%.",
+      "resumo": "Nagel (BCE) disse que é óbvio que o banco tem de subir juros em dezembro e que fará o necessário para levar a inflação a 2%. Lane disse que os preços da energia já estão a reverter, que a inflação total pode cair enquanto a subjacente sobe, que seria uma surpresa não haver efeitos de segunda ordem e que põe uma fasquia alta a orientações futuras direcionais. Os traders descontam por inteiro duas subidas de 25 p.b. do BoE até março; Lombardelli não exclui subidas seguidas.",
       "impacto": "Aperto sincronizado na Europa soma-se ao Fed e encarece o custo de capital global: pressiona emergentes e o DI brasileiro; euro mais forte alivia um pouco o dólar global.",
       "especulacao": "",
-      "n_noticias": 36,
+      "n_noticias": 44,
       "noticias": [
+        {
+          "id": "75b3e68e0886",
+          "titulo": "ECB's Lane: It would be a surprise if there are no second-round effects",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:32",
+          "link": "https://www.financialjuice.com/News/9845698/ECBs-Lane-It-would-be-a-surprise-if-there-are-no-second-round-effects.aspx?xy=rss"
+        },
+        {
+          "id": "92cac2c9f16c",
+          "titulo": "ECB's Lane: Energy prices are already reversing; if that continues, headline inflation could fall while underlying inflation rises",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:31",
+          "link": "https://www.financialjuice.com/News/9845697/ECBs-Lane-Energy-prices-are-already-reversing-if-that-continues-headline-inflation-could-fall-while-underlying-inflation-rises.aspx?xy=rss"
+        },
+        {
+          "id": "27db7782cd36",
+          "titulo": "ECB's Lane: Underlying inflation is a guide to 1-year ahead inflation",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:31",
+          "link": "https://www.financialjuice.com/News/9845696/ECBs-Lane-Underlying-inflation-is-a-guide-to-1-year-ahead-inflation.aspx?xy=rss"
+        },
+        {
+          "id": "e99f0bfc08bc",
+          "titulo": "ECB's Lane: It's informative that underlying inflation hasn't moved yet, it means it's the usual delayed response",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:30",
+          "link": "https://www.financialjuice.com/News/9845695/ECBs-Lane-Its-informative-that-underlying-inflation-hasnt-moved-yet-it-means-its-the-usual-delayed-response.aspx?xy=rss"
+        },
+        {
+          "id": "461474e6ef5b",
+          "titulo": "ECB's Lane: Important that ECB has an instrument for multiple equilibriums on bond market",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:27",
+          "link": "https://www.financialjuice.com/News/9845690/ECBs-Lane-Important-that-ECB-has-an-instrument-for-multiple-equilibriums-on-bond-market.aspx?xy=rss"
+        },
+        {
+          "id": "6dbfbd92ecfa",
+          "titulo": "ECB's Lane: I would put a high bar on directional forward guidance now",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:23",
+          "link": "https://www.financialjuice.com/News/9845689/ECBs-Lane-I-would-put-a-high-bar-on-directional-forward-guidance-now.aspx?xy=rss"
+        },
+        {
+          "id": "7802f48d8b5c",
+          "titulo": "ECB's Lane: We put a very high premium on consensus, would be difficult with dots.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:22",
+          "link": "https://www.financialjuice.com/News/9845688/ECBs-Lane-We-put-a-very-high-premium-on-consensus-would-be-difficult-with-dots.aspx?xy=rss"
+        },
+        {
+          "id": "a69a30cb6f86",
+          "titulo": "Traders fully price two quarter-point BoE hikes by March",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:55",
+          "link": "https://www.financialjuice.com/News/9845563/Traders-fully-price-two-quarter-point-BoE-hikes-by-March.aspx?xy=rss"
+        },
         {
           "id": "f5a335c7cdb4",
           "titulo": "ECB's Nagel: It is rather obvious that we have to increase in December.",
@@ -608,16 +888,340 @@
         }
       ],
       "criado_em": "2026-11-10T08:57",
-      "atualizado_em": "2026-11-10T15:09"
+      "atualizado_em": "2026-11-10T18:07"
     },
     {
-      "titulo": "Acionistas processam a Nvidia e Jensen Huang pelo caso da alegada espia chinesa e a Fidelity corta 9,1% da posição",
+      "titulo": "Petroleiros atingidos no Ormuz e o Irão diz que o estreito só reabre se as suas sete condições forem cumpridas",
       "sinal": "risk_off",
-      "resumo": "Acionistas avançaram com um processo contra a Nvidia e Jensen Huang por causa da relação do CEO com uma alegada espia chinesa, que o FBI está a investigar segundo Trump; a China diz que as alegações são infundadas. Um registo na SEC mostra que a FMR (Fidelity) reduziu em 9,1% a posição na Nvidia, para 932,8 milhões de ações. A ação caiu cerca de 4% na segunda-feira e o resultado trimestral da Nvidia é o próximo teste.",
-      "impacto": "Nvidia é o maior peso do índice de semis/IA: o caso aumenta o risco de liderança e o debate em Washington sobre restrições de chips à China, o que pesa no Nasdaq e, por correlação, no fluxo estrangeiro para a B3.",
-      "especulacao": "Parte da imprensa (Exame, Guardian) levanta a hipótese de o caso afastar Huang do cargo; a empresa não anunciou nada nesse sentido.",
-      "n_noticias": 27,
+      "resumo": "A UKMTO recebeu relato de um petroleiro atingido por um projétil desconhecido perto de Lima, em Omã, e a televisão estatal iraniana diz que um terceiro petroleiro explodiu no Ormuz; os Guardas da Revolução dizem ter destruído equipamento norte-americano de apoio à navegação no sul do estreito. O general Rezaei disse que não há negociações entre Teerão e Washington, que a resposta dos EUA é enganadora e que o Ormuz não reabre sem as sete condições do Irão. Na véspera, os Houthis reivindicaram ataques à Aramco em Abqaiq.",
+      "impacto": "Risco de oferta no Golfo é o contrapeso à queda do Brent: uma escalada sustentada voltaria a dar suporte a PETR4 e PRIO3 e a pressionar a inflação e os juros; por agora o mercado de petróleo continua a dar mais peso ao recuo de Trump do que aos ataques.",
+      "especulacao": "O NYT relata, sem confirmação oficial, que a Síria pondera enviar tropas para apoiar a Arábia Saudita na guerra com os Houthis; o enquadramento de acordo descrito pela Al Arabiya (reabertura do Ormuz e libertação de ativos iranianos) é contrariado pela negação de negociações por Rezaei.",
+      "n_noticias": 36,
       "noticias": [
+        {
+          "id": "f2f0802c6f00",
+          "titulo": "IRGC Spokesman: US navigation aid equipment was completely destroyed in the south of the Strait of Hormuz",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:29",
+          "link": "https://www.financialjuice.com/News/9845691/IRGC-Spokesman-US-navigation-aid-equipment-was-completely-destroyed-in-the-south-of-the-Strait-of-Hormuz.aspx?xy=rss"
+        },
+        {
+          "id": "4099b1acbd17",
+          "titulo": "Third oil tanker involved in illegal activity explodes in the Strait of Hormuz - IRIB News",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:09",
+          "link": "https://www.financialjuice.com/News/9845666/Third-oil-tanker-involved-in-illegal-activity-explodes-in-the-Strait-of-Hormuz---IRIB-News.aspx?xy=rss"
+        },
+        {
+          "id": "49b773523b82",
+          "titulo": "Syria weighs sending troops to aid Saudi war with Houthis - NYT.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "16:46",
+          "link": "https://www.financialjuice.com/News/9845639/Syria-weighs-sending-troops-to-aid-Saudi-war-with-Houthis---NYT.aspx?xy=rss"
+        },
+        {
+          "id": "e4e22283b360",
+          "titulo": "Syria weighs sending troops to aid Saudi war with Houthis - NYT.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "16:44",
+          "link": "https://www.financialjuice.com/News/9845633/Syria-weighs-sending-troops-to-aid-Saudi-war-with-Houthis---NYT.aspx?xy=rss"
+        },
+        {
+          "id": "b30a7fa31ef8",
+          "titulo": "Iran's Rezaei: No negotiations currently taking place between Tehran and Washington",
+          "fonte": "ForexLive",
+          "data": "2026-11-10",
+          "hora": "16:39",
+          "link": "https://investinglive.com/commodities/iran-s-rezaei-no-negotiations-currently-taking-place-between-tehran-and-washington/"
+        },
+        {
+          "id": "36b6db99a752",
+          "titulo": "Iran's Major General Rezai: Hormuz will not be reopened until Iran's 7 conditions are met.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "16:15",
+          "link": "https://www.financialjuice.com/News/9845592/Irans-Major-General-Rezai-Hormuz-will-not-be-reopened-until-Irans-7-conditions-are-met.aspx?xy=rss"
+        },
+        {
+          "id": "dc013d1c2471",
+          "titulo": "Iran's Major General Rezai: asked the US to provide a clear and unambiguous response to our conditions, but they haven't yet provided such a response.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "16:11",
+          "link": "https://www.financialjuice.com/News/9845587/Irans-Major-General-Rezai-asked-the-US-to-provide-a-clear-and-unambiguous-response-to-our-conditions-but-they-havent-yet-provided-such-a-response.aspx?xy=rss"
+        },
+        {
+          "id": "68cbdf055eca",
+          "titulo": "Iran's Major General Rezai: The American response is deceptive - Fars News",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "16:10",
+          "link": "https://www.financialjuice.com/News/9845586/Irans-Major-General-Rezai-The-American-response-is-deceptive---Fars-News.aspx?xy=rss"
+        },
+        {
+          "id": "18164259c047",
+          "titulo": "UKMTO: Tanker struck by unknown projectile.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:43",
+          "link": "https://www.financialjuice.com/News/9845532/UKMTO-Tanker-struck-by-unknown-projectile.aspx?xy=rss"
+        },
+        {
+          "id": "d960d41a7372",
+          "titulo": "UKMTO receives a report of an incident near Oman’s Lima on November 10th.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:42",
+          "link": "https://www.financialjuice.com/News/9845531/UKMTO-receives-a-report-of-an-incident-near-Omans-Lima-on-November-10th.aspx?xy=rss"
+        },
+        {
+          "id": "ad1e3bb72425",
+          "titulo": "Israel's Prime Minister Netanyahu: Israel to face pressure to retreat from security zones.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:35",
+          "link": "https://www.financialjuice.com/News/9845529/Israels-Prime-Minister-Netanyahu-Israel-to-face-pressure-to-retreat-from-security-zones.aspx?xy=rss"
+        },
+        {
+          "id": "60a68fdf5cc0",
+          "titulo": "Yemen's Houthis denies attacking East-West pipeline in the Medina region.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "14:15",
+          "link": "https://www.financialjuice.com/News/9845415/Yemens-Houthis-denies-attacking-East-West-pipeline-in-the-Medina-region.aspx?xy=rss"
+        },
+        {
+          "id": "0a45a3ec73a4",
+          "titulo": "Yemen's Houthis attacked an Aramco facility in Abqaiq - Statement.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "14:13",
+          "link": "https://www.financialjuice.com/News/9845405/Yemens-Houthis-attacked-an-Aramco-facility-in-Abqaiq---Statement.aspx?xy=rss"
+        },
+        {
+          "id": "6fbedbff52bb",
+          "titulo": "Yemen's Houthis attacked oil pumping stations of Saudi Arabia's East-West pipeline - Statement.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "14:12",
+          "link": "https://www.financialjuice.com/News/9845404/Yemens-Houthis-attacked-oil-pumping-stations-of-Saudi-Arabias-East-West-pipeline---Statement.aspx?xy=rss"
+        },
+        {
+          "id": "d52131e858a7",
+          "titulo": "US Secretary of State Rubio on Iran: Economic pressure on Iran is going to get even worse.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "13:36",
+          "link": "https://www.financialjuice.com/News/9845349/US-Secretary-of-State-Rubio-on-Iran-Economic-pressure-on-Iran-is-going-to-get-even-worse.aspx?xy=rss"
+        },
+        {
+          "id": "42e15974bc98",
+          "titulo": "US Sec. of Defense Hegseth: We can see Iran's nuclear sites, andwe can take action if needed.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "13:20",
+          "link": "https://www.financialjuice.com/News/9845312/US-Sec-of-Defense-Hegseth-We-can-see-Irans-nuclear-sites-andwe-can-take-action-if-needed.aspx?xy=rss"
+        },
+        {
+          "id": "65cadb0d3b94",
+          "titulo": "US Sec. of Defense Hegseth: If Iran makes a wrong move, we're locked and loaded.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "13:17",
+          "link": "https://www.financialjuice.com/News/9845311/US-Sec-of-Defense-Hegseth-If-Iran-makes-a-wrong-move-were-locked-and-loaded.aspx?xy=rss"
+        },
+        {
+          "id": "d67a681c9326",
+          "titulo": "US Sec. of Defense Hegseth: More than 80% of Iran's nuclear industrial base is gone.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "13:09",
+          "link": "https://www.financialjuice.com/News/9845287/US-Sec-of-Defense-Hegseth-More-than-80-of-Irans-nuclear-industrial-base-is-gone.aspx?xy=rss"
+        },
+        {
+          "id": "ab386ee5db9d",
+          "titulo": "Qatari PM makes unscheduled stop at G7 to brief Europeans, Saudi Arabia after Trump talks on Iran.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "08:21",
+          "link": "https://www.financialjuice.com/News/9844847/Qatari-PM-makes-unscheduled-stop-at-G7-to-brief-Europeans-Saudi-Arabia-after-Trump-talks-on-Iran.aspx"
+        },
+        {
+          "id": "f73c9b35418d",
+          "titulo": "U.S. evacuated planes from RAF Mildenhall in U.K. on Monday after threat from Iran: WSJ",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "04:49",
+          "link": "https://www.financialjuice.com/News/9844576/US-evacuated-planes-from-RAF-Mildenhall-in-UK-on-Monday-after-threat-from-Iran-WSJ.aspx"
+        },
+        {
+          "id": "42ddad2a96b9",
+          "titulo": "U.S. aircraft withdrawn from second U.K. base over Iran threat: WSJ",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "04:48",
+          "link": "https://www.financialjuice.com/News/9844575/US-aircraft-withdrawn-from-second-UK-base-over-Iran-threat-WSJ.aspx"
+        },
+        {
+          "id": "75bfb9acfa82",
+          "titulo": "Saudi-led coalition: intercepts and destroys drone over eastern Saudi Arabia",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "03:01",
+          "link": "https://www.financialjuice.com/News/9844496/Saudi-led-coalition-intercepts-and-destroys-drone-over-eastern-Saudi-Arabia.aspx"
+        },
+        {
+          "id": "c9ab1bb5bd59",
+          "titulo": "The view from China: CITIC sees Iran war risk ‘bounded’ as blockade outlasts US midterms",
+          "fonte": "ForexLive",
+          "data": "2026-11-10",
+          "hora": "00:48",
+          "link": "https://investinglive.com/commodities/the-view-from-china-citic-sees-iran-war-risk-bounded-as-blockade-outlasts-us-midterms/"
+        },
+        {
+          "id": "956d2904c76c",
+          "titulo": "Trump after talks with the Gatari leader: Qatar would rather see a peaceful solution with Iran, but the US is ready for strikes if necessary",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "20:18",
+          "link": "https://www.financialjuice.com/News/9843923/Trump-after-talks-with-the-Gatari-leader-Qatar-would-rather-see-a-peaceful-solution-with-Iran-but-the-US-is-ready-for-strikes-if-necessary.aspx?xy=rss"
+        },
+        {
+          "id": "27edb0f2ec92",
+          "titulo": "Trump: Saudi Arabia would also prefer a peaceful solution to the Iran conflict.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "20:18",
+          "link": "https://www.financialjuice.com/News/9843922/Trump-Saudi-Arabia-would-also-prefer-a-peaceful-solution-to-the-Iran-conflict.aspx?xy=rss"
+        },
+        {
+          "id": "ebb9a426b7f8",
+          "titulo": "Diplomat: Trump and Qatar's PM talks were positive - Axios.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "19:57",
+          "link": "https://www.financialjuice.com/News/9843887/Diplomat-Trump-and-Qatars-PM-talks-were-positive---Axios.aspx?xy=rss"
+        },
+        {
+          "id": "a07e0c9aef2e",
+          "titulo": "Al Arabiya sources: Under the proposed framework, the Strait of Hormuz will be opened and the naval blockade lifted immediately.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "19:42",
+          "link": "https://www.financialjuice.com/News/9843873/Al-Arabiya-sources-Under-the-proposed-framework-the-Strait-of-Hormuz-will-be-opened-and-the-naval-blockade-lifted-immediately-.aspx?xy=rss"
+        },
+        {
+          "id": "e461a2a5da18",
+          "titulo": "Stock markets hit fresh highs on Iran headlines",
+          "fonte": "ForexLive",
+          "data": "2026-11-09",
+          "hora": "19:42",
+          "link": "https://investinglive.com/commodities/stock-markets-hit-fresh-highs-on-iran-headlines/"
+        },
+        {
+          "id": "c9e50029f315",
+          "titulo": "Al Arabiya sources: The US will release Iranian assets worth between $6 billion and $9 billion if an agreement is reached.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "19:41",
+          "link": "https://www.financialjuice.com/News/9843872/Al-Arabiya-sources-The-US-will-release-Iranian-assets-worth-between-6-billion-and-9-billion-if-an-agreement-is-reached.aspx?xy=rss"
+        },
+        {
+          "id": "eebb592add38",
+          "titulo": "Al Arabiya sources: A preliminary agreement on reducing Iran’s uranium enrichment is likely to be reached.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "19:40",
+          "link": "https://www.financialjuice.com/News/9843871/Al-Arabiya-sources-A-preliminary-agreement-on-reducing-Irans-uranium-enrichment-is-likely-to-be-reached.aspx?xy=rss"
+        },
+        {
+          "id": "e55b34f06b8c",
+          "titulo": "Al Arabiya sources: Washington has allowed uranium enrichment inside Iran to 3.67%, and Tehran has agreed.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "19:38",
+          "link": "https://www.financialjuice.com/News/9843870/Al-Arabiya-sources-Washington-has-allowed-uranium-enrichment-inside-Iran-to-367-and-Tehran-has-agreed.aspx?xy=rss"
+        },
+        {
+          "id": "79a26b8ae568",
+          "titulo": "Al Arabiya sources: Arrangements are being made to discuss the return of IAEA inspectors to Iran, without clarifying the scope of their duties.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "19:37",
+          "link": "https://www.financialjuice.com/News/9843869/Al-Arabiya-sources-Arrangements-are-being-made-to-discuss-the-return-of-IAEA-inspectors-to-Iran-without-clarifying-the-scope-of-their-duties.aspx?xy=rss"
+        },
+        {
+          "id": "ec538ff05b7d",
+          "titulo": "Saudi-led coalition: Destroyed factory used by Yemen's Houthis to make ballistic missile components.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "18:23",
+          "link": "https://www.financialjuice.com/News/9843780/Saudi-led-coalition-Destroyed-factory-used-by-Yemens-Houthis-to-make-ballistic-missile-components.aspx?xy=rss"
+        },
+        {
+          "id": "51a08260e795",
+          "titulo": "Trump and the PM of Qatar that took place around noon lasted around 45 minutes and focused on the negotiations with Iran, per source familiar - Axios",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "18:18",
+          "link": "https://www.financialjuice.com/News/9843773/Trump-and-the-PM-of-Qatar-that-took-place-around-noon-lasted-around-45-minutes-and-focused-on-the-negotiations-with-Iran-per-source-familiar---Axios.aspx?xy=rss"
+        },
+        {
+          "id": "276fd68c16ce",
+          "titulo": "US Official: Meeting between President Trump and Qatar's PM and Foreign Minister has begun at the White House - Al Jazeera",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "17:30",
+          "link": "https://www.financialjuice.com/News/9843688/US-Official-Meeting-between-President-Trump-and-Qatars-PM-and-Foreign-Minister-has-begun-at-the-White-House---Al-Jazeera.aspx?xy=rss"
+        },
+        {
+          "id": "9a2db7d6b49a",
+          "titulo": "Iran's Foreign Ministry Spokesperson Baqaei: The departure of enriched materials from Iran is not a question at all - Mehr News",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "17:28",
+          "link": "https://www.financialjuice.com/News/9843687/Irans-Foreign-Ministry-Spokesperson-Baqaei-The-departure-of-enriched-materials-from-Iran-is-not-a-question-at-all---Mehr-News.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-11-09T21:02",
+      "atualizado_em": "2026-11-10T18:07"
+    },
+    {
+      "titulo": "Acionistas processam a Nvidia e Jensen Huang pelo caso da alegada espia chinesa e a Microsoft volta a valer mais do que a Nvidia",
+      "sinal": "risk_off",
+      "resumo": "Acionistas avançaram com um processo contra a Nvidia e Jensen Huang por causa da relação do CEO com uma alegada espia chinesa, que o FBI investiga segundo Trump; a China diz que as alegações são infundadas. A Fidelity reduziu em 9,1% a posição na Nvidia, a ação caiu cerca de 4% na segunda-feira e hoje a capitalização da Microsoft superou a da Nvidia pela primeira vez desde junho de 2025.",
+      "impacto": "Nvidia é o maior peso do índice de semis/IA: o caso aumenta o risco de liderança e o debate em Washington sobre restrições de chips à China, o que pesa no Nasdaq e, por correlação, no fluxo estrangeiro para a B3.",
+      "especulacao": "Parte da imprensa levanta a hipótese de o caso afastar Huang do cargo; o único analista vendedor da Nvidia em Wall Street disse à MarketWatch que isso seria um erro. A empresa não anunciou nada nesse sentido.",
+      "n_noticias": 30,
+      "noticias": [
+        {
+          "id": "d5f68fd032b2",
+          "titulo": "Nvidia: The Jensen Huang Situation Is Difficult, But His Company Will Be Fine",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-10",
+          "hora": "17:48",
+          "link": "https://seekingalpha.com/article/4965880-nvidia-the-jensen-huang-situation-is-difficult-but-his-company-will-be-fine?source=feed_all_articles"
+        },
+        {
+          "id": "514c573addec",
+          "titulo": "Wall Street’s only Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
+          "fonte": "MarketWatch",
+          "data": "2026-11-10",
+          "hora": "17:19",
+          "link": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories"
+        },
+        {
+          "id": "adfd81536596",
+          "titulo": "Microsoft’s market value surpasses Nvidia for the first time since June 2025. $MSFT $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "16:50",
+          "link": "https://www.financialjuice.com/News/9845641/Microsofts-market-value-surpasses-Nvidia-for-the-first-time-since-June-2025-MSFT-NVDA.aspx?xy=rss"
+        },
         {
           "id": "8fc99796d3b4",
           "titulo": "Acionistas processam Nvidia e Jensen Huang por caso envolvendo possível espiã chinesa",
@@ -836,228 +1440,40 @@
         }
       ],
       "criado_em": "2026-11-10T08:57",
-      "atualizado_em": "2026-11-10T15:09"
+      "atualizado_em": "2026-11-10T18:07"
     },
     {
-      "titulo": "Houthis reivindicam ataques à Aramco em Abqaiq e ao oleoduto Este-Oeste; Hegseth diz que os EUA podem agir se o Irão errar",
-      "sinal": "neutro",
-      "resumo": "Os Houthis disseram em comunicado ter atacado uma instalação da Aramco em Abqaiq e estações de bombagem do oleoduto saudita Este-Oeste, mas depois negaram ter atacado o oleoduto na região de Medina. Hegseth disse que mais de 80% da base industrial nuclear do Irão foi destruída e que os EUA estão prontos a agir se necessário; Rubio disse que a pressão económica sobre o Irão vai piorar. Depois da reunião com Trump, o primeiro-ministro do Qatar informou o G7 e a Arábia Saudita.",
-      "impacto": "Risco de oferta no Golfo é o contrapeso à queda do Brent: uma escalada sustentada voltaria a dar suporte a PETR4 e PRIO3 e a pressionar inflação e juros; por agora o mercado de petróleo está a dar mais peso ao recuo de Trump do que aos ataques.",
-      "especulacao": "A Al Arabiya, citando fontes e sem confirmação oficial, descreveu um enquadramento de acordo com reabertura do Ormuz, levantamento do bloqueio naval e libertação de US$ 6 a 9 bilhões em ativos iranianos.",
+      "titulo": "Brent fica abaixo de US$ 90, no mínimo desde agosto, depois de Trump recuar na ameaça de atacar o Irão",
+      "sinal": "risk_on",
+      "resumo": "O petróleo caiu abaixo de US$ 90 pela primeira vez desde agosto, depois de Trump recuar na ameaça de atacar o Irão e dizer que a guerra está 'efetivamente terminada'; na segunda, o Brent já tinha fechado em US$ 92,57 (-5,85%). Um responsável norte-americano disse que há diesel russo a caminho do mercado, o que aliviará os combustíveis nos EUA.",
+      "impacto": "Negativo para PETR4 e PRIO3 (preço de realização) e alívio para a inflação e para a curva de juros; positivo para companhias que consomem combustível e para a leitura de inflação do Copom. Lane (BCE) já citou a reversão da energia.",
+      "especulacao": "",
       "n_noticias": 25,
       "noticias": [
         {
-          "id": "60a68fdf5cc0",
-          "titulo": "Yemen's Houthis denies attacking East-West pipeline in the Medina region.",
+          "id": "f9ff43547dd1",
+          "titulo": "Petróleo cai abaixo de US$ 90 pela primeira vez desde agosto",
+          "fonte": "G1 Economia",
+          "data": "2026-11-10",
+          "hora": "18:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/10/petroleo-brent-cai-abaixo-de-us-90-pela-primeira-vez-desde-agosto.ghtml"
+        },
+        {
+          "id": "9366d8b59044",
+          "titulo": "US Official: Russian diesel is on the water and 'headed to market', which will ease fuel prices for Americans",
           "fonte": "FinancialJuice",
           "data": "2026-11-10",
-          "hora": "14:15",
-          "link": "https://www.financialjuice.com/News/9845415/Yemens-Houthis-denies-attacking-East-West-pipeline-in-the-Medina-region.aspx?xy=rss"
+          "hora": "17:13",
+          "link": "https://www.financialjuice.com/News/9845667/US-Official-Russian-diesel-is-on-the-water-and-headed-to-market-which-will-ease-fuel-prices-for-Americans.aspx?xy=rss"
         },
         {
-          "id": "0a45a3ec73a4",
-          "titulo": "Yemen's Houthis attacked an Aramco facility in Abqaiq - Statement.",
+          "id": "eb3f108ee28f",
+          "titulo": "US STEO Report",
           "fonte": "FinancialJuice",
           "data": "2026-11-10",
-          "hora": "14:13",
-          "link": "https://www.financialjuice.com/News/9845405/Yemens-Houthis-attacked-an-Aramco-facility-in-Abqaiq---Statement.aspx?xy=rss"
+          "hora": "17:02",
+          "link": "https://www.financialjuice.com/News/9845664/US-STEO-Report.aspx?xy=rss"
         },
-        {
-          "id": "6fbedbff52bb",
-          "titulo": "Yemen's Houthis attacked oil pumping stations of Saudi Arabia's East-West pipeline - Statement.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "14:12",
-          "link": "https://www.financialjuice.com/News/9845404/Yemens-Houthis-attacked-oil-pumping-stations-of-Saudi-Arabias-East-West-pipeline---Statement.aspx?xy=rss"
-        },
-        {
-          "id": "d52131e858a7",
-          "titulo": "US Secretary of State Rubio on Iran: Economic pressure on Iran is going to get even worse.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "13:36",
-          "link": "https://www.financialjuice.com/News/9845349/US-Secretary-of-State-Rubio-on-Iran-Economic-pressure-on-Iran-is-going-to-get-even-worse.aspx?xy=rss"
-        },
-        {
-          "id": "42e15974bc98",
-          "titulo": "US Sec. of Defense Hegseth: We can see Iran's nuclear sites, andwe can take action if needed.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "13:20",
-          "link": "https://www.financialjuice.com/News/9845312/US-Sec-of-Defense-Hegseth-We-can-see-Irans-nuclear-sites-andwe-can-take-action-if-needed.aspx?xy=rss"
-        },
-        {
-          "id": "65cadb0d3b94",
-          "titulo": "US Sec. of Defense Hegseth: If Iran makes a wrong move, we're locked and loaded.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "13:17",
-          "link": "https://www.financialjuice.com/News/9845311/US-Sec-of-Defense-Hegseth-If-Iran-makes-a-wrong-move-were-locked-and-loaded.aspx?xy=rss"
-        },
-        {
-          "id": "d67a681c9326",
-          "titulo": "US Sec. of Defense Hegseth: More than 80% of Iran's nuclear industrial base is gone.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "13:09",
-          "link": "https://www.financialjuice.com/News/9845287/US-Sec-of-Defense-Hegseth-More-than-80-of-Irans-nuclear-industrial-base-is-gone.aspx?xy=rss"
-        },
-        {
-          "id": "ab386ee5db9d",
-          "titulo": "Qatari PM makes unscheduled stop at G7 to brief Europeans, Saudi Arabia after Trump talks on Iran.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "08:21",
-          "link": "https://www.financialjuice.com/News/9844847/Qatari-PM-makes-unscheduled-stop-at-G7-to-brief-Europeans-Saudi-Arabia-after-Trump-talks-on-Iran.aspx"
-        },
-        {
-          "id": "f73c9b35418d",
-          "titulo": "U.S. evacuated planes from RAF Mildenhall in U.K. on Monday after threat from Iran: WSJ",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "04:49",
-          "link": "https://www.financialjuice.com/News/9844576/US-evacuated-planes-from-RAF-Mildenhall-in-UK-on-Monday-after-threat-from-Iran-WSJ.aspx"
-        },
-        {
-          "id": "42ddad2a96b9",
-          "titulo": "U.S. aircraft withdrawn from second U.K. base over Iran threat: WSJ",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "04:48",
-          "link": "https://www.financialjuice.com/News/9844575/US-aircraft-withdrawn-from-second-UK-base-over-Iran-threat-WSJ.aspx"
-        },
-        {
-          "id": "75bfb9acfa82",
-          "titulo": "Saudi-led coalition: intercepts and destroys drone over eastern Saudi Arabia",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "03:01",
-          "link": "https://www.financialjuice.com/News/9844496/Saudi-led-coalition-intercepts-and-destroys-drone-over-eastern-Saudi-Arabia.aspx"
-        },
-        {
-          "id": "c9ab1bb5bd59",
-          "titulo": "The view from China: CITIC sees Iran war risk ‘bounded’ as blockade outlasts US midterms",
-          "fonte": "ForexLive",
-          "data": "2026-11-10",
-          "hora": "00:48",
-          "link": "https://investinglive.com/commodities/the-view-from-china-citic-sees-iran-war-risk-bounded-as-blockade-outlasts-us-midterms/"
-        },
-        {
-          "id": "956d2904c76c",
-          "titulo": "Trump after talks with the Gatari leader: Qatar would rather see a peaceful solution with Iran, but the US is ready for strikes if necessary",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "20:18",
-          "link": "https://www.financialjuice.com/News/9843923/Trump-after-talks-with-the-Gatari-leader-Qatar-would-rather-see-a-peaceful-solution-with-Iran-but-the-US-is-ready-for-strikes-if-necessary.aspx?xy=rss"
-        },
-        {
-          "id": "27edb0f2ec92",
-          "titulo": "Trump: Saudi Arabia would also prefer a peaceful solution to the Iran conflict.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "20:18",
-          "link": "https://www.financialjuice.com/News/9843922/Trump-Saudi-Arabia-would-also-prefer-a-peaceful-solution-to-the-Iran-conflict.aspx?xy=rss"
-        },
-        {
-          "id": "ebb9a426b7f8",
-          "titulo": "Diplomat: Trump and Qatar's PM talks were positive - Axios.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "19:57",
-          "link": "https://www.financialjuice.com/News/9843887/Diplomat-Trump-and-Qatars-PM-talks-were-positive---Axios.aspx?xy=rss"
-        },
-        {
-          "id": "a07e0c9aef2e",
-          "titulo": "Al Arabiya sources: Under the proposed framework, the Strait of Hormuz will be opened and the naval blockade lifted immediately.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "19:42",
-          "link": "https://www.financialjuice.com/News/9843873/Al-Arabiya-sources-Under-the-proposed-framework-the-Strait-of-Hormuz-will-be-opened-and-the-naval-blockade-lifted-immediately-.aspx?xy=rss"
-        },
-        {
-          "id": "e461a2a5da18",
-          "titulo": "Stock markets hit fresh highs on Iran headlines",
-          "fonte": "ForexLive",
-          "data": "2026-11-09",
-          "hora": "19:42",
-          "link": "https://investinglive.com/commodities/stock-markets-hit-fresh-highs-on-iran-headlines/"
-        },
-        {
-          "id": "c9e50029f315",
-          "titulo": "Al Arabiya sources: The US will release Iranian assets worth between $6 billion and $9 billion if an agreement is reached.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "19:41",
-          "link": "https://www.financialjuice.com/News/9843872/Al-Arabiya-sources-The-US-will-release-Iranian-assets-worth-between-6-billion-and-9-billion-if-an-agreement-is-reached.aspx?xy=rss"
-        },
-        {
-          "id": "eebb592add38",
-          "titulo": "Al Arabiya sources: A preliminary agreement on reducing Iran’s uranium enrichment is likely to be reached.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "19:40",
-          "link": "https://www.financialjuice.com/News/9843871/Al-Arabiya-sources-A-preliminary-agreement-on-reducing-Irans-uranium-enrichment-is-likely-to-be-reached.aspx?xy=rss"
-        },
-        {
-          "id": "e55b34f06b8c",
-          "titulo": "Al Arabiya sources: Washington has allowed uranium enrichment inside Iran to 3.67%, and Tehran has agreed.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "19:38",
-          "link": "https://www.financialjuice.com/News/9843870/Al-Arabiya-sources-Washington-has-allowed-uranium-enrichment-inside-Iran-to-367-and-Tehran-has-agreed.aspx?xy=rss"
-        },
-        {
-          "id": "79a26b8ae568",
-          "titulo": "Al Arabiya sources: Arrangements are being made to discuss the return of IAEA inspectors to Iran, without clarifying the scope of their duties.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "19:37",
-          "link": "https://www.financialjuice.com/News/9843869/Al-Arabiya-sources-Arrangements-are-being-made-to-discuss-the-return-of-IAEA-inspectors-to-Iran-without-clarifying-the-scope-of-their-duties.aspx?xy=rss"
-        },
-        {
-          "id": "ec538ff05b7d",
-          "titulo": "Saudi-led coalition: Destroyed factory used by Yemen's Houthis to make ballistic missile components.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "18:23",
-          "link": "https://www.financialjuice.com/News/9843780/Saudi-led-coalition-Destroyed-factory-used-by-Yemens-Houthis-to-make-ballistic-missile-components.aspx?xy=rss"
-        },
-        {
-          "id": "51a08260e795",
-          "titulo": "Trump and the PM of Qatar that took place around noon lasted around 45 minutes and focused on the negotiations with Iran, per source familiar - Axios",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "18:18",
-          "link": "https://www.financialjuice.com/News/9843773/Trump-and-the-PM-of-Qatar-that-took-place-around-noon-lasted-around-45-minutes-and-focused-on-the-negotiations-with-Iran-per-source-familiar---Axios.aspx?xy=rss"
-        },
-        {
-          "id": "276fd68c16ce",
-          "titulo": "US Official: Meeting between President Trump and Qatar's PM and Foreign Minister has begun at the White House - Al Jazeera",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "17:30",
-          "link": "https://www.financialjuice.com/News/9843688/US-Official-Meeting-between-President-Trump-and-Qatars-PM-and-Foreign-Minister-has-begun-at-the-White-House---Al-Jazeera.aspx?xy=rss"
-        },
-        {
-          "id": "9a2db7d6b49a",
-          "titulo": "Iran's Foreign Ministry Spokesperson Baqaei: The departure of enriched materials from Iran is not a question at all - Mehr News",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "17:28",
-          "link": "https://www.financialjuice.com/News/9843687/Irans-Foreign-Ministry-Spokesperson-Baqaei-The-departure-of-enriched-materials-from-Iran-is-not-a-question-at-all---Mehr-News.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-09T21:02",
-      "atualizado_em": "2026-11-10T15:09"
-    },
-    {
-      "titulo": "Brent cai abaixo de US$ 90, no mínimo desde agosto, depois de Trump recuar na ameaça de atacar o Irão",
-      "sinal": "risk_on",
-      "resumo": "O petróleo caiu abaixo de US$ 90 depois de Trump recuar na ameaça de atacar o Irão e dizer que a guerra está 'efetivamente terminada', o nível mais baixo desde agosto. Na segunda, o Brent já tinha fechado em US$ 92,57 (-5,85%) e o WTI em US$ 86,85 (-4,38%); o CFO da Adnoc diz que as exportações de GNL pelo Ormuz melhoram mês a mês mas continuam abaixo do nível de antes do conflito.",
-      "impacto": "Negativo para PETR4 e PRIO3 (preço de realização) e alívio para a inflação e para a curva de juros; positivo para companhias que consomem combustível e para a leitura de inflação do Copom. Nagel (BCE) já citou a queda da energia como boa notícia.",
-      "especulacao": "",
-      "n_noticias": 22,
-      "noticias": [
         {
           "id": "e8a3722aa961",
           "titulo": "ECB's Nagel: drop in energy prices since US midterms is good news",
@@ -1236,16 +1652,48 @@
         }
       ],
       "criado_em": "2026-11-09T21:02",
-      "atualizado_em": "2026-11-10T15:09"
+      "atualizado_em": "2026-11-10T18:07"
     },
     {
-      "titulo": "Anthropic aponta preço até US$ 78 por ação e avaliação de até US$ 1,4 trilhão no IPO",
+      "titulo": "Anthropic aponta avaliação de até US$ 1,4 trilhão no IPO, lança ferramentas de escritório e recebe investimento da TSMC",
       "sinal": "neutro",
-      "resumo": "A Anthropic formalizou o IPO na Nasdaq com ações até US$ 78 e uma avaliação que o FT coloca até US$ 1,4 trilhão; a BBC diz que a estreia aponta para US$ 1,3 trilhão, abaixo do esperado. Na véspera, a empresa retirou detalhes de preço enviados aos bancos por estarem errados; aponta uma margem operacional ajustada de longo prazo acima de 35% e contratou a primeira firma de lobby no Reino Unido.",
-      "impacto": "Um IPO desta dimensão absorve liquidez do setor de IA e serve de teste ao apetite por tecnologia depois do rombo da IA: uma estreia forte apoia o beta de tech e, por correlação, o fluxo para emergentes; uma estreia fraca reforça a rotação defensiva.",
+      "resumo": "A Anthropic formalizou o IPO na Nasdaq com ações até US$ 78 e uma avaliação que o Guardian coloca até US$ 1,4 trilhão e a BBC em US$ 1,3 trilhão. Antes da estreia, apresentou ferramentas de escritório que concorrem com a Microsoft; a TSMC, fabricante dos chips da Nvidia, vai investir US$ 1 bilhão na OpenAI e na Anthropic.",
+      "impacto": "Um IPO desta dimensão absorve liquidez do setor de IA e serve de teste ao apetite por tecnologia: uma estreia forte apoia o beta de tech e, por correlação, o fluxo para emergentes; uma estreia fraca reforça a rotação defensiva.",
       "especulacao": "Relatos não confirmados dizem que as ordens já cobrem as ações disponíveis; o Goldman Sachs, segundo o FT, projeta receitas acima de US$ 600 bilhões em 2030 — é uma estimativa de banco, não um número da empresa.",
-      "n_noticias": 17,
+      "n_noticias": 21,
       "noticias": [
+        {
+          "id": "c82839435a17",
+          "titulo": "Fabricante dos chips da Nvidia vai investir US$ 1 bilhão na OpenAI e na Anthropic",
+          "fonte": "G1 Economia",
+          "data": "2026-11-10",
+          "hora": "18:03",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/10/dona-dos-chips-da-nvidia-vai-investir-us-1-bilhao-nas-criadoras-do-chatgpt-e-do-claude.ghtml"
+        },
+        {
+          "id": "57b82c1473f4",
+          "titulo": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+          "fonte": "BBC Business",
+          "data": "2026-11-10",
+          "hora": "17:56",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "d5862757b340",
+          "titulo": "Anthropic unveils office tools before IPO, rivaling Microsoft. $MSFT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:20",
+          "link": "https://www.financialjuice.com/News/9845687/Anthropic-unveils-office-tools-before-IPO-rivaling-Microsoft-MSFT.aspx?xy=rss"
+        },
+        {
+          "id": "f84e12e4d2b9",
+          "titulo": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+          "fonte": "Guardian Business",
+          "data": "2026-11-10",
+          "hora": "16:13",
+          "link": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai"
+        },
         {
           "id": "5b7d44cf5f81",
           "titulo": "Anthropic revela plano de IPO de quase US$ 70 bilhões, mas retira dados após apontar erro",
@@ -1384,7 +1832,287 @@
         }
       ],
       "criado_em": "2026-11-09T21:02",
-      "atualizado_em": "2026-11-10T15:09"
+      "atualizado_em": "2026-11-10T18:07"
+    },
+    {
+      "titulo": "Ata do Copom pede juros mais altos por mais tempo; o dólar vai a R$ 5,60 e o Ibovespa cai",
+      "sinal": "risk_off",
+      "resumo": "Na ata, o Banco Central diz que a piora nas expectativas de inflação exige juros mais altos por mais tempo e aponta quatro riscos à inflação, com pressão sobre os gastos do governo. As taxas longas dos DI subiram, o dólar chegou a R$ 5,60 e o Ibovespa passou a cair, já com o CPI norte-americano acima do esperado. A gestora Legacy disse ter encerrado as apostas no Brasil depois da vitória de Lula e vê estagflação em 2027.",
+      "impacto": "Juro alto por mais tempo pesa em construtoras (CYRE3, MRVE3), varejo alavancado (AMER3) e utilities sensíveis ao DI (EQTL3, CMIG4, CPLE3); câmbio mais fraco ajuda exportadoras (SUZB3, KLBN11, VALE3, carnes). Os bancos (ITUB4, BBAS3, BBDC4) beneficiam da margem mas sofrem com risco de crédito. Próximo Copom a 8 e 9 de dezembro.",
+      "especulacao": "",
+      "n_noticias": 16,
+      "noticias": [
+        {
+          "id": "df8d042a54ba",
+          "titulo": "Dólar opera em alta e vai a R$ 5,60, de olho em dados de inflação nos EUA e ata do Copom; Ibovespa cai",
+          "fonte": "G1 Economia",
+          "data": "2026-11-10",
+          "hora": "18:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/10/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "22948fd9f330",
+          "titulo": "Bolsa brasileira está barata de novo, mas é oportunidade ou armadilha de valor?",
+          "fonte": "InfoMoney",
+          "data": "2026-11-10",
+          "hora": "18:00",
+          "link": "https://www.infomoney.com.br/mercados/bolsa-brasileira-esta-barata-de-novo-mas-sera-oportunidade-ou-armadilha-de-valor/"
+        },
+        {
+          "id": "a045d8ebbc31",
+          "titulo": "Legacy encerra apostas no Brasil após vitória de Lula e vê estagflação em 2027",
+          "fonte": "InfoMoney",
+          "data": "2026-11-10",
+          "hora": "17:53",
+          "link": "https://www.infomoney.com.br/onde-investir/legacy-encerra-apostas-no-brasil-apos-vitoria-de-lula-e-ve-estagflacao-em-2027/"
+        },
+        {
+          "id": "82023bb7e5f5",
+          "titulo": "Ata do Copom: Banco Central diz que piora nas expectativas de inflação exige juros mais altos por tempo maior",
+          "fonte": "G1 Economia",
+          "data": "2026-11-10",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/10/ata-do-copom-banco-central-diz-que-piora-nas-expectativas-de-inflacao-exige-juros-mais-altos-e-por-tempo-maior.ghtml"
+        },
+        {
+          "id": "6c28f207b20c",
+          "titulo": "Dólar opera em alta e vai a R$ 5,57, de olho em dados de inflação nos EUA e ata do Copom; Ibovespa sobe",
+          "fonte": "G1 Economia",
+          "data": "2026-11-10",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/10/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "b8370be9a4aa",
+          "titulo": "O futuro da economia brasileira no quarto mandato de Lula - O Assunto #1842",
+          "fonte": "G1 Economia",
+          "data": "2026-11-10",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/10/o-futuro-da-economia-brasileira-no-quarto-mandato-de-lula-o-assunto-1842.ghtml"
+        },
+        {
+          "id": "2fda3543d786",
+          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e dólar dispara 1%",
+          "fonte": "InfoMoney",
+          "data": "2026-11-10",
+          "hora": "14:47",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10112026/"
+        },
+        {
+          "id": "fec55af8b48f",
+          "titulo": "Taxas longas dos juros futuros sobem após ata do Copom",
+          "fonte": "InfoMoney",
+          "data": "2026-11-10",
+          "hora": "14:31",
+          "link": "https://www.infomoney.com.br/mercados/taxas-longas-dos-juros-futuros-sobem-apos-ata-do-copom/"
+        },
+        {
+          "id": "ba04e05eb49d",
+          "titulo": "Ata do Copom aponta 4 riscos à inflação e joga pressão sobre gastos do governo",
+          "fonte": "InfoMoney",
+          "data": "2026-11-10",
+          "hora": "14:12",
+          "link": "https://www.infomoney.com.br/economia/ata-do-copom-aponta-4-riscos-a-inflacao-e-joga-pressao-sobre-gastos-do-governo/"
+        },
+        {
+          "id": "fc979c5603ef",
+          "titulo": "Justiça Federal desiste de pedir R$ 209 milhões extras para pagar penduricalhos",
+          "fonte": "InfoMoney",
+          "data": "2026-11-10",
+          "hora": "14:07",
+          "link": "https://www.infomoney.com.br/politica/justica-federal-desiste-de-pedir-r-209-milhoes-extras-para-pagar-penduricalhos/"
+        },
+        {
+          "id": "8dd2dee6c7d2",
+          "titulo": "Taxas de CDB caem em outubro, mas se recuperam com empurrão das eleições",
+          "fonte": "InfoMoney",
+          "data": "2026-11-10",
+          "hora": "14:00",
+          "link": "https://www.infomoney.com.br/onde-investir/taxas-de-cdb-caem-em-outubro-mas-se-recuperam-com-empurrao-das-eleicoes/"
+        },
+        {
+          "id": "c90eb2940d2e",
+          "titulo": "Ibovespa tenta emplacar nova alta, mas Vale e Petrobras pesam; dólar sobe mais de 1%",
+          "fonte": "Exame",
+          "data": "2026-11-10",
+          "hora": "10:59",
+          "link": "https://exame.com/invest/mercados/ibovespa-tenta-emplacar-nova-alta-mas-vale-e-petrobras-pesam-dolar-sobe-mais-de-1/"
+        },
+        {
+          "id": "a02c2d6232fb",
+          "titulo": "Mercado eleva estimativa de inflação para 2027 e passa a prever corte de juros só em março do ano que vem",
+          "fonte": "G1 Economia",
+          "data": "2026-11-09",
+          "hora": "20:58",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/09/mercado-eleva-estimativa-de-inflacao-para-2027-e-passa-a-prever-corte-de-juros-so-em-marco-do-ano-que-vem.ghtml"
+        },
+        {
+          "id": "6f527429b9f3",
+          "titulo": "Dólar recua a R$ 5,50, com projeção de inflação e discurso de Lula no radar; Ibovespa avança",
+          "fonte": "G1 Economia",
+          "data": "2026-11-09",
+          "hora": "20:58",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/09/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "108d63a31a08",
+          "titulo": "Em manifesto, 7 entidades pedem ao governo e ao Congresso eleitos prioridade no combate a supersalários",
+          "fonte": "G1 Economia",
+          "data": "2026-11-09",
+          "hora": "20:58",
+          "link": "https://g1.globo.com/politica/noticia/2026/11/09/em-manifesto-7-entidades-pedem-ao-governo-e-ao-congresso-eleitos-prioridade-no-combate-a-supersalarios.ghtml"
+        },
+        {
+          "id": "19552e6d2f25",
+          "titulo": "Taxas dos DIs recuam com exterior e política econômica de Lula no radar",
+          "fonte": "InfoMoney",
+          "data": "2026-11-09",
+          "hora": "20:57",
+          "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-exterior-e-politica-economica-de-lula-no-radar/"
+        }
+      ],
+      "criado_em": "2026-11-10T15:09",
+      "atualizado_em": "2026-11-10T18:07"
+    },
+    {
+      "titulo": "Rubio diz que as conversas de Abu Dhabi sobre a Ucrânia foram muito produtivas e a Rússia diz ser cedo para as avaliar",
+      "sinal": "neutro",
+      "resumo": "Rubio disse que as conversas de Abu Dhabi sobre a Rússia e a Ucrânia foram muito produtivas e responsáveis norte-americanos não esperam resolver a guerra nesta ronda. O vice-MNE russo Ryabkov disse ser cedo para avaliar as negociações e a delegação russa fará um briefing na quarta-feira. A Rússia atingiu um cargueiro e um petroleiro no Mar Negro.",
+      "impacto": "Um avanço negocial reduz o prémio de risco na energia europeia e nos fertilizantes e grãos (agro brasileiro); sem acordo, os ataques no Mar Negro mantêm o risco sobre o transporte de petróleo e cereais.",
+      "especulacao": "A RIA, citando uma fonte, diz que a delegação russa não teve contacto com os europeus, o que contradiz a afirmação francesa de que os europeus estavam na sala; não há confirmação independente.",
+      "n_noticias": 16,
+      "noticias": [
+        {
+          "id": "4c58b3d1c13e",
+          "titulo": "Russian Deputy Foreign Minister Ryabkov: It is too early to assess negotiations taking place in Abu Dhabi - IFX",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "17:20",
+          "link": "https://www.financialjuice.com/News/9845685/Russian-Deputy-Foreign-Minister-Ryabkov-It-is-too-early-to-assess-negotiations-taking-place-in-Abu-Dhabi---IFX.aspx?xy=rss"
+        },
+        {
+          "id": "66d4def54347",
+          "titulo": "Russian delegation in Abu Dhabi did not have any contact with Europeans, according to a source - RIA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "16:15",
+          "link": "https://www.financialjuice.com/News/9845589/Russian-delegation-in-Abu-Dhabi-did-not-have-any-contact-with-Europeans-according-to-a-source---RIA.aspx?xy=rss"
+        },
+        {
+          "id": "7c6376eba5e7",
+          "titulo": "Press briefing by Russian delegation after talks in Abu Dhabi will take place on Wednesday - IFX cites source",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "15:56",
+          "link": "https://www.financialjuice.com/News/9845565/Press-briefing-by-Russian-delegation-after-talks-in-Abu-Dhabi-will-take-place-on-Wednesday---IFX-cites-source.aspx?xy=rss"
+        },
+        {
+          "id": "3c494b2ec23f",
+          "titulo": "US Secretary of State Rubio: Talks in Abu Dhabi on Russia-Ukraine were very productive.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "13:33",
+          "link": "https://www.financialjuice.com/News/9845347/US-Secretary-of-State-Rubio-Talks-in-Abu-Dhabi-on-Russia-Ukraine-were-very-productive.aspx?xy=rss"
+        },
+        {
+          "id": "2a9dec008164",
+          "titulo": "trilateral talks on Ukraine start in Abu-Dhabi - Ria",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "08:13",
+          "link": "https://www.financialjuice.com/News/9844832/trilateral-talks-on-Ukraine-start-in-Abu-Dhabi---Ria.aspx"
+        },
+        {
+          "id": "48bcde848b01",
+          "titulo": "France's Foreign Minister: Europeans will be in the room for the Ukraine-Russia talks in Abu Dhabi.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "06:52",
+          "link": "https://www.financialjuice.com/News/9844713/Frances-Foreign-Minister-Europeans-will-be-in-the-room-for-the-Ukraine-Russia-talks-in-Abu-Dhabi.aspx"
+        },
+        {
+          "id": "9a7ee6095704",
+          "titulo": "Ukraine peace only one item in wider Abu Dhabi talks - IFX",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "06:28",
+          "link": "https://www.financialjuice.com/News/9844680/Ukraine-peace-only-one-item-in-wider-Abu-Dhabi-talks---IFX.aspx"
+        },
+        {
+          "id": "618199516c22",
+          "titulo": "Russian Defence Ministry: Russian forces strike cargo ship, tanker in Black Sea",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "05:33",
+          "link": "https://www.financialjuice.com/News/9844634/Russian-Defence-Ministry-Russian-forces-strike-cargo-ship-tanker-in-Black-Sea.aspx"
+        },
+        {
+          "id": "7095d0f89a2b",
+          "titulo": "UK's Streeting: Would prefer more communication channels with Russia, especially military-to-military level - FT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "05:11",
+          "link": "https://www.financialjuice.com/News/9844604/UKs-Streeting-Would-prefer-more-communication-channels-with-Russia-especially-military-to-military-level---FT.aspx"
+        },
+        {
+          "id": "23a730ac7ac0",
+          "titulo": "UK Defence Minister Streeting: UK and Russia require fresh backchannel to prevent 'miscalculation' - FT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "05:11",
+          "link": "https://www.financialjuice.com/News/9844603/UK-Defence-Minister-Streeting-UK-and-Russia-require-fresh-backchannel-to-prevent-miscalculation---FT.aspx"
+        },
+        {
+          "id": "ee58a74e6b1a",
+          "titulo": "Trump: The Abu Dhabi talks this week on Ukraine present a chance of a possible breakthrough.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "20:22",
+          "link": "https://www.financialjuice.com/News/9843926/Trump-The-Abu-Dhabi-talks-this-week-on-Ukraine-present-a-chance-of-a-possible-breakthrough.aspx?xy=rss"
+        },
+        {
+          "id": "ada3c46a24dd",
+          "titulo": "US wants the Russians to agree to multilateral negotiations with Europe at the table - CBS",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "18:11",
+          "link": "https://www.financialjuice.com/News/9843753/US-wants-the-Russians-to-agree-to-multilateral-negotiations-with-Europe-at-the-table---CBS.aspx?xy=rss"
+        },
+        {
+          "id": "c8e248c6e1fb",
+          "titulo": "US Officials on Russia-Ukraine: We don't expect to resolve the war in the Abu Dhabi talks, but to get each side to clarify their positions so they can then explore compromises - CBS",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "18:11",
+          "link": "https://www.financialjuice.com/News/9843752/US-Officials-on-Russia-Ukraine-We-dont-expect-to-resolve-the-war-in-the-Abu-Dhabi-talks-but-to-get-each-side-to-clarify-their-positions-so-they-can-then-explore-compromises---CBS.aspx?xy=rss"
+        },
+        {
+          "id": "d15405be0944",
+          "titulo": "US Official: US envoys may visit Putin in Russia after the Abu Dhabi talks.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "17:53",
+          "link": "https://www.financialjuice.com/News/9843728/US-Official-US-envoys-may-visit-Putin-in-Russia-after-the-Abu-Dhabi-talks.aspx?xy=rss"
+        },
+        {
+          "id": "00d81d54b779",
+          "titulo": "US official on Ukraine: Russia is showing positive signs to creating an end.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "17:47",
+          "link": "https://www.financialjuice.com/News/9843726/US-official-on-Ukraine-Russia-is-showing-positive-signs-to-creating-an-end.aspx?xy=rss"
+        },
+        {
+          "id": "f6028481f3e8",
+          "titulo": "US Official: NATO will remain central to European collective defense",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-09",
+          "hora": "17:39",
+          "link": "https://www.financialjuice.com/News/9843708/US-Official-NATO-will-remain-central-to-European-collective-defense.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-11-09T21:02",
+      "atualizado_em": "2026-11-10T18:07"
     },
     {
       "titulo": "Exportações chinesas de outubro superam previsões e importações sobem 41,6%, com o excedente do ano acima de US$ 1 trilhão",
@@ -1511,245 +2239,121 @@
       "atualizado_em": "2026-11-10T15:09"
     },
     {
-      "titulo": "Ata do Copom diz que a piora das expectativas exige juros mais altos por mais tempo; DI longos sobem e o dólar vai a R$ 5,57",
-      "sinal": "risk_off",
-      "resumo": "Na ata, o Banco Central diz que a piora nas expectativas de inflação exige juros mais altos por mais tempo e aponta quatro riscos à inflação, com pressão sobre os gastos do governo. As taxas longas dos DI subiram depois da ata; o dólar subiu mais de 1%, para R$ 5,57, e o InfoMoney noticiou às 14h47 que o Ibovespa virou para queda. Na véspera, o Focus elevou a inflação esperada para 2027 e passou a prever o primeiro corte só em março.",
-      "impacto": "Juro alto por mais tempo pesa em construtoras (CYRE3, MRVE3), varejo alavancado (AMER3) e utilities sensíveis ao DI (EQTL3, CMIG4, CPLE3); câmbio mais fraco ajuda exportadoras (SUZB3, KLBN11, VALE3, carnes). Os bancos (ITUB4, BBAS3, BBDC4) beneficiam da margem mas sofrem com risco de crédito. Próximo Copom a 8 e 9 de dezembro.",
-      "especulacao": "",
-      "n_noticias": 13,
+      "titulo": "Petrobras divulga hoje o balanço do 3T26, a TIM sobe com resultado sem surpresas e o BofA eleva a Magazine Luiza para compra",
+      "sinal": "neutro",
+      "resumo": "A Petrobras divulga o balanço do 3º trimestre esta terça-feira, depois do fecho; os números ainda não chegaram ao feed. A TIM subiu depois de um trimestre sem surpresas, e o BofA elevou a Magazine Luiza para compra (nota de analista) depois do balanço que a fez subir até 17%. A JBS comprou a Flora, dona de Minuano, Francis, OX e Neutrox, por R$ 3 bilhões.",
+      "impacto": "PETR4: o 3T26 é o próximo teste depois da queda do Brent abaixo de US$ 90, com o 3T26 de produção recorde da PRIO3 (04/11) como referência do setor. JBSS32: o 3T26 estava marcado para 09/11 após o fecho, segundo o calendário da app, mas os números ainda não chegaram ao feed. Aguardam-se BEEF3 e AMER3 a 11/11, depois do fecho.",
+      "especulacao": "Fontes citadas pelo InfoMoney dizem que a Braskem quer concluir as negociações com os credores até quarta-feira; não há confirmação da empresa.",
+      "n_noticias": 11,
       "noticias": [
         {
-          "id": "82023bb7e5f5",
-          "titulo": "Ata do Copom: Banco Central diz que piora nas expectativas de inflação exige juros mais altos por tempo maior",
+          "id": "83cb1061863d",
+          "titulo": "JBS compra dona de Minuano, Francis, OX e Neutrox por R$ 3 bilhões",
+          "fonte": "G1 Economia",
+          "data": "2026-11-10",
+          "hora": "18:03",
+          "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/10/jbs-flora.ghtml"
+        },
+        {
+          "id": "4a0b1d15d2f7",
+          "titulo": "Petrobras (PETR4) divulga balanço do 3º trimestre de 2026; acompanhe ao vivo",
+          "fonte": "InfoMoney",
+          "data": "2026-11-10",
+          "hora": "18:01",
+          "link": "https://www.infomoney.com.br/mercados/petrobras-petr4-balanco-3t26/"
+        },
+        {
+          "id": "5412de9f455c",
+          "titulo": "MGLU3: BofA eleva Magalu para compra após melhora das vendas e ganho de mercado",
+          "fonte": "InfoMoney",
+          "data": "2026-11-10",
+          "hora": "17:53",
+          "link": "https://www.infomoney.com.br/mercados/mglu3-bofa-eleva-magalu-para-compra-apos-melhora-das-vendas-e-ganho-de-mercado/"
+        },
+        {
+          "id": "81b7806c2a8e",
+          "titulo": "TIM (TIMS3): ações sobem após resultados do trimestre sem surpresas",
+          "fonte": "InfoMoney",
+          "data": "2026-11-10",
+          "hora": "17:26",
+          "link": "https://www.infomoney.com.br/mercados/tim-tims3-acoes-sobem-apos-resultados-do-trimestre-sem-surpresas/"
+        },
+        {
+          "id": "2ea742a04f3d",
+          "titulo": "JBS compra Flora, dona das marcas Minuano e Francis, por R$ 3 bilhões",
           "fonte": "G1 Economia",
           "data": "2026-11-10",
           "hora": "15:03",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/10/ata-do-copom-banco-central-diz-que-piora-nas-expectativas-de-inflacao-exige-juros-mais-altos-e-por-tempo-maior.ghtml"
+          "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/10/jbs-flora.ghtml"
         },
         {
-          "id": "6c28f207b20c",
-          "titulo": "Dólar opera em alta e vai a R$ 5,57, de olho em dados de inflação nos EUA e ata do Copom; Ibovespa sobe",
-          "fonte": "G1 Economia",
-          "data": "2026-11-10",
-          "hora": "15:03",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/10/dolar-ibovespa.ghtml"
-        },
-        {
-          "id": "b8370be9a4aa",
-          "titulo": "O futuro da economia brasileira no quarto mandato de Lula - O Assunto #1842",
-          "fonte": "G1 Economia",
-          "data": "2026-11-10",
-          "hora": "15:03",
-          "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/10/o-futuro-da-economia-brasileira-no-quarto-mandato-de-lula-o-assunto-1842.ghtml"
-        },
-        {
-          "id": "2fda3543d786",
-          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e dólar dispara 1%",
+          "id": "10f690951eb8",
+          "titulo": "Siderúrgicas: XP prefere Gerdau (GGBR4) e vê potencial limitado para Usiminas (USIM5)",
           "fonte": "InfoMoney",
           "data": "2026-11-10",
-          "hora": "14:47",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10112026/"
+          "hora": "14:01",
+          "link": "https://www.infomoney.com.br/mercados/siderurgicas-xp-prefere-gerdau-ggbr4-e-ve-potencial-limitado-para-usiminas-usim5/"
         },
         {
-          "id": "fec55af8b48f",
-          "titulo": "Taxas longas dos juros futuros sobem após ata do Copom",
-          "fonte": "InfoMoney",
-          "data": "2026-11-10",
-          "hora": "14:31",
-          "link": "https://www.infomoney.com.br/mercados/taxas-longas-dos-juros-futuros-sobem-apos-ata-do-copom/"
-        },
-        {
-          "id": "ba04e05eb49d",
-          "titulo": "Ata do Copom aponta 4 riscos à inflação e joga pressão sobre gastos do governo",
-          "fonte": "InfoMoney",
-          "data": "2026-11-10",
-          "hora": "14:12",
-          "link": "https://www.infomoney.com.br/economia/ata-do-copom-aponta-4-riscos-a-inflacao-e-joga-pressao-sobre-gastos-do-governo/"
-        },
-        {
-          "id": "fc979c5603ef",
-          "titulo": "Justiça Federal desiste de pedir R$ 209 milhões extras para pagar penduricalhos",
-          "fonte": "InfoMoney",
-          "data": "2026-11-10",
-          "hora": "14:07",
-          "link": "https://www.infomoney.com.br/politica/justica-federal-desiste-de-pedir-r-209-milhoes-extras-para-pagar-penduricalhos/"
-        },
-        {
-          "id": "8dd2dee6c7d2",
-          "titulo": "Taxas de CDB caem em outubro, mas se recuperam com empurrão das eleições",
-          "fonte": "InfoMoney",
-          "data": "2026-11-10",
-          "hora": "14:00",
-          "link": "https://www.infomoney.com.br/onde-investir/taxas-de-cdb-caem-em-outubro-mas-se-recuperam-com-empurrao-das-eleicoes/"
-        },
-        {
-          "id": "c90eb2940d2e",
-          "titulo": "Ibovespa tenta emplacar nova alta, mas Vale e Petrobras pesam; dólar sobe mais de 1%",
+          "id": "92cd2a7d3d33",
+          "titulo": "Magazine Luiza sobe até 17% na bolsa: o que o mercado viu de bom no balanço?",
           "fonte": "Exame",
           "data": "2026-11-10",
-          "hora": "10:59",
-          "link": "https://exame.com/invest/mercados/ibovespa-tenta-emplacar-nova-alta-mas-vale-e-petrobras-pesam-dolar-sobe-mais-de-1/"
+          "hora": "11:02",
+          "link": "https://exame.com/invest/mercados/magazine-luiza-sobe-ate-17-na-bolsa-o-que-o-mercado-viu-de-bom-no-balanco/"
         },
         {
-          "id": "a02c2d6232fb",
-          "titulo": "Mercado eleva estimativa de inflação para 2027 e passa a prever corte de juros só em março do ano que vem",
+          "id": "b3d424bb3874",
+          "titulo": "Grupo brasileiro compra dona da Maguary e do Flying Horse por R$ 500 milhões",
           "fonte": "G1 Economia",
           "data": "2026-11-09",
           "hora": "20:58",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/09/mercado-eleva-estimativa-de-inflacao-para-2027-e-passa-a-prever-corte-de-juros-so-em-marco-do-ano-que-vem.ghtml"
+          "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/09/grupo-brasileiro-compra-dona-da-maguary-e-do-flying-horse-por-r-500-milhoes.ghtml"
         },
         {
-          "id": "6f527429b9f3",
-          "titulo": "Dólar recua a R$ 5,50, com projeção de inflação e discurso de Lula no radar; Ibovespa avança",
-          "fonte": "G1 Economia",
-          "data": "2026-11-09",
-          "hora": "20:58",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/09/dolar-ibovespa.ghtml"
-        },
-        {
-          "id": "108d63a31a08",
-          "titulo": "Em manifesto, 7 entidades pedem ao governo e ao Congresso eleitos prioridade no combate a supersalários",
-          "fonte": "G1 Economia",
-          "data": "2026-11-09",
-          "hora": "20:58",
-          "link": "https://g1.globo.com/politica/noticia/2026/11/09/em-manifesto-7-entidades-pedem-ao-governo-e-ao-congresso-eleitos-prioridade-no-combate-a-supersalarios.ghtml"
-        },
-        {
-          "id": "19552e6d2f25",
-          "titulo": "Taxas dos DIs recuam com exterior e política econômica de Lula no radar",
+          "id": "19c658a0d2a3",
+          "titulo": "Braskem quer concluir negociações com credores até 4ª-feira, dizem fontes",
           "fonte": "InfoMoney",
           "data": "2026-11-09",
-          "hora": "20:57",
-          "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-exterior-e-politica-economica-de-lula-no-radar/"
+          "hora": "20:34",
+          "link": "https://www.infomoney.com.br/mercados/braskem-quer-concluir-negociacoes-com-credores-ate-4a-feira-dizem-fontes/"
+        },
+        {
+          "id": "77a098a79979",
+          "titulo": "MBRF (MBRF3) salta mais de 10% na B3 após bons sinais para os resultados do 3º tri",
+          "fonte": "InfoMoney",
+          "data": "2026-11-09",
+          "hora": "20:13",
+          "link": "https://www.infomoney.com.br/mercados/mbrf-mbrf3-salta-mais-de-10-na-b3-apos-bons-sinais-para-os-resultados-do-3o-tri/"
+        },
+        {
+          "id": "11ca3da8ca99",
+          "titulo": "Focus e discurso de Lula dividem atenções com balanços de Magalu e JBS nesta segunda",
+          "fonte": "InfoMoney",
+          "data": "2026-11-09",
+          "hora": "09:12",
+          "link": "https://www.infomoney.com.br/mercados/focus-lula-balancos-magalu-jbs-agenda-09112026/"
         }
       ],
       "criado_em": "2026-11-10T15:09",
-      "atualizado_em": "2026-11-10T15:09"
+      "atualizado_em": "2026-11-10T18:07"
     },
     {
-      "titulo": "Rubio diz que as conversas de Abu Dhabi sobre a Ucrânia foram muito produtivas",
+      "titulo": "Rubio quer armas nucleares e IA na cimeira Trump-Xi e Schumer pede lei sobre exportação de chips de IA",
       "sinal": "neutro",
-      "resumo": "Rubio disse que as conversas trilaterais de Abu Dhabi sobre a Rússia e a Ucrânia foram muito produtivas; o MNE francês confirmou que os europeus estão na sala e responsáveis norte-americanos disseram não esperar resolver a guerra nesta ronda. A Rússia atingiu um cargueiro e um petroleiro no Mar Negro.",
-      "impacto": "Um avanço negocial reduz o prémio de risco na energia europeia e nos fertilizantes e grãos (agro brasileiro); sem acordo, os ataques no Mar Negro mantêm o risco sobre o transporte de petróleo e cereais.",
+      "resumo": "Rubio disse que Trump quer discutir armas nucleares com a China e que a IA deve ser levantada na próxima cimeira com Xi; o WSJ, citando um responsável chinês, noticia que a China não discutirá o controlo de armas nucleares. A Microsoft pressiona Trump a desistir de proibir tecnologia chinesa em data centers e Schumer pediu a aprovação de uma lei sobre exportação de chips de IA.",
+      "impacto": "A cimeira é o próximo marco da relação comercial EUA-China: um desentendimento aumenta o risco para a trégua tarifária e para as cadeias de chips; um acordo favorece commodities e emergentes.",
       "especulacao": "",
-      "n_noticias": 13,
+      "n_noticias": 9,
       "noticias": [
         {
-          "id": "3c494b2ec23f",
-          "titulo": "US Secretary of State Rubio: Talks in Abu Dhabi on Russia-Ukraine were very productive.",
+          "id": "b7d8a16bbaca",
+          "titulo": "Schumer calls for passing bill on AI chip exports.",
           "fonte": "FinancialJuice",
           "data": "2026-11-10",
-          "hora": "13:33",
-          "link": "https://www.financialjuice.com/News/9845347/US-Secretary-of-State-Rubio-Talks-in-Abu-Dhabi-on-Russia-Ukraine-were-very-productive.aspx?xy=rss"
+          "hora": "17:33",
+          "link": "https://www.financialjuice.com/News/9845699/Schumer-calls-for-passing-bill-on-AI-chip-exports.aspx?xy=rss"
         },
-        {
-          "id": "2a9dec008164",
-          "titulo": "trilateral talks on Ukraine start in Abu-Dhabi - Ria",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "08:13",
-          "link": "https://www.financialjuice.com/News/9844832/trilateral-talks-on-Ukraine-start-in-Abu-Dhabi---Ria.aspx"
-        },
-        {
-          "id": "48bcde848b01",
-          "titulo": "France's Foreign Minister: Europeans will be in the room for the Ukraine-Russia talks in Abu Dhabi.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "06:52",
-          "link": "https://www.financialjuice.com/News/9844713/Frances-Foreign-Minister-Europeans-will-be-in-the-room-for-the-Ukraine-Russia-talks-in-Abu-Dhabi.aspx"
-        },
-        {
-          "id": "9a7ee6095704",
-          "titulo": "Ukraine peace only one item in wider Abu Dhabi talks - IFX",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "06:28",
-          "link": "https://www.financialjuice.com/News/9844680/Ukraine-peace-only-one-item-in-wider-Abu-Dhabi-talks---IFX.aspx"
-        },
-        {
-          "id": "618199516c22",
-          "titulo": "Russian Defence Ministry: Russian forces strike cargo ship, tanker in Black Sea",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "05:33",
-          "link": "https://www.financialjuice.com/News/9844634/Russian-Defence-Ministry-Russian-forces-strike-cargo-ship-tanker-in-Black-Sea.aspx"
-        },
-        {
-          "id": "7095d0f89a2b",
-          "titulo": "UK's Streeting: Would prefer more communication channels with Russia, especially military-to-military level - FT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "05:11",
-          "link": "https://www.financialjuice.com/News/9844604/UKs-Streeting-Would-prefer-more-communication-channels-with-Russia-especially-military-to-military-level---FT.aspx"
-        },
-        {
-          "id": "23a730ac7ac0",
-          "titulo": "UK Defence Minister Streeting: UK and Russia require fresh backchannel to prevent 'miscalculation' - FT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-10",
-          "hora": "05:11",
-          "link": "https://www.financialjuice.com/News/9844603/UK-Defence-Minister-Streeting-UK-and-Russia-require-fresh-backchannel-to-prevent-miscalculation---FT.aspx"
-        },
-        {
-          "id": "ee58a74e6b1a",
-          "titulo": "Trump: The Abu Dhabi talks this week on Ukraine present a chance of a possible breakthrough.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "20:22",
-          "link": "https://www.financialjuice.com/News/9843926/Trump-The-Abu-Dhabi-talks-this-week-on-Ukraine-present-a-chance-of-a-possible-breakthrough.aspx?xy=rss"
-        },
-        {
-          "id": "ada3c46a24dd",
-          "titulo": "US wants the Russians to agree to multilateral negotiations with Europe at the table - CBS",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "18:11",
-          "link": "https://www.financialjuice.com/News/9843753/US-wants-the-Russians-to-agree-to-multilateral-negotiations-with-Europe-at-the-table---CBS.aspx?xy=rss"
-        },
-        {
-          "id": "c8e248c6e1fb",
-          "titulo": "US Officials on Russia-Ukraine: We don't expect to resolve the war in the Abu Dhabi talks, but to get each side to clarify their positions so they can then explore compromises - CBS",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "18:11",
-          "link": "https://www.financialjuice.com/News/9843752/US-Officials-on-Russia-Ukraine-We-dont-expect-to-resolve-the-war-in-the-Abu-Dhabi-talks-but-to-get-each-side-to-clarify-their-positions-so-they-can-then-explore-compromises---CBS.aspx?xy=rss"
-        },
-        {
-          "id": "d15405be0944",
-          "titulo": "US Official: US envoys may visit Putin in Russia after the Abu Dhabi talks.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "17:53",
-          "link": "https://www.financialjuice.com/News/9843728/US-Official-US-envoys-may-visit-Putin-in-Russia-after-the-Abu-Dhabi-talks.aspx?xy=rss"
-        },
-        {
-          "id": "00d81d54b779",
-          "titulo": "US official on Ukraine: Russia is showing positive signs to creating an end.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "17:47",
-          "link": "https://www.financialjuice.com/News/9843726/US-official-on-Ukraine-Russia-is-showing-positive-signs-to-creating-an-end.aspx?xy=rss"
-        },
-        {
-          "id": "f6028481f3e8",
-          "titulo": "US Official: NATO will remain central to European collective defense",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-09",
-          "hora": "17:39",
-          "link": "https://www.financialjuice.com/News/9843708/US-Official-NATO-will-remain-central-to-European-collective-defense.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-09T21:02",
-      "atualizado_em": "2026-11-10T15:09"
-    },
-    {
-      "titulo": "Rubio quer armas nucleares e IA na cimeira Trump-Xi e a China recusa discutir o controlo de armas nucleares",
-      "sinal": "neutro",
-      "resumo": "Rubio disse que Trump quer que EUA e China discutam armas nucleares e que a IA deve ser levantada na próxima cimeira com Xi. O WSJ, citando um responsável chinês, noticia que a China não discutirá o controlo de armas nucleares e insiste num formato rigidamente guionado para a cimeira com Trump e Putin, o que os EUA rejeitam. A Microsoft pressiona Trump a desistir de proibir tecnologia chinesa em data centers.",
-      "impacto": "A cimeira é o próximo marco da relação comercial EUA-China: um desentendimento sobre o formato aumenta o risco para a trégua tarifária e para as cadeias de chips; um acordo favorece commodities e emergentes.",
-      "especulacao": "",
-      "n_noticias": 8,
-      "noticias": [
         {
           "id": "bdc5b22ec26e",
           "titulo": "Microsoft pressiona Trump a desistir de proibição de tecnologia chinesa para data centers",
@@ -1816,84 +2420,32 @@
         }
       ],
       "criado_em": "2026-11-10T15:09",
-      "atualizado_em": "2026-11-10T15:09"
+      "atualizado_em": "2026-11-10T18:07"
     },
     {
-      "titulo": "JBS compra a Flora por R$ 3 bilhões e a Magazine Luiza sobe até 17% depois do balanço do 3T26",
-      "sinal": "neutro",
-      "resumo": "A JBS anunciou a compra da Flora, dona das marcas Minuano e Francis, por R$ 3 bilhões. A Magazine Luiza chegou a subir 17% depois do balanço e a MBRF saltou mais de 10% na segunda com bons sinais para o 3T. A XP prefere Gerdau a Usiminas no aço (nota de analista; ambas já divulgaram o 3T26, a 26/10 e 30/10).",
-      "impacto": "JBSS32: a compra soma-se ao 3T26, marcado para 09/11 após o fecho segundo o calendário da app — os números ainda não chegaram ao feed. A nota da XP é leitura relativa positiva para GGBR4 face a USIM5. Aguardam-se BEEF3 e AMER3 a 11/11, depois do fecho.",
-      "especulacao": "Fontes citadas pelo InfoMoney dizem que a Braskem quer concluir as negociações com os credores até quarta-feira; não há confirmação da empresa.",
-      "n_noticias": 7,
-      "noticias": [
-        {
-          "id": "2ea742a04f3d",
-          "titulo": "JBS compra Flora, dona das marcas Minuano e Francis, por R$ 3 bilhões",
-          "fonte": "G1 Economia",
-          "data": "2026-11-10",
-          "hora": "15:03",
-          "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/10/jbs-flora.ghtml"
-        },
-        {
-          "id": "10f690951eb8",
-          "titulo": "Siderúrgicas: XP prefere Gerdau (GGBR4) e vê potencial limitado para Usiminas (USIM5)",
-          "fonte": "InfoMoney",
-          "data": "2026-11-10",
-          "hora": "14:01",
-          "link": "https://www.infomoney.com.br/mercados/siderurgicas-xp-prefere-gerdau-ggbr4-e-ve-potencial-limitado-para-usiminas-usim5/"
-        },
-        {
-          "id": "92cd2a7d3d33",
-          "titulo": "Magazine Luiza sobe até 17% na bolsa: o que o mercado viu de bom no balanço?",
-          "fonte": "Exame",
-          "data": "2026-11-10",
-          "hora": "11:02",
-          "link": "https://exame.com/invest/mercados/magazine-luiza-sobe-ate-17-na-bolsa-o-que-o-mercado-viu-de-bom-no-balanco/"
-        },
-        {
-          "id": "b3d424bb3874",
-          "titulo": "Grupo brasileiro compra dona da Maguary e do Flying Horse por R$ 500 milhões",
-          "fonte": "G1 Economia",
-          "data": "2026-11-09",
-          "hora": "20:58",
-          "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/09/grupo-brasileiro-compra-dona-da-maguary-e-do-flying-horse-por-r-500-milhoes.ghtml"
-        },
-        {
-          "id": "19c658a0d2a3",
-          "titulo": "Braskem quer concluir negociações com credores até 4ª-feira, dizem fontes",
-          "fonte": "InfoMoney",
-          "data": "2026-11-09",
-          "hora": "20:34",
-          "link": "https://www.infomoney.com.br/mercados/braskem-quer-concluir-negociacoes-com-credores-ate-4a-feira-dizem-fontes/"
-        },
-        {
-          "id": "77a098a79979",
-          "titulo": "MBRF (MBRF3) salta mais de 10% na B3 após bons sinais para os resultados do 3º tri",
-          "fonte": "InfoMoney",
-          "data": "2026-11-09",
-          "hora": "20:13",
-          "link": "https://www.infomoney.com.br/mercados/mbrf-mbrf3-salta-mais-de-10-na-b3-apos-bons-sinais-para-os-resultados-do-3o-tri/"
-        },
-        {
-          "id": "11ca3da8ca99",
-          "titulo": "Focus e discurso de Lula dividem atenções com balanços de Magalu e JBS nesta segunda",
-          "fonte": "InfoMoney",
-          "data": "2026-11-09",
-          "hora": "09:12",
-          "link": "https://www.infomoney.com.br/mercados/focus-lula-balancos-magalu-jbs-agenda-09112026/"
-        }
-      ],
-      "criado_em": "2026-11-10T15:09",
-      "atualizado_em": "2026-11-10T15:09"
-    },
-    {
-      "titulo": "Bitcoin cai para US$ 73 mil depois de a inflação dos EUA sair acima do esperado",
+      "titulo": "Bitcoin cai para US$ 73 mil e testa a média de 200 dias depois do CPI acima do esperado",
       "sinal": "risk_off",
-      "resumo": "O bitcoin caiu para cerca de US$ 73 mil depois do CPI de outubro acima do esperado, já pressionado pela hipótese de Waller de uma subida de 50 p.b. em dezembro; a Zcash continua presa num intervalo pelos ventos contrários macro.",
-      "impacto": "Fed mais duro e dólar forte pesam nos tokens da carteira cripto, que estão a reagir como ativo de risco de beta alto ao juro.",
+      "resumo": "O bitcoin caiu para cerca de US$ 73 mil e testa a média móvel de 200 dias depois do CPI de outubro acima do esperado. Goldman Sachs e Citi estão entre os bancos de um financiamento de US$ 270 milhões a uma stablecoin.",
+      "impacto": "Fed mais duro e dólar forte pesam nos tokens da carteira cripto, que reagem como ativo de risco de beta alto ao juro; a entrada de grandes bancos em stablecoins é um apoio estrutural, não de curto prazo.",
       "especulacao": "",
-      "n_noticias": 4,
+      "n_noticias": 6,
       "noticias": [
+        {
+          "id": "b46d86ecbe2e",
+          "titulo": "Goldman and Citi among banks in $270 mln stablecoin backing. $GS $C",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-10",
+          "hora": "16:13",
+          "link": "https://www.financialjuice.com/News/9845588/Goldman-and-Citi-among-banks-in-270-mln-stablecoin-backing-GS-C.aspx?xy=rss"
+        },
+        {
+          "id": "6e992ecef371",
+          "titulo": "Bitcoin tests its 200 day moving average after hotter US CPI data",
+          "fonte": "ForexLive",
+          "data": "2026-11-10",
+          "hora": "16:11",
+          "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-its-200-day-moving-average-after-hotter-us-cpi-data/"
+        },
         {
           "id": "b1ce7612aa92",
           "titulo": "Zcash remains stuck in a range as macro headwinds continue to limit the upside. What's next?",
@@ -1928,7 +2480,7 @@
         }
       ],
       "criado_em": "2026-11-10T15:09",
-      "atualizado_em": "2026-11-10T15:09"
+      "atualizado_em": "2026-11-10T18:07"
     }
   ]
 }
