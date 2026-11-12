@@ -1,15 +1,23 @@
 {
-  "atualizado_em": "2026-11-11T20:28",
-  "total_feed": 487,
+  "atualizado_em": "2026-11-11T21:00",
+  "total_feed": 464,
   "temas": [
     {
       "titulo": "General iraniano diz que o Ormuz está fechado e o WSJ relata que Vance pondera conversas diretas com o Irão",
       "sinal": "risk_off",
-      "resumo": "O brigadeiro-general Heydari disse à ISNA que o Irão fechou o Estreito de Ormuz e só o reabre por ordem do líder supremo; o presidente do parlamento, Ghalibaf, repetiu que a reabertura e o regresso às conversas exigem o cumprimento das 7 condições iranianas. O CENTCOM diz que mantém operações para manter o estreito aberto e o bloqueio naval, fontes relatam um ataque iraniano a sistemas de navegação na ilha omanense de Didamar e os Houthis dizem ter atacado com drone uma estação de bombagem na região de Yanbu, na Arábia Saudita.",
+      "resumo": "O brigadeiro-general Heydari disse à ISNA que o Irão fechou o Estreito de Ormuz e só o reabre por ordem do líder supremo; o presidente do parlamento, Ghalibaf, repetiu que a reabertura e o regresso às conversas exigem o cumprimento das 7 condições iranianas. O CENTCOM diz que mantém operações para manter o estreito aberto e o bloqueio naval, fontes relatam um ataque iraniano a sistemas de navegação na ilha omanense de Didamar e os Houthis dizem ter atacado com drone uma estação de bombagem na região de Yanbu, na Arábia Saudita. No fecho, o InfoMoney noticia que o petróleo subiu depois de o Irão elevar as tensões com uma ameaça de ataques à Europa.",
       "impacto": "Prémio de risco no petróleo sustenta PETR4 e PRIO3, mas pressiona inflação global, juros e o real; a ameaça a Yanbu toca a rota alternativa saudita ao Ormuz.",
       "especulacao": "O WSJ relata, citando responsáveis, que Vance pondera um encontro presencial com o responsável de segurança iraniano Rezaei e que Trump está aberto a isso; o próprio WSJ diz que as conversas são preliminares, sem confirmação oficial.",
-      "n_noticias": 20,
+      "n_noticias": 21,
       "noticias": [
+        {
+          "id": "38886ed5d212",
+          "titulo": "Petróleo fecha em alta após Irã elevar tensões com ameaça de ataques à Europa",
+          "fonte": "InfoMoney",
+          "data": "2026-11-11",
+          "hora": "20:47",
+          "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-11112026/"
+        },
         {
           "id": "450ffe21415f",
           "titulo": "Iran's Brigadier General Heydari: We have closed the Strait of Hormuz and we will not open it except by the order of the leader of the revolution - ISNA",
@@ -172,7 +180,7 @@
         }
       ],
       "criado_em": "2026-11-11T20:28",
-      "atualizado_em": "2026-11-11T20:28"
+      "atualizado_em": "2026-11-11T21:00"
     },
     {
       "titulo": "Waller põe uma subida de 50 p.b. em cima da mesa depois do CPI acima do previsto e o dólar ganha força",
@@ -631,97 +639,29 @@
       "atualizado_em": "2026-11-11T20:28"
     },
     {
-      "titulo": "Brent fecha a US$ 92,76, a subir 1,39%, e volta acima dos US$ 90 sem avanço nas conversas EUA-Irão",
+      "titulo": "The Economist pede a saída de Jensen Huang e a Nvidia acumula perdas com o caso do CEO",
       "sinal": "risk_off",
-      "resumo": "O Brent fechou a US$ 92,76 por barril (+US$ 1,27) e o WTI de dezembro a US$ 86,53 (+0,57%), depois de na véspera ter descido abaixo de US$ 90 com o recuo de Trump na ameaça de atacar o Irão. O Qatar disse ter obtido pelo menos duas semanas para a diplomacia mas que as diferenças continuam significativas; o diesel NYMEX fechou a US$ 4,21 por galão e a Pemex elevou o processamento de crude ao máximo desde 2013.",
-      "impacto": "Positivo para a receita de PETR4 e PRIO3; negativo para a inflação e para a curva de juros, e reabre a pressão sobre a defasagem de preços da Petrobras.",
-      "especulacao": "",
-      "n_noticias": 9,
-      "noticias": [
-        {
-          "id": "62ec3ef3b83e",
-          "titulo": "Brent crude futures settle at $92.76/bbl, up $1.27, 1.39%",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-11",
-          "hora": "19:44",
-          "link": "https://www.financialjuice.com/News/9847685/Brent-crude-futures-settle-at-9276bbl-up-127-139.aspx?xy=rss"
-        },
-        {
-          "id": "9b7cd494ddd9",
-          "titulo": "NYMEX diesel Dec. futures settle at $4.2113 a gallon",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-11",
-          "hora": "19:31",
-          "link": "https://www.financialjuice.com/News/9847670/NYMEX-diesel-Dec-futures-settle-at-42113-a-gallon.aspx?xy=rss"
-        },
-        {
-          "id": "8aea09458add",
-          "titulo": "NYMEX gasoline Dec. futures settle at $2.6075 a gallon",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-11",
-          "hora": "19:31",
-          "link": "https://www.financialjuice.com/News/9847669/NYMEX-gasoline-Dec-futures-settle-at-26075-a-gallon.aspx?xy=rss"
-        },
-        {
-          "id": "e18b599a6bef",
-          "titulo": "NYMEX Natural Gas Dec. Futures settle at $3.2150/mmbtu",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-11",
-          "hora": "19:31",
-          "link": "https://www.financialjuice.com/News/9847671/NYMEX-Natural-Gas-Dec-Futures-settle-at-32150mmbtu.aspx?xy=rss"
-        },
-        {
-          "id": "fc69198c38e2",
-          "titulo": "NYMEX WTI crude Dec. futures settle at $86.53 a barrel, up 49 cents, 0.57%",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-11",
-          "hora": "19:30",
-          "link": "https://www.financialjuice.com/News/9847668/NYMEX-WTI-crude-Dec-futures-settle-at-8653-a-barrel-up-49-cents-057.aspx?xy=rss"
-        },
-        {
-          "id": "c85b076abafc",
-          "titulo": "Pemex increases oil processing to the highest level since 2013",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-11",
-          "hora": "19:16",
-          "link": "https://www.financialjuice.com/News/9847660/Pemex-increases-oil-processing-to-the-highest-level-since-2013.aspx?xy=rss"
-        },
-        {
-          "id": "cffbd4d73586",
-          "titulo": "Crude oil faces a geopolitical test as Russia signals progress toward peace",
-          "fonte": "ForexLive",
-          "data": "2026-11-11",
-          "hora": "14:37",
-          "link": "https://investinglive.com/technical-analysis/crude-oil-faces-a-geopolitical-test-as-russia-signals-progress-toward-peace/"
-        },
-        {
-          "id": "826679880f1f",
-          "titulo": "Crude oil rebounds as expectations for an imminent deal fade amid the lack of US-Iran progress",
-          "fonte": "ForexLive",
-          "data": "2026-11-11",
-          "hora": "10:42",
-          "link": "https://investinglive.com/commodities/crude-oil-rebounds-as-expectations-for-an-imminent-deal-fade-amid-the-lack-of-us-iran-progress/"
-        },
-        {
-          "id": "520bfa4df935",
-          "titulo": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
-          "fonte": "FT Markets",
-          "data": "2026-11-10",
-          "hora": "14:46",
-          "link": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1"
-        }
-      ],
-      "criado_em": "2026-11-11T20:28",
-      "atualizado_em": "2026-11-11T20:28"
-    },
-    {
-      "titulo": "Nvidia perde valor com o caso do CEO e a Baird deixa de recomendar a compra",
-      "sinal": "risk_off",
-      "resumo": "O G1 noticia que a Nvidia perdeu quase R$ 6 trilhões em valor de mercado desde o caso de Jensen Huang com uma alegada espia chinesa, mais do que toda a bolsa brasileira; a suposta espia entrou em Taiwan com passaporte de Hong Kong. Um analista da Baird deixou de recomendar a compra, acionistas já processaram a empresa e Huang, e o MarketWatch noticia que o Congresso pressiona por limites às vendas de chips para a China apesar do lobby recorde da Nvidia.",
+      "resumo": "A The Economist pediu a saída do CEO da Nvidia, Jensen Huang, depois do caso com uma alegada espia chinesa; o G1 noticia que a empresa perdeu quase R$ 6 trilhões em valor de mercado desde que o caso veio a público, mais do que toda a bolsa brasileira. Um analista da Baird deixou de recomendar a compra, acionistas processaram a empresa e Huang, e o MarketWatch noticia que o Congresso pressiona por limites às vendas de chips para a China apesar do lobby recorde da Nvidia.",
       "impacto": "Volatilidade no maior peso do S&P 500 contamina o apetite global por risco e, por correlação, o Ibovespa; restrições a chips para a China são um risco adicional para o comércio EUA-China.",
       "especulacao": "",
-      "n_noticias": 9,
+      "n_noticias": 11,
       "noticias": [
+        {
+          "id": "4f9e298a1a9a",
+          "titulo": "The Economist pede saída de CEO da Nvidia após caso extraconjugal com suposta espiã chinesa",
+          "fonte": "G1 Economia",
+          "data": "2026-11-11",
+          "hora": "20:58",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/the-economist-caso-huang-nvidia.ghtml"
+        },
+        {
+          "id": "1809479d46f2",
+          "titulo": "Nvidia: The Market Is Giving You Another Chance",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-11",
+          "hora": "20:37",
+          "link": "https://seekingalpha.com/article/4966653-nvidia-the-market-is-giving-you-another-chance?source=feed_all_articles"
+        },
         {
           "id": "9a7d353fe657",
           "titulo": "Nvidia perde quase R$ 6 trilhões após caso envolvendo CEO, mais que toda a bolsa brasileira",
@@ -796,16 +736,32 @@
         }
       ],
       "criado_em": "2026-11-11T20:28",
-      "atualizado_em": "2026-11-11T20:28"
+      "atualizado_em": "2026-11-11T21:00"
     },
     {
-      "titulo": "DIs e dólar recuam com o ajuste fiscal em negociação no Senado e Galípolo diz que o BC decide reunião a reunião",
+      "titulo": "Governo apresenta ao Senado o projeto de ajuste fiscal para 2027 e o dólar recua com o Ibovespa em alta",
       "sinal": "risk_on",
-      "resumo": "O ministro disse que o ajuste fiscal negociado com o Senado vai racionalizar despesas, com impacto que pode chegar a R$ 60 bilhões em 2027; as taxas dos DIs fecharam em queda, o dólar recuou para R$ 5,56 e o Ibovespa subiu. Galípolo disse que, perante as incertezas, o BC decide os juros reunião a reunião, que não sinalizou a Selic mas defendeu juros restritivos, e afastou mudanças no regime de metas de inflação.",
+      "resumo": "O governo apresentou ao Senado o projeto de ajuste fiscal para 2027, com texto do senador Jaques Wagner e relatoria de Eduardo Braga; o ministro disse que as medidas vão racionalizar despesas, com impacto que pode chegar a R$ 60 bilhões. As taxas dos DIs fecharam em queda, o dólar recuou para R$ 5,56 e o Ibovespa subiu; Galípolo disse que o BC decide os juros reunião a reunião, que não sinalizou a Selic mas defendeu juros restritivos, e afastou mudanças no regime de metas de inflação.",
       "impacto": "Alívio fiscal favorece bancos (ITUB4, BBDC4, BBAS3, BPAC11), construtoras (CYRE3, MRVE3) e o real; o tom firme de Galípolo limita apostas em cortes da Selic.",
-      "especulacao": "",
-      "n_noticias": 8,
+      "especulacao": "A Exame noticiou que o Senado pode votar o ajuste ainda nesta quarta, mas a votação depende de acordo entre as lideranças; não há data confirmada.",
+      "n_noticias": 11,
       "noticias": [
+        {
+          "id": "8b5c569381ba",
+          "titulo": "Dólar cai com expectativa de medidas de até R$ 60 bilhões para as contas públicas; Ibovespa sobe",
+          "fonte": "G1 Economia",
+          "data": "2026-11-11",
+          "hora": "20:58",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/11/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "5095ba5c59e2",
+          "titulo": "Governo apresenta ao Senado projeto para ajuste fiscal em 2027",
+          "fonte": "InfoMoney",
+          "data": "2026-11-11",
+          "hora": "20:54",
+          "link": "https://www.infomoney.com.br/politica/governo-apresenta-ao-senado-projeto-para-ajuste-fiscal-em-2027/"
+        },
         {
           "id": "a6467ec47e50",
           "titulo": "Ajuste fiscal em negociação com o Senado vai 'racionalizar algumas despesas'; impacto pode chegar a R$ 60 bi em 2027, diz ministro",
@@ -855,6 +811,14 @@
           "link": "https://www.infomoney.com.br/economia/galipolo-diz-respeitar-debates-mas-descarta-mudar-regime-de-metas-de-inflacao/"
         },
         {
+          "id": "4ec41f3491bc",
+          "titulo": "Senado pode votar ajuste fiscal nesta quarta; governa estima impacto de R$ 60 bilhões em 2027",
+          "fonte": "Exame",
+          "data": "2026-11-11",
+          "hora": "17:35",
+          "link": "https://exame.com/brasil/senado-pode-votar-ajuste-fiscal-nesta-quarta-governa-estima-impacto-de-r-60-bilhoes-em-2027/"
+        },
+        {
           "id": "6c28f207b20c",
           "titulo": "Dólar opera em alta e vai a R$ 5,57, de olho em dados de inflação nos EUA e ata do Copom; Ibovespa sobe",
           "fonte": "G1 Economia",
@@ -872,7 +836,99 @@
         }
       ],
       "criado_em": "2026-11-11T20:28",
-      "atualizado_em": "2026-11-11T20:28"
+      "atualizado_em": "2026-11-11T21:00"
+    },
+    {
+      "titulo": "Brent fecha a US$ 92,76, a subir 1,39%, depois de o Irão ameaçar ataques à Europa",
+      "sinal": "risk_off",
+      "resumo": "O Brent fechou a US$ 92,76 por barril (+US$ 1,27) e o WTI de dezembro a US$ 86,53 (+0,57%), depois de o Irão elevar as tensões com uma ameaça de ataques à Europa; na sessão anterior o crude chegou a cair mais de US$ 3 com o recuo de Trump na ameaça de atacar o Irão. O Qatar disse ter obtido pelo menos duas semanas para a diplomacia mas que as diferenças continuam significativas; o diesel NYMEX fechou a US$ 4,21 por galão e a Pemex elevou o processamento de crude ao máximo desde 2013.",
+      "impacto": "Positivo para a receita de PETR4 e PRIO3; negativo para a inflação e para a curva de juros, e reabre a pressão sobre a defasagem de preços da Petrobras.",
+      "especulacao": "",
+      "n_noticias": 10,
+      "noticias": [
+        {
+          "id": "38886ed5d212",
+          "titulo": "Petróleo fecha em alta após Irã elevar tensões com ameaça de ataques à Europa",
+          "fonte": "InfoMoney",
+          "data": "2026-11-11",
+          "hora": "20:47",
+          "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-11112026/"
+        },
+        {
+          "id": "62ec3ef3b83e",
+          "titulo": "Brent crude futures settle at $92.76/bbl, up $1.27, 1.39%",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-11",
+          "hora": "19:44",
+          "link": "https://www.financialjuice.com/News/9847685/Brent-crude-futures-settle-at-9276bbl-up-127-139.aspx?xy=rss"
+        },
+        {
+          "id": "9b7cd494ddd9",
+          "titulo": "NYMEX diesel Dec. futures settle at $4.2113 a gallon",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-11",
+          "hora": "19:31",
+          "link": "https://www.financialjuice.com/News/9847670/NYMEX-diesel-Dec-futures-settle-at-42113-a-gallon.aspx?xy=rss"
+        },
+        {
+          "id": "8aea09458add",
+          "titulo": "NYMEX gasoline Dec. futures settle at $2.6075 a gallon",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-11",
+          "hora": "19:31",
+          "link": "https://www.financialjuice.com/News/9847669/NYMEX-gasoline-Dec-futures-settle-at-26075-a-gallon.aspx?xy=rss"
+        },
+        {
+          "id": "e18b599a6bef",
+          "titulo": "NYMEX Natural Gas Dec. Futures settle at $3.2150/mmbtu",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-11",
+          "hora": "19:31",
+          "link": "https://www.financialjuice.com/News/9847671/NYMEX-Natural-Gas-Dec-Futures-settle-at-32150mmbtu.aspx?xy=rss"
+        },
+        {
+          "id": "fc69198c38e2",
+          "titulo": "NYMEX WTI crude Dec. futures settle at $86.53 a barrel, up 49 cents, 0.57%",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-11",
+          "hora": "19:30",
+          "link": "https://www.financialjuice.com/News/9847668/NYMEX-WTI-crude-Dec-futures-settle-at-8653-a-barrel-up-49-cents-057.aspx?xy=rss"
+        },
+        {
+          "id": "c85b076abafc",
+          "titulo": "Pemex increases oil processing to the highest level since 2013",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-11",
+          "hora": "19:16",
+          "link": "https://www.financialjuice.com/News/9847660/Pemex-increases-oil-processing-to-the-highest-level-since-2013.aspx?xy=rss"
+        },
+        {
+          "id": "cffbd4d73586",
+          "titulo": "Crude oil faces a geopolitical test as Russia signals progress toward peace",
+          "fonte": "ForexLive",
+          "data": "2026-11-11",
+          "hora": "14:37",
+          "link": "https://investinglive.com/technical-analysis/crude-oil-faces-a-geopolitical-test-as-russia-signals-progress-toward-peace/"
+        },
+        {
+          "id": "826679880f1f",
+          "titulo": "Crude oil rebounds as expectations for an imminent deal fade amid the lack of US-Iran progress",
+          "fonte": "ForexLive",
+          "data": "2026-11-11",
+          "hora": "10:42",
+          "link": "https://investinglive.com/commodities/crude-oil-rebounds-as-expectations-for-an-imminent-deal-fade-amid-the-lack-of-us-iran-progress/"
+        },
+        {
+          "id": "520bfa4df935",
+          "titulo": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+          "fonte": "FT Markets",
+          "data": "2026-11-10",
+          "hora": "14:46",
+          "link": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1"
+        }
+      ],
+      "criado_em": "2026-11-11T20:28",
+      "atualizado_em": "2026-11-11T21:00"
     },
     {
       "titulo": "Petrobras descarta mudar a política de preços após o 3T26 e Magalu e Rumo disparam na B3",
@@ -951,6 +1007,74 @@
       "atualizado_em": "2026-11-11T20:28"
     },
     {
+      "titulo": "Bitcoin recupera os US$ 74 mil depois da mínima desde agosto, com o sentimento cripto em medo",
+      "sinal": "neutro",
+      "resumo": "O bitcoin voltou ao patamar de US$ 74 mil durante a tarde, recuperando parte das perdas da véspera, quando caiu à mínima desde agosto; o Ether estendeu as perdas depois de Waller admitir uma subida maior dos juros e de o CPI vir acima do previsto. O índice Crypto Fear and Greed está em 29 (medo) e o Fear and Greed das ações em 37.",
+      "impacto": "Aperto monetário nos EUA pesa nos 5 tokens acompanhados e no sentimento de risco em geral.",
+      "especulacao": "",
+      "n_noticias": 7,
+      "noticias": [
+        {
+          "id": "87afb28ba1ef",
+          "titulo": "Criptos: bitcoin sobe e sustenta faixa de US$ 74 mil mesmo com mercado vulnerável",
+          "fonte": "InfoMoney",
+          "data": "2026-11-11",
+          "hora": "20:24",
+          "link": "https://www.infomoney.com.br/mercados/criptos-bitcoin-sobe-e-sustenta-faixa-de-us-74-mil-mesmo-com-mercado-vulneravel/"
+        },
+        {
+          "id": "3aff4c1c2459",
+          "titulo": "The HODL Paradox: The Anti-Fed Asset Has Become A Victim Of Itself",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-11",
+          "hora": "20:19",
+          "link": "https://seekingalpha.com/article/4966646-the-hodl-paradox-the-anti-fed-asset-has-become-a-victim-of-itself?source=feed_all_articles"
+        },
+        {
+          "id": "746bb8656e8b",
+          "titulo": "Crypto Fear and Greed Index: 29/100 = Fear",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-11",
+          "hora": "15:18",
+          "link": "https://www.financialjuice.com/News/9847383/Crypto-Fear-and-Greed-Index-29100--Fear.aspx?xy=rss"
+        },
+        {
+          "id": "bcb940838fd0",
+          "titulo": "Fear and Greed Index: 37/100 = Fear",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-11",
+          "hora": "15:17",
+          "link": "https://www.financialjuice.com/News/9847382/Fear-and-Greed-Index-37100--Fear.aspx?xy=rss"
+        },
+        {
+          "id": "fd8fc21b9d0a",
+          "titulo": "The price of Bitcoin is little changed but off the support target. What next?",
+          "fonte": "ForexLive",
+          "data": "2026-11-11",
+          "hora": "14:12",
+          "link": "https://investinglive.com/cryptocurrency/the-price-of-bitcoin-is-little-changed-but-off-the-support-target-what-next/"
+        },
+        {
+          "id": "28ff7074d811",
+          "titulo": "Ethereum extends losses as Fed's Waller puts a larger rate hike on the table and US CPI remains hot",
+          "fonte": "ForexLive",
+          "data": "2026-11-11",
+          "hora": "10:08",
+          "link": "https://investinglive.com/cryptocurrency/ethereum-extends-losses-as-fed-s-waller-puts-a-larger-rate-hike-on-the-table-and-us-cpi-remains-hot/"
+        },
+        {
+          "id": "6e992ecef371",
+          "titulo": "Bitcoin tests its 200 day moving average after hotter US CPI data",
+          "fonte": "ForexLive",
+          "data": "2026-11-10",
+          "hora": "16:11",
+          "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-its-200-day-moving-average-after-hotter-us-cpi-data/"
+        }
+      ],
+      "criado_em": "2026-11-11T20:28",
+      "atualizado_em": "2026-11-11T21:00"
+    },
+    {
       "titulo": "Wang Yi chama de positiva e construtiva a conversa com Rubio antes da cimeira da APEC",
       "sinal": "risk_on",
       "resumo": "O chanceler chinês Wang Yi disse que a conversa com Marco Rubio foi positiva e construtiva, que Pequim quer reforçar a comunicação e tratar as diferenças com os EUA, e ambos discutiram as interações Xi-Trump a uma semana da APEC em Shenzhen. A Axios relata que Bessent confrontou Lutnick pela inação face à China.",
@@ -1016,7 +1140,7 @@
       "resumo": "O governo descartou adiar a reforma tributária; o secretário da Receita disse que será proposto que o primeiro pagamento da CBS ocorra em fevereiro, e a emissão de notas fiscais do Simples Nacional passou para março, exceto serviços. A Receita estima que, sem os benefícios aprovados pelo Congresso, a alíquota federal cairia de 11,3% para 8,5% em 2027.",
       "impacto": "Transição tributária mexe com margens e capital de giro das empresas da carteira em 2027; o custo dos benefícios setoriais pesa na leitura fiscal.",
       "especulacao": "",
-      "n_noticias": 6,
+      "n_noticias": 5,
       "noticias": [
         {
           "id": "43219ff7a303",
@@ -1051,72 +1175,12 @@
           "link": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-sem-beneficios-aprovados-pelo-congresso-imposto-do-governo-cairia-de-113percent-para-85percent-estima-receita-federal.ghtml"
         },
         {
-          "id": "8ceb96db7215",
-          "titulo": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027",
-          "fonte": "G1 Economia",
-          "data": "2026-11-11",
-          "hora": "20:24",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml"
-        },
-        {
           "id": "41f8a1722b58",
           "titulo": "'Split payment': 98% das operações entre empresas devem estar cobertas a partir de outubro de 2027, estima confederação",
           "fonte": "G1 Economia",
           "data": "2026-11-10",
           "hora": "15:03",
           "link": "https://g1.globo.com/economia/noticia/2026/11/10/split-payment-98percent-das-operacoes-devem-estar-cobertas-ate-outubro-de-2027-estima-confederacao-dos-bancos.ghtml"
-        }
-      ],
-      "criado_em": "2026-11-11T20:28",
-      "atualizado_em": "2026-11-11T20:28"
-    },
-    {
-      "titulo": "Ether recua após o tom duro de Waller e o índice de sentimento cripto marca 29, zona de medo",
-      "sinal": "risk_off",
-      "resumo": "O Ether estendeu as perdas depois de Waller admitir uma subida maior dos juros e de o CPI vir acima do previsto; o Bitcoin está pouco alterado mas afastado do suporte, depois de ter testado a média de 200 dias na véspera. O índice Crypto Fear and Greed está em 29 (medo) e o Fear and Greed das ações em 37.",
-      "impacto": "Aperto monetário nos EUA pesa nos 5 tokens acompanhados e no sentimento de risco em geral.",
-      "especulacao": "",
-      "n_noticias": 5,
-      "noticias": [
-        {
-          "id": "746bb8656e8b",
-          "titulo": "Crypto Fear and Greed Index: 29/100 = Fear",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-11",
-          "hora": "15:18",
-          "link": "https://www.financialjuice.com/News/9847383/Crypto-Fear-and-Greed-Index-29100--Fear.aspx?xy=rss"
-        },
-        {
-          "id": "bcb940838fd0",
-          "titulo": "Fear and Greed Index: 37/100 = Fear",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-11",
-          "hora": "15:17",
-          "link": "https://www.financialjuice.com/News/9847382/Fear-and-Greed-Index-37100--Fear.aspx?xy=rss"
-        },
-        {
-          "id": "fd8fc21b9d0a",
-          "titulo": "The price of Bitcoin is little changed but off the support target. What next?",
-          "fonte": "ForexLive",
-          "data": "2026-11-11",
-          "hora": "14:12",
-          "link": "https://investinglive.com/cryptocurrency/the-price-of-bitcoin-is-little-changed-but-off-the-support-target-what-next/"
-        },
-        {
-          "id": "28ff7074d811",
-          "titulo": "Ethereum extends losses as Fed's Waller puts a larger rate hike on the table and US CPI remains hot",
-          "fonte": "ForexLive",
-          "data": "2026-11-11",
-          "hora": "10:08",
-          "link": "https://investinglive.com/cryptocurrency/ethereum-extends-losses-as-fed-s-waller-puts-a-larger-rate-hike-on-the-table-and-us-cpi-remains-hot/"
-        },
-        {
-          "id": "6e992ecef371",
-          "titulo": "Bitcoin tests its 200 day moving average after hotter US CPI data",
-          "fonte": "ForexLive",
-          "data": "2026-11-10",
-          "hora": "16:11",
-          "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-its-200-day-moving-average-after-hotter-us-cpi-data/"
         }
       ],
       "criado_em": "2026-11-11T20:28",
