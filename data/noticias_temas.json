@@ -1,15 +1,95 @@
 {
-  "atualizado_em": "2026-11-16T21:06",
-  "total_feed": 377,
+  "atualizado_em": "2026-11-17T12:07",
+  "total_feed": 489,
   "temas": [
     {
-      "titulo": "Venda de chips de IA intensifica-se na véspera do balanço da Nvidia e a CNBC diz que o conselho não pondera o regresso de Huang",
+      "titulo": "Ações de IA continuam a cair e o Nasdaq 100 recua 2,7% no dia antes do balanço da Nvidia",
       "sinal": "risk_off",
-      "resumo": "Micron, AMD e outras ações de IA aprofundaram a queda à tarde, com o Nasdaq a recuar cerca de 1%; a Nvidia perdeu perto de US$ 600 bilhões numa semana e divulga na terça, 17, o primeiro balanço após a saída de Huang, com consenso de receita de US$ 109 bilhões (Exame). Trump disse que não se importaria com a recondução e Musk apoiou a campanha, mas a CNBC relata que o conselho não está a considerar trazer Huang de volta. O subsecretário Helberg disse que os EUA não planeiam visar fornecedores como ASML, Samsung ou SK Hynix.",
-      "impacto": "Beta global de tech em queda pesa no apetite por emergentes e no fluxo estrangeiro para a B3; o balanço de terça é o principal evento de volatilidade da semana para Ibovespa e BOVA11.",
-      "especulacao": "O Guardian relatou que Huang discutia um regresso ao cargo; a CNBC relata o contrário do lado do conselho e não há decisão nem comunicado da empresa.",
-      "n_noticias": 43,
+      "resumo": "O Nasdaq 100 caiu 2,7% na segunda-feira com nova vaga de vendas na Nvidia e nos chips, e as bolsas europeias recuam esta manhã à espera do balanço desta noite, o primeiro depois da saída de Huang (FT). A Nvidia rejeitou a campanha 'Bring Jensen Back' apoiada por Trump e criou um comité para supervisionar a conformidade de segurança nacional e comércio. Os bancos estão a desfazer-se de dívida ligada a data centers e chips (FT).",
+      "impacto": "O balanço da Nvidia é o principal evento de volatilidade da semana para o Ibovespa e o BOVA11: o beta global de tech em queda pesa no apetite por emergentes e no fluxo estrangeiro para a B3.",
+      "especulacao": "O ForexLive vê o S&P 500 em tendência baixista antes do resultado e o inquérito BofA aponta que 52% dos gestores esperam um corte de capex de um hyperscaler em 6 meses; são leituras de mercado, não resultados.",
+      "n_noticias": 53,
       "noticias": [
+        {
+          "id": "a1eb9de1696f",
+          "titulo": "Stocks slide as Nvidia results loom",
+          "fonte": "FT Markets",
+          "data": "2026-11-17",
+          "hora": "11:09",
+          "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1"
+        },
+        {
+          "id": "13dbb7605929",
+          "titulo": "Trump on Nvidia: Good idea they launched the national security initiative $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:47",
+          "link": "https://www.financialjuice.com/News/9855552/Trump-on-Nvidia-Good-idea-they-launched-the-national-security-initiative-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "c700e342f642",
+          "titulo": "S&P 500 analysis before Nvidia's earnings tonight",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "10:33",
+          "link": "https://investinglive.com/technical-analysis/s-p-500-analysis-before-nvidia-s-earnings-tonight/"
+        },
+        {
+          "id": "c84c5ea50a8a",
+          "titulo": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
+          "fonte": "MarketWatch",
+          "data": "2026-11-17",
+          "hora": "10:28",
+          "link": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories"
+        },
+        {
+          "id": "a314aa71b1a2",
+          "titulo": "Nvidia: Committee to provide oversight over Nvidia's national security and global trade compliance programs $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:18",
+          "link": "https://www.financialjuice.com/News/9855510/Nvidia-Committee-to-provide-oversight-over-Nvidias-national-security-and-global-trade-compliance-programs-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "e6cd09938b1d",
+          "titulo": "Banks seek to curb AI debt exposure as backlash mounts",
+          "fonte": "FT Markets",
+          "data": "2026-11-17",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a?syn-25a6b1a6=1"
+        },
+        {
+          "id": "cff00a40ac5e",
+          "titulo": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+          "fonte": "BBC Business",
+          "data": "2026-11-17",
+          "hora": "02:37",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "c92b9c0dabcf",
+          "titulo": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
+          "fonte": "FT Markets",
+          "data": "2026-11-17",
+          "hora": "02:29",
+          "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1"
+        },
+        {
+          "id": "3e3e97fdafad",
+          "titulo": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+          "fonte": "MarketWatch",
+          "data": "2026-11-16",
+          "hora": "23:28",
+          "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories"
+        },
+        {
+          "id": "bd601cd8cf6f",
+          "titulo": "Business Daily",
+          "fonte": "BBC Business",
+          "data": "2026-11-16",
+          "hora": "21:30",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8grt?at_medium=RSS&at_campaign=rss"
+        },
         {
           "id": "7d1363adfa61",
           "titulo": "Nvidia investors will be clamoring for answers to these questions during the company’s hotly anticipated earnings call",
@@ -356,16 +436,380 @@
         }
       ],
       "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T21:06"
+      "atualizado_em": "2026-11-17T12:07"
     },
     {
-      "titulo": "Hammack defende subidas sucessivas de juro e diz que a inflação está a alargar-se a mais setores",
-      "sinal": "risk_off",
-      "resumo": "A presidente do Fed de Cleveland disse gostar da ideia de aumentos sucessivos, que a economia aguenta mais restrição e que as condições financeiras ainda não a travam, com pressões inflacionistas visíveis também por causa da IA; Jefferson já tinha posto a inflação no centro, com o PCE em 3,6%, e o Empire Manufacturing saiu em 7,8 contra 18 esperado. No crédito, o índice de risco está em 67,4 (acima da média) e recuou 6 pontos em 7 dias, mas o CCC continua no percentil 94,7 do ano, com OAS de 13,14 p.p. (+4,29 p.p. no ano, dado de 12/11).",
-      "impacto": "Juros americanos mais altos sustentam o dólar acima de R$ 5,70 e reduzem o espaço do Copom; a ponta frágil do crédito no pior nível do ano mantém o prémio de risco em bancos e small caps.",
-      "especulacao": "O MarketWatch argumenta que a volatilidade das obrigações pode ser o novo normal; é leitura de imprensa, não decisão do Fed.",
-      "n_noticias": 26,
+      "titulo": "Trump chega à Ásia e diz que vai pressionar Xi e Putin para acabar com a guerra na Ucrânia antes da cimeira de 19/11",
+      "sinal": "neutro",
+      "resumo": "Trump chegou às Filipinas para a viagem à Ásia e disse que vai pressionar Xi e Putin a ajudar a acabar com a guerra na Ucrânia e que Xi deverá levantar Taiwan; o encontro trilateral está marcado para quinta-feira, 19/11. Xi reforçou parcerias com Chile, Peru e México, e China e Canadá prolongaram por dois anos o alívio tarifário.",
+      "impacto": "Um acordo comercial EUA-China seria positivo para minério e aço (VALE3, GGBR4, CSNA3, USIM5) e para o apetite por emergentes; a disputa dos chips é o principal obstáculo.",
+      "especulacao": "Trump admite que Kim Jong Un possa ir à APEC ('veremos o que acontece'); nada está confirmado.",
+      "n_noticias": 38,
       "noticias": [
+        {
+          "id": "2c9d9bc92019",
+          "titulo": "Trump chega às Filipinas para viagem à Ásia com foco em comércio e segurança regional",
+          "fonte": "InfoMoney",
+          "data": "2026-11-17",
+          "hora": "11:42",
+          "link": "https://www.infomoney.com.br/mundo/trump-chega-as-filipinas-para-viagem-a-asia-com-foco-em-comercio-e-seguranca-regional/"
+        },
+        {
+          "id": "9bf2b301c096",
+          "titulo": "China and Canada agree to extend tariff relief for two years",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:31",
+          "link": "https://www.financialjuice.com/News/9855630/China-and-Canada-agree-to-extend-tariff-relief-for-two-years.aspx?xy=rss"
+        },
+        {
+          "id": "ae0a54a4869e",
+          "titulo": "China reaches consensus with Canada on Chinese bank branches",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:30",
+          "link": "https://www.financialjuice.com/News/9855624/China-reaches-consensus-with-Canada-on-Chinese-bank-branches.aspx?xy=rss"
+        },
+        {
+          "id": "47aeba4f185b",
+          "titulo": "Xi: China to boost trade with Chile - CCTV",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:14",
+          "link": "https://www.financialjuice.com/News/9855596/Xi-China-to-boost-trade-with-Chile---CCTV.aspx?xy=rss"
+        },
+        {
+          "id": "3b510aae5d8c",
+          "titulo": "Trump: Will press Xi and Putin to help bring an end to the Ukraine war",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:51",
+          "link": "https://www.financialjuice.com/News/9855561/Trump-Will-press-Xi-and-Putin-to-help-bring-an-end-to-the-Ukraine-war.aspx?xy=rss"
+        },
+        {
+          "id": "6bdc9631e303",
+          "titulo": "Kremlin says no contacts with Japan and Canada are planned - IFX",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:50",
+          "link": "https://www.financialjuice.com/News/9855558/Kremlin-says-no-contacts-with-Japan-and-Canada-are-planned---IFX.aspx?xy=rss"
+        },
+        {
+          "id": "88d0f8d3e7d1",
+          "titulo": "Trump, on Taiwan: I’m sure Xi will raise the issue",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:49",
+          "link": "https://www.financialjuice.com/News/9855555/Trump-on-Taiwan-Im-sure-Xi-will-raise-the-issue.aspx?xy=rss"
+        },
+        {
+          "id": "a80c7736fb83",
+          "titulo": "Trump on Kim Jong Un coming to APEC: he would like to. We'll see what happens",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:49",
+          "link": "https://www.financialjuice.com/News/9855556/Trump-on-Kim-Jong-Un-coming-to-APEC-he-would-like-to-Well-see-what-happens.aspx?xy=rss"
+        },
+        {
+          "id": "c379fda5a855",
+          "titulo": "Trump, on China disagreements, has handled that very well. It’s two opinions",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:48",
+          "link": "https://www.financialjuice.com/News/9855554/Trump-on-China-disagreements-has-handled-that-very-well-Its-two-opinions.aspx?xy=rss"
+        },
+        {
+          "id": "a5c72bb8bb37",
+          "titulo": "Trump on separate bilateral with Putin: I would if available",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:48",
+          "link": "https://www.financialjuice.com/News/9855553/Trump-on-separate-bilateral-with-Putin-I-would-if-available.aspx?xy=rss"
+        },
+        {
+          "id": "f2cebee991c6",
+          "titulo": "Xi: China willing to boost partnership with Peru - Xinhua",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:45",
+          "link": "https://www.financialjuice.com/News/9855536/Xi-China-willing-to-boost-partnership-with-Peru---Xinhua.aspx?xy=rss"
+        },
+        {
+          "id": "23b3f0ba3fd1",
+          "titulo": "China's Xi, to Peru president: should tap potential for cooperation on new energy and artificial intelligence - Xinhua",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:44",
+          "link": "https://www.financialjuice.com/News/9855531/Chinas-Xi-to-Peru-president-should-tap-potential-for-cooperation-on-new-energy-and-artificial-intelligence---Xinhua.aspx?xy=rss"
+        },
+        {
+          "id": "46597dd6946b",
+          "titulo": "Gazprom and CNPC discuss gas cooperation on APEC sidelines",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:21",
+          "link": "https://www.financialjuice.com/News/9855518/Gazprom-and-CNPC-discuss-gas-cooperation-on-APEC-sidelines.aspx?xy=rss"
+        },
+        {
+          "id": "89387abfeabc",
+          "titulo": "Xi calls on China to deepen political trust with Mexico - Xinhua",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:19",
+          "link": "https://www.financialjuice.com/News/9855511/Xi-calls-on-China-to-deepen-political-trust-with-Mexico---Xinhua.aspx?xy=rss"
+        },
+        {
+          "id": "7b65072ec113",
+          "titulo": "Trump, Xi e Putin: os 4 temas que devem dominar a cúpula da APEC",
+          "fonte": "Exame",
+          "data": "2026-11-17",
+          "hora": "08:59",
+          "link": "https://exame.com/mundo/trump-xi-e-putin-os-4-temas-que-devem-dominar-a-cupula-da-apec/"
+        },
+        {
+          "id": "fd53e843da5a",
+          "titulo": "Putin could meet North Korean leader Kim Jong Un if he also comes to china for APEC summit, IFX quotes kremlin spokesman Peskov as saying",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:44",
+          "link": "https://www.financialjuice.com/News/9854412/Putin-could-meet-North-Korean-leader-Kim-Jong-Un-if-he-also-comes-to-china-for-APEC-summit-IFX-quotes-kremlin-spokesman-Peskov-as-saying.aspx?xy=rss"
+        },
+        {
+          "id": "f279be804950",
+          "titulo": "Enfraquecido, Trump deve ser testado por Xi e Putin na China, diz pesquisador",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "16:25",
+          "link": "https://exame.com/mundo/enfraquecido-trump-deve-ser-testado-por-xi-e-putin-na-china-diz-pesquisador/"
+        },
+        {
+          "id": "b4a70aac1292",
+          "titulo": "Pela primeira vez na história, Xi Jinping, Putin e Trump se reunirão presencialmente",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "15:06",
+          "link": "https://exame.com/mundo/pela-primeira-vez-na-historia-xi-jinping-putin-e-trump-se-reunirao-presencialmente/"
+        },
+        {
+          "id": "7035067f0217",
+          "titulo": "Trump: Kim Jong Un may come, it's up to Xi.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:39",
+          "link": "https://www.financialjuice.com/News/9854001/Trump-Kim-Jong-Un-may-come-its-up-to-Xi.aspx?xy=rss"
+        },
+        {
+          "id": "aaf1325efe1a",
+          "titulo": "Trump asked where he would possibly meet Kim Jong Un - China",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:37",
+          "link": "https://www.financialjuice.com/News/9853997/Trump-asked-where-he-would-possibly-meet-Kim-Jong-Un---China.aspx?xy=rss"
+        },
+        {
+          "id": "43206a44cd83",
+          "titulo": "Trump on Meeting Xi and Putin in China: We will talk about the economy and trade too.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:36",
+          "link": "https://www.financialjuice.com/News/9853995/Trump-on-Meeting-Xi-and-Putin-in-China-We-will-talk-about-the-economy-and-trade-too.aspx?xy=rss"
+        },
+        {
+          "id": "fe8e62f146b5",
+          "titulo": "Trump on meeting Xi and Putin in China: We'll talk about denuclearization, Iran and Ukraine",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:35",
+          "link": "https://www.financialjuice.com/News/9853994/Trump-on-meeting-Xi-and-Putin-in-China-Well-talk-about-denuclearization-Iran-and-Ukraine.aspx?xy=rss"
+        },
+        {
+          "id": "2abe5be3ee46",
+          "titulo": "Trump: I don't want to insult China just before we get there.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:30",
+          "link": "https://www.financialjuice.com/News/9853973/Trump-I-dont-want-to-insult-China-just-before-we-get-there.aspx?xy=rss"
+        },
+        {
+          "id": "141482ff772b",
+          "titulo": "Trump on meeting Xi and Putin in China: We may also meet with Kim Jong Un",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:27",
+          "link": "https://www.financialjuice.com/News/9853969/Trump-on-meeting-Xi-and-Putin-in-China-We-may-also-meet-with-Kim-Jong-Un.aspx?xy=rss"
+        },
+        {
+          "id": "4560c392f5d1",
+          "titulo": "Canada's PM Carney arrives in Shenzhen for APEC - Xinhua",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:12",
+          "link": "https://www.financialjuice.com/News/9853956/Canadas-PM-Carney-arrives-in-Shenzhen-for-APEC---Xinhua.aspx?xy=rss"
+        },
+        {
+          "id": "c2456a3d86ec",
+          "titulo": "Kremlin on Putin-Trump-Xi Trilateral meeting: Meeting to take place on November 19th at Xi's official residence.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:01",
+          "link": "https://www.financialjuice.com/News/9853933/Kremlin-on-Putin-Trump-Xi-Trilateral-meeting-Meeting-to-take-place-on-November-19th-at-Xis-official-residence.aspx?xy=rss"
+        },
+        {
+          "id": "99c1fe990cce",
+          "titulo": "Kremlin on Putin-Trump-Xi meeting: intensive consultations are under way on the text of the joint statement",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:01",
+          "link": "https://www.financialjuice.com/News/9853946/Kremlin-on-Putin-Trump-Xi-meeting-intensive-consultations-are-under-way-on-the-text-of-the-joint-statement.aspx?xy=rss"
+        },
+        {
+          "id": "fd6dc99a2b13",
+          "titulo": "Kremlin on Putin-Trump-Xi meeting: we expect a joint communique to be issued, but even if there isn't one, each leader will present his own assessment of the talks",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:01",
+          "link": "https://www.financialjuice.com/News/9853950/Kremlin-on-Putin-Trump-Xi-meeting-we-expect-a-joint-communique-to-be-issued-but-even-if-there-isnt-one-each-leader-will-present-his-own-assessment-of-the-talks.aspx?xy=rss"
+        },
+        {
+          "id": "2d9d86ba7c04",
+          "titulo": "Kremlin on Putin-Trump-Xi meeting: discussion is expected to have a major impact on the global situation.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:01",
+          "link": "https://www.financialjuice.com/News/9853951/Kremlin-on-Putin-Trump-Xi-meeting-discussion-is-expected-to-have-a-major-impact-on-the-global-situation.aspx?xy=rss"
+        },
+        {
+          "id": "12e47967927f",
+          "titulo": "Kremlin on Putin-Trump-Xi meeting: Talks will take into account contributions of different countries to victory in World War II and the founding of the United Nations.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:01",
+          "link": "https://www.financialjuice.com/News/9853949/Kremlin-on-Putin-Trump-Xi-meeting-Talks-will-take-into-account-contributions-of-different-countries-to-victory-in-World-War-II-and-the-founding-of-the-United-Nations.aspx?xy=rss"
+        },
+        {
+          "id": "51cb10a685df",
+          "titulo": "Kremlin on Putin-Trump meeting: Work is underway to arrange November 19th talks, Putin and Trump certain to meet, format and venue still being finalised",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:00",
+          "link": "https://www.financialjuice.com/News/9853930/Kremlin-on-Putin-Trump-meeting-Work-is-underway-to-arrange-November-19th-talks-Putin-and-Trump-certain-to-meet-format-and-venue-still-being-finalised.aspx?xy=rss"
+        },
+        {
+          "id": "3696c9277645",
+          "titulo": "Kremlin on Putin-Xi meeting: Putin and Xi to meet on November 18th, talks to focus on prospects for bilateral economic cooperation, as well as Ukraine and the Korean peninsula.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:00",
+          "link": "https://www.financialjuice.com/News/9853927/Kremlin-on-Putin-Xi-meeting-Putin-and-Xi-to-meet-on-November-18th-talks-to-focus-on-prospects-for-bilateral-economic-cooperation-as-well-as-Ukraine-and-the-Korean-peninsula.aspx?xy=rss"
+        },
+        {
+          "id": "839a0febe529",
+          "titulo": "Kremlin on Putin-Xi meeting: Putin to brief Xi on contacts with the United States, including talks held in Abu Dhabi.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:00",
+          "link": "https://www.financialjuice.com/News/9853928/Kremlin-on-Putin-Xi-meeting-Putin-to-brief-Xi-on-contacts-with-the-United-States-including-talks-held-in-Abu-Dhabi.aspx?xy=rss"
+        },
+        {
+          "id": "f60e6eede337",
+          "titulo": "Kremlin on Putin's visit to the APEC forum: more than 30 russian companies, including Gazprom, Novatek, Rosneft, Lukoil, Sberbank, Yandex, and Wildberries, will be represented at the event",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:00",
+          "link": "https://www.financialjuice.com/News/9853926/Kremlin-on-Putins-visit-to-the-APEC-forum-more-than-30-russian-companies-including-Gazprom-Novatek-Rosneft-Lukoil-Sberbank-Yandex-and-Wildberries-will-be-represented-at-the-event.aspx?xy=rss"
+        },
+        {
+          "id": "fe229be671bd",
+          "titulo": "US Commerce Secretary Lutnick and US Treasury Secretary Bessent are traveling on Air Force One with Trump to Asia",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "13:37",
+          "link": "https://www.financialjuice.com/News/9853899/US-Commerce-Secretary-Lutnick-and-US-Treasury-Secretary-Bessent-are-traveling-on-Air-Force-One-with-Trump-to-Asia.aspx?xy=rss"
+        },
+        {
+          "id": "429d8fe5a223",
+          "titulo": "O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
+          "fonte": "G1 Economia",
+          "data": "2026-11-16",
+          "hora": "09:35",
+          "link": "https://g1.globo.com/mundo/noticia/2026/11/16/o-que-encontro-historico-de-trump-putin-e-xi-marcado-para-esta-semana-pode-significar-para-o-mundo.ghtml"
+        },
+        {
+          "id": "85b96c056c9c",
+          "titulo": "Trump, Xi e Putin: o que esperar da viagem do presidente americano à Ásia",
+          "fonte": "InfoMoney",
+          "data": "2026-11-15",
+          "hora": "16:31",
+          "link": "https://www.infomoney.com.br/mundo/trump-xi-e-putin-o-que-esperar-da-viagem-do-presidente-americano-a-asia/"
+        },
+        {
+          "id": "693631901644",
+          "titulo": "Rússia confirma encontro de Putin, Trump e Xi em meio a impasse sobre a Ucrânia",
+          "fonte": "Exame",
+          "data": "2026-11-15",
+          "hora": "12:07",
+          "link": "https://exame.com/mundo/russia-confirma-encontro-de-putin-trump-e-xi-em-meio-a-impasse-sobre-a-ucrania/"
+        }
+      ],
+      "criado_em": "2026-11-16T15:06",
+      "atualizado_em": "2026-11-17T12:07"
+    },
+    {
+      "titulo": "Hammack defende subidas sucessivas e o Goldman passa a prever mais duas altas do Fed; ouro cai a mínimo de um ano",
+      "sinal": "risk_off",
+      "resumo": "A presidente do Fed de Cleveland disse gostar da ideia de aumentos sucessivos e que a inflação se está a alargar a mais setores; o Goldman prevê mais duas subidas do Fed depois de um terceiro núcleo de CPI elevado, e o yield de 2 anos subiu para perto de 4,86%. O ouro tocou um mínimo de um ano perto de US$ 3.830 e caminha para o pior ano desde 2015. No crédito, o índice de risco está em 69,6 (acima da média) e recuou 3,6 pontos em 7 dias, mas o CCC está no percentil 94,8 do ano, com OAS de 13,16 p.p. (+4,31 p.p. no ano, dado de 13/11).",
+      "impacto": "Juros americanos mais altos sustentam o dólar acima de R$ 5,70 e reduzem o espaço do Copom; a ponta frágil do crédito no pior nível do ano mantém o prémio de risco em bancos e small caps.",
+      "especulacao": "A PIMCO recomenda fixar yields a 3-5 anos e o Morgan Stanley acha o mercado demasiado agressivo nos juros e projeta o ouro a US$ 5.250; são previsões de casas, não decisões do Fed.",
+      "n_noticias": 32,
+      "noticias": [
+        {
+          "id": "a4b5679e80ac",
+          "titulo": "Gold consolidates as growth concerns gain traction amid a falling stock market. What's next?",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "10:24",
+          "link": "https://investinglive.com/commodities/gold-consolidates-as-growth-concerns-gain-traction-amid-a-falling-stock-market-what-s-next/"
+        },
+        {
+          "id": "44a77c1acba4",
+          "titulo": "Lock in yields not seen in 25 years, PIMCO urges, while calling stocks very expensive",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "03:58",
+          "link": "https://investinglive.com/stocks/lock-in-yields-not-seen-in-25-years-pimco-urges-while-calling-stocks-very-expensive/"
+        },
+        {
+          "id": "5520ca32db7d",
+          "titulo": "Morgan Stanley bets on gold at $5,250, the boldest bank call with bullion near $3,875",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "03:28",
+          "link": "https://investinglive.com/commodities/morgan-stanley-bets-on-gold-at-5-250-the-boldest-bank-call-with-bullion-near-3-875/"
+        },
+        {
+          "id": "03ae73ce2f89",
+          "titulo": "More from Morgan Stanley: 8,700 S&P target and $5,250 gold lead its 2027 outlook",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "02:48",
+          "link": "https://investinglive.com/stock-market-update/more-from-morgan-stanley-8-700-s-p-target-and-5-250-gold-lead-its-2027-outlook/"
+        },
+        {
+          "id": "a97e8d65934e",
+          "titulo": "Two more Fed hikes, then a long pause: Goldman reads a third hot core CPI print",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "01:55",
+          "link": "https://investinglive.com/central-banks/two-more-fed-hikes-then-a-long-pause-goldman-reads-a-third-hot-core-cpi-print/"
+        },
+        {
+          "id": "53ca55e78d1d",
+          "titulo": "Gold hits 1-year low near $3,830, on course for worst year since 2015 as yields bite",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "00:51",
+          "link": "https://investinglive.com/commodities/gold-hits-1-year-low-near-3-830-on-course-for-worst-year-since-2015-as-yields-bite/"
+        },
         {
           "id": "0b3e8f009455",
           "titulo": "Why Central Bank Buying Is Keeping Gold Afloat As More Fed Hikes Are Expected",
@@ -576,16 +1020,112 @@
         }
       ],
       "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T21:06"
+      "atualizado_em": "2026-11-17T12:07"
     },
     {
-      "titulo": "Irão diz que um quarto petroleiro em 24 horas bateu numa mina no Ormuz e Araghchi segue para Omã",
-      "sinal": "risk_off",
-      "resumo": "A marinha iraniana e a televisão estatal relatam um petroleiro em chamas após atingir uma mina, o quarto navio afetado em 24 horas; a UKMTO tinha recebido relato de um navio atingido por projétil. O MNE Araghchi saiu de Islamabad para Mascate depois de o Paquistão dizer que aguarda resposta dos EUA; Vance disse que não deixará o Irão tornar-se um compromisso de dois anos e o porta-aviões USS Theodore Roosevelt opera na área do CENTCOM. Um vice-governador de Isfahan desmentiu a ativação das defesas aéreas.",
-      "impacto": "Prémio de risco no Brent sustenta PETR4 e PRIO3, mas alimenta inflação e a pressão sobre juros (Fed e Copom), negativo para o resto da bolsa.",
-      "especulacao": "A agência Mehr relata o abate de um drone americano MQ-1 perto do Ormuz e a ativação de defesas aéreas em Isfahan; nenhum dos relatos foi confirmado pelos EUA e o segundo foi desmentido localmente.",
-      "n_noticias": 23,
+      "titulo": "Qatar reúne-se hoje com o Irão na mediação com os EUA e Araghchi apresenta a Omã uma iniciativa para acabar com a guerra",
+      "sinal": "neutro",
+      "resumo": "O MNE do Qatar confirmou uma reunião com os iranianos nesta terça no quadro da mediação EUA-Irão, e Araghchi informou o sultão de Omã sobre uma iniciativa para pôr fim à guerra. Na véspera, a televisão estatal iraniana relatou um quarto petroleiro atingido por mina no Ormuz em 24 horas; o Centcom classificou como falsa a alegação iraniana de que drones atingiram um radar americano. Trump disse que os EUA estão a analisar a ameaça de uma bomba suja, que Teerão chama infundada.",
+      "impacto": "A via diplomática pode tirar prémio de risco ao Brent (negativo no curto prazo para PETR4 e PRIO3, positivo para inflação e juros); novos incidentes no Ormuz revertem essa leitura.",
+      "especulacao": "A CNN relatou um alegado plano iraniano de bomba suja em Washington; o Irão nega e não há confirmação oficial dos EUA.",
+      "n_noticias": 32,
       "noticias": [
+        {
+          "id": "c0aa5bae3e09",
+          "titulo": "Centcom: Iran claim drones hit US radar is ‘false’",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:47",
+          "link": "https://www.financialjuice.com/News/9855669/Centcom-Iran-claim-drones-hit-US-radar-is-false.aspx?xy=rss"
+        },
+        {
+          "id": "53e331b7289a",
+          "titulo": "Trump: The US is looking into Iran's dirty bomb threat - CBS",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:34",
+          "link": "https://www.financialjuice.com/News/9855638/Trump-The-US-is-looking-into-Irans-dirty-bomb-threat---CBS.aspx?xy=rss"
+        },
+        {
+          "id": "6ae91d573a68",
+          "titulo": "Iran FM: Iran has always been serious about diplomacy",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:08",
+          "link": "https://www.financialjuice.com/News/9855593/Iran-FM-Iran-has-always-been-serious-about-diplomacy.aspx?xy=rss"
+        },
+        {
+          "id": "44e60d1489f9",
+          "titulo": "Iran FM briefs Oman Sultan on initiative to end war",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:08",
+          "link": "https://www.financialjuice.com/News/9855592/Iran-FM-briefs-Oman-Sultan-on-initiative-to-end-war.aspx?xy=rss"
+        },
+        {
+          "id": "a4183b0e10f7",
+          "titulo": "Iran's Araghchi held talks on the region with the Sultan of Oman",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:08",
+          "link": "https://www.financialjuice.com/News/9855591/Irans-Araghchi-held-talks-on-the-region-with-the-Sultan-of-Oman.aspx?xy=rss"
+        },
+        {
+          "id": "281f923bc5d9",
+          "titulo": "UKMTO: Tanker was struck by a projectile on November 13th",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:07",
+          "link": "https://www.financialjuice.com/News/9855590/UKMTO-Tanker-was-struck-by-a-projectile-on-November-13th.aspx?xy=rss"
+        },
+        {
+          "id": "2512e3550ac3",
+          "titulo": "UKMTO gets a time-delayed report of an incident in the Persian Gulf",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:07",
+          "link": "https://www.financialjuice.com/News/9855589/UKMTO-gets-a-time-delayed-report-of-an-incident-in-the-Persian-Gulf.aspx?xy=rss"
+        },
+        {
+          "id": "04bde6dc7eea",
+          "titulo": "Iran's foreign ministry Spokesperson: CNN report about a potential Iranian plan to detonate a dirty bomb in Washington is 'baseless allegations' - Post on X",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:50",
+          "link": "https://www.financialjuice.com/News/9855559/Irans-foreign-ministry-Spokesperson-CNN-report-about-a-potential-Iranian-plan-to-detonate-a-dirty-bomb-in-Washington-is-baseless-allegations---Post-on-X.aspx?xy=rss"
+        },
+        {
+          "id": "076f9081391e",
+          "titulo": "Trump on Iran: We take it very seriously; this is why they can't have a nuclear weapon",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:50",
+          "link": "https://www.financialjuice.com/News/9855557/Trump-on-Iran-We-take-it-very-seriously-this-is-why-they-cant-have-a-nuclear-weapon.aspx?xy=rss"
+        },
+        {
+          "id": "fe633a7b5f9c",
+          "titulo": "Qatar: Meeting to be held with Iran today as part of mediation",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:20",
+          "link": "https://www.financialjuice.com/News/9855516/Qatar-Meeting-to-be-held-with-Iran-today-as-part-of-mediation.aspx?xy=rss"
+        },
+        {
+          "id": "823118bc49ee",
+          "titulo": "Qatar's foreign ministry: Meeting will be held on Tuesday with Iranians as part of mediation efforts",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:20",
+          "link": "https://www.financialjuice.com/News/9855515/Qatars-foreign-ministry-Meeting-will-be-held-on-Tuesday-with-Iranians-as-part-of-mediation-efforts.aspx?xy=rss"
+        },
+        {
+          "id": "80efe4ca75e4",
+          "titulo": "Qatar: Mediation between the US and Iran is still ongoing - Al Jazeera",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:20",
+          "link": "https://www.financialjuice.com/News/9855514/Qatar-Mediation-between-the-US-and-Iran-is-still-ongoing---Al-Jazeera.aspx?xy=rss"
+        },
         {
           "id": "20a5e7b8b775",
           "titulo": "Deputy Isfahan Governor denies report of air defences activated - SNN News Agency",
@@ -745,535 +1285,75 @@
           "data": "2026-11-15",
           "hora": "12:06",
           "link": "https://www.financialjuice.com/News/9852676/Irans-foreign-minister-to-visit-Oman-Tuesday-for-discussions-IRNA-citing-ministry-spokesperson.aspx?xy=rss"
-        },
-        {
-          "id": "d8b78290da4b",
-          "titulo": "Iran’s IRGC: six drones struck US air defense radar at Bahrain’s al-Rifaa helicopter base - Press TV",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-15",
-          "hora": "10:23",
-          "link": "https://www.financialjuice.com/News/9852635/Irans-IRGC-six-drones-struck-US-air-defense-radar-at-Bahrains-al-Rifaa-helicopter-base---Press-TV.aspx?xy=rss"
-        },
-        {
-          "id": "f08e4038ad98",
-          "titulo": "Iran's Fars News Agency: IRGC launched strikes on US base in Bahrain in retaliation for 'hostile' US actions",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-15",
-          "hora": "10:22",
-          "link": "https://www.financialjuice.com/News/9852634/Irans-Fars-News-Agency-IRGC-launched-strikes-on-US-base-in-Bahrain-in-retaliation-for-hostile-US-actions.aspx?xy=rss"
-        },
-        {
-          "id": "023eb1ed2ab2",
-          "titulo": "Iran's IRGC navy: two tankers ignite after hitting naval mines in Strait of Hormuz - state media",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-14",
-          "hora": "21:46",
-          "link": "https://www.financialjuice.com/News/9852411/Irans-IRGC-navy-two-tankers-ignite-after-hitting-naval-mines-in-Strait-of-Hormuz---state-media.aspx?xy=rss"
         }
       ],
       "criado_em": "2026-11-15T17:26",
-      "atualizado_em": "2026-11-16T21:06"
+      "atualizado_em": "2026-11-17T12:07"
     },
     {
-      "titulo": "Kremlin fixa a cimeira Putin-Trump-Xi para 19 de novembro na residência de Xi",
+      "titulo": "Iraque retoma exportações pelo oleoduto Kirkuk-Ceyhan depois de o WTI fechar a cair 3,21%",
       "sinal": "neutro",
-      "resumo": "O Kremlin confirma o encontro trilateral a 19/11 e uma reunião Putin-Xi a 18/11, com consultas intensas sobre um comunicado conjunto; é a primeira vez que os três líderes se reúnem presencialmente. Trump disse que vai discutir economia e comércio, Irão e Ucrânia, e o Kremlin admite que Putin se encontre com Kim Jong Un se este for à China.",
-      "impacto": "Um acordo comercial EUA-China seria positivo para minério e aço (VALE3, GGBR4, CSNA3, USIM5) e para o apetite por emergentes; sem acordo, prevalece a aversão ao risco da semana.",
-      "especulacao": "Trump admite que Kim Jong Un possa juntar-se ao encontro, decisão que diz caber a Xi; um pesquisador ouvido pela Exame espera que Xi e Putin testem um Trump enfraquecido. Nada disto está confirmado.",
-      "n_noticias": 23,
+      "resumo": "O ministério iraquiano confirmou a retoma das exportações pelo oleoduto Kirkuk-Ceyhan, a 120 mil barris por dia. Na segunda-feira, o Brent liquidou a US$ 92,44 e o WTI a US$ 85,72 (-3,21%), com o mercado a dar mais peso à previsão de excedente da AIE do que aos incidentes no Ormuz. O Japão propôs uma 'AIE asiática' para gerir reservas e a Chevron está perto de comprar a Beacon Offshore por US$ 5 bilhões.",
+      "impacto": "Mais oferta e a tese de excedente tiram prémio a PETR4 e PRIO3 no curto prazo, mas aliviam a inflação e a pressão sobre juros, positivo para o resto da bolsa.",
+      "especulacao": "O ForexLive lembra que o petróleo pode reverter com força se algum ataque a petroleiros for confirmado como perda grave; a reunião da OPEP+ a 29/11 é o próximo catalisador.",
+      "n_noticias": 22,
       "noticias": [
         {
-          "id": "fd53e843da5a",
-          "titulo": "Putin could meet North Korean leader Kim Jong Un if he also comes to china for APEC summit, IFX quotes kremlin spokesman Peskov as saying",
+          "id": "c8bca9867eda",
+          "titulo": "Russia's Novak orders faster oil refinery restoration - IFX",
           "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "19:44",
-          "link": "https://www.financialjuice.com/News/9854412/Putin-could-meet-North-Korean-leader-Kim-Jong-Un-if-he-also-comes-to-china-for-APEC-summit-IFX-quotes-kremlin-spokesman-Peskov-as-saying.aspx?xy=rss"
+          "data": "2026-11-17",
+          "hora": "11:44",
+          "link": "https://www.financialjuice.com/News/9855639/Russias-Novak-orders-faster-oil-refinery-restoration---IFX.aspx?xy=rss"
         },
         {
-          "id": "f279be804950",
-          "titulo": "Enfraquecido, Trump deve ser testado por Xi e Putin na China, diz pesquisador",
-          "fonte": "Exame",
-          "data": "2026-11-16",
-          "hora": "16:25",
-          "link": "https://exame.com/mundo/enfraquecido-trump-deve-ser-testado-por-xi-e-putin-na-china-diz-pesquisador/"
-        },
-        {
-          "id": "b4a70aac1292",
-          "titulo": "Pela primeira vez na história, Xi Jinping, Putin e Trump se reunirão presencialmente",
-          "fonte": "Exame",
-          "data": "2026-11-16",
-          "hora": "15:06",
-          "link": "https://exame.com/mundo/pela-primeira-vez-na-historia-xi-jinping-putin-e-trump-se-reunirao-presencialmente/"
-        },
-        {
-          "id": "7035067f0217",
-          "titulo": "Trump: Kim Jong Un may come, it's up to Xi.",
+          "id": "7ad6c0dde985",
+          "titulo": "Iraq resumes Kirkuk-Ceyhan oil flows at 120k b/d - INA",
           "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:39",
-          "link": "https://www.financialjuice.com/News/9854001/Trump-Kim-Jong-Un-may-come-its-up-to-Xi.aspx?xy=rss"
+          "data": "2026-11-17",
+          "hora": "10:45",
+          "link": "https://www.financialjuice.com/News/9855532/Iraq-resumes-Kirkuk-Ceyhan-oil-flows-at-120k-bd---INA.aspx?xy=rss"
         },
         {
-          "id": "aaf1325efe1a",
-          "titulo": "Trump asked where he would possibly meet Kim Jong Un - China",
+          "id": "fcc566b24839",
+          "titulo": "Iraq resumes oil exports via the Kirkuk-Ceyhan pipeline - Ministry",
           "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:37",
-          "link": "https://www.financialjuice.com/News/9853997/Trump-asked-where-he-would-possibly-meet-Kim-Jong-Un---China.aspx?xy=rss"
+          "data": "2026-11-17",
+          "hora": "10:44",
+          "link": "https://www.financialjuice.com/News/9855530/Iraq-resumes-oil-exports-via-the-Kirkuk-Ceyhan-pipeline---Ministry.aspx?xy=rss"
         },
         {
-          "id": "43206a44cd83",
-          "titulo": "Trump on Meeting Xi and Putin in China: We will talk about the economy and trade too.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:36",
-          "link": "https://www.financialjuice.com/News/9853995/Trump-on-Meeting-Xi-and-Putin-in-China-We-will-talk-about-the-economy-and-trade-too.aspx?xy=rss"
+          "id": "a503d1c73c76",
+          "titulo": "Commodities: Metals Under Pressure While Oil Supply Improves",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-17",
+          "hora": "10:36",
+          "link": "https://seekingalpha.com/article/4968964-commodities-metals-under-pressure-oil-supply-improves?source=feed_all_articles"
         },
         {
-          "id": "fe8e62f146b5",
-          "titulo": "Trump on meeting Xi and Putin in China: We'll talk about denuclearization, Iran and Ukraine",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:35",
-          "link": "https://www.financialjuice.com/News/9853994/Trump-on-meeting-Xi-and-Putin-in-China-Well-talk-about-denuclearization-Iran-and-Ukraine.aspx?xy=rss"
+          "id": "6be40ef222f7",
+          "titulo": "Japan proposes ‘Asian IEA’ to manage oil stockpiles",
+          "fonte": "FT Markets",
+          "data": "2026-11-17",
+          "hora": "07:01",
+          "link": "https://www.ft.com/content/208b3dff-5d7a-4250-989a-821fb70fb896?syn-25a6b1a6=1"
         },
         {
-          "id": "2abe5be3ee46",
-          "titulo": "Trump: I don't want to insult China just before we get there.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:30",
-          "link": "https://www.financialjuice.com/News/9853973/Trump-I-dont-want-to-insult-China-just-before-we-get-there.aspx?xy=rss"
+          "id": "2828228d5609",
+          "titulo": "Surplus story takes the wheel in oil for now, nudging Brent lower",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "02:05",
+          "link": "https://investinglive.com/commodities/surplus-story-takes-the-wheel-in-oil-for-now-nudging-brent-lower/"
         },
         {
-          "id": "141482ff772b",
-          "titulo": "Trump on meeting Xi and Putin in China: We may also meet with Kim Jong Un",
-          "fonte": "FinancialJuice",
+          "id": "e88de9b958f8",
+          "titulo": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf",
+          "fonte": "FT Markets",
           "data": "2026-11-16",
-          "hora": "14:27",
-          "link": "https://www.financialjuice.com/News/9853969/Trump-on-meeting-Xi-and-Putin-in-China-We-may-also-meet-with-Kim-Jong-Un.aspx?xy=rss"
+          "hora": "21:20",
+          "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1"
         },
-        {
-          "id": "4560c392f5d1",
-          "titulo": "Canada's PM Carney arrives in Shenzhen for APEC - Xinhua",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:12",
-          "link": "https://www.financialjuice.com/News/9853956/Canadas-PM-Carney-arrives-in-Shenzhen-for-APEC---Xinhua.aspx?xy=rss"
-        },
-        {
-          "id": "c2456a3d86ec",
-          "titulo": "Kremlin on Putin-Trump-Xi Trilateral meeting: Meeting to take place on November 19th at Xi's official residence.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:01",
-          "link": "https://www.financialjuice.com/News/9853933/Kremlin-on-Putin-Trump-Xi-Trilateral-meeting-Meeting-to-take-place-on-November-19th-at-Xis-official-residence.aspx?xy=rss"
-        },
-        {
-          "id": "99c1fe990cce",
-          "titulo": "Kremlin on Putin-Trump-Xi meeting: intensive consultations are under way on the text of the joint statement",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:01",
-          "link": "https://www.financialjuice.com/News/9853946/Kremlin-on-Putin-Trump-Xi-meeting-intensive-consultations-are-under-way-on-the-text-of-the-joint-statement.aspx?xy=rss"
-        },
-        {
-          "id": "fd6dc99a2b13",
-          "titulo": "Kremlin on Putin-Trump-Xi meeting: we expect a joint communique to be issued, but even if there isn't one, each leader will present his own assessment of the talks",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:01",
-          "link": "https://www.financialjuice.com/News/9853950/Kremlin-on-Putin-Trump-Xi-meeting-we-expect-a-joint-communique-to-be-issued-but-even-if-there-isnt-one-each-leader-will-present-his-own-assessment-of-the-talks.aspx?xy=rss"
-        },
-        {
-          "id": "2d9d86ba7c04",
-          "titulo": "Kremlin on Putin-Trump-Xi meeting: discussion is expected to have a major impact on the global situation.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:01",
-          "link": "https://www.financialjuice.com/News/9853951/Kremlin-on-Putin-Trump-Xi-meeting-discussion-is-expected-to-have-a-major-impact-on-the-global-situation.aspx?xy=rss"
-        },
-        {
-          "id": "12e47967927f",
-          "titulo": "Kremlin on Putin-Trump-Xi meeting: Talks will take into account contributions of different countries to victory in World War II and the founding of the United Nations.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:01",
-          "link": "https://www.financialjuice.com/News/9853949/Kremlin-on-Putin-Trump-Xi-meeting-Talks-will-take-into-account-contributions-of-different-countries-to-victory-in-World-War-II-and-the-founding-of-the-United-Nations.aspx?xy=rss"
-        },
-        {
-          "id": "51cb10a685df",
-          "titulo": "Kremlin on Putin-Trump meeting: Work is underway to arrange November 19th talks, Putin and Trump certain to meet, format and venue still being finalised",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:00",
-          "link": "https://www.financialjuice.com/News/9853930/Kremlin-on-Putin-Trump-meeting-Work-is-underway-to-arrange-November-19th-talks-Putin-and-Trump-certain-to-meet-format-and-venue-still-being-finalised.aspx?xy=rss"
-        },
-        {
-          "id": "3696c9277645",
-          "titulo": "Kremlin on Putin-Xi meeting: Putin and Xi to meet on November 18th, talks to focus on prospects for bilateral economic cooperation, as well as Ukraine and the Korean peninsula.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:00",
-          "link": "https://www.financialjuice.com/News/9853927/Kremlin-on-Putin-Xi-meeting-Putin-and-Xi-to-meet-on-November-18th-talks-to-focus-on-prospects-for-bilateral-economic-cooperation-as-well-as-Ukraine-and-the-Korean-peninsula.aspx?xy=rss"
-        },
-        {
-          "id": "839a0febe529",
-          "titulo": "Kremlin on Putin-Xi meeting: Putin to brief Xi on contacts with the United States, including talks held in Abu Dhabi.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:00",
-          "link": "https://www.financialjuice.com/News/9853928/Kremlin-on-Putin-Xi-meeting-Putin-to-brief-Xi-on-contacts-with-the-United-States-including-talks-held-in-Abu-Dhabi.aspx?xy=rss"
-        },
-        {
-          "id": "f60e6eede337",
-          "titulo": "Kremlin on Putin's visit to the APEC forum: more than 30 russian companies, including Gazprom, Novatek, Rosneft, Lukoil, Sberbank, Yandex, and Wildberries, will be represented at the event",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:00",
-          "link": "https://www.financialjuice.com/News/9853926/Kremlin-on-Putins-visit-to-the-APEC-forum-more-than-30-russian-companies-including-Gazprom-Novatek-Rosneft-Lukoil-Sberbank-Yandex-and-Wildberries-will-be-represented-at-the-event.aspx?xy=rss"
-        },
-        {
-          "id": "fe229be671bd",
-          "titulo": "US Commerce Secretary Lutnick and US Treasury Secretary Bessent are traveling on Air Force One with Trump to Asia",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "13:37",
-          "link": "https://www.financialjuice.com/News/9853899/US-Commerce-Secretary-Lutnick-and-US-Treasury-Secretary-Bessent-are-traveling-on-Air-Force-One-with-Trump-to-Asia.aspx?xy=rss"
-        },
-        {
-          "id": "429d8fe5a223",
-          "titulo": "O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
-          "fonte": "G1 Economia",
-          "data": "2026-11-16",
-          "hora": "09:35",
-          "link": "https://g1.globo.com/mundo/noticia/2026/11/16/o-que-encontro-historico-de-trump-putin-e-xi-marcado-para-esta-semana-pode-significar-para-o-mundo.ghtml"
-        },
-        {
-          "id": "85b96c056c9c",
-          "titulo": "Trump, Xi e Putin: o que esperar da viagem do presidente americano à Ásia",
-          "fonte": "InfoMoney",
-          "data": "2026-11-15",
-          "hora": "16:31",
-          "link": "https://www.infomoney.com.br/mundo/trump-xi-e-putin-o-que-esperar-da-viagem-do-presidente-americano-a-asia/"
-        },
-        {
-          "id": "693631901644",
-          "titulo": "Rússia confirma encontro de Putin, Trump e Xi em meio a impasse sobre a Ucrânia",
-          "fonte": "Exame",
-          "data": "2026-11-15",
-          "hora": "12:07",
-          "link": "https://exame.com/mundo/russia-confirma-encontro-de-putin-trump-e-xi-em-meio-a-impasse-sobre-a-ucrania/"
-        }
-      ],
-      "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T21:06"
-    },
-    {
-      "titulo": "Rússia aceita nova ronda de negociações a três sobre a Ucrânia, sem europeus, e os ataques continuam",
-      "sinal": "risk_off",
-      "resumo": "Um assessor do Kremlin diz que foi acordada a próxima ronda trilateral Rússia-Ucrânia-EUA, provavelmente em Abu Dhabi e sem data, e que a Rússia não aceitou incluir os europeus, contradizendo negociadores americanos; Kallas chama às exigências russas pretexto para continuar a guerra e Bruxelas propõe um empréstimo de 45 bilhões de euros à Ucrânia (FT). No terreno, a Ucrânia atingiu a ponte da Crimeia, um cargueiro afundado ao largo da Bulgária foi atingido por um drone marítimo e há incêndios em instalações industriais em Rostov.",
-      "impacto": "Ataques à navegação no Mar Negro sustentam o prémio de risco em energia e grãos; um avanço nas negociações tiraria prémio ao petróleo (negativo para PETR4/PRIO3) e ajudaria o risco global.",
-      "especulacao": "",
-      "n_noticias": 19,
-      "noticias": [
-        {
-          "id": "fe7817835434",
-          "titulo": "Kremlin Aide: For now, current talks only include Russia, Ukraine, and the US.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "15:01",
-          "link": "https://www.financialjuice.com/News/9854024/Kremlin-Aide-For-now-current-talks-only-include-Russia-Ukraine-and-the-US.aspx?xy=rss"
-        },
-        {
-          "id": "29c554449a0b",
-          "titulo": "Kremlin Aide: There's a lot to agree on before Europeans could be admitted to talks, says it could take more than one new round of trilateral talks",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "15:01",
-          "link": "https://www.financialjuice.com/News/9854022/Kremlin-Aide-Theres-a-lot-to-agree-on-before-Europeans-could-be-admitted-to-talks-says-it-could-take-more-than-one-new-round-of-trilateral-talks.aspx?xy=rss"
-        },
-        {
-          "id": "3872683e5279",
-          "titulo": "Kremlin Aide: Agreement was reached on the next round of 3-way Ukraine peace talks",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9854020/Kremlin-Aide-Agreement-was-reached-on-the-next-round-of-3-way-Ukraine-peace-talks.aspx?xy=rss"
-        },
-        {
-          "id": "48716d0a96bc",
-          "titulo": "Kremlin Aide: Moscow assumes they will take place in Abu Dhabi again, says date has not yet been agreed on.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9854019/Kremlin-Aide-Moscow-assumes-they-will-take-place-in-Abu-Dhabi-again-says-date-has-not-yet-been-agreed-on.aspx?xy=rss"
-        },
-        {
-          "id": "85465999bbed",
-          "titulo": "Kremlin Aide, contradicting US Negotiators: Russia did not agree to include Europeans in Ukraine peace talks.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9854021/Kremlin-Aide-contradicting-US-Negotiators-Russia-did-not-agree-to-include-Europeans-in-Ukraine-peace-talks.aspx?xy=rss"
-        },
-        {
-          "id": "af84ffa54185",
-          "titulo": "Kremlin Aide: Russia needs a signal from the Europeans on what they want.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9854017/Kremlin-Aide-Russia-needs-a-signal-from-the-Europeans-on-what-they-want.aspx?xy=rss"
-        },
-        {
-          "id": "f8aff63f07bb",
-          "titulo": "Cargo ship that capsized and sank off Bulgaria's coast on Monday was hit by at least one sea drone -Maritime Security Sources",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "15:00",
-          "link": "https://www.financialjuice.com/News/9854015/Cargo-ship-that-capsized-and-sank-off-Bulgarias-coast-on-Monday-was-hit-by-at-least-one-sea-drone--Maritime-Security-Sources-.aspx?xy=rss"
-        },
-        {
-          "id": "ac05ae5b95fe",
-          "titulo": "Trump: Haven't heard about Starlink limits in Ukraine",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:46",
-          "link": "https://www.financialjuice.com/News/9854010/Trump-Havent-heard-about-Starlink-limits-in-Ukraine.aspx?xy=rss"
-        },
-        {
-          "id": "d8cb284a32d4",
-          "titulo": "Trump: Putin backing down a bit on Ukraine, he could be tougher",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:39",
-          "link": "https://www.financialjuice.com/News/9854000/Trump-Putin-backing-down-a-bit-on-Ukraine-he-could-be-tougher.aspx?xy=rss"
-        },
-        {
-          "id": "cef2ce491b9a",
-          "titulo": "Trump: Ukraine is losing",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:36",
-          "link": "https://www.financialjuice.com/News/9853996/Trump-Ukraine-is-losing.aspx?xy=rss"
-        },
-        {
-          "id": "b053af58d89b",
-          "titulo": "EU's Kallas: Russian demands are a clear pretext to continue the war.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "07:18",
-          "link": "https://www.financialjuice.com/News/9853417/EUs-Kallas-Russian-demands-are-a-clear-pretext-to-continue-the-war.aspx?xy=rss"
-        },
-        {
-          "id": "d1a97478a822",
-          "titulo": "EU's Kallas: European leaders decided on the format for Russia talks, now need to discuss substance",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "07:17",
-          "link": "https://www.financialjuice.com/News/9853416/EUs-Kallas-European-leaders-decided-on-the-format-for-Russia-talks-now-need-to-discuss-substance.aspx?xy=rss"
-        },
-        {
-          "id": "a910f8776db6",
-          "titulo": "Ukraine hits Crimea bridge, traffic halted - IFX",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "06:21",
-          "link": "https://www.financialjuice.com/News/9853358/Ukraine-hits-Crimea-bridge-traffic-halted---IFX.aspx?xy=rss"
-        },
-        {
-          "id": "6fcfcf73b5ff",
-          "titulo": "Russian defence ministry: Russian forces strike cargo vessel in Black Sea",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "05:55",
-          "link": "https://www.financialjuice.com/News/9853330/Russian-defence-ministry-Russian-forces-strike-cargo-vessel-in-Black-Sea.aspx?xy=rss"
-        },
-        {
-          "id": "247fd95dcf41",
-          "titulo": "Russia downs 1,336 Ukrainian drones overnight: IFX",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "05:42",
-          "link": "https://www.financialjuice.com/News/9853323/Russia-downs-1336-Ukrainian-drones-overnight-IFX.aspx?xy=rss"
-        },
-        {
-          "id": "640659c0faba",
-          "titulo": "Fire erupts at four industrial sites in Russia’s Rostov region after drone strike: governor",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "05:10",
-          "link": "https://www.financialjuice.com/News/9853281/Fire-erupts-at-four-industrial-sites-in-Russias-Rostov-region-after-drone-strike-governor.aspx?xy=rss"
-        },
-        {
-          "id": "0b2697259b0d",
-          "titulo": "Brussels to suggest €45bn Ukraine loan secured by EU budget - FT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "05:01",
-          "link": "https://www.financialjuice.com/News/9853278/Brussels-to-suggest-45bn-Ukraine-loan-secured-by-EU-budget---FT.aspx?xy=rss"
-        },
-        {
-          "id": "64c85b893b83",
-          "titulo": "Drone debris sparks blaze at industrial site in Russia's Krasnodar region: officials",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "04:08",
-          "link": "https://www.financialjuice.com/News/9853223/Drone-debris-sparks-blaze-at-industrial-site-in-Russias-Krasnodar-region-officials.aspx?xy=rss"
-        },
-        {
-          "id": "6b2c1d58349d",
-          "titulo": "Russian forces strike Ukrainian cargo ship transporting supplies for Ukrainian army in the Black Sea: Ifax",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-15",
-          "hora": "15:14",
-          "link": "https://www.financialjuice.com/News/9852760/Russian-forces-strike-Ukrainian-cargo-ship-transporting-supplies-for-Ukrainian-army-in-the-Black-Sea-Ifax.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T15:06"
-    },
-    {
-      "titulo": "Dólar sobe 2% e vai a R$ 5,77, máximo desde abril de 2025, depois do IBC-Br em queda e do Focus mais alto",
-      "sinal": "risk_off",
-      "resumo": "O real teve a maior desvalorização diária desde a reeleição de Lula, com o dólar a R$ 5,77 e o mercado a apontar o risco fiscal (InfoMoney, Exame). A prévia do PIB do Banco Central caiu 0,9% no 3º trimestre, a maior queda desde a pandemia, e o Focus elevou a inflação de 2027 para 5% e passou a prever um corte menor da Selic; o Morgan Stanley rebaixou o Brasil e vê o Ibovespa em 160 mil pontos no fim de 2027. Os estrangeiros retiraram R$ 17 bilhões da bolsa, compensados por compras de investidores locais.",
-      "impacto": "Atividade fraca com inflação esperada mais alta adia cortes de juro: negativo para bancos (ITUB4, BBDC4, BBAS3), construtoras (MRVE3, CYRE3) e AMER3; o dólar alto ajuda as exportadoras (SUZB3, KLBN11, JBSS32, VALE3).",
-      "especulacao": "",
-      "n_noticias": 15,
-      "noticias": [
-        {
-          "id": "c8f37ee254e3",
-          "titulo": "Por que o dólar ultrapassou os R$ 5,75 nesta segunda?",
-          "fonte": "InfoMoney",
-          "data": "2026-11-16",
-          "hora": "20:38",
-          "link": "https://www.infomoney.com.br/mercados/por-que-dolar-sobe-nesta-segunda/"
-        },
-        {
-          "id": "9c1d4b3bb256",
-          "titulo": "Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal",
-          "fonte": "InfoMoney",
-          "data": "2026-11-16",
-          "hora": "20:21",
-          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/"
-        },
-        {
-          "id": "01ac41e26cfd",
-          "titulo": "Gringo tira R$ 17 bi, brasileiro compra R$ 17 bi: há armadilha na Bolsa?",
-          "fonte": "InfoMoney",
-          "data": "2026-11-16",
-          "hora": "19:50",
-          "link": "https://www.infomoney.com.br/mercados/estrangeiros-vendem-bolsa-brasileiros-compram-armadilha/"
-        },
-        {
-          "id": "90b024a45f30",
-          "titulo": "Dólar tem maior alta desde reeleição de Lula e vai a R$ 5,77, pico em 19 meses",
-          "fonte": "Exame",
-          "data": "2026-11-16",
-          "hora": "17:32",
-          "link": "https://exame.com/invest/mercados/dolar-tem-maior-alta-desde-reeleicao-de-lula-e-vai-a-r-577-pico-em-19-meses/"
-        },
-        {
-          "id": "d9d3f7589338",
-          "titulo": "Na maior queda desde a pandemia, 'prévia' do PIB do Banco Central registra tombo de 0,9% no 3º trimestre",
-          "fonte": "G1 Economia",
-          "data": "2026-11-16",
-          "hora": "15:02",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/16/previa-do-pib-do-banco-central-registra-retracao-de-09percent-no-3o-trimestre.ghtml"
-        },
-        {
-          "id": "1d9f899fd55d",
-          "titulo": "Mercado eleva estimativa de inflação para 5% em 2027 e prevê corte menor nos juros",
-          "fonte": "G1 Economia",
-          "data": "2026-11-16",
-          "hora": "15:02",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/16/mercado-eleva-estimativa-de-inflacao-para-5percent-em-2027-e-preve-corte-menor-nos-juros.ghtml"
-        },
-        {
-          "id": "55beb4382e5d",
-          "titulo": "Dólar opera em alta e bate R$ 5,74, com foco em prévia do PIB e política fiscal; Ibovespa cai",
-          "fonte": "G1 Economia",
-          "data": "2026-11-16",
-          "hora": "15:02",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/16/dolar-ibovespa.ghtml"
-        },
-        {
-          "id": "e1a0539218e9",
-          "titulo": "Queda do IBC-Br confirma freio na economia no 3º tri e piora cenário para 2027",
-          "fonte": "InfoMoney",
-          "data": "2026-11-16",
-          "hora": "14:56",
-          "link": "https://www.infomoney.com.br/economia/ibc-br-setembro-2026-queda-economia-pib-2027/"
-        },
-        {
-          "id": "a95d0f460553",
-          "titulo": "Economia terá menos espaço para crescer sem pressionar inflação, alerta Megale, da XP",
-          "fonte": "InfoMoney",
-          "data": "2026-11-16",
-          "hora": "14:31",
-          "link": "https://www.infomoney.com.br/onde-investir/arcabouco-fiscal-caio-megale-divida-crescimento/"
-        },
-        {
-          "id": "492aafd7d707",
-          "titulo": "Morgan Stanley rebaixa Brasil e vê Ibovespa em 160 mil pontos no fim de 2027",
-          "fonte": "Exame",
-          "data": "2026-11-16",
-          "hora": "11:50",
-          "link": "https://exame.com/invest/mercados/morgan-stanley-rebaixa-brasil-e-ve-ibovespa-em-160-mil-pontos-no-fim-de-2027/"
-        },
-        {
-          "id": "5cb04bf51d1b",
-          "titulo": "Ibovespa cai, dólar dispara e Nvidia derruba Wall Street; veja o que pesa na Bolsa",
-          "fonte": "Exame",
-          "data": "2026-11-16",
-          "hora": "11:02",
-          "link": "https://exame.com/invest/mercados/ibovespa-cai-dolar-dispara-e-nvidia-derruba-wall-street-veja-o-que-pesa-na-bolsa/"
-        },
-        {
-          "id": "f8fb65990e70",
-          "titulo": "Dólar rompe R$ 5,70 e volta ao nível de maio de 2025; até onde a moeda pode ir?",
-          "fonte": "Exame",
-          "data": "2026-11-16",
-          "hora": "10:35",
-          "link": "https://exame.com/invest/mercados/dolar-rompe-r-570-e-volta-ao-nivel-de-maio-de-2025-ate-onde-a-moeda-pode-ir/"
-        },
-        {
-          "id": "edda3b2cb5b3",
-          "titulo": "Prévia do PIB, Boletim Focus, falas do Fed e mais destaques desta segunda-feira",
-          "fonte": "InfoMoney",
-          "data": "2026-11-16",
-          "hora": "09:05",
-          "link": "https://www.infomoney.com.br/mercados/previa-pib-focus-falas-fed-agenda-segunda-feira-16112026/"
-        },
-        {
-          "id": "59b9bb574720",
-          "titulo": "Construção civil cresce, mas lida com juro restritivo e apagão de mão de obra",
-          "fonte": "InfoMoney",
-          "data": "2026-11-16",
-          "hora": "08:00",
-          "link": "https://www.infomoney.com.br/economia/construcao-civil-crescimento-desafios-juros-mao-de-obra/"
-        },
-        {
-          "id": "87b5cc0b7b81",
-          "titulo": "Lula retoma agenda fiscal, Focus e prévia do PIB saem: o que move os mercados hoje",
-          "fonte": "Exame",
-          "data": "2026-11-16",
-          "hora": "05:30",
-          "link": "https://exame.com/invest/mercados/lula-retoma-agenda-fiscal-focus-e-previa-do-pib-saem-o-que-move-os-mercados-hoje/"
-        }
-      ],
-      "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T21:06"
-    },
-    {
-      "titulo": "Brent fecha a cair 3,55%, a US$ 92,44, apesar das minas no Ormuz, e o Goldman vê excedente em 2027",
-      "sinal": "neutro",
-      "resumo": "O Brent liquidou a US$ 92,44 (-US$ 3,40) e o WTI a US$ 85,72 (-3,21%), com o diesel em Nova Iorque a US$ 4,08 por galão. O Goldman projeta o regresso do excedente de oferta e o Brent a US$ 78 no fim de 2027, com risco de alta no curto prazo por causa da guerra; no Brasil, o fim do subsídio extra ao diesel ajuda a Petrobras e cada ponto de mistura de biodiesel pode cortar 700 milhões de litros de importação de diesel.",
-      "impacto": "A queda do Brent tira algum prémio a PETR4 e PRIO3 no curto prazo; o fim do subsídio é positivo para a margem de refino da PETR4, e a trajetória do Goldman é negativa para as petrolíferas quando o prémio de guerra sair.",
-      "especulacao": "",
-      "n_noticias": 15,
-      "noticias": [
         {
           "id": "54241998f258",
           "titulo": "World July Oil Production Rose",
@@ -1396,192 +1476,336 @@
         }
       ],
       "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T21:06"
+      "atualizado_em": "2026-11-17T12:07"
     },
     {
-      "titulo": "Fitch, BCE e RBNZ apontam IA e dívida soberana como os maiores riscos à estabilidade financeira",
-      "sinal": "neutro",
-      "resumo": "A Fitch diz que os soberanos da América do Norte enfrentam perspetiva em deterioração, com a governação dividida nos EUA a aumentar o risco fiscal e de impasse no teto da dívida; Vujcic, do BCE, classifica os riscos à estabilidade como elevados e destaca IA e dívida, e o Relatório de Estabilidade do RBNZ aponta yields soberanos mais altos e valuations esticadas em IA.",
-      "impacto": "Alertas convergentes sobre valuations de IA e dívida pública reforçam o canal de juros longos americanos, que pressiona o real e a curva de DI; sem evento concreto, é pano de fundo e não gatilho.",
-      "especulacao": "",
-      "n_noticias": 10,
-      "noticias": [
-        {
-          "id": "2fa682522b8d",
-          "titulo": "RBNZ FSR: Global financial stability risks have continued to increase, raising the chance of a significant shock affecting New Zealand",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "20:03",
-          "link": "https://www.financialjuice.com/News/9854437/RBNZ-FSR-Global-financial-stability-risks-have-continued-to-increase-raising-the-chance-of-a-significant-shock-affecting-New-Zealand.aspx?xy=rss"
-        },
-        {
-          "id": "7d1c9c03818d",
-          "titulo": "RBNZ FSR: Higher government bond yields and still-stretched valuations, particularly among AI-related firms, leave markets vulnerable to a correction",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "20:02",
-          "link": "https://www.financialjuice.com/News/9854430/RBNZ-FSR-Higher-government-bond-yields-and-still-stretched-valuations-particularly-among-AI-related-firms-leave-markets-vulnerable-to-a-correction.aspx?xy=rss"
-        },
-        {
-          "id": "6f83ae23e3bb",
-          "titulo": "RBNZ Financial Stability Report: Financial system remains resilient as global risks increase.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "20:01",
-          "link": "https://www.financialjuice.com/News/9854427/RBNZ-Financial-Stability-Report-Financial-system-remains-resilient-as-global-risks-increase.aspx?xy=rss"
-        },
-        {
-          "id": "61740f77014a",
-          "titulo": "Fitch Ratings: Although we expect resilient economic growth. financing conditions will continue to be tight, hurting some sectors, such as housing in the US.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "17:35",
-          "link": "https://www.financialjuice.com/News/9854239/Fitch-Ratings-Although-we-expect-resilient-economic-growth-financing-conditions-will-continue-to-be-tight-hurting-some-sectors-such-as-housing-in-the-US.aspx?xy=rss"
-        },
-        {
-          "id": "061c9c4ee1f4",
-          "titulo": "Fitch Ratings: Democrat majorities in both houses in the US will likely imply additional oversight and scrutiny over the administration's policies.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "17:34",
-          "link": "https://www.financialjuice.com/News/9854238/Fitch-Ratings-Democrat-majorities-in-both-houses-in-the-US-will-likely-imply-additional-oversight-and-scrutiny-over-the-administrations-policies.aspx?xy=rss"
-        },
-        {
-          "id": "c64353331e59",
-          "titulo": "Fitch Ratings: North American sovereigns face a deteriorating outlook as divided USA governance heightens fiscal risks and debt-ceiling brinkmanship.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "17:31",
-          "link": "https://www.financialjuice.com/News/9854221/Fitch-Ratings-North-American-sovereigns-face-a-deteriorating-outlook-as-divided-USA-governance-heightens-fiscal-risks-and-debt-ceiling-brinkmanship.aspx?xy=rss"
-        },
-        {
-          "id": "47b1af70f9ac",
-          "titulo": "ECB's Vujcic: AI and sovereign debt 'stand out very prominently’ as stability risks",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "08:32",
-          "link": "https://www.financialjuice.com/News/9853507/ECBs-Vujcic-AI-and-sovereign-debt-stand-out-very-prominently-as-stability-risks.aspx?xy=rss"
-        },
-        {
-          "id": "0614714468cc",
-          "titulo": "ECB's Vujcic: Financial stability risks are  \"elevated\"",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "08:31",
-          "link": "https://www.financialjuice.com/News/9853504/ECBs-Vujcic-Financial-stability-risks-are--elevated.aspx?xy=rss"
-        },
-        {
-          "id": "37772240c16e",
-          "titulo": "ECB's Vujcic: AI, high debts are top financial-stability risks",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "08:31",
-          "link": "https://www.financialjuice.com/News/9853487/ECBs-Vujcic-AI-high-debts-are-top-financial-stability-risks.aspx?xy=rss"
-        },
-        {
-          "id": "d7953f506549",
-          "titulo": "ECB's Vujcic: Valuations, funding, cyberattacks are among AI risks",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "08:31",
-          "link": "https://www.financialjuice.com/News/9853503/ECBs-Vujcic-Valuations-funding-cyberattacks-are-among-AI-risks.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-16T21:06",
-      "atualizado_em": "2026-11-16T21:06"
-    },
-    {
-      "titulo": "Bitcoin devolve a alta de três meses perto de US$ 64 mil e o XRP marca novo mínimo do ano",
+      "titulo": "Dólar abre a terça depois de fechar a R$ 5,77, máximo desde abril de 2025, e a Kinea compra dólar e evita a bolsa",
       "sinal": "risk_off",
-      "resumo": "O bitcoin tocou mínimos de quatro meses no fim de semana e negoceia perto de US$ 64 mil, com liquidações acima de US$ 2 bilhões atribuídas ao reajuste para um Fed mais duro e às tensões com o Irão. O Supremo dos EUA rejeitou o acesso de um banco cripto aos pagamentos do Fed. O XRP tocou um novo mínimo do ano na segunda-feira.",
-      "impacto": "Tokens da carteira cripto pressionados; a queda reforça a leitura de desalavancagem em ativos de risco que também atinge a B3.",
-      "especulacao": "Um economista ouvido pela Exame prevê o bitcoin a US$ 16,5 mil e o fim da Strategy até ao fim do ano; é uma previsão isolada.",
-      "n_noticias": 9,
+      "resumo": "O real teve a maior desvalorização diária desde a reeleição de Lula, com o dólar a R$ 5,77 na segunda-feira, e abre a sessão de hoje à espera da Nvidia e de dados dos EUA. A prévia do PIB do Banco Central caiu 0,9% no 3º trimestre e o Focus elevou a inflação de 2027 para 5%; os estrangeiros retiraram R$ 17 bilhões da bolsa. A Kinea disse estar fora da bolsa e comprada em dólar por causa do risco fiscal, e prefere NTN-Bs.",
+      "impacto": "Atividade fraca com inflação esperada mais alta adia cortes de juro: negativo para bancos (ITUB4, BBDC4, BBAS3), construtoras (MRVE3, CYRE3) e AMER3; o dólar alto ajuda as exportadoras (SUZB3, KLBN11, JBSS32, VALE3).",
+      "especulacao": "O gestor da Kinea diz que o quadro 'pode piorar muito mais'; é a visão de uma casa.",
+      "n_noticias": 19,
       "noticias": [
         {
-          "id": "cce39ae8ae03",
-          "titulo": "XRP Hits New Yearly Low: Can Oversold RSI Trigger A Rebound?",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-16",
-          "hora": "20:52",
-          "link": "https://seekingalpha.com/article/4968768-xrp-hits-new-yearly-low-can-oversold-rsi-trigger-rebound?source=feed_all_articles"
+          "id": "c11d6dd01338",
+          "titulo": "Dólar abre sessão desta terça-feira, à espera de balanço da Nvidia e de olho em dados dos EUA",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "12:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml"
         },
         {
-          "id": "f291007d31fd",
-          "titulo": "Economista prevê bitcoin em US$ 16,5 mil e fim da Strategy até o fim do ano",
+          "id": "83154665c390",
+          "titulo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados",
+          "fonte": "InfoMoney",
+          "data": "2026-11-17",
+          "hora": "11:56",
+          "link": "https://www.infomoney.com.br/politica/lara-resende-volta-a-defender-corte-da-selic-e-critica-galipolo-por-juros-elevados/"
+        },
+        {
+          "id": "9a89da129785",
+          "titulo": "Making the US dollar great again",
+          "fonte": "FT Markets",
+          "data": "2026-11-17",
+          "hora": "06:30",
+          "link": "https://www.ft.com/content/2c8ebea3-f202-44b6-8319-e7a466c51981?syn-25a6b1a6=1"
+        },
+        {
+          "id": "3e086a6ac36c",
+          "titulo": "Kinea evita Bolsa e compra dólar diante dos riscos no Brasil: 'pode piorar muito mais'",
+          "fonte": "Exame",
+          "data": "2026-11-17",
+          "hora": "05:00",
+          "link": "https://exame.com/invest/mercados/kinea-evita-bolsa-e-compra-dolar-diante-dos-riscos-no-brasil-pode-piorar-muito-mais/"
+        },
+        {
+          "id": "c8f37ee254e3",
+          "titulo": "Por que o dólar ultrapassou os R$ 5,75 nesta segunda?",
+          "fonte": "InfoMoney",
+          "data": "2026-11-16",
+          "hora": "20:38",
+          "link": "https://www.infomoney.com.br/mercados/por-que-dolar-sobe-nesta-segunda/"
+        },
+        {
+          "id": "9c1d4b3bb256",
+          "titulo": "Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal",
+          "fonte": "InfoMoney",
+          "data": "2026-11-16",
+          "hora": "20:21",
+          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/"
+        },
+        {
+          "id": "01ac41e26cfd",
+          "titulo": "Gringo tira R$ 17 bi, brasileiro compra R$ 17 bi: há armadilha na Bolsa?",
+          "fonte": "InfoMoney",
+          "data": "2026-11-16",
+          "hora": "19:50",
+          "link": "https://www.infomoney.com.br/mercados/estrangeiros-vendem-bolsa-brasileiros-compram-armadilha/"
+        },
+        {
+          "id": "90b024a45f30",
+          "titulo": "Dólar tem maior alta desde reeleição de Lula e vai a R$ 5,77, pico em 19 meses",
           "fonte": "Exame",
           "data": "2026-11-16",
-          "hora": "16:37",
-          "link": "https://exame.com/future-of-money/economista-preve-bitcoin-em-us-165-mil-e-fim-da-strategy-ate-o-fim-do-ano/"
+          "hora": "17:32",
+          "link": "https://exame.com/invest/mercados/dolar-tem-maior-alta-desde-reeleicao-de-lula-e-vai-a-r-577-pico-em-19-meses/"
         },
         {
-          "id": "043874bc5eca",
-          "titulo": "Crypto bank rejected by the Supreme Court over Fed payment access",
-          "fonte": "FinancialJuice",
+          "id": "d9d3f7589338",
+          "titulo": "Na maior queda desde a pandemia, 'prévia' do PIB do Banco Central registra tombo de 0,9% no 3º trimestre",
+          "fonte": "G1 Economia",
+          "data": "2026-11-16",
+          "hora": "15:02",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/16/previa-do-pib-do-banco-central-registra-retracao-de-09percent-no-3o-trimestre.ghtml"
+        },
+        {
+          "id": "1d9f899fd55d",
+          "titulo": "Mercado eleva estimativa de inflação para 5% em 2027 e prevê corte menor nos juros",
+          "fonte": "G1 Economia",
+          "data": "2026-11-16",
+          "hora": "15:02",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/16/mercado-eleva-estimativa-de-inflacao-para-5percent-em-2027-e-preve-corte-menor-nos-juros.ghtml"
+        },
+        {
+          "id": "55beb4382e5d",
+          "titulo": "Dólar opera em alta e bate R$ 5,74, com foco em prévia do PIB e política fiscal; Ibovespa cai",
+          "fonte": "G1 Economia",
+          "data": "2026-11-16",
+          "hora": "15:02",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/16/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "e1a0539218e9",
+          "titulo": "Queda do IBC-Br confirma freio na economia no 3º tri e piora cenário para 2027",
+          "fonte": "InfoMoney",
+          "data": "2026-11-16",
+          "hora": "14:56",
+          "link": "https://www.infomoney.com.br/economia/ibc-br-setembro-2026-queda-economia-pib-2027/"
+        },
+        {
+          "id": "a95d0f460553",
+          "titulo": "Economia terá menos espaço para crescer sem pressionar inflação, alerta Megale, da XP",
+          "fonte": "InfoMoney",
           "data": "2026-11-16",
           "hora": "14:31",
-          "link": "https://www.financialjuice.com/News/9853980/Crypto-bank-rejected-by-the-Supreme-Court-over-Fed-payment-access.aspx?xy=rss"
+          "link": "https://www.infomoney.com.br/onde-investir/arcabouco-fiscal-caio-megale-divida-crescimento/"
         },
         {
-          "id": "abd1084e98ae",
-          "titulo": "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "11:06",
-          "link": "https://investinglive.com/cryptocurrency/zcash-needs-a-dovish-fed-or-a-us-iran-breakthrough-to-reverse-the-bearish-trend/"
-        },
-        {
-          "id": "003d129a14c4",
-          "titulo": "Bitcoin cai aos US$ 64 mil e devolve toda a alta dos últimos 3 meses",
+          "id": "492aafd7d707",
+          "titulo": "Morgan Stanley rebaixa Brasil e vê Ibovespa em 160 mil pontos no fim de 2027",
           "fonte": "Exame",
           "data": "2026-11-16",
-          "hora": "11:00",
-          "link": "https://exame.com/future-of-money/bitcoin-hoje-16-11-2026/"
+          "hora": "11:50",
+          "link": "https://exame.com/invest/mercados/morgan-stanley-rebaixa-brasil-e-ve-ibovespa-em-160-mil-pontos-no-fim-de-2027/"
         },
         {
-          "id": "918b1b328726",
-          "titulo": "Hawkish Fed repricing and Iran tensions trigger a major Bitcoin liquidation wave",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "09:21",
-          "link": "https://investinglive.com/cryptocurrency/hawkish-fed-repricing-and-iran-tensions-trigger-a-major-bitcoin-liquidation-wave/"
-        },
-        {
-          "id": "75d52fcc2805",
-          "titulo": "The latest twist in Strategy’s tragicomedy",
-          "fonte": "FT Markets",
-          "data": "2026-11-16",
-          "hora": "06:00",
-          "link": "https://www.ft.com/content/9242798a-beb3-42d4-ae54-120acbac82a7"
-        },
-        {
-          "id": "d26ae4166302",
-          "titulo": "Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "01:49",
-          "link": "https://investinglive.com/cryptocurrency/weekend-bitcoin-fell-to-four-month-low-near-62-000-as-crypto-liquidations-top-2-billion/"
-        },
-        {
-          "id": "22ace5b44a84",
-          "titulo": "OranjeBTC prepara ações preferenciais com dividendo maior que a Selic",
+          "id": "5cb04bf51d1b",
+          "titulo": "Ibovespa cai, dólar dispara e Nvidia derruba Wall Street; veja o que pesa na Bolsa",
           "fonte": "Exame",
           "data": "2026-11-16",
-          "hora": "00:00",
-          "link": "https://exame.com/future-of-money/oranjebtc-prepara-acoes-preferenciais-com-dividendo-maior-que-a-selic/"
+          "hora": "11:02",
+          "link": "https://exame.com/invest/mercados/ibovespa-cai-dolar-dispara-e-nvidia-derruba-wall-street-veja-o-que-pesa-na-bolsa/"
+        },
+        {
+          "id": "f8fb65990e70",
+          "titulo": "Dólar rompe R$ 5,70 e volta ao nível de maio de 2025; até onde a moeda pode ir?",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "10:35",
+          "link": "https://exame.com/invest/mercados/dolar-rompe-r-570-e-volta-ao-nivel-de-maio-de-2025-ate-onde-a-moeda-pode-ir/"
+        },
+        {
+          "id": "edda3b2cb5b3",
+          "titulo": "Prévia do PIB, Boletim Focus, falas do Fed e mais destaques desta segunda-feira",
+          "fonte": "InfoMoney",
+          "data": "2026-11-16",
+          "hora": "09:05",
+          "link": "https://www.infomoney.com.br/mercados/previa-pib-focus-falas-fed-agenda-segunda-feira-16112026/"
+        },
+        {
+          "id": "59b9bb574720",
+          "titulo": "Construção civil cresce, mas lida com juro restritivo e apagão de mão de obra",
+          "fonte": "InfoMoney",
+          "data": "2026-11-16",
+          "hora": "08:00",
+          "link": "https://www.infomoney.com.br/economia/construcao-civil-crescimento-desafios-juros-mao-de-obra/"
+        },
+        {
+          "id": "87b5cc0b7b81",
+          "titulo": "Lula retoma agenda fiscal, Focus e prévia do PIB saem: o que move os mercados hoje",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "05:30",
+          "link": "https://exame.com/invest/mercados/lula-retoma-agenda-fiscal-focus-e-previa-do-pib-saem-o-que-move-os-mercados-hoje/"
         }
       ],
       "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T21:06"
+      "atualizado_em": "2026-11-17T12:07"
     },
     {
-      "titulo": "IPO da Anthropic atrai fila de investidores enquanto os maiores IPOs de 2026 perdem mais de 20%",
+      "titulo": "Comissão Europeia vê inflação de 3,2% e défice de 3,5% do PIB na zona euro em 2026; França falha as metas",
       "sinal": "neutro",
-      "resumo": "A Anthropic fixa o preço da oferta na quarta-feira, com procura elevada mas dúvidas sobre a liderança em IA (InfoMoney); as dez maiores ofertas de 2026 caíram em média mais de 20% (FT).",
-      "impacto": "Uma estreia fraca agravaria a correção de tech e o risco global; uma forte aliviaria o sentimento antes do fim da semana.",
-      "especulacao": "O WSJ relata que a administração Trump vai nomear Nvidia, Amazon, Microsoft, OpenAI e Anthropic como campeões nacionais de IA; ainda não há anúncio oficial.",
-      "n_noticias": 9,
+      "resumo": "A Comissão Europeia prevê crescimento de 1,2% em 2026, inflação de 3,2% (2,1% em 2025) e défice agregado de 3,5% do PIB, com a dívida a subir para 89,6%; a França vai falhar as metas de défice. O RN de Le Pen estima em 10,1 bilhões de euros líquidos o custo da sua reforma das pensões. O ZEW alemão subiu para 35,6, acima dos 28,8 esperados.",
+      "impacto": "Inflação europeia mais alta afasta cortes do BCE e soma-se à pressão global sobre juros longos, o que encarece o capital para emergentes; efeito indireto na B3.",
+      "especulacao": "",
+      "n_noticias": 13,
       "noticias": [
+        {
+          "id": "dc5ec93786e9",
+          "titulo": "Confiança de investidores da Alemanha cresce mais que o esperado em novembro, diz ZEW",
+          "fonte": "InfoMoney",
+          "data": "2026-11-17",
+          "hora": "11:59",
+          "link": "https://www.infomoney.com.br/economia/confianca-de-investidores-da-alemanha-cresce-mais-que-o-esperado-em-novembro-diz-zew/"
+        },
+        {
+          "id": "935099322fbd",
+          "titulo": "Zona do euro deve crescer de forma moderada; França tem a projeção mais fraca",
+          "fonte": "InfoMoney",
+          "data": "2026-11-17",
+          "hora": "11:50",
+          "link": "https://www.infomoney.com.br/economia/zona-do-euro-deve-crescer-de-forma-moderada-franca-tem-a-projecao-mais-fraca/"
+        },
+        {
+          "id": "8bb10a8321fc",
+          "titulo": "France's Le Pen: I don't think our lenders are concerned about our proposals; they are concerned about the country's situation",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:15",
+          "link": "https://www.financialjuice.com/News/9855604/Frances-Le-Pen-I-dont-think-our-lenders-are-concerned-about-our-proposals-they-are-concerned-about-the-countrys-situation.aspx?xy=rss"
+        },
+        {
+          "id": "d3d22f88b335",
+          "titulo": "France's Le Pen: If we do not have a parliamentary majority, we could put our pension reform to a referendum",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:55",
+          "link": "https://www.financialjuice.com/News/9855568/Frances-Le-Pen-If-we-do-not-have-a-parliamentary-majority-we-could-put-our-pension-reform-to-a-referendum.aspx?xy=rss"
+        },
+        {
+          "id": "95fcea84d22d",
+          "titulo": "Budget spokesman for France's RN: Gross cost of our reform would amount to 18.6 billion Euros in 2032, the net cost would be 10.1 billion Euros",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:44",
+          "link": "https://www.financialjuice.com/News/9855529/Budget-spokesman-for-Frances-RN-Gross-cost-of-our-reform-would-amount-to-186-billion-Euros-in-2032-the-net-cost-would-be-101-billion-Euros.aspx?xy=rss"
+        },
+        {
+          "id": "d4e6e03240d1",
+          "titulo": "France's Bardella: Proposed retirement fund will be financed by employer payroll contributions worth 12 billion euros annually and be managed by the Caisse des Dépôts",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:44",
+          "link": "https://www.financialjuice.com/News/9855528/Frances-Bardella-Proposed-retirement-fund-will-be-financed-by-employer-payroll-contributions-worth-12-billion-euros-annually-and-be-managed-by-the-Caisse-des-D%c3%a9p%c3%b4ts.aspx?xy=rss"
+        },
+        {
+          "id": "79aa3d880d1f",
+          "titulo": "German 2 Yr Schatz Yield Actual 3.1% (Forecast -, Previous 3.08%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:31",
+          "link": "https://www.financialjuice.com/News/9855524/German-2-Yr-Schatz-Yield-Actual-31-Forecast---Previous-308.aspx?xy=rss"
+        },
+        {
+          "id": "f105b7d564c5",
+          "titulo": "France to miss deficit goals as growth falters - EU Commission",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:18",
+          "link": "https://www.financialjuice.com/News/9855509/France-to-miss-deficit-goals-as-growth-falters---EU-Commission.aspx?xy=rss"
+        },
+        {
+          "id": "4bfae30472f4",
+          "titulo": "Eurozone aggregated public debt is expected to rise to 89.6% of GDP in 2026 from 88.6% in 2025, and is seen to rise to 90.5% in 2027 and 91.3% in 2028 - Commission",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:18",
+          "link": "https://www.financialjuice.com/News/9855508/Eurozone-aggregated-public-debt-is-expected-to-rise-to-896-of-GDP-in-2026-from-886-in-2025-and-is-seen-to-rise-to-905-in-2027-and-913-in-2028---Commission.aspx?xy=rss"
+        },
+        {
+          "id": "8e4629efbfc9",
+          "titulo": "Eurozone aggregated budget deficit to jump to 3.5% of GDP in 2026 from 3.0% in 2025, seen rising to 3.6% in 2027 and 3.8% in 2028 - Commission",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:17",
+          "link": "https://www.financialjuice.com/News/9855507/Eurozone-aggregated-budget-deficit-to-jump-to-35-of-GDP-in-2026-from-30-in-2025-seen-rising-to-36-in-2027-and-38-in-2028---Commission.aspx?xy=rss"
+        },
+        {
+          "id": "257e86b9e13d",
+          "titulo": "Eurozone inflation is seen at 3.2% in 2026, up from 2.1% in 2025, expected to ease to 3.1% in 2027 and 2.1% in 2028 - Commission",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:17",
+          "link": "https://www.financialjuice.com/News/9855506/Eurozone-inflation-is-seen-at-32-in-2026-up-from-21-in-2025-expected-to-ease-to-31-in-2027-and-21-in-2028---Commission.aspx?xy=rss"
+        },
+        {
+          "id": "77baf907c4e8",
+          "titulo": "Eurozone GDP to grow 1.2% in 2026, same as in 2025, seen up 1.2% in 2027 and 1.3% in 2028 - European Commission forecast",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:17",
+          "link": "https://www.financialjuice.com/News/9855505/Eurozone-GDP-to-grow-12-in-2026-same-as-in-2025-seen-up-12-in-2027-and-13-in-2028---European-Commission-forecast.aspx?xy=rss"
+        },
+        {
+          "id": "070b0bf34f62",
+          "titulo": "Germany November ZEW economic sentiment 35.6 vs 28.8 expected",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "10:00",
+          "link": "https://investinglive.com/news/germany-november-zew-economic-sentiment-35-6-vs-28-8-expected/"
+        }
+      ],
+      "criado_em": "2026-11-17T12:07",
+      "atualizado_em": "2026-11-17T12:07"
+    },
+    {
+      "titulo": "Anthropic mantém o intervalo de preço do IPO e a Amazon ficaria com 23,8% do capital",
+      "sinal": "neutro",
+      "resumo": "O último registo da Anthropic mantém inalterado o intervalo de preço da oferta, que tem fixação marcada para quarta-feira; a Amazon ficaria com 23,8% do capital e 48,2% das ações de classe N. As dez maiores ofertas de 2026 caíram em média mais de 20% (FT).",
+      "impacto": "Uma estreia fraca agravaria a correção de tech e o risco global; uma forte aliviaria o sentimento depois do balanço da Nvidia.",
+      "especulacao": "",
+      "n_noticias": 13,
+      "noticias": [
+        {
+          "id": "39e49891355b",
+          "titulo": "Anthropic IPO price range unchanged in recent filing.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:45",
+          "link": "https://www.financialjuice.com/News/9855641/Anthropic-IPO-price-range-unchanged-in-recent-filing.aspx?xy=rss"
+        },
+        {
+          "id": "15f3c724f481",
+          "titulo": "Anthropic: Amazon would hold 48.2% of outstanding class N stock $AMZN",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:45",
+          "link": "https://www.financialjuice.com/News/9855651/Anthropic-Amazon-would-hold-482-of-outstanding-class-N-stock-AMZN.aspx?xy=rss"
+        },
+        {
+          "id": "a3ac95c7d410",
+          "titulo": "Anthropic: Amazon would hold 23.8% of the outstanding capital stock $AMZN",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "11:45",
+          "link": "https://www.financialjuice.com/News/9855640/Anthropic-Amazon-would-hold-238-of-the-outstanding-capital-stock-AMZN.aspx?xy=rss"
+        },
+        {
+          "id": "2d82ae50528c",
+          "titulo": "What A Landmark AI IPO Means For Chips In 2027",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-17",
+          "hora": "10:31",
+          "link": "https://seekingalpha.com/article/4968963-what-a-landmark-ai-ipo-means-for-chips-in-2027?source=feed_all_articles"
+        },
+        {
+          "id": "338cee172cfc",
+          "titulo": "Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley",
+          "fonte": "Guardian Business",
+          "data": "2026-11-16",
+          "hora": "18:18",
+          "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai"
+        },
         {
           "id": "91f6ac1f8c91",
           "titulo": "Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA",
@@ -1645,27 +1869,59 @@
           "data": "2026-11-15",
           "hora": "12:27",
           "link": "https://exame.com/inteligencia-artificial/ipo-da-anthropic-poe-a-prova-a-aposta-de-us-14-trilhao-em-ia/"
-        },
-        {
-          "id": "b28755af83de",
-          "titulo": "Anthropic’s IPO is the next big test for AI",
-          "fonte": "FT Markets",
-          "data": "2026-11-15",
-          "hora": "11:40",
-          "link": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1"
         }
       ],
       "criado_em": "2026-11-15T17:26",
-      "atualizado_em": "2026-11-16T15:06"
+      "atualizado_em": "2026-11-17T12:07"
     },
     {
-      "titulo": "Relator do pacote fiscal no Senado defende rejeitar os destaques e o Planejamento leva o ajuste à bancada do PT",
+      "titulo": "Senado retoma hoje a votação dos destaques do ajuste fiscal e Durigan explica a alíquota de 11,3% da CBS",
       "sinal": "neutro",
-      "resumo": "O relator no Senado defendeu a rejeição dos destaques ao pacote fiscal, cuja votação Alckmin espera na terça; o ministro do Planejamento deve discutir o ajuste com a bancada do PT, onde há divergências, e a equipa económica prepara medidas para travar o crescimento das despesas obrigatórias. Os Correios acumulam prejuízo de R$ 7,5 bilhões até ao 3º trimestre.",
-      "impacto": "A credibilidade fiscal é o que separa a curva de juros e o real do pior cenário: aprovação limpa ajuda bancos e construtoras; o prejuízo das estatais pesa no resultado primário.",
+      "resumo": "O texto principal do ajuste fiscal foi aprovado no Senado por 45 votos a 31 e faltam quatro pontos; a proposta permite ampliar bloqueios de despesa e pode melhorar as contas em até R$ 56,1 bilhões em 2027 (Exame). Alckmin disse que não há razão para oscilações do mercado após o pacote. Durigan vai ao Senado explicar a alíquota de 11,3% da CBS calculada pelo TCU, acima da estimativa.",
+      "impacto": "A credibilidade fiscal é o que separa a curva de juros e o real do pior cenário: aprovação limpa dos destaques ajuda bancos e construtoras; destaques que desidratem o pacote pressionam DI e câmbio.",
       "especulacao": "",
-      "n_noticias": 7,
+      "n_noticias": 12,
       "noticias": [
+        {
+          "id": "649e2838863e",
+          "titulo": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando'",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "12:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/16/alckmin-diz-que-nao-ha-razao-para-mercado-ter-oscilacoes-apos-pacote-fiscal-brasil-tem-seguranca-juridica-e-esta-trabalhando.ghtml"
+        },
+        {
+          "id": "49c75cd63b41",
+          "titulo": "Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fiscal - O Assunto #1847",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "12:03",
+          "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml"
+        },
+        {
+          "id": "bbd602c444f2",
+          "titulo": "Reforma Tributária: Durigan vai ao Senado explicar alíquota de 11,3% para a CBS",
+          "fonte": "InfoMoney",
+          "data": "2026-11-17",
+          "hora": "11:46",
+          "link": "https://www.infomoney.com.br/politica/reforma-tributaria-durigan-vai-ao-senado-explicar-aliquota-de-113-para-a-cbs/"
+        },
+        {
+          "id": "ff24a18028f1",
+          "titulo": "Senado retoma votação do ajuste fiscal; veja os quatro pontos pendentes",
+          "fonte": "Exame",
+          "data": "2026-11-17",
+          "hora": "07:27",
+          "link": "https://exame.com/economia/senado-retoma-votacao-do-ajuste-fiscal-veja-os-quatro-pontos-pendentes/"
+        },
+        {
+          "id": "258bc1ff76db",
+          "titulo": "Ajuste fiscal no Senado, Durigan com investidores e falas do Fed: o que move os mercados",
+          "fonte": "Exame",
+          "data": "2026-11-17",
+          "hora": "05:30",
+          "link": "https://exame.com/invest/mercados/ajuste-fiscal-no-senado-durigan-com-investidores-e-falas-do-fed-o-que-move-os-mercados/"
+        },
         {
           "id": "ffe945822392",
           "titulo": "Relator de pacote fiscal no Senado defende rejeição de destaques",
@@ -1724,51 +1980,119 @@
         }
       ],
       "criado_em": "2026-11-15T17:26",
-      "atualizado_em": "2026-11-16T21:06"
+      "atualizado_em": "2026-11-17T12:07"
     },
     {
-      "titulo": "Problema técnico no JPMorgan e falhas em sites de bancos dos EUA ampliam a queda do setor em Nova Iorque",
-      "sinal": "risk_off",
-      "resumo": "O JPMorgan confirmou um problema técnico que atrasa transações e vários sites bancários dos EUA registaram falhas; os bancos ampliaram a queda e pressionaram o Dow Jones (InfoMoney). A CNBC cita uma fonte segundo a qual não há indicação de um erro comum a vários bancos.",
-      "impacto": "Efeito direto na carteira é limitado, mas o recuo dos bancos americanos soma-se à aversão ao risco do dia e pesa no sentimento sobre ITUB4, BBDC4, BBAS3 e BPAC11.",
+      "titulo": "Gestores do inquérito BofA cortam tecnologia ao ritmo mais forte desde junho de 2006 e o caixa cai para 3,6%",
+      "sinal": "neutro",
+      "resumo": "No inquérito de novembro do BofA, os gestores cortaram a alocação a tecnologia pelo maior montante mensal desde junho de 2006, estão os menos subponderados em obrigações desde novembro de 2025 e o caixa caiu para 3,6%; só 3% preveem recessão. 36% apontam as ações internacionais como a melhor classe de 2027, contra 24% para as americanas e 17% para o ouro.",
+      "impacto": "A rotação para fora de tech americana e a preferência por ações internacionais são favoráveis a emergentes e ao BOVA11 no médio prazo; caixa baixo deixa o mercado mais vulnerável a choques.",
       "especulacao": "",
-      "n_noticias": 4,
+      "n_noticias": 6,
       "noticias": [
         {
-          "id": "afbb318cee33",
-          "titulo": "Bancos ampliam queda em NY com relatos de problema técnico e pressionam Dow Jones",
-          "fonte": "InfoMoney",
-          "data": "2026-11-16",
-          "hora": "20:04",
-          "link": "https://www.infomoney.com.br/mercados/bancos-ampliam-queda-em-ny-com-relatos-de-problema-tecnico-e-pressionam-dow-jones/"
-        },
-        {
-          "id": "f27599eec07c",
-          "titulo": "There is no indication at this time that there is a bug affecting multiple banks at the same time - CNBC Citing a Source.",
+          "id": "68f7c34096e6",
+          "titulo": "BofA FMS: investors now least underweight bonds since November 2025",
           "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "18:52",
-          "link": "https://www.financialjuice.com/News/9854337/There-is-no-indication-at-this-time-that-there-is-a-bug-affecting-multiple-banks-at-the-same-time---CNBC-Citing-a-Source.aspx?xy=rss"
+          "data": "2026-11-17",
+          "hora": "10:55",
+          "link": "https://www.financialjuice.com/News/9855567/BofA-FMS-investors-now-least-underweight-bonds-since-November-2025.aspx?xy=rss"
         },
         {
-          "id": "c2938bf150c1",
-          "titulo": "US banking websites are having problems",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "18:42",
-          "link": "https://investinglive.com/news/us-banking-websites-are-having-problems/"
-        },
-        {
-          "id": "87bdc71638db",
-          "titulo": "JPM: A technical issue is causing transactions to take longer. We are working to resolve issue. $JPM",
+          "id": "641d2a1463f2",
+          "titulo": "BofA FMS: 52% of respondents expect an al hyperscaler to announce a capex cut in the next 6 months; record 38% say companies are overinvesting",
           "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "18:19",
-          "link": "https://www.financialjuice.com/News/9854310/JPM-A-technical-issue-is-causing-transactions-to-take-longer-We-are-working-to-resolve-issue-JPM.aspx?xy=rss"
+          "data": "2026-11-17",
+          "hora": "10:55",
+          "link": "https://www.financialjuice.com/News/9855566/BofA-FMS-52-of-respondents-expect-an-al-hyperscaler-to-announce-a-capex-cut-in-the-next-6-months-record-38-say-companies-are-overinvesting.aspx?xy=rss"
+        },
+        {
+          "id": "f35602376cb8",
+          "titulo": "BofA FMS: Net 32% of respondents expect lower global CPI in 12 months.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:55",
+          "link": "https://www.financialjuice.com/News/9855565/BofA-FMS-Net-32-of-respondents-expect-lower-global-CPI-in-12-months.aspx?xy=rss"
+        },
+        {
+          "id": "0a3a1b8bde52",
+          "titulo": "BofA FMS: 36% say 2027's best performing asset class to be international stocks, 24% US stocks, 17% gold",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:54",
+          "link": "https://www.financialjuice.com/News/9855564/BofA-FMS-36-say-2027s-best-performing-asset-class-to-be-international-stocks-24-US-stocks-17-gold.aspx?xy=rss"
+        },
+        {
+          "id": "8b5726e0eba0",
+          "titulo": "BofA FMS: Investors slash tech allocation by the most in a month since June 2006",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:54",
+          "link": "https://www.financialjuice.com/News/9855563/BofA-FMS-Investors-slash-tech-allocation-by-the-most-in-a-month-since-June-2006.aspx?xy=rss"
+        },
+        {
+          "id": "fe8ea1c1f428",
+          "titulo": "Just 3% of investors predict a recession, cash levels at 3.6%, the lowest since August 2026 - BofA fund manager survey",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "10:54",
+          "link": "https://www.financialjuice.com/News/9855562/Just-3-of-investors-predict-a-recession-cash-levels-at-36-the-lowest-since-August-2026---BofA-fund-manager-survey.aspx?xy=rss"
         }
       ],
-      "criado_em": "2026-11-16T21:06",
-      "atualizado_em": "2026-11-16T21:06"
+      "criado_em": "2026-11-17T12:07",
+      "atualizado_em": "2026-11-17T12:07"
+    },
+    {
+      "titulo": "EUA exigem licença para chips de IA em cinco países, incluindo o Brasil, e a China promete retaliar",
+      "sinal": "risk_off",
+      "resumo": "A nova regra americana exige licença para chips avançados enviados a cinco países, entre eles o Brasil, Malásia, Tailândia, Indonésia e Singapura, e aperta o acesso remoto da China a data centers (WSJ, Exame); AMD e CoreWeave caíram 5% ou mais e a Nvidia cerca de 4%. O porta-voz do MNE chinês disse que Pequim tomará 'as medidas necessárias'. O governo dos EUA confirmou uma investigação à Megaspeed, de Singapura, suspeita de reencaminhar chips de IA.",
+      "impacto": "Incluir o Brasil na lista de licenças trava projetos de data centers no país e acrescenta atrito comercial EUA-China antes da cimeira; retaliação chinesa seria negativa para minério e aço (VALE3, GGBR4, CSNA3, USIM5).",
+      "especulacao": "",
+      "n_noticias": 5,
+      "noticias": [
+        {
+          "id": "fd7b10b98719",
+          "titulo": "China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live",
+          "fonte": "Guardian Business",
+          "data": "2026-11-17",
+          "hora": "11:47",
+          "link": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates"
+        },
+        {
+          "id": "130d4bff0a55",
+          "titulo": "US government confirms investigation into tech firm Megaspeed",
+          "fonte": "BBC Business",
+          "data": "2026-11-17",
+          "hora": "11:17",
+          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "22bbc61d3251",
+          "titulo": "EUA incluem Brasil em nova regra para chips de IA e miram acesso remoto da China",
+          "fonte": "Exame",
+          "data": "2026-11-17",
+          "hora": "08:45",
+          "link": "https://exame.com/inteligencia-artificial/eua-brasil-regra-chips-ia-acesso-remoto-china/"
+        },
+        {
+          "id": "6673ec4cd2fd",
+          "titulo": "WSJ: US imposes chip export licenses on 5 countries to close China’s data center loophole",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "01:23",
+          "link": "https://investinglive.com/news/wsj-us-imposes-chip-export-licenses-on-5-countries-to-close-china-s-data-center-loophole/"
+        },
+        {
+          "id": "8b2b375c63c3",
+          "titulo": "US Under Secretary of State for Economic Affairs Helberg: The US has no plans to target suppliers such as Ericsson, ASML, Samsung, or SK Hynix or push them out of its supply chain - Semafor Event.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "18:35",
+          "link": "https://www.financialjuice.com/News/9854329/US-Under-Secretary-of-State-for-Economic-Affairs-Helberg-The-US-has-no-plans-to-target-suppliers-such-as-Ericsson-ASML-Samsung-or-SK-Hynix-or-push-them-out-of-its-supply-chain---Semafor-Event.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-11-17T12:07",
+      "atualizado_em": "2026-11-17T12:07"
     }
   ]
 }
