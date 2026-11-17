@@ -1,15 +1,71 @@
 {
-  "atualizado_em": "2026-11-16T15:06",
-  "total_feed": 299,
+  "atualizado_em": "2026-11-16T21:06",
+  "total_feed": 377,
   "temas": [
     {
-      "titulo": "Nvidia volta a cair na véspera do balanço e Trump diz não se opor ao regresso de Jensen Huang",
+      "titulo": "Venda de chips de IA intensifica-se na véspera do balanço da Nvidia e a CNBC diz que o conselho não pondera o regresso de Huang",
       "sinal": "risk_off",
-      "resumo": "A ação recuou 2,2% na abertura e a CoreWeave 4,6% (FT), com o Nasdaq a cair 1% e a bolsa de Taiwan mais de 4%; a Nvidia perdeu cerca de US$ 600 bilhões numa semana e divulga na terça, 17, o primeiro balanço após a saída de Huang, com consenso de receita de US$ 109 bilhões (Exame). Trump disse que não se importaria com a recondução e que Huang não pôs em risco a segurança nacional; Bessent defendeu um CEO de fora e Musk juntou-se a uma carta aberta pelo regresso. Registos mostram US$ 12 bilhões em chips para a China e os EUA preparam regras de licença à exportação.",
+      "resumo": "Micron, AMD e outras ações de IA aprofundaram a queda à tarde, com o Nasdaq a recuar cerca de 1%; a Nvidia perdeu perto de US$ 600 bilhões numa semana e divulga na terça, 17, o primeiro balanço após a saída de Huang, com consenso de receita de US$ 109 bilhões (Exame). Trump disse que não se importaria com a recondução e Musk apoiou a campanha, mas a CNBC relata que o conselho não está a considerar trazer Huang de volta. O subsecretário Helberg disse que os EUA não planeiam visar fornecedores como ASML, Samsung ou SK Hynix.",
       "impacto": "Beta global de tech em queda pesa no apetite por emergentes e no fluxo estrangeiro para a B3; o balanço de terça é o principal evento de volatilidade da semana para Ibovespa e BOVA11.",
-      "especulacao": "O Guardian relata que Huang discute um regresso ao cargo de CEO; não há decisão do conselho nem confirmação da empresa.",
-      "n_noticias": 34,
+      "especulacao": "O Guardian relatou que Huang discutia um regresso ao cargo; a CNBC relata o contrário do lado do conselho e não há decisão nem comunicado da empresa.",
+      "n_noticias": 43,
       "noticias": [
+        {
+          "id": "7d1363adfa61",
+          "titulo": "Nvidia investors will be clamoring for answers to these questions during the company’s hotly anticipated earnings call",
+          "fonte": "MarketWatch",
+          "data": "2026-11-16",
+          "hora": "20:55",
+          "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories"
+        },
+        {
+          "id": "f41d08fddf86",
+          "titulo": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
+          "fonte": "MarketWatch",
+          "data": "2026-11-16",
+          "hora": "20:17",
+          "link": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories"
+        },
+        {
+          "id": "4be72384bc50",
+          "titulo": "Tech Trade Turns Painful",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-16",
+          "hora": "19:50",
+          "link": "https://seekingalpha.com/article/4968744-tech-trade-turns-painful?source=feed_all_articles"
+        },
+        {
+          "id": "73d5cb96306b",
+          "titulo": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
+          "fonte": "MarketWatch",
+          "data": "2026-11-16",
+          "hora": "18:54",
+          "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories"
+        },
+        {
+          "id": "8b2b375c63c3",
+          "titulo": "US Under Secretary of State for Economic Affairs Helberg: The US has no plans to target suppliers such as Ericsson, ASML, Samsung, or SK Hynix or push them out of its supply chain - Semafor Event.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "18:35",
+          "link": "https://www.financialjuice.com/News/9854329/US-Under-Secretary-of-State-for-Economic-Affairs-Helberg-The-US-has-no-plans-to-target-suppliers-such-as-Ericsson-ASML-Samsung-or-SK-Hynix-or-push-them-out-of-its-supply-chain---Semafor-Event.aspx?xy=rss"
+        },
+        {
+          "id": "0dfba4b2b51d",
+          "titulo": "NVIDIA board not considering bringing Huang back as CEO - CNBC.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "17:39",
+          "link": "https://www.financialjuice.com/News/9854240/NVIDIA-board-not-considering-bringing-Huang-back-as-CEO---CNBC.aspx?xy=rss"
+        },
+        {
+          "id": "fbd2e9d1cd1d",
+          "titulo": "Trump diz que 'não se importaria' com volta de Jensen Huang ao comando da Nvidia",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "16:51",
+          "link": "https://exame.com/mundo/trump-diz-que-nao-se-importaria-com-volta-de-jensen-huang-ao-comando-da-nvidia/"
+        },
         {
           "id": "abfd71d4b895",
           "titulo": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang ao comando da Nvidia",
@@ -33,6 +89,14 @@
           "data": "2026-11-16",
           "hora": "14:54",
           "link": "https://seekingalpha.com/article/4968595-nvidia-the-ceo-is-gone-but-the-business-is-still-growing-100-percent?source=feed_all_articles"
+        },
+        {
+          "id": "ac35b5952cf8",
+          "titulo": "Trump says he wouldn’t mind seeing Huang reinstated as Nvidia CEO",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "14:46",
+          "link": "https://investinglive.com/stocks/trump-says-he-wouldn-t-mind-seeing-huang-reinstated-as-nvidia-ceo/"
         },
         {
           "id": "9a3ae081e52e",
@@ -187,6 +251,14 @@
           "link": "https://exame.com/inteligencia-artificial/a-nvidia-perdeu-o-fundador-e-us-600-bilhoes-em-uma-semana-na-terca-precisa-provar-o-que-vale/"
         },
         {
+          "id": "8821d2bd4bec",
+          "titulo": "US allies sign accord to keep China out of AI supply chains",
+          "fonte": "FT Markets",
+          "data": "2026-11-16",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/00501acf-8cfc-483d-bbd6-154013e4ca4b?syn-25a6b1a6=1"
+        },
+        {
           "id": "69f1681bccaa",
           "titulo": "investingLive Asia-Pacific market news: Chipmakers hit ahead of Nvidia",
           "fonte": "ForexLive",
@@ -284,16 +356,456 @@
         }
       ],
       "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T15:06"
+      "atualizado_em": "2026-11-16T21:06"
+    },
+    {
+      "titulo": "Hammack defende subidas sucessivas de juro e diz que a inflação está a alargar-se a mais setores",
+      "sinal": "risk_off",
+      "resumo": "A presidente do Fed de Cleveland disse gostar da ideia de aumentos sucessivos, que a economia aguenta mais restrição e que as condições financeiras ainda não a travam, com pressões inflacionistas visíveis também por causa da IA; Jefferson já tinha posto a inflação no centro, com o PCE em 3,6%, e o Empire Manufacturing saiu em 7,8 contra 18 esperado. No crédito, o índice de risco está em 67,4 (acima da média) e recuou 6 pontos em 7 dias, mas o CCC continua no percentil 94,7 do ano, com OAS de 13,14 p.p. (+4,29 p.p. no ano, dado de 12/11).",
+      "impacto": "Juros americanos mais altos sustentam o dólar acima de R$ 5,70 e reduzem o espaço do Copom; a ponta frágil do crédito no pior nível do ano mantém o prémio de risco em bancos e small caps.",
+      "especulacao": "O MarketWatch argumenta que a volatilidade das obrigações pode ser o novo normal; é leitura de imprensa, não decisão do Fed.",
+      "n_noticias": 26,
+      "noticias": [
+        {
+          "id": "0b3e8f009455",
+          "titulo": "Why Central Bank Buying Is Keeping Gold Afloat As More Fed Hikes Are Expected",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-16",
+          "hora": "20:14",
+          "link": "https://seekingalpha.com/article/4968738-why-central-bank-buying-is-keeping-gold-afloat-as-more-fed-hikes-are-expected?source=feed_all_articles"
+        },
+        {
+          "id": "74f735a89d22",
+          "titulo": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
+          "fonte": "MarketWatch",
+          "data": "2026-11-16",
+          "hora": "19:34",
+          "link": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories"
+        },
+        {
+          "id": "aeffe8cd33ca",
+          "titulo": "Hammack: Economy can handle more restriction, unclear how far Fed has to go",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "19:28",
+          "link": "https://investinglive.com/central-banks/hammack-economy-can-handle-more-restriction-unclear-how-far-fed-has-to-go/"
+        },
+        {
+          "id": "b8e0f8d6bece",
+          "titulo": "Fed's Hammack: I do like idea of successive rate increases to help bring inflation down.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:27",
+          "link": "https://www.financialjuice.com/News/9854394/Feds-Hammack-I-do-like-idea-of-successive-rate-increases-to-help-bring-inflation-down.aspx?xy=rss"
+        },
+        {
+          "id": "ab1f0c57e4d8",
+          "titulo": "Fed's Hammack: The economy can deal with more restriction. It's unclear how far Fed has to go.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:23",
+          "link": "https://www.financialjuice.com/News/9854391/Feds-Hammack-The-economy-can-deal-with-more-restriction-Its-unclear-how-far-Fed-has-to-go.aspx?xy=rss"
+        },
+        {
+          "id": "18cde77bc6a1",
+          "titulo": "Fed's Hammack: Would like to see us get to restrictive policy stance.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:23",
+          "link": "https://www.financialjuice.com/News/9854390/Feds-Hammack-Would-like-to-see-us-get-to-restrictive-policy-stance.aspx?xy=rss"
+        },
+        {
+          "id": "f9e45f7bbe50",
+          "titulo": "Fed's Hammack: Strong growth and Fed expectations driving rise in rates",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:23",
+          "link": "https://www.financialjuice.com/News/9854389/Feds-Hammack-Strong-growth-and-Fed-expectations-driving-rise-in-rates.aspx?xy=rss"
+        },
+        {
+          "id": "c5a14f7bf2b2",
+          "titulo": "Fed's Hammack: Higher market borrowing costs are needed to restrain economy.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:22",
+          "link": "https://www.financialjuice.com/News/9854387/Feds-Hammack-Higher-market-borrowing-costs-are-needed-to-restrain-economy.aspx?xy=rss"
+        },
+        {
+          "id": "ef7e8093e1b7",
+          "titulo": "Fed's Hammack: Financial conditions are still not restraining the economy.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:22",
+          "link": "https://www.financialjuice.com/News/9854388/Feds-Hammack-Financial-conditions-are-still-not-restraining-the-economy.aspx?xy=rss"
+        },
+        {
+          "id": "9df23f92b959",
+          "titulo": "Fed's Hammack: Definitely seeing inflation pressures from AI today.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:20",
+          "link": "https://www.financialjuice.com/News/9854385/Feds-Hammack-Definitely-seeing-inflation-pressures-from-AI-today.aspx?xy=rss"
+        },
+        {
+          "id": "1975d1f3a29e",
+          "titulo": "Fed's Hammack: We maybe seeing signs of emerging labor market tightening.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:16",
+          "link": "https://www.financialjuice.com/News/9854371/Feds-Hammack-We-maybe-seeing-signs-of-emerging-labor-market-tightening.aspx?xy=rss"
+        },
+        {
+          "id": "b39897b62f0d",
+          "titulo": "Fed's Hammack: I'm seeing inflation in a broader number of sectors.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:13",
+          "link": "https://www.financialjuice.com/News/9854359/Feds-Hammack-Im-seeing-inflation-in-a-broader-number-of-sectors.aspx?xy=rss"
+        },
+        {
+          "id": "59c1eaef6a46",
+          "titulo": "Fed's Hammack: Inflation pressures appear to be broadening.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:12",
+          "link": "https://www.financialjuice.com/News/9854358/Feds-Hammack-Inflation-pressures-appear-to-be-broadening.aspx?xy=rss"
+        },
+        {
+          "id": "d6c723e5c838",
+          "titulo": "Fed's Hammack: Preference has been for steady and slow rate hike increments.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:11",
+          "link": "https://www.financialjuice.com/News/9854355/Feds-Hammack-Preference-has-been-for-steady-and-slow-rate-hike-increments.aspx?xy=rss"
+        },
+        {
+          "id": "5b1bc02f4942",
+          "titulo": "Fed’s Warsh doesn’t talk about monetary policy in a speech on AI",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "17:06",
+          "link": "https://investinglive.com/central-banks/fed-s-warsh-doesn-t-talk-about-monetary-policy-in-a-speech-on-ai/"
+        },
+        {
+          "id": "d5b7776f20e3",
+          "titulo": "FOMC Members Miss No Forward Guidance Memo As Fed Cuts Policy Meetings",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-16",
+          "hora": "14:00",
+          "link": "https://seekingalpha.com/article/4968519-omc-members-miss-no-forward-guidance-memo-as-fed-cuts-policy-meetings?source=feed_all_articles"
+        },
+        {
+          "id": "1eabe8b86857",
+          "titulo": "Effective Fed funds rate 3.88% November 13th vs 3.88% November 12th.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "13:59",
+          "link": "https://www.financialjuice.com/News/9853922/Effective-Fed-funds-rate-388-November-13th-vs-388-November-12th.aspx?xy=rss"
+        },
+        {
+          "id": "55e380450f31",
+          "titulo": "Citigroup: Risk Sentiment Remains Soft as Markets Await Fed and Geopolitical Catalysts - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "13:31",
+          "link": "https://www.financialjuice.com/News/9853884/Citigroup-Risk-Sentiment-Remains-Soft-as-Markets-Await-Fed-and-Geopolitical-Catalysts---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "7e99d548061e",
+          "titulo": "US November Empire Manufacturing index +7.80 vs +18.00 expected",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "13:30",
+          "link": "https://investinglive.com/news/us-november-empire-manufacturing-index-7-80-vs-18-00-expected/"
+        },
+        {
+          "id": "6698d2dd985d",
+          "titulo": "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "08:30",
+          "link": "https://investinglive.com/commodities/gold-threatens-a-major-breakdown-amid-a-more-hawkish-fed-what-to-watch-next/"
+        },
+        {
+          "id": "06d99874200c",
+          "titulo": "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "01:40",
+          "link": "https://investinglive.com/commodities/gold-slips-toward-3-876-ahead-of-warsh-as-fed-speakers-line-up-behind-tighter-policy/"
+        },
+        {
+          "id": "02603d9ddd2a",
+          "titulo": "Goldman’s second gold forecast downgrade in a month turns its bear case into the base case",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "01:15",
+          "link": "https://investinglive.com/commodities/goldman-s-second-gold-forecast-downgrade-in-a-month-turns-its-bear-case-into-the-base-case/"
+        },
+        {
+          "id": "cd7694674458",
+          "titulo": "ICYMI: Fed’s Jefferson says inflation is the key signal for rates, with PCE still at 3.6%",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "00:53",
+          "link": "https://investinglive.com/central-banks/icymi-fed-s-jefferson-says-inflation-is-the-key-signal-for-rates-with-pce-still-at-3-6/"
+        },
+        {
+          "id": "0ce88c262725",
+          "titulo": "Bessent on Fox warns Federal Reserve against additional monetary tightening",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-15",
+          "hora": "15:19",
+          "link": "https://www.financialjuice.com/News/9852767/Bessent-on-Fox-warns-Federal-Reserve-against-additional-monetary-tightening.aspx?xy=rss"
+        },
+        {
+          "id": "fc956e179fb4",
+          "titulo": "VIX Spike: Complacency's Bill Coming Due - What Happens Now",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-15",
+          "hora": "14:25",
+          "link": "https://seekingalpha.com/article/4968389-vix-spike-complacencys-bill-coming-due-what-happens-now?source=feed_all_articles"
+        },
+        {
+          "id": "488c211825df",
+          "titulo": "Hot Inflation Grounds Bond Rally",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-15",
+          "hora": "14:00",
+          "link": "https://seekingalpha.com/article/4968358-hot-inflation-grounds-bond-rally?source=feed_all_articles"
+        }
+      ],
+      "criado_em": "2026-11-16T15:06",
+      "atualizado_em": "2026-11-16T21:06"
+    },
+    {
+      "titulo": "Irão diz que um quarto petroleiro em 24 horas bateu numa mina no Ormuz e Araghchi segue para Omã",
+      "sinal": "risk_off",
+      "resumo": "A marinha iraniana e a televisão estatal relatam um petroleiro em chamas após atingir uma mina, o quarto navio afetado em 24 horas; a UKMTO tinha recebido relato de um navio atingido por projétil. O MNE Araghchi saiu de Islamabad para Mascate depois de o Paquistão dizer que aguarda resposta dos EUA; Vance disse que não deixará o Irão tornar-se um compromisso de dois anos e o porta-aviões USS Theodore Roosevelt opera na área do CENTCOM. Um vice-governador de Isfahan desmentiu a ativação das defesas aéreas.",
+      "impacto": "Prémio de risco no Brent sustenta PETR4 e PRIO3, mas alimenta inflação e a pressão sobre juros (Fed e Copom), negativo para o resto da bolsa.",
+      "especulacao": "A agência Mehr relata o abate de um drone americano MQ-1 perto do Ormuz e a ativação de defesas aéreas em Isfahan; nenhum dos relatos foi confirmado pelos EUA e o segundo foi desmentido localmente.",
+      "n_noticias": 23,
+      "noticias": [
+        {
+          "id": "20a5e7b8b775",
+          "titulo": "Deputy Isfahan Governor denies report of air defences activated - SNN News Agency",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "20:26",
+          "link": "https://www.financialjuice.com/News/9854457/Deputy-Isfahan-Governor-denies-report-of-air-defences-activated---SNN-News-Agency.aspx?xy=rss"
+        },
+        {
+          "id": "cc7cf83dd879",
+          "titulo": "Iran Navy: Tanker on fire after hitting mine in Strait of Hormuz, fourth affected vessel in 24 hours - Iranian State TV.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "20:25",
+          "link": "https://www.financialjuice.com/News/9854456/Iran-Navy-Tanker-on-fire-after-hitting-mine-in-Strait-of-Hormuz-fourth-affected-vessel-in-24-hours---Iranian-State-TV.aspx?xy=rss"
+        },
+        {
+          "id": "8adb3ecd588f",
+          "titulo": "Iran claims fourth tanker hits mine in Hormuz in 24 hours - IRIB",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "20:16",
+          "link": "https://www.financialjuice.com/News/9854440/Iran-claims-fourth-tanker-hits-mine-in-Hormuz-in-24-hours---IRIB.aspx?xy=rss"
+        },
+        {
+          "id": "34414c7b8b35",
+          "titulo": "Iran’s Foreign Minister Araghchi entered Oman - Fars News",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:35",
+          "link": "https://www.financialjuice.com/News/9854410/Irans-Foreign-Minister-Araghchi-entered-Oman---Fars-News.aspx?xy=rss"
+        },
+        {
+          "id": "6627b6853525",
+          "titulo": "Vance: Won't let Iran become even a 2 Year commitment - Fox News clip",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:26",
+          "link": "https://www.financialjuice.com/News/9854393/Vance-Wont-let-Iran-become-even-a-2-Year-commitment---Fox-News-clip.aspx?xy=rss"
+        },
+        {
+          "id": "366b14110b09",
+          "titulo": "Iran’s Foreign Minister Araghchi departs Islamabad for Muscat - Tasnim",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:19",
+          "link": "https://www.financialjuice.com/News/9854384/Irans-Foreign-Minister-Araghchi-departs-Islamabad-for-Muscat---Tasnim.aspx?xy=rss"
+        },
+        {
+          "id": "befe38f67b52",
+          "titulo": "US Military: Aircraft carrier USS Theodore Roosevelt is currently operating in the CENTCOM area of responsibility as part of a scheduled deployment.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:09",
+          "link": "https://www.financialjuice.com/News/9854351/US-Military-Aircraft-carrier-USS-Theodore-Roosevelt-is-currently-operating-in-the-CENTCOM-area-of-responsibility-as-part-of-a-scheduled-deployment.aspx?xy=rss"
+        },
+        {
+          "id": "f10053a51deb",
+          "titulo": "Mehr News: An American MQ-1 drone was shot down by the Iranian Army's air defense system in the vicinity of the Strait of Hormuz.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "17:54",
+          "link": "https://www.financialjuice.com/News/9854275/Mehr-News-An-American-MQ-1-drone-was-shot-down-by-the-Iranian-Armys-air-defense-system-in-the-vicinity-of-the-Strait-of-Hormuz.aspx?xy=rss"
+        },
+        {
+          "id": "9d63a5ddd4d4",
+          "titulo": "According to a reporter from Mehr News Agency in Isfahan, air defense systems in Isfahan were activated a few minutes ago.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "17:50",
+          "link": "https://www.financialjuice.com/News/9854274/According-to-a-reporter-from-Mehr-News-Agency-in-Isfahan-air-defense-systems-in-Isfahan-were-activated-a-few-minutes-ago.aspx?xy=rss"
+        },
+        {
+          "id": "0dabd4eff1e6",
+          "titulo": "Trump was asked if he would ask China to stop buying oil from Iran: \"I will ask him what I want to ask him. You don't have to know - Israel's Channel 12 News.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:43",
+          "link": "https://www.financialjuice.com/News/9854004/Trump-was-asked-if-he-would-ask-China-to-stop-buying-oil-from-Iran-I-will-ask-him-what-I-want-to-ask-him-You-dont-have-to-know---Israels-Channel-12-News.aspx?xy=rss"
+        },
+        {
+          "id": "6af047943d16",
+          "titulo": "Pakistan's Deputy Prime Minister: Response from the US is awaited, haven’t given up on our efforts  - Asia One News Reporter on X",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "13:59",
+          "link": "https://www.financialjuice.com/News/9853921/Pakistans-Deputy-Prime-Minister-Response-from-the-US-is-awaited-havent-given-up-on-our-efforts----Asia-One-News-Reporter-on-X.aspx?xy=rss"
+        },
+        {
+          "id": "e872316ccf7e",
+          "titulo": "Iran's Foreign Minister Araghchi met with Asim Munir, Commander of Pakistan’s army, at the country’s armed forces headquarters - Al Jazeera, citing a Pakistani source",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "13:53",
+          "link": "https://www.financialjuice.com/News/9853918/Irans-Foreign-Minister-Araghchi-met-with-Asim-Munir-Commander-of-Pakistans-army-at-the-countrys-armed-forces-headquarters---Al-Jazeera-citing-a-Pakistani-source.aspx?xy=rss"
+        },
+        {
+          "id": "a01ed830351c",
+          "titulo": "Iran’s Foreign Minister Araghchi: We have complete trust in Pakistan - Iran's Sepah news",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "13:36",
+          "link": "https://www.financialjuice.com/News/9853898/Irans-Foreign-Minister-Araghchi-We-have-complete-trust-in-Pakistan---Irans-Sepah-news.aspx?xy=rss"
+        },
+        {
+          "id": "24c6008dc276",
+          "titulo": "Crude oil remains supported amid the prolonged US-Iran standoff and risks of military escalation",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "10:10",
+          "link": "https://investinglive.com/commodities/crude-oil-remains-supported-amid-the-prolonged-us-iran-standoff-and-risks-of-military-escalation/"
+        },
+        {
+          "id": "22e5c1518926",
+          "titulo": "UKMTO gets report of vessel struck by projectile in Hormuz",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "07:14",
+          "link": "https://www.financialjuice.com/News/9853405/UKMTO-gets-report-of-vessel-struck-by-projectile-in-Hormuz.aspx?xy=rss"
+        },
+        {
+          "id": "b231c8868411",
+          "titulo": "Iran's army: oil tanker ignites after striking naval mine in eastern Strait of Hormuz - state media",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "06:35",
+          "link": "https://www.financialjuice.com/News/9853365/Irans-army-oil-tanker-ignites-after-striking-naval-mine-in-eastern-Strait-of-Hormuz---state-media.aspx?xy=rss"
+        },
+        {
+          "id": "6b6e9abf69d2",
+          "titulo": "Iran’s IRGC: two oil tankers struck mines in the Strait of Hormuz causing explosions - state media",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "04:28",
+          "link": "https://www.financialjuice.com/News/9853237/Irans-IRGC-two-oil-tankers-struck-mines-in-the-Strait-of-Hormuz-causing-explosions---state-media.aspx?xy=rss"
+        },
+        {
+          "id": "9325be695522",
+          "titulo": "Irã ataca base dos EUA no Barein com drones; reino diz ter interceptado ofensiva",
+          "fonte": "InfoMoney",
+          "data": "2026-11-15",
+          "hora": "17:11",
+          "link": "https://www.infomoney.com.br/mundo/ira-ataca-base-dos-eua-no-barein-com-drones-reino-diz-ter-interceptado-ofensiva/"
+        },
+        {
+          "id": "cb7594dbd768",
+          "titulo": "Iran's IRGC navy: two tankers ablaze after striking naval mines in Strait of Hormuz - state media",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-15",
+          "hora": "13:04",
+          "link": "https://www.financialjuice.com/News/9852708/Irans-IRGC-navy-two-tankers-ablaze-after-striking-naval-mines-in-Strait-of-Hormuz---state-media.aspx?xy=rss"
+        },
+        {
+          "id": "4824b60c9d96",
+          "titulo": "Iran's foreign minister to visit Oman Tuesday for discussions: IRNA citing ministry spokesperson",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-15",
+          "hora": "12:06",
+          "link": "https://www.financialjuice.com/News/9852676/Irans-foreign-minister-to-visit-Oman-Tuesday-for-discussions-IRNA-citing-ministry-spokesperson.aspx?xy=rss"
+        },
+        {
+          "id": "d8b78290da4b",
+          "titulo": "Iran’s IRGC: six drones struck US air defense radar at Bahrain’s al-Rifaa helicopter base - Press TV",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-15",
+          "hora": "10:23",
+          "link": "https://www.financialjuice.com/News/9852635/Irans-IRGC-six-drones-struck-US-air-defense-radar-at-Bahrains-al-Rifaa-helicopter-base---Press-TV.aspx?xy=rss"
+        },
+        {
+          "id": "f08e4038ad98",
+          "titulo": "Iran's Fars News Agency: IRGC launched strikes on US base in Bahrain in retaliation for 'hostile' US actions",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-15",
+          "hora": "10:22",
+          "link": "https://www.financialjuice.com/News/9852634/Irans-Fars-News-Agency-IRGC-launched-strikes-on-US-base-in-Bahrain-in-retaliation-for-hostile-US-actions.aspx?xy=rss"
+        },
+        {
+          "id": "023eb1ed2ab2",
+          "titulo": "Iran's IRGC navy: two tankers ignite after hitting naval mines in Strait of Hormuz - state media",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-14",
+          "hora": "21:46",
+          "link": "https://www.financialjuice.com/News/9852411/Irans-IRGC-navy-two-tankers-ignite-after-hitting-naval-mines-in-Strait-of-Hormuz---state-media.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-11-15T17:26",
+      "atualizado_em": "2026-11-16T21:06"
     },
     {
       "titulo": "Kremlin fixa a cimeira Putin-Trump-Xi para 19 de novembro na residência de Xi",
       "sinal": "neutro",
-      "resumo": "O Kremlin confirma o encontro trilateral a 19/11 e uma reunião Putin-Xi a 18/11, com consultas intensas sobre um comunicado conjunto. Trump disse que vai discutir economia e comércio, desnuclearização, Irão e Ucrânia, e viaja com Bessent e Lutnick no Air Force One; o primeiro-ministro canadiano Carney já chegou a Shenzhen para a APEC.",
+      "resumo": "O Kremlin confirma o encontro trilateral a 19/11 e uma reunião Putin-Xi a 18/11, com consultas intensas sobre um comunicado conjunto; é a primeira vez que os três líderes se reúnem presencialmente. Trump disse que vai discutir economia e comércio, Irão e Ucrânia, e o Kremlin admite que Putin se encontre com Kim Jong Un se este for à China.",
       "impacto": "Um acordo comercial EUA-China seria positivo para minério e aço (VALE3, GGBR4, CSNA3, USIM5) e para o apetite por emergentes; sem acordo, prevalece a aversão ao risco da semana.",
-      "especulacao": "Trump admite que Kim Jong Un possa juntar-se ao encontro, decisão que diz caber a Xi; nada está confirmado.",
-      "n_noticias": 21,
+      "especulacao": "Trump admite que Kim Jong Un possa juntar-se ao encontro, decisão que diz caber a Xi; um pesquisador ouvido pela Exame espera que Xi e Putin testem um Trump enfraquecido. Nada disto está confirmado.",
+      "n_noticias": 23,
       "noticias": [
+        {
+          "id": "fd53e843da5a",
+          "titulo": "Putin could meet North Korean leader Kim Jong Un if he also comes to china for APEC summit, IFX quotes kremlin spokesman Peskov as saying",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:44",
+          "link": "https://www.financialjuice.com/News/9854412/Putin-could-meet-North-Korean-leader-Kim-Jong-Un-if-he-also-comes-to-china-for-APEC-summit-IFX-quotes-kremlin-spokesman-Peskov-as-saying.aspx?xy=rss"
+        },
+        {
+          "id": "f279be804950",
+          "titulo": "Enfraquecido, Trump deve ser testado por Xi e Putin na China, diz pesquisador",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "16:25",
+          "link": "https://exame.com/mundo/enfraquecido-trump-deve-ser-testado-por-xi-e-putin-na-china-diz-pesquisador/"
+        },
+        {
+          "id": "b4a70aac1292",
+          "titulo": "Pela primeira vez na história, Xi Jinping, Putin e Trump se reunirão presencialmente",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "15:06",
+          "link": "https://exame.com/mundo/pela-primeira-vez-na-historia-xi-jinping-putin-e-trump-se-reunirao-presencialmente/"
+        },
         {
           "id": "7035067f0217",
           "titulo": "Trump: Kim Jong Un may come, it's up to Xi.",
@@ -453,18 +965,10 @@
           "data": "2026-11-15",
           "hora": "12:07",
           "link": "https://exame.com/mundo/russia-confirma-encontro-de-putin-trump-e-xi-em-meio-a-impasse-sobre-a-ucrania/"
-        },
-        {
-          "id": "c21904239d86",
-          "titulo": "Kremlin: Putin, Xi and Trump to hold trilateral meeting in Shenzhen on Nov. 19 alongside APEC summit",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-14",
-          "hora": "15:09",
-          "link": "https://www.financialjuice.com/News/9852285/Kremlin-Putin-Xi-and-Trump-to-hold-trilateral-meeting-in-Shenzhen-on-Nov-19-alongside-APEC-summit.aspx?xy=rss"
         }
       ],
       "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T15:06"
+      "atualizado_em": "2026-11-16T21:06"
     },
     {
       "titulo": "Rússia aceita nova ronda de negociações a três sobre a Ucrânia, sem europeus, e os ataques continuam",
@@ -631,261 +1135,45 @@
       "atualizado_em": "2026-11-16T15:06"
     },
     {
-      "titulo": "Mais petroleiros atingidos por minas no Ormuz e o Paquistão aguarda resposta dos EUA na mediação com o Irão",
+      "titulo": "Dólar sobe 2% e vai a R$ 5,77, máximo desde abril de 2025, depois do IBC-Br em queda e do Focus mais alto",
       "sinal": "risk_off",
-      "resumo": "A Guarda Revolucionária e o exército iraniano relatam petroleiros atingidos por minas no Estreito de Ormuz e a UKMTO recebeu relato de um navio atingido por projétil. O MNE iraniano Araghchi reuniu-se com o comandante do exército paquistanês e o vice-primeiro-ministro do Paquistão diz aguardar resposta dos EUA; o petróleo segura-se perto dos US$ 87.",
-      "impacto": "Prémio de risco no Brent sustenta PETR4 e PRIO3, mas alimenta inflação e a pressão sobre juros (Fed e Copom), negativo para o resto da bolsa.",
+      "resumo": "O real teve a maior desvalorização diária desde a reeleição de Lula, com o dólar a R$ 5,77 e o mercado a apontar o risco fiscal (InfoMoney, Exame). A prévia do PIB do Banco Central caiu 0,9% no 3º trimestre, a maior queda desde a pandemia, e o Focus elevou a inflação de 2027 para 5% e passou a prever um corte menor da Selic; o Morgan Stanley rebaixou o Brasil e vê o Ibovespa em 160 mil pontos no fim de 2027. Os estrangeiros retiraram R$ 17 bilhões da bolsa, compensados por compras de investidores locais.",
+      "impacto": "Atividade fraca com inflação esperada mais alta adia cortes de juro: negativo para bancos (ITUB4, BBDC4, BBAS3), construtoras (MRVE3, CYRE3) e AMER3; o dólar alto ajuda as exportadoras (SUZB3, KLBN11, JBSS32, VALE3).",
       "especulacao": "",
-      "n_noticias": 14,
+      "n_noticias": 15,
       "noticias": [
         {
-          "id": "0dabd4eff1e6",
-          "titulo": "Trump was asked if he would ask China to stop buying oil from Iran: \"I will ask him what I want to ask him. You don't have to know - Israel's Channel 12 News.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:43",
-          "link": "https://www.financialjuice.com/News/9854004/Trump-was-asked-if-he-would-ask-China-to-stop-buying-oil-from-Iran-I-will-ask-him-what-I-want-to-ask-him-You-dont-have-to-know---Israels-Channel-12-News.aspx?xy=rss"
-        },
-        {
-          "id": "6af047943d16",
-          "titulo": "Pakistan's Deputy Prime Minister: Response from the US is awaited, haven’t given up on our efforts  - Asia One News Reporter on X",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "13:59",
-          "link": "https://www.financialjuice.com/News/9853921/Pakistans-Deputy-Prime-Minister-Response-from-the-US-is-awaited-havent-given-up-on-our-efforts----Asia-One-News-Reporter-on-X.aspx?xy=rss"
-        },
-        {
-          "id": "e872316ccf7e",
-          "titulo": "Iran's Foreign Minister Araghchi met with Asim Munir, Commander of Pakistan’s army, at the country’s armed forces headquarters - Al Jazeera, citing a Pakistani source",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "13:53",
-          "link": "https://www.financialjuice.com/News/9853918/Irans-Foreign-Minister-Araghchi-met-with-Asim-Munir-Commander-of-Pakistans-army-at-the-countrys-armed-forces-headquarters---Al-Jazeera-citing-a-Pakistani-source.aspx?xy=rss"
-        },
-        {
-          "id": "a01ed830351c",
-          "titulo": "Iran’s Foreign Minister Araghchi: We have complete trust in Pakistan - Iran's Sepah news",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "13:36",
-          "link": "https://www.financialjuice.com/News/9853898/Irans-Foreign-Minister-Araghchi-We-have-complete-trust-in-Pakistan---Irans-Sepah-news.aspx?xy=rss"
-        },
-        {
-          "id": "24c6008dc276",
-          "titulo": "Crude oil remains supported amid the prolonged US-Iran standoff and risks of military escalation",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "10:10",
-          "link": "https://investinglive.com/commodities/crude-oil-remains-supported-amid-the-prolonged-us-iran-standoff-and-risks-of-military-escalation/"
-        },
-        {
-          "id": "22e5c1518926",
-          "titulo": "UKMTO gets report of vessel struck by projectile in Hormuz",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "07:14",
-          "link": "https://www.financialjuice.com/News/9853405/UKMTO-gets-report-of-vessel-struck-by-projectile-in-Hormuz.aspx?xy=rss"
-        },
-        {
-          "id": "b231c8868411",
-          "titulo": "Iran's army: oil tanker ignites after striking naval mine in eastern Strait of Hormuz - state media",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "06:35",
-          "link": "https://www.financialjuice.com/News/9853365/Irans-army-oil-tanker-ignites-after-striking-naval-mine-in-eastern-Strait-of-Hormuz---state-media.aspx?xy=rss"
-        },
-        {
-          "id": "6b6e9abf69d2",
-          "titulo": "Iran’s IRGC: two oil tankers struck mines in the Strait of Hormuz causing explosions - state media",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "04:28",
-          "link": "https://www.financialjuice.com/News/9853237/Irans-IRGC-two-oil-tankers-struck-mines-in-the-Strait-of-Hormuz-causing-explosions---state-media.aspx?xy=rss"
-        },
-        {
-          "id": "9325be695522",
-          "titulo": "Irã ataca base dos EUA no Barein com drones; reino diz ter interceptado ofensiva",
-          "fonte": "InfoMoney",
-          "data": "2026-11-15",
-          "hora": "17:11",
-          "link": "https://www.infomoney.com.br/mundo/ira-ataca-base-dos-eua-no-barein-com-drones-reino-diz-ter-interceptado-ofensiva/"
-        },
-        {
-          "id": "cb7594dbd768",
-          "titulo": "Iran's IRGC navy: two tankers ablaze after striking naval mines in Strait of Hormuz - state media",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-15",
-          "hora": "13:04",
-          "link": "https://www.financialjuice.com/News/9852708/Irans-IRGC-navy-two-tankers-ablaze-after-striking-naval-mines-in-Strait-of-Hormuz---state-media.aspx?xy=rss"
-        },
-        {
-          "id": "4824b60c9d96",
-          "titulo": "Iran's foreign minister to visit Oman Tuesday for discussions: IRNA citing ministry spokesperson",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-15",
-          "hora": "12:06",
-          "link": "https://www.financialjuice.com/News/9852676/Irans-foreign-minister-to-visit-Oman-Tuesday-for-discussions-IRNA-citing-ministry-spokesperson.aspx?xy=rss"
-        },
-        {
-          "id": "d8b78290da4b",
-          "titulo": "Iran’s IRGC: six drones struck US air defense radar at Bahrain’s al-Rifaa helicopter base - Press TV",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-15",
-          "hora": "10:23",
-          "link": "https://www.financialjuice.com/News/9852635/Irans-IRGC-six-drones-struck-US-air-defense-radar-at-Bahrains-al-Rifaa-helicopter-base---Press-TV.aspx?xy=rss"
-        },
-        {
-          "id": "f08e4038ad98",
-          "titulo": "Iran's Fars News Agency: IRGC launched strikes on US base in Bahrain in retaliation for 'hostile' US actions",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-15",
-          "hora": "10:22",
-          "link": "https://www.financialjuice.com/News/9852634/Irans-Fars-News-Agency-IRGC-launched-strikes-on-US-base-in-Bahrain-in-retaliation-for-hostile-US-actions.aspx?xy=rss"
-        },
-        {
-          "id": "023eb1ed2ab2",
-          "titulo": "Iran's IRGC navy: two tankers ignite after hitting naval mines in Strait of Hormuz - state media",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-14",
-          "hora": "21:46",
-          "link": "https://www.financialjuice.com/News/9852411/Irans-IRGC-navy-two-tankers-ignite-after-hitting-naval-mines-in-Strait-of-Hormuz---state-media.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-15T17:26",
-      "atualizado_em": "2026-11-16T15:06"
-    },
-    {
-      "titulo": "Takata, do BoJ, defende subidas de juro ágeis e o PIB do Japão recua 0,1% no 3º trimestre",
-      "sinal": "risk_off",
-      "resumo": "O membro do conselho do BoJ diz que a taxa já se aproxima da zona neutra, que a neutra pode estar acima das estimativas e que o banco não deve seguir um ritmo fixo de subidas, apontando efeitos de segunda ordem nos preços. O PIB do Japão contraiu 0,1% anualizado no 3º trimestre contra +0,3% esperado, a primeira queda em quatro trimestres.",
-      "impacto": "Um BoJ mais rápido encarece o carry trade em iene, canal clássico de desalavancagem global que atinge emergentes e o real.",
-      "especulacao": "",
-      "n_noticias": 14,
-      "noticias": [
-        {
-          "id": "a0a20b33e9e0",
-          "titulo": "PIB do Japão (preliminar) fica estagnado no 3º trimestre",
+          "id": "c8f37ee254e3",
+          "titulo": "Por que o dólar ultrapassou os R$ 5,75 nesta segunda?",
           "fonte": "InfoMoney",
           "data": "2026-11-16",
-          "hora": "09:20",
-          "link": "https://www.infomoney.com.br/mundo/pib-do-japao-preliminar-fica-estagnado-no-3o-trimestre/"
+          "hora": "20:38",
+          "link": "https://www.infomoney.com.br/mercados/por-que-dolar-sobe-nesta-segunda/"
         },
         {
-          "id": "494034fd72d0",
-          "titulo": "Japanese Capacity Utilization MoM Actual 1.6% (Forecast -, Previous -4.2%)",
-          "fonte": "FinancialJuice",
+          "id": "9c1d4b3bb256",
+          "titulo": "Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal",
+          "fonte": "InfoMoney",
           "data": "2026-11-16",
-          "hora": "04:34",
-          "link": "https://www.financialjuice.com/News/9853251/Japanese-Capacity-Utilization-MoM-Actual-16-Forecast---Previous--42.aspx?xy=rss"
+          "hora": "20:21",
+          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/"
         },
         {
-          "id": "a676290ceef2",
-          "titulo": "BoJ's Takata: despite early-November stock market volatility tied to global AI shares, I believe AI investment will stay robust overall",
-          "fonte": "FinancialJuice",
+          "id": "01ac41e26cfd",
+          "titulo": "Gringo tira R$ 17 bi, brasileiro compra R$ 17 bi: há armadilha na Bolsa?",
+          "fonte": "InfoMoney",
           "data": "2026-11-16",
-          "hora": "04:09",
-          "link": "https://www.financialjuice.com/News/9853227/BoJs-Takata-despite-early-November-stock-market-volatility-tied-to-global-AI-shares-I-believe-AI-investment-will-stay-robust-overall.aspx?xy=rss"
+          "hora": "19:50",
+          "link": "https://www.infomoney.com.br/mercados/estrangeiros-vendem-bolsa-brasileiros-compram-armadilha/"
         },
         {
-          "id": "e5f0f916f295",
-          "titulo": "BoJ's Takata: Central bank needs to act swiftly on rate hikes after assessing domestic financial conditions and global developments",
-          "fonte": "FinancialJuice",
+          "id": "90b024a45f30",
+          "titulo": "Dólar tem maior alta desde reeleição de Lula e vai a R$ 5,77, pico em 19 meses",
+          "fonte": "Exame",
           "data": "2026-11-16",
-          "hora": "04:07",
-          "link": "https://www.financialjuice.com/News/9853219/BoJs-Takata-Central-bank-needs-to-act-swiftly-on-rate-hikes-after-assessing-domestic-financial-conditions-and-global-developments.aspx?xy=rss"
+          "hora": "17:32",
+          "link": "https://exame.com/invest/mercados/dolar-tem-maior-alta-desde-reeleicao-de-lula-e-vai-a-r-577-pico-em-19-meses/"
         },
-        {
-          "id": "17896ee7e317",
-          "titulo": "BoJ's Takata: on further rate increases, central bank should not target expected neutral rate or be constrained by market-anticipated intervals or ranges",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "04:07",
-          "link": "https://www.financialjuice.com/News/9853218/BoJs-Takata-on-further-rate-increases-central-bank-should-not-target-expected-neutral-rate-or-be-constrained-by-market-anticipated-intervals-or-ranges.aspx?xy=rss"
-        },
-        {
-          "id": "168e2cfa23e5",
-          "titulo": "BOJ’s Takata calls for nimble hikes after 1.5% bid, says neutral rate may top estimates",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "04:06",
-          "link": "https://investinglive.com/central-banks/boj-s-takata-calls-for-nimble-hikes-after-1-5-bid-says-neutral-rate-may-top-estimates/"
-        },
-        {
-          "id": "c08bc8f193ff",
-          "titulo": "BoJ’s Takata: central bank must show resolve to stop upward price shifts, while considering impact on fx markets",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "04:05",
-          "link": "https://www.financialjuice.com/News/9853215/BoJs-Takata-central-bank-must-show-resolve-to-stop-upward-price-shifts-while-considering-impact-on-fx-markets.aspx?xy=rss"
-        },
-        {
-          "id": "84131042585b",
-          "titulo": "BoJ's Takata: Inflationary pressures may emerge in the second half of fiscal 2026",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "04:05",
-          "link": "https://www.financialjuice.com/News/9853216/BoJs-Takata-Inflationary-pressures-may-emerge-in-the-second-half-of-fiscal-2026.aspx?xy=rss"
-        },
-        {
-          "id": "f45c4126f074",
-          "titulo": "BoJ's Takata: with foreign central banks entering rate-hike cycle, BoJ must consider risk that overseas rates could raise Japan's neutral rate above market expectations",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "04:04",
-          "link": "https://www.financialjuice.com/News/9853212/BoJs-Takata-with-foreign-central-banks-entering-rate-hike-cycle-BoJ-must-consider-risk-that-overseas-rates-could-raise-Japans-neutral-rate-above-market-expectations.aspx?xy=rss"
-        },
-        {
-          "id": "a577f05393a6",
-          "titulo": "BoJ's Takata: Japan's policy rate has finally neared neutral zone",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "04:02",
-          "link": "https://www.financialjuice.com/News/9853210/BoJs-Takata-Japans-policy-rate-has-finally-neared-neutral-zone.aspx?xy=rss"
-        },
-        {
-          "id": "3325d6ae698f",
-          "titulo": "BoJ's Takata: these developments are among reasons why rate increases are necessary now",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "04:02",
-          "link": "https://www.financialjuice.com/News/9853208/BoJs-Takata-these-developments-are-among-reasons-why-rate-increases-are-necessary-now.aspx?xy=rss"
-        },
-        {
-          "id": "c12ca065456d",
-          "titulo": "Bank of Japan board member Takata: Price hikes now more likely to trigger second-round effects",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "04:01",
-          "link": "https://www.financialjuice.com/News/9853205/Bank-of-Japan-board-member-Takata-Price-hikes-now-more-likely-to-trigger-second-round-effects.aspx?xy=rss"
-        },
-        {
-          "id": "d6f999ec4cc9",
-          "titulo": "Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits households",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "02:44",
-          "link": "https://investinglive.com/news/japan-economy-shrinks-0-1-in-q3-first-fall-in-4-quarters-as-inflation-hits-households/"
-        },
-        {
-          "id": "683ba015f5c3",
-          "titulo": "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers weigh",
-          "fonte": "ForexLive",
-          "data": "2026-11-15",
-          "hora": "23:57",
-          "link": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/"
-        }
-      ],
-      "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T15:06"
-    },
-    {
-      "titulo": "IBC-Br cai 0,9% no 3º trimestre, o Focus sobe a inflação de 2027 e o dólar bate R$ 5,74",
-      "sinal": "risk_off",
-      "resumo": "A prévia do PIB do Banco Central registou a maior queda desde a pandemia no 3º trimestre; o Focus elevou a inflação esperada para 2027 para 5% e passou a prever um corte menor da Selic. O dólar rompeu R$ 5,70 e chegou a R$ 5,74, nível de maio de 2025, e o Ibovespa abriu em baixa com mineradoras e bancos. O Morgan Stanley rebaixou o Brasil, vê o Ibovespa em 160 mil pontos no fim de 2027 (queda de 7%) e prefere Chile, Peru e Argentina.",
-      "impacto": "Combinação de atividade fraca com inflação esperada mais alta adia cortes de juro: negativo para bancos (ITUB4, BBDC4, BBAS3), construtoras (MRVE3, CYRE3) e AMER3; o dólar alto ajuda as exportadoras (SUZB3, KLBN11, JBSS32, VALE3).",
-      "especulacao": "",
-      "n_noticias": 11,
-      "noticias": [
         {
           "id": "d9d3f7589338",
           "titulo": "Na maior queda desde a pandemia, 'prévia' do PIB do Banco Central registra tombo de 0,9% no 3º trimestre",
@@ -976,107 +1264,315 @@
         }
       ],
       "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T15:06"
+      "atualizado_em": "2026-11-16T21:06"
     },
     {
-      "titulo": "Jefferson põe a inflação no centro do Fed e o ouro desce para perto de US$ 3.876",
-      "sinal": "risk_off",
-      "resumo": "Jefferson disse que a inflação é o sinal-chave para os juros, com o PCE em 3,6%, e os membros do Fed alinham-se com uma política mais apertada antes de Warsh falar; o Goldman cortou pela segunda vez num mês a previsão para o ouro. O Empire Manufacturing de novembro saiu em 7,8 contra 18 esperado. No crédito, o índice de risco está em 67,1 (acima da média) com o CCC no percentil 94,7 do ano, mas recuou 9,3 pontos em 7 dias (OAS de 12/11).",
-      "impacto": "Juros americanos mais altos sustentam o dólar acima de R$ 5,70 e reduzem o espaço do Copom; a ponta frágil do crédito no pior nível do ano mantém o prémio de risco em bancos e small caps.",
+      "titulo": "Brent fecha a cair 3,55%, a US$ 92,44, apesar das minas no Ormuz, e o Goldman vê excedente em 2027",
+      "sinal": "neutro",
+      "resumo": "O Brent liquidou a US$ 92,44 (-US$ 3,40) e o WTI a US$ 85,72 (-3,21%), com o diesel em Nova Iorque a US$ 4,08 por galão. O Goldman projeta o regresso do excedente de oferta e o Brent a US$ 78 no fim de 2027, com risco de alta no curto prazo por causa da guerra; no Brasil, o fim do subsídio extra ao diesel ajuda a Petrobras e cada ponto de mistura de biodiesel pode cortar 700 milhões de litros de importação de diesel.",
+      "impacto": "A queda do Brent tira algum prémio a PETR4 e PRIO3 no curto prazo; o fim do subsídio é positivo para a margem de refino da PETR4, e a trajetória do Goldman é negativa para as petrolíferas quando o prémio de guerra sair.",
       "especulacao": "",
-      "n_noticias": 11,
+      "n_noticias": 15,
       "noticias": [
         {
-          "id": "d5b7776f20e3",
-          "titulo": "FOMC Members Miss No Forward Guidance Memo As Fed Cuts Policy Meetings",
+          "id": "54241998f258",
+          "titulo": "World July Oil Production Rose",
           "fonte": "Seeking Alpha",
+          "data": "2026-11-16",
+          "hora": "20:03",
+          "link": "https://seekingalpha.com/article/4968736-world-july-oil-production-rose?source=feed_all_articles"
+        },
+        {
+          "id": "eed0f5f68499",
+          "titulo": "Brent Crude futures settle at $92.44/bbl, down $3.40, 3.55%",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:41",
+          "link": "https://www.financialjuice.com/News/9854411/Brent-Crude-futures-settle-at-9244bbl-down-340-355.aspx?xy=rss"
+        },
+        {
+          "id": "94219ce80ac7",
+          "titulo": "NYMEX diesel Dec. futures settle at $4.0818 a gallon",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:31",
+          "link": "https://www.financialjuice.com/News/9854396/NYMEX-diesel-Dec-futures-settle-at-40818-a-gallon.aspx?xy=rss"
+        },
+        {
+          "id": "bca93f598c59",
+          "titulo": "NYMEX gasoline Dec. futures settle at $2.5379 a gallon",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:31",
+          "link": "https://www.financialjuice.com/News/9854397/NYMEX-gasoline-Dec-futures-settle-at-25379-a-gallon.aspx?xy=rss"
+        },
+        {
+          "id": "40eb130c5aa4",
+          "titulo": "NYMEX Nat Gas Dec. futures settle at $3.1220/MMBTU",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:31",
+          "link": "https://www.financialjuice.com/News/9854398/NYMEX-Nat-Gas-Dec-futures-settle-at-31220MMBTU.aspx?xy=rss"
+        },
+        {
+          "id": "3ba83db348a3",
+          "titulo": "NYMEX WTI crude Dec. futures settle at $85.72 a barrel, down $2.84, 3.21%",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "19:30",
+          "link": "https://www.financialjuice.com/News/9854395/NYMEX-WTI-crude-Dec-futures-settle-at-8572-a-barrel-down-284-321.aspx?xy=rss"
+        },
+        {
+          "id": "8286df176101",
+          "titulo": "Biodiesel pode reduzir importação de diesel em 700 milhões de litros a cada ponto de mistura",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "17:31",
+          "link": "https://exame.com/agro/biodiesel-pode-reduzir-importacao-de-diesel-em-700-milhoes-de-litros-a-cada-ponto-de-mistura/"
+        },
+        {
+          "id": "627fbbe4ed5d",
+          "titulo": "Fim de subsídio extra do diesel ajuda Petrobras e muda dinâmica entre distribuidoras",
+          "fonte": "InfoMoney",
+          "data": "2026-11-16",
+          "hora": "14:08",
+          "link": "https://www.infomoney.com.br/mercados/fim-de-subsidio-extra-do-diesel-ajuda-petrobras-e-muda-dinamica-entre-distribuidoras/"
+        },
+        {
+          "id": "29947c2db642",
+          "titulo": "Goldman Sachs gets bearish on oil prices but doesn't see help for consumers",
+          "fonte": "ForexLive",
           "data": "2026-11-16",
           "hora": "14:00",
-          "link": "https://seekingalpha.com/article/4968519-omc-members-miss-no-forward-guidance-memo-as-fed-cuts-policy-meetings?source=feed_all_articles"
+          "link": "https://investinglive.com/commodities/goldman-sachs-gets-bearish-on-oil-prices-but-doesn-t-see-help-for-consumers/"
         },
         {
-          "id": "1eabe8b86857",
-          "titulo": "Effective Fed funds rate 3.88% November 13th vs 3.88% November 12th.",
+          "id": "f03625e39d95",
+          "titulo": "Diamondback strikes $5bn deal to expand drilling in oil-rich Permian Basin",
+          "fonte": "FT Markets",
+          "data": "2026-11-16",
+          "hora": "13:12",
+          "link": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1"
+        },
+        {
+          "id": "4a04e6a18d53",
+          "titulo": "India's fuel price index in WPI jumps 32.84% YoY in Oct - Government",
           "fonte": "FinancialJuice",
           "data": "2026-11-16",
-          "hora": "13:59",
-          "link": "https://www.financialjuice.com/News/9853922/Effective-Fed-funds-rate-388-November-13th-vs-388-November-12th.aspx?xy=rss"
+          "hora": "06:31",
+          "link": "https://www.financialjuice.com/News/9853363/Indias-fuel-price-index-in-WPI-jumps-3284-YoY-in-Oct---Government.aspx?xy=rss"
         },
         {
-          "id": "55e380450f31",
-          "titulo": "Citigroup: Risk Sentiment Remains Soft as Markets Await Fed and Geopolitical Catalysts - FJElite",
-          "fonte": "FinancialJuice",
+          "id": "06c14d9e8999",
+          "titulo": "Gas starts flowing from Jackdaw after government green light",
+          "fonte": "BBC Business",
           "data": "2026-11-16",
-          "hora": "13:31",
-          "link": "https://www.financialjuice.com/News/9853884/Citigroup-Risk-Sentiment-Remains-Soft-as-Markets-Await-Fed-and-Geopolitical-Catalysts---FJElite.aspx?xy=rss"
+          "hora": "06:24",
+          "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "7e99d548061e",
-          "titulo": "US November Empire Manufacturing index +7.80 vs +18.00 expected",
+          "id": "a40cbc553722",
+          "titulo": "Goldman sees Brent at $78 by end-2027 as oil surplus returns, flags near-term upside risk",
           "fonte": "ForexLive",
           "data": "2026-11-16",
-          "hora": "13:30",
-          "link": "https://investinglive.com/news/us-november-empire-manufacturing-index-7-80-vs-18-00-expected/"
+          "hora": "03:47",
+          "link": "https://investinglive.com/commodities/goldman-sees-brent-at-78-by-end-2027-as-oil-surplus-returns-flags-near-term-upside-risk/"
         },
         {
-          "id": "6698d2dd985d",
-          "titulo": "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
+          "id": "f058f757b369",
+          "titulo": "Oil price analysis: Sellers are losing momentum, but $86.75 remains the danger line",
           "fonte": "ForexLive",
           "data": "2026-11-16",
-          "hora": "08:30",
-          "link": "https://investinglive.com/commodities/gold-threatens-a-major-breakdown-amid-a-more-hawkish-fed-what-to-watch-next/"
+          "hora": "01:51",
+          "link": "https://investinglive.com/commodities/oil-price-analysis-sellers-are-losing-momentum-but-86-75-remains-the-danger-line/"
         },
         {
-          "id": "06d99874200c",
-          "titulo": "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "01:40",
-          "link": "https://investinglive.com/commodities/gold-slips-toward-3-876-ahead-of-warsh-as-fed-speakers-line-up-behind-tighter-policy/"
-        },
-        {
-          "id": "02603d9ddd2a",
-          "titulo": "Goldman’s second gold forecast downgrade in a month turns its bear case into the base case",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "01:15",
-          "link": "https://investinglive.com/commodities/goldman-s-second-gold-forecast-downgrade-in-a-month-turns-its-bear-case-into-the-base-case/"
-        },
-        {
-          "id": "cd7694674458",
-          "titulo": "ICYMI: Fed’s Jefferson says inflation is the key signal for rates, with PCE still at 3.6%",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "00:53",
-          "link": "https://investinglive.com/central-banks/icymi-fed-s-jefferson-says-inflation-is-the-key-signal-for-rates-with-pce-still-at-3-6/"
-        },
-        {
-          "id": "0ce88c262725",
-          "titulo": "Bessent on Fox warns Federal Reserve against additional monetary tightening",
-          "fonte": "FinancialJuice",
+          "id": "8cd48a47b7a2",
+          "titulo": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
+          "fonte": "FT Markets",
           "data": "2026-11-15",
-          "hora": "15:19",
-          "link": "https://www.financialjuice.com/News/9852767/Bessent-on-Fox-warns-Federal-Reserve-against-additional-monetary-tightening.aspx?xy=rss"
-        },
-        {
-          "id": "fc956e179fb4",
-          "titulo": "VIX Spike: Complacency's Bill Coming Due - What Happens Now",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-15",
-          "hora": "14:25",
-          "link": "https://seekingalpha.com/article/4968389-vix-spike-complacencys-bill-coming-due-what-happens-now?source=feed_all_articles"
-        },
-        {
-          "id": "488c211825df",
-          "titulo": "Hot Inflation Grounds Bond Rally",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-15",
-          "hora": "14:00",
-          "link": "https://seekingalpha.com/article/4968358-hot-inflation-grounds-bond-rally?source=feed_all_articles"
+          "hora": "18:27",
+          "link": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1"
         }
       ],
       "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T15:06"
+      "atualizado_em": "2026-11-16T21:06"
+    },
+    {
+      "titulo": "Fitch, BCE e RBNZ apontam IA e dívida soberana como os maiores riscos à estabilidade financeira",
+      "sinal": "neutro",
+      "resumo": "A Fitch diz que os soberanos da América do Norte enfrentam perspetiva em deterioração, com a governação dividida nos EUA a aumentar o risco fiscal e de impasse no teto da dívida; Vujcic, do BCE, classifica os riscos à estabilidade como elevados e destaca IA e dívida, e o Relatório de Estabilidade do RBNZ aponta yields soberanos mais altos e valuations esticadas em IA.",
+      "impacto": "Alertas convergentes sobre valuations de IA e dívida pública reforçam o canal de juros longos americanos, que pressiona o real e a curva de DI; sem evento concreto, é pano de fundo e não gatilho.",
+      "especulacao": "",
+      "n_noticias": 10,
+      "noticias": [
+        {
+          "id": "2fa682522b8d",
+          "titulo": "RBNZ FSR: Global financial stability risks have continued to increase, raising the chance of a significant shock affecting New Zealand",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "20:03",
+          "link": "https://www.financialjuice.com/News/9854437/RBNZ-FSR-Global-financial-stability-risks-have-continued-to-increase-raising-the-chance-of-a-significant-shock-affecting-New-Zealand.aspx?xy=rss"
+        },
+        {
+          "id": "7d1c9c03818d",
+          "titulo": "RBNZ FSR: Higher government bond yields and still-stretched valuations, particularly among AI-related firms, leave markets vulnerable to a correction",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "20:02",
+          "link": "https://www.financialjuice.com/News/9854430/RBNZ-FSR-Higher-government-bond-yields-and-still-stretched-valuations-particularly-among-AI-related-firms-leave-markets-vulnerable-to-a-correction.aspx?xy=rss"
+        },
+        {
+          "id": "6f83ae23e3bb",
+          "titulo": "RBNZ Financial Stability Report: Financial system remains resilient as global risks increase.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "20:01",
+          "link": "https://www.financialjuice.com/News/9854427/RBNZ-Financial-Stability-Report-Financial-system-remains-resilient-as-global-risks-increase.aspx?xy=rss"
+        },
+        {
+          "id": "61740f77014a",
+          "titulo": "Fitch Ratings: Although we expect resilient economic growth. financing conditions will continue to be tight, hurting some sectors, such as housing in the US.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "17:35",
+          "link": "https://www.financialjuice.com/News/9854239/Fitch-Ratings-Although-we-expect-resilient-economic-growth-financing-conditions-will-continue-to-be-tight-hurting-some-sectors-such-as-housing-in-the-US.aspx?xy=rss"
+        },
+        {
+          "id": "061c9c4ee1f4",
+          "titulo": "Fitch Ratings: Democrat majorities in both houses in the US will likely imply additional oversight and scrutiny over the administration's policies.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "17:34",
+          "link": "https://www.financialjuice.com/News/9854238/Fitch-Ratings-Democrat-majorities-in-both-houses-in-the-US-will-likely-imply-additional-oversight-and-scrutiny-over-the-administrations-policies.aspx?xy=rss"
+        },
+        {
+          "id": "c64353331e59",
+          "titulo": "Fitch Ratings: North American sovereigns face a deteriorating outlook as divided USA governance heightens fiscal risks and debt-ceiling brinkmanship.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "17:31",
+          "link": "https://www.financialjuice.com/News/9854221/Fitch-Ratings-North-American-sovereigns-face-a-deteriorating-outlook-as-divided-USA-governance-heightens-fiscal-risks-and-debt-ceiling-brinkmanship.aspx?xy=rss"
+        },
+        {
+          "id": "47b1af70f9ac",
+          "titulo": "ECB's Vujcic: AI and sovereign debt 'stand out very prominently’ as stability risks",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "08:32",
+          "link": "https://www.financialjuice.com/News/9853507/ECBs-Vujcic-AI-and-sovereign-debt-stand-out-very-prominently-as-stability-risks.aspx?xy=rss"
+        },
+        {
+          "id": "0614714468cc",
+          "titulo": "ECB's Vujcic: Financial stability risks are  \"elevated\"",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "08:31",
+          "link": "https://www.financialjuice.com/News/9853504/ECBs-Vujcic-Financial-stability-risks-are--elevated.aspx?xy=rss"
+        },
+        {
+          "id": "37772240c16e",
+          "titulo": "ECB's Vujcic: AI, high debts are top financial-stability risks",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "08:31",
+          "link": "https://www.financialjuice.com/News/9853487/ECBs-Vujcic-AI-high-debts-are-top-financial-stability-risks.aspx?xy=rss"
+        },
+        {
+          "id": "d7953f506549",
+          "titulo": "ECB's Vujcic: Valuations, funding, cyberattacks are among AI risks",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "08:31",
+          "link": "https://www.financialjuice.com/News/9853503/ECBs-Vujcic-Valuations-funding-cyberattacks-are-among-AI-risks.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-11-16T21:06",
+      "atualizado_em": "2026-11-16T21:06"
+    },
+    {
+      "titulo": "Bitcoin devolve a alta de três meses perto de US$ 64 mil e o XRP marca novo mínimo do ano",
+      "sinal": "risk_off",
+      "resumo": "O bitcoin tocou mínimos de quatro meses no fim de semana e negoceia perto de US$ 64 mil, com liquidações acima de US$ 2 bilhões atribuídas ao reajuste para um Fed mais duro e às tensões com o Irão. O Supremo dos EUA rejeitou o acesso de um banco cripto aos pagamentos do Fed. O XRP tocou um novo mínimo do ano na segunda-feira.",
+      "impacto": "Tokens da carteira cripto pressionados; a queda reforça a leitura de desalavancagem em ativos de risco que também atinge a B3.",
+      "especulacao": "Um economista ouvido pela Exame prevê o bitcoin a US$ 16,5 mil e o fim da Strategy até ao fim do ano; é uma previsão isolada.",
+      "n_noticias": 9,
+      "noticias": [
+        {
+          "id": "cce39ae8ae03",
+          "titulo": "XRP Hits New Yearly Low: Can Oversold RSI Trigger A Rebound?",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-16",
+          "hora": "20:52",
+          "link": "https://seekingalpha.com/article/4968768-xrp-hits-new-yearly-low-can-oversold-rsi-trigger-rebound?source=feed_all_articles"
+        },
+        {
+          "id": "f291007d31fd",
+          "titulo": "Economista prevê bitcoin em US$ 16,5 mil e fim da Strategy até o fim do ano",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "16:37",
+          "link": "https://exame.com/future-of-money/economista-preve-bitcoin-em-us-165-mil-e-fim-da-strategy-ate-o-fim-do-ano/"
+        },
+        {
+          "id": "043874bc5eca",
+          "titulo": "Crypto bank rejected by the Supreme Court over Fed payment access",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "14:31",
+          "link": "https://www.financialjuice.com/News/9853980/Crypto-bank-rejected-by-the-Supreme-Court-over-Fed-payment-access.aspx?xy=rss"
+        },
+        {
+          "id": "abd1084e98ae",
+          "titulo": "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "11:06",
+          "link": "https://investinglive.com/cryptocurrency/zcash-needs-a-dovish-fed-or-a-us-iran-breakthrough-to-reverse-the-bearish-trend/"
+        },
+        {
+          "id": "003d129a14c4",
+          "titulo": "Bitcoin cai aos US$ 64 mil e devolve toda a alta dos últimos 3 meses",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "11:00",
+          "link": "https://exame.com/future-of-money/bitcoin-hoje-16-11-2026/"
+        },
+        {
+          "id": "918b1b328726",
+          "titulo": "Hawkish Fed repricing and Iran tensions trigger a major Bitcoin liquidation wave",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "09:21",
+          "link": "https://investinglive.com/cryptocurrency/hawkish-fed-repricing-and-iran-tensions-trigger-a-major-bitcoin-liquidation-wave/"
+        },
+        {
+          "id": "75d52fcc2805",
+          "titulo": "The latest twist in Strategy’s tragicomedy",
+          "fonte": "FT Markets",
+          "data": "2026-11-16",
+          "hora": "06:00",
+          "link": "https://www.ft.com/content/9242798a-beb3-42d4-ae54-120acbac82a7"
+        },
+        {
+          "id": "d26ae4166302",
+          "titulo": "Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "01:49",
+          "link": "https://investinglive.com/cryptocurrency/weekend-bitcoin-fell-to-four-month-low-near-62-000-as-crypto-liquidations-top-2-billion/"
+        },
+        {
+          "id": "22ace5b44a84",
+          "titulo": "OranjeBTC prepara ações preferenciais com dividendo maior que a Selic",
+          "fonte": "Exame",
+          "data": "2026-11-16",
+          "hora": "00:00",
+          "link": "https://exame.com/future-of-money/oranjebtc-prepara-acoes-preferenciais-com-dividendo-maior-que-a-selic/"
+        }
+      ],
+      "criado_em": "2026-11-16T15:06",
+      "atualizado_em": "2026-11-16T21:06"
     },
     {
       "titulo": "IPO da Anthropic atrai fila de investidores enquanto os maiores IPOs de 2026 perdem mais de 20%",
@@ -1163,157 +1659,29 @@
       "atualizado_em": "2026-11-16T15:06"
     },
     {
-      "titulo": "Bitcoin cai para perto de US$ 62 mil e devolve a alta de três meses com liquidações acima de US$ 2 bilhões",
-      "sinal": "risk_off",
-      "resumo": "O bitcoin tocou mínimos de quatro meses no fim de semana e negoceia perto de US$ 64 mil, com liquidações acima de US$ 2 bilhões atribuídas ao reajuste para um Fed mais duro e às tensões com o Irão. O Supremo dos EUA rejeitou o acesso de um banco cripto aos pagamentos do Fed.",
-      "impacto": "Tokens da carteira cripto pressionados; a queda reforça a leitura de desalavancagem em ativos de risco que também atinge a B3.",
-      "especulacao": "",
-      "n_noticias": 8,
-      "noticias": [
-        {
-          "id": "043874bc5eca",
-          "titulo": "Crypto bank rejected by the Supreme Court over Fed payment access",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "14:31",
-          "link": "https://www.financialjuice.com/News/9853980/Crypto-bank-rejected-by-the-Supreme-Court-over-Fed-payment-access.aspx?xy=rss"
-        },
-        {
-          "id": "abd1084e98ae",
-          "titulo": "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "11:06",
-          "link": "https://investinglive.com/cryptocurrency/zcash-needs-a-dovish-fed-or-a-us-iran-breakthrough-to-reverse-the-bearish-trend/"
-        },
-        {
-          "id": "003d129a14c4",
-          "titulo": "Bitcoin cai aos US$ 64 mil e devolve toda a alta dos últimos 3 meses",
-          "fonte": "Exame",
-          "data": "2026-11-16",
-          "hora": "11:00",
-          "link": "https://exame.com/future-of-money/bitcoin-hoje-16-11-2026/"
-        },
-        {
-          "id": "918b1b328726",
-          "titulo": "Hawkish Fed repricing and Iran tensions trigger a major Bitcoin liquidation wave",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "09:21",
-          "link": "https://investinglive.com/cryptocurrency/hawkish-fed-repricing-and-iran-tensions-trigger-a-major-bitcoin-liquidation-wave/"
-        },
-        {
-          "id": "75d52fcc2805",
-          "titulo": "The latest twist in Strategy’s tragicomedy",
-          "fonte": "FT Markets",
-          "data": "2026-11-16",
-          "hora": "06:00",
-          "link": "https://www.ft.com/content/9242798a-beb3-42d4-ae54-120acbac82a7"
-        },
-        {
-          "id": "d26ae4166302",
-          "titulo": "Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "01:49",
-          "link": "https://investinglive.com/cryptocurrency/weekend-bitcoin-fell-to-four-month-low-near-62-000-as-crypto-liquidations-top-2-billion/"
-        },
-        {
-          "id": "22ace5b44a84",
-          "titulo": "OranjeBTC prepara ações preferenciais com dividendo maior que a Selic",
-          "fonte": "Exame",
-          "data": "2026-11-16",
-          "hora": "00:00",
-          "link": "https://exame.com/future-of-money/oranjebtc-prepara-acoes-preferenciais-com-dividendo-maior-que-a-selic/"
-        },
-        {
-          "id": "eb8237382ea4",
-          "titulo": "Bitcoin falls 5.3% to $64,733.68",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-14",
-          "hora": "20:56",
-          "link": "https://www.financialjuice.com/News/9852389/Bitcoin-falls-53-to-6473368.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T15:06"
-    },
-    {
-      "titulo": "Goldman vê Brent a US$ 78 no fim de 2027 e a Diamondback compra no Permian por US$ 5 bilhões",
+      "titulo": "Relator do pacote fiscal no Senado defende rejeitar os destaques e o Planejamento leva o ajuste à bancada do PT",
       "sinal": "neutro",
-      "resumo": "O Goldman projeta o regresso do excedente de oferta e o Brent a US$ 78 no fim de 2027, cerca de US$ 18 abaixo do nível atual, mas assinala risco de alta no curto prazo por causa da guerra. A Diamondback fechou um negócio de US$ 5 bilhões para expandir a perfuração no Permian; no Brasil, o fim do subsídio extra ao diesel ajuda a Petrobras e muda a dinâmica entre distribuidoras.",
-      "impacto": "Fim do subsídio é positivo para a margem de refino da PETR4; a trajetória de médio prazo do Goldman é negativa para PETR4 e PRIO3 assim que o prémio de guerra sair.",
+      "resumo": "O relator no Senado defendeu a rejeição dos destaques ao pacote fiscal, cuja votação Alckmin espera na terça; o ministro do Planejamento deve discutir o ajuste com a bancada do PT, onde há divergências, e a equipa económica prepara medidas para travar o crescimento das despesas obrigatórias. Os Correios acumulam prejuízo de R$ 7,5 bilhões até ao 3º trimestre.",
+      "impacto": "A credibilidade fiscal é o que separa a curva de juros e o real do pior cenário: aprovação limpa ajuda bancos e construtoras; o prejuízo das estatais pesa no resultado primário.",
       "especulacao": "",
       "n_noticias": 7,
       "noticias": [
         {
-          "id": "627fbbe4ed5d",
-          "titulo": "Fim de subsídio extra do diesel ajuda Petrobras e muda dinâmica entre distribuidoras",
+          "id": "ffe945822392",
+          "titulo": "Relator de pacote fiscal no Senado defende rejeição de destaques",
           "fonte": "InfoMoney",
           "data": "2026-11-16",
-          "hora": "14:08",
-          "link": "https://www.infomoney.com.br/mercados/fim-de-subsidio-extra-do-diesel-ajuda-petrobras-e-muda-dinamica-entre-distribuidoras/"
+          "hora": "20:04",
+          "link": "https://www.infomoney.com.br/politica/relator-de-pacote-fiscal-no-senado-defende-rejeicao-de-destaques/"
         },
         {
-          "id": "f03625e39d95",
-          "titulo": "Diamondback strikes $5bn deal to expand drilling in oil-rich Permian Basin",
-          "fonte": "FT Markets",
+          "id": "3707c93d1d39",
+          "titulo": "Ministro do Planejamento deve discutir ajuste fiscal com bancada do PT em meio a divergências",
+          "fonte": "Exame",
           "data": "2026-11-16",
-          "hora": "13:12",
-          "link": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1"
+          "hora": "16:26",
+          "link": "https://exame.com/brasil/ministro-do-planejamento-deve-discutir-ajuste-fiscal-com-bancada-do-pt-em-meio-a-divergencias/"
         },
-        {
-          "id": "4a04e6a18d53",
-          "titulo": "India's fuel price index in WPI jumps 32.84% YoY in Oct - Government",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-16",
-          "hora": "06:31",
-          "link": "https://www.financialjuice.com/News/9853363/Indias-fuel-price-index-in-WPI-jumps-3284-YoY-in-Oct---Government.aspx?xy=rss"
-        },
-        {
-          "id": "06c14d9e8999",
-          "titulo": "Gas starts flowing from Jackdaw after government green light",
-          "fonte": "BBC Business",
-          "data": "2026-11-16",
-          "hora": "06:24",
-          "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "a40cbc553722",
-          "titulo": "Goldman sees Brent at $78 by end-2027 as oil surplus returns, flags near-term upside risk",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "03:47",
-          "link": "https://investinglive.com/commodities/goldman-sees-brent-at-78-by-end-2027-as-oil-surplus-returns-flags-near-term-upside-risk/"
-        },
-        {
-          "id": "f058f757b369",
-          "titulo": "Oil price analysis: Sellers are losing momentum, but $86.75 remains the danger line",
-          "fonte": "ForexLive",
-          "data": "2026-11-16",
-          "hora": "01:51",
-          "link": "https://investinglive.com/commodities/oil-price-analysis-sellers-are-losing-momentum-but-86-75-remains-the-danger-line/"
-        },
-        {
-          "id": "8cd48a47b7a2",
-          "titulo": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
-          "fonte": "FT Markets",
-          "data": "2026-11-15",
-          "hora": "18:27",
-          "link": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1"
-        }
-      ],
-      "criado_em": "2026-11-16T15:06",
-      "atualizado_em": "2026-11-16T15:06"
-    },
-    {
-      "titulo": "Equipa económica prepara medidas para conter despesas obrigatórias após o ajuste fiscal",
-      "sinal": "neutro",
-      "resumo": "Depois do pacote fiscal, a equipa económica vai propor medidas para reduzir o crescimento das despesas obrigatórias; Alckmin espera a votação dos destaques no Senado na terça e na Câmara esta semana. Os Correios acumulam prejuízo de R$ 7,5 bilhões até ao 3º trimestre, o 16º trimestre seguido no vermelho.",
-      "impacto": "A credibilidade fiscal é o que separa a curva de juros e o real do pior cenário: aprovação limpa ajuda bancos e construtoras; o prejuízo das estatais pesa no resultado primário.",
-      "especulacao": "",
-      "n_noticias": 5,
-      "noticias": [
         {
           "id": "6dc80d01dcdf",
           "titulo": "Depois do ajuste fiscal, equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias",
@@ -1356,7 +1724,51 @@
         }
       ],
       "criado_em": "2026-11-15T17:26",
-      "atualizado_em": "2026-11-16T15:06"
+      "atualizado_em": "2026-11-16T21:06"
+    },
+    {
+      "titulo": "Problema técnico no JPMorgan e falhas em sites de bancos dos EUA ampliam a queda do setor em Nova Iorque",
+      "sinal": "risk_off",
+      "resumo": "O JPMorgan confirmou um problema técnico que atrasa transações e vários sites bancários dos EUA registaram falhas; os bancos ampliaram a queda e pressionaram o Dow Jones (InfoMoney). A CNBC cita uma fonte segundo a qual não há indicação de um erro comum a vários bancos.",
+      "impacto": "Efeito direto na carteira é limitado, mas o recuo dos bancos americanos soma-se à aversão ao risco do dia e pesa no sentimento sobre ITUB4, BBDC4, BBAS3 e BPAC11.",
+      "especulacao": "",
+      "n_noticias": 4,
+      "noticias": [
+        {
+          "id": "afbb318cee33",
+          "titulo": "Bancos ampliam queda em NY com relatos de problema técnico e pressionam Dow Jones",
+          "fonte": "InfoMoney",
+          "data": "2026-11-16",
+          "hora": "20:04",
+          "link": "https://www.infomoney.com.br/mercados/bancos-ampliam-queda-em-ny-com-relatos-de-problema-tecnico-e-pressionam-dow-jones/"
+        },
+        {
+          "id": "f27599eec07c",
+          "titulo": "There is no indication at this time that there is a bug affecting multiple banks at the same time - CNBC Citing a Source.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "18:52",
+          "link": "https://www.financialjuice.com/News/9854337/There-is-no-indication-at-this-time-that-there-is-a-bug-affecting-multiple-banks-at-the-same-time---CNBC-Citing-a-Source.aspx?xy=rss"
+        },
+        {
+          "id": "c2938bf150c1",
+          "titulo": "US banking websites are having problems",
+          "fonte": "ForexLive",
+          "data": "2026-11-16",
+          "hora": "18:42",
+          "link": "https://investinglive.com/news/us-banking-websites-are-having-problems/"
+        },
+        {
+          "id": "87bdc71638db",
+          "titulo": "JPM: A technical issue is causing transactions to take longer. We are working to resolve issue. $JPM",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-16",
+          "hora": "18:19",
+          "link": "https://www.financialjuice.com/News/9854310/JPM-A-technical-issue-is-causing-transactions-to-take-longer-We-are-working-to-resolve-issue-JPM.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-11-16T21:06",
+      "atualizado_em": "2026-11-16T21:06"
     }
   ]
 }
