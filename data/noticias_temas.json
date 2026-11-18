@@ -1,15 +1,71 @@
 {
-  "atualizado_em": "2026-11-18T14:02",
-  "total_feed": 656,
+  "atualizado_em": "2026-11-18T15:06",
+  "total_feed": 649,
   "temas": [
     {
-      "titulo": "Nvidia dobra a receita no primeiro balanço sem Huang e o conselho recusa reconduzi-lo",
-      "sinal": "neutro",
-      "resumo": "Na primeira divulgação desde o afastamento de Jensen Huang, a Nvidia dobrou a receita e elevou a previsão (Guardian, FT); o G1 noticia lucro de US$ 65,3 bilhões. O presidente do conselho disse que não pretende reconduzir Huang e a CEO interina, Colette Kress, disse que é \"business as usual\"; os futuros do Nasdaq subiram 1,3%, mas o G1 noticia que a empresa suspendeu o envio de chips Hopper para a China.",
-      "impacto": "O alívio no beta de tecnologia tira pressão ao apetite por emergentes e ao BOVA11; a recuperação é estreita (Credit Agricole e FinancialJuice) e a suspensão dos Hopper mantém o risco EUA-China sobre o setor, sem efeito direto nas empresas da carteira.",
-      "especulacao": "A Seeking Alpha divide-se entre um rebaixamento (\"o futuro não será tão brilhante\") e uma compra forte; são opiniões de autores, não do mercado.",
-      "n_noticias": 52,
+      "titulo": "Tecnológicas americanas recuam depois do balanço da Nvidia e Huang diz que aceitaria voltar",
+      "sinal": "risk_off",
+      "resumo": "Na primeira divulgação desde o afastamento de Jensen Huang, a Nvidia dobrou a receita e elevou a previsão; o G1 noticia lucro de US$ 65,3 bilhões. Depois de os futuros do Nasdaq terem subido 1,3%, as tecnológicas americanas passaram a recuar (FT) e as bolsas dos EUA operam mistas (InfoMoney); o UBS cortou o preço-alvo de US$ 240 para US$ 220. O conselho disse que não pretende reconduzir Huang, que pediu desculpas e disse que aceitaria voltar (G1); a empresa suspendeu o envio de chips Hopper para a China.",
+      "impacto": "O alívio pós-balanço não se aguentou: o beta de tecnologia volta a pesar no apetite por emergentes e no BOVA11; a suspensão dos Hopper mantém o risco EUA-China sobre o setor, sem efeito direto nas empresas da carteira.",
+      "especulacao": "A Seeking Alpha divide-se entre um rebaixamento e uma compra forte; são opiniões de autores, não do mercado.",
+      "n_noticias": 59,
       "noticias": [
+        {
+          "id": "eae08d9b3cab",
+          "titulo": "Ex-CEO da Nvidia pede desculpas por erros e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ex-ceo-nvidia-diz-que-aceitaria-voltar-ao-cargo.ghtml"
+        },
+        {
+          "id": "b1315a09c88b",
+          "titulo": "US tech stocks slide after Nvidia results",
+          "fonte": "FT Markets",
+          "data": "2026-11-18",
+          "hora": "14:56",
+          "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1"
+        },
+        {
+          "id": "30553c5cd97d",
+          "titulo": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "14:33",
+          "link": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories"
+        },
+        {
+          "id": "5210c7cba9cc",
+          "titulo": "UBS cuts NVIDIA target price to $220 from $240.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:25",
+          "link": "https://www.financialjuice.com/News/9857981/UBS-cuts-NVIDIA-target-price-to-220-from-240.aspx?xy=rss"
+        },
+        {
+          "id": "920f4fa81af5",
+          "titulo": "Nvidia: It's A Massive Opportunity (Earnings Review, Rating Upgrade)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "14:25",
+          "link": "https://seekingalpha.com/article/4969582-nvidia-its-a-massive-opportunity-earnings-review-rating-upgrade?source=feed_all_articles"
+        },
+        {
+          "id": "e603434a0918",
+          "titulo": "Nvidia: Great Q3, But Jensen Huang's Exit Puts Top Talent In Play",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "14:09",
+          "link": "https://seekingalpha.com/article/4969577-nvidia-great-q3-but-jensen-huang-exit-puts-top-talent-in-play?source=feed_all_articles"
+        },
+        {
+          "id": "7377fedf5445",
+          "titulo": "Nvidia: RTX Spark compact desktops from Asus, Dell, MSI now available. $NVDA $DELL",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:06",
+          "link": "https://www.financialjuice.com/News/9857953/Nvidia-RTX-Spark-compact-desktops-from-Asus-Dell-MSI-now-available-NVDA-DELL.aspx?xy=rss"
+        },
         {
           "id": "ceb211146553",
           "titulo": "Nvidia dobra lucro para US$ 65,3 bilhões em primeiro balanço após saída de Jensen Huang",
@@ -428,16 +484,56 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T14:02"
+      "atualizado_em": "2026-11-18T15:06"
     },
     {
-      "titulo": "Waller defende uma subida de 50 p.b. já se o Fed não sinalizar um ritmo mais agressivo",
+      "titulo": "Waller admite subir os juros 100 p.b. ou mais para travar a inflação",
       "sinal": "risk_off",
-      "resumo": "O governador Waller disse estar muito preocupado com uma inflação a alargar-se, com cerca de 70% dos serviços core acima de 3%, e que o Fed pode ter de fazer mais do que reverter os cortes do ano passado; a ata do Fed sai hoje. Os housing starts subiram 9,9% para 1,31 milhão, mas as licenças caíram 7,4%, e a taxa hipotecária de 30 anos subiu para 7,35%. O índice de risco de crédito está em 73,6 (\"tenso\"), com o HY OAS a 3,34 p.p. (16/11, +0,22 p.p. em 30 dias) e o CCC no percentil 93 do ano; o ouro caiu abaixo de US$ 3.800.",
+      "resumo": "O governador Waller disse hoje que o Fed pode ter de subir os juros 100 p.b. ou mais para \"chocar\" a inflação, depois de ter defendido uma subida de 50 p.b. já se o Fed não sinalizar um ritmo mais agressivo; cerca de 70% dos serviços core estão acima de 3% e a ata do Fed sai hoje. Os housing starts subiram 9,9%, mas as licenças caíram 7,4% e as vendas pendentes de casas recuaram 4,7% em outubro (previsão -2%). O índice de risco de crédito está em 73,6 (\"tenso\"), com o HY OAS a 3,34 p.p. (16/11, +0,22 p.p. em 30 dias) e o CCC no percentil 93 do ano.",
       "impacto": "Juros americanos mais altos e dólar forte encolhem o espaço do Copom e pressionam o real; com os spreads a abrir em todos os segmentos, o prémio de risco sobe para bancos (ITUB4, BBDC4, BBAS3) e para as small caps e construtoras (MRVE3, CYRE3).",
       "especulacao": "",
-      "n_noticias": 40,
+      "n_noticias": 45,
       "noticias": [
+        {
+          "id": "febfa5498dc1",
+          "titulo": "US Pending Homes Index Actual 63.0 (Forecast -, Previous 66.0 ,Revision 66.1)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "15:02",
+          "link": "https://www.financialjuice.com/News/9858037/US-Pending-Homes-Index-Actual-630-Forecast---Previous-660-Revision-661.aspx?xy=rss"
+        },
+        {
+          "id": "e253ee8a2bcd",
+          "titulo": "US Pending Home Sales Change MoM Actual -4.7% (Forecast -2%, Previous -7.3%, Revised -7.2%)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "15:00",
+          "link": "https://www.financialjuice.com/News/9858036/US-Pending-Home-Sales-Change-MoM-Actual--47-Forecast--2-Previous--73-Revised--72.aspx?xy=rss"
+        },
+        {
+          "id": "3443873dec09",
+          "titulo": "How high must interest rates go to cool inflation? Possibly 100 basis points or more, Fed’s Waller says.",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "14:32",
+          "link": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories"
+        },
+        {
+          "id": "8231ff363613",
+          "titulo": "Construções de moradias iniciadas nos EUA avançam 9,9% em outubro ante setembro",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "14:29",
+          "link": "https://www.infomoney.com.br/economia/construcoes-de-moradias-iniciadas-nos-eua-avancam-99-em-outubro-ante-setembro/"
+        },
+        {
+          "id": "66eee6d408fa",
+          "titulo": "Effective Fed Funds Rate 3.88% November 17 vs 3.88% November 16.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "13:59",
+          "link": "https://www.financialjuice.com/News/9857924/Effective-Fed-Funds-Rate-388-November-17-vs-388-November-16.aspx?xy=rss"
+        },
         {
           "id": "62dfb024857c",
           "titulo": "US Building Permits Change MoM Actual -7.4% (Forecast -1.7%, Previous -0.4%)",
@@ -760,16 +856,64 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T14:02"
+      "atualizado_em": "2026-11-18T15:06"
     },
     {
-      "titulo": "Trump, Xi e Putin encontram-se na APEC em Shenzhen enquanto Washington aperta as regras sobre computação avançada",
+      "titulo": "Trump terá encontro separado com Putin na China enquanto Washington aperta as regras sobre computação avançada",
       "sinal": "risk_off",
-      "resumo": "Trump e Putin apertaram a mão antes do banquete da APEC e Xi disse esperar as conversas com Trump (Xinhua); o Kremlin diz que vão falar da Ucrânia. O Departamento do Comércio está a criar regras para impedir atores estrangeiros de usar computação avançada de tecnologia americana e o senador Scott disse que Huang e Lutnick aceitaram depor; ontem a China ameaçou retaliar contra as licenças para chips que incluem o Brasil. O PBOC fixou o yuan em 6,7118 por dólar, mais fraco do que a estimativa de 6,6654.",
-      "impacto": "Mais atrito tecnológico EUA-China e um yuan mais fraco pesam sobre a procura de minério e aço (VALE3, GGBR4, CSNA3, USIM5); um entendimento Trump-Xi em Shenzhen seria a leitura contrária. A inclusão do Brasil nas licenças trava projetos de data centers no país.",
+      "resumo": "Trump e Putin apertaram a mão antes do banquete da APEC em Shenzhen e vão reunir-se separadamente na China, as primeiras conversas desde a cimeira do Alasca em 2025 (AP); Putin e Xi discutiram o encontro trilateral com Trump (Interfax). O Departamento do Comércio está a criar regras para impedir atores estrangeiros de usar computação avançada americana e a The Information noticia que a Microsoft procura vender modelos da OpenAI a empresas chinesas cortadas da Anthropic, incluindo a Alibaba. O PBOC fixou o yuan em 6,7118 por dólar, mais fraco do que a estimativa de 6,6654.",
+      "impacto": "Mais atrito tecnológico EUA-China e um yuan mais fraco pesam sobre a procura de minério e aço (VALE3, GGBR4, CSNA3, USIM5); um entendimento Trump-Xi seria a leitura contrária. A inclusão do Brasil nas licenças de chips trava projetos de data centers no país.",
       "especulacao": "Fontes dizem que a administração Trump pondera obrigar as empresas americanas a divulgar o uso de IA chinesa; não há anúncio oficial.",
-      "n_noticias": 32,
+      "n_noticias": 39,
       "noticias": [
+        {
+          "id": "3d212c03090e",
+          "titulo": "Putin and Xi discussed the upcoming trilateral meeting with Trump - IFX.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:16",
+          "link": "https://www.financialjuice.com/News/9857962/Putin-and-Xi-discussed-the-upcoming-trilateral-meeting-with-Trump---IFX-.aspx?xy=rss"
+        },
+        {
+          "id": "968c8582ad1a",
+          "titulo": "Trump will meet with Putin separately in China, their first talks since the 2025 Alaska summit failed to broker a Ukraine deal - AP.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:09",
+          "link": "https://www.financialjuice.com/News/9857954/Trump-will-meet-with-Putin-separately-in-China-their-first-talks-since-the-2025-Alaska-summit-failed-to-broker-a-Ukraine-deal---AP.aspx?xy=rss"
+        },
+        {
+          "id": "39032853614b",
+          "titulo": "Microsoft is pursuing deals to sell OpenAI models to other Chinese businesses that were cut off from Anthropic. Including Alibaba - The Information. $MSFT $BABA $ANT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:04",
+          "link": "https://www.financialjuice.com/News/9857951/Microsoft-is-pursuing-deals-to-sell-OpenAI-models-to-other-Chinese-businesses-that-were-cut-off-from-Anthropic-Including-Alibaba---The-Information-MSFT-BABA-ANT.aspx?xy=rss"
+        },
+        {
+          "id": "2316e9d5cbf3",
+          "titulo": "OpenAI has complained to Microsoft in recent months that it believes chinese firms are “distilling” its AI - The Information.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:04",
+          "link": "https://www.financialjuice.com/News/9857952/OpenAI-has-complained-to-Microsoft-in-recent-months-that-it-believes-chinese-firms-are-distilling-its-AI---The-Information.aspx?xy=rss"
+        },
+        {
+          "id": "35585ac7387f",
+          "titulo": "Bytedance in talks to buy $500m in Microsoft cloud - The Information",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:03",
+          "link": "https://www.financialjuice.com/News/9857950/Bytedance-in-talks-to-buy-500m-in-Microsoft-cloud---The-Information.aspx?xy=rss"
+        },
+        {
+          "id": "994cb19c7e2c",
+          "titulo": "Bytedance is in talks to expand Microsoft Azure contract for OpenAI models by an additional roughly $500 million - The Information",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:02",
+          "link": "https://www.financialjuice.com/News/9857949/Bytedance-is-in-talks-to-expand-Microsoft-Azure-contract-for-OpenAI-models-by-an-additional-roughly-500-million---The-Information.aspx?xy=rss"
+        },
         {
           "id": "30b9a4757e0b",
           "titulo": "The US Commerce Department is establishing new rules to prevent certain foreign actors from leveraging advanced computing power based on US technology to threaten US national security and foreign policy interests.",
@@ -841,6 +985,14 @@
           "data": "2026-11-18",
           "hora": "11:05",
           "link": "https://www.financialjuice.com/News/9857662/Trump-admin-weighs-US-firms-to-disclose-China-AI-use---Sources.aspx?xy=rss"
+        },
+        {
+          "id": "f09f500ae7fa",
+          "titulo": "EUA, China e Rússia: o que será tratado em encontro histórico entre potências?",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "11:01",
+          "link": "https://exame.com/mundo/eua-china-e-russia-o-que-sera-tratado-em-encontro-historico-entre-potencias/"
         },
         {
           "id": "596d524ca1db",
@@ -1028,16 +1180,72 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T14:02"
+      "atualizado_em": "2026-11-18T15:06"
     },
     {
-      "titulo": "BCE vê subida em dezembro como muito provável e a inflação britânica sobe para 3,6%",
+      "titulo": "BCE vê subida em dezembro como muito provável e Lagarde diz que as avaliações da IA serão corrigidas",
       "sinal": "risk_off",
-      "resumo": "Vujcic, do BCE, disse que uma subida em dezembro parece muito provável; a inflação final da zona euro ficou em 4% e a core em 2,6%, acima dos 2,5% previstos. No Reino Unido a inflação subiu para 3,6%, a mais alta num ano, e a fatura típica de energia deve subir 26% a partir de janeiro. No Japão, Ueda mantém em aberto uma subida em dezembro e as exportações bateram recorde de 11,8 trilhões de ienes; os salários australianos subiram 1,1% no trimestre.",
+      "resumo": "Vujcic, do BCE, disse que uma subida em dezembro parece muito provável; a inflação final da zona euro ficou em 4% e a core em 2,6%. Lagarde disse hoje que a economia europeia resistiu muito mais do que o previsto e que as avaliações da IA são muito ambiciosas e acabarão corrigidas; Bailey (BoE) disse que a política não está num caminho predefinido, com a inflação britânica em 3,6%. Ueda mantém em aberto uma subida do BoJ em dezembro.",
       "impacto": "Aperto sincronizado fora dos EUA sustenta os juros longos globais e encarece o capital para emergentes; uma subida do BoJ reacende o risco de desmontagem do carry trade em iene, com efeito no fluxo estrangeiro para a B3.",
       "especulacao": "",
-      "n_noticias": 22,
+      "n_noticias": 29,
       "noticias": [
+        {
+          "id": "f11a5639bf72",
+          "titulo": "BoE Gov. Bailey: Monetary policy is not on a pre-set path.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "15:01",
+          "link": "https://www.financialjuice.com/News/9858047/BoE-Gov-Bailey-Monetary-policy-is-not-on-a-pre-set-path.aspx?xy=rss"
+        },
+        {
+          "id": "ecac6d465bdc",
+          "titulo": "ECB's President Lagarde: The European economy has resisted much more than anticipated",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:43",
+          "link": "https://www.financialjuice.com/News/9858018/ECBs-President-Lagarde-The-European-economy-has-resisted-much-more-than-anticipated.aspx?xy=rss"
+        },
+        {
+          "id": "f6dd970e8ec5",
+          "titulo": "ECB's President Lagarde: AI and fiscal have supported European growth.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:43",
+          "link": "https://www.financialjuice.com/News/9858017/ECBs-President-Lagarde-AI-and-fiscal-have-supported-European-growth.aspx?xy=rss"
+        },
+        {
+          "id": "126bbd088103",
+          "titulo": "ECB's President Lagarde: Europe has seen a resilient economy.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:42",
+          "link": "https://www.financialjuice.com/News/9858016/ECBs-President-Lagarde-Europe-has-seen-a-resilient-economy.aspx?xy=rss"
+        },
+        {
+          "id": "4355d27114aa",
+          "titulo": "ECB's President Lagarde: AI valuations are very ambitious.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:41",
+          "link": "https://www.financialjuice.com/News/9858015/ECBs-President-Lagarde-AI-valuations-are-very-ambitious.aspx?xy=rss"
+        },
+        {
+          "id": "1b95cb64dcfc",
+          "titulo": "ECB's President Lagarde: AI valuations stand to be corrected eventually.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:40",
+          "link": "https://www.financialjuice.com/News/9858014/ECBs-President-Lagarde-AI-valuations-stand-to-be-corrected-eventually.aspx?xy=rss"
+        },
+        {
+          "id": "0decfa56af6d",
+          "titulo": "Fitch Ratings: ECB is approaching the landing zone for balance-sheet reduction.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:17",
+          "link": "https://www.financialjuice.com/News/9857978/Fitch-Ratings-ECB-is-approaching-the-landing-zone-for-balance-sheet-reduction.aspx?xy=rss"
+        },
         {
           "id": "9d3caddc9107",
           "titulo": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
@@ -1216,7 +1424,187 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T14:02"
+      "atualizado_em": "2026-11-18T15:06"
+    },
+    {
+      "titulo": "Ibovespa cai e o dólar oscila perto de R$ 5,82, com o Monitor do PIB a apontar queda de 0,2% no 3º trimestre",
+      "sinal": "risk_off",
+      "resumo": "O Ibovespa cai e o dólar oscila depois de ter batido R$ 5,82, com o ajuste fiscal e a ata do Fed no radar (G1, InfoMoney). O Monitor do PIB da FGV aponta queda de 0,2% no 3º trimestre face ao 2º, interrompendo 20 trimestres de crescimento; o Goldman Sachs rebaixou o Brasil por crescimento fraco e pouco espaço para cortar juros. O BofA cortou a previsão de lançamentos das incorporadoras e mantém a Cyrela como preferida; a Rede D'Or sobe após vender a SulAmérica Investimentos por R$ 850 milhões.",
+      "impacto": "Dólar forte e atividade a encolher pesam sobre bancos (ITUB4, BBDC4, BPAC11) e construtoras (MRVE3; CYRE3 resiste como preferida do BofA); BBAS3 continua sob revisões em baixa; as exportadoras (SUZB3, KLBN11, VALE3, JBSS32) ganham com o câmbio.",
+      "especulacao": "",
+      "n_noticias": 21,
+      "noticias": [
+        {
+          "id": "62d0119f1395",
+          "titulo": "Dólar oscila, de olho em ajuste fiscal e ata do Fed; Ibovespa cai",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/18/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "83caa79d9feb",
+          "titulo": "Transmissão da política monetária é maior no crédito rotativo e ao consumo, diz BC",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "15:01",
+          "link": "https://www.infomoney.com.br/economia/transmissao-da-politica-monetaria-e-maior-no-credito-rotativo-e-ao-consumo-diz-bc/"
+        },
+        {
+          "id": "f6d577b1cb2c",
+          "titulo": "Rede D’or (RDOR3) sobe após anunciar a venda da SulAmérica Investimentos",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "14:55",
+          "link": "https://www.infomoney.com.br/mercados/rede-dor-rdor3-sobe-apos-anunciar-a-venda-da-sulamerica-investimentos/"
+        },
+        {
+          "id": "d4fb571eb583",
+          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa passa a oscilar com votação do pacote fiscal em foco",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "14:42",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/"
+        },
+        {
+          "id": "cbd975454218",
+          "titulo": "Monitor do PIB medido pela FGV aponta queda de 0,2% no 3º trimestre ante 2º trimestre",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "14:31",
+          "link": "https://www.infomoney.com.br/economia/monitor-do-pib-medido-pela-fgv-aponta-queda-de-02-no-3o-trimestre-ante-2o-trimestre/"
+        },
+        {
+          "id": "d16322f4cd76",
+          "titulo": "Dólar opera em alta e bate R$ 5,82, de olho em ajuste fiscal e ata do Fed; Ibovespa cai",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "13:56",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/18/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "f6021ab3afa8",
+          "titulo": "Correios, Banco do Brasil e Petrobras: a saúde financeira das estatais - O Assunto #1848",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "13:56",
+          "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/18/correios-banco-do-brasil-e-petrobras-a-saude-financeira-das-estatais-o-assunto-1848.ghtml"
+        },
+        {
+          "id": "7550beb44f88",
+          "titulo": "Desemprego cai em 8 estados brasileiros no 3º trimestre de 2026, diz IBGE",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "13:56",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/18/desemprego-estados-pnad.ghtml"
+        },
+        {
+          "id": "899f196bee4d",
+          "titulo": "FII renova 23 contratos com Banco do Brasil e estende prazo médio para 8,18 anos",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "13:43",
+          "link": "https://www.infomoney.com.br/onde-investir/fii-renova-23-contratos-com-banco-do-brasil-e-estende-prazo-medio-para-818-anos/"
+        },
+        {
+          "id": "498581155a28",
+          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com votação do pacote fiscal em foco",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "13:35",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/"
+        },
+        {
+          "id": "01653db9e4b3",
+          "titulo": "Goldman Sachs rebaixa Brasil por crescimento fraco e ‘pouco espaço’ para cortar juros",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "13:09",
+          "link": "https://www.infomoney.com.br/mercados/goldman-sachs-rebaixa-brasil-por-crescimento-fraco-e-pouco-espaco-para-cortar-juros/"
+        },
+        {
+          "id": "24586583543b",
+          "titulo": "Dólar hoje sobe acima de R$ 5,80 com pacote fiscal no radar",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "12:50",
+          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/"
+        },
+        {
+          "id": "29568a706518",
+          "titulo": "Com juro da casa própria a 15%, BofA corta previsão de lançamentos de incorporadoras",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "10:30",
+          "link": "https://exame.com/mercado-imobiliario/com-juro-da-casa-propria-a-15-bofa-corta-previsao-de-lancamentos-de-incorporadoras/"
+        },
+        {
+          "id": "41270356c2d9",
+          "titulo": "Bahia lidera queda do desemprego no Brasil; veja os 8 estados com recuo",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "09:33",
+          "link": "https://exame.com/economia/bahia-lidera-queda-do-desemprego-no-brasil-veja-os-8-estados-com-recuo/"
+        },
+        {
+          "id": "69c52d554812",
+          "titulo": "FIIs vivem melhor momento pós-pandemia, mas têm desconto de crise na Bolsa, diz Kinea",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "09:30",
+          "link": "https://exame.com/invest/mercados/fiis-vivem-melhor-momento-pos-pandemia-mas-tem-desconto-de-crise-na-bolsa-diz-kinea/"
+        },
+        {
+          "id": "35d2602dc22d",
+          "titulo": "Dólar oscila, com ajuste fiscal e novo mandato de Lula no foco; Ibovespa avança",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "03a4f769c37b",
+          "titulo": "BB segue sob pressão após 3T – bancos cortam projeções e veem recuperação distante",
+          "fonte": "InfoMoney",
+          "data": "2026-11-17",
+          "hora": "18:00",
+          "link": "https://www.infomoney.com.br/mercados/bbas3-banco-brasil-segue-sob-pressao-apos-3t-bancos-cortam-projecoes-e-veem-recuperacao-distante/"
+        },
+        {
+          "id": "df3551de5263",
+          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa diminui ritmo de alta e segura os 170 mil",
+          "fonte": "InfoMoney",
+          "data": "2026-11-17",
+          "hora": "17:53",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/"
+        },
+        {
+          "id": "fc9583cbbd18",
+          "titulo": "Dólar passa a cair, com ajuste fiscal e novo mandato de Lula no foco; Ibovespa sobe",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "6a70d31a63fd",
+          "titulo": "Dólar em alta: 7 fatores que podem mudar a trajetória da moeda",
+          "fonte": "InfoMoney",
+          "data": "2026-11-17",
+          "hora": "15:00",
+          "link": "https://www.infomoney.com.br/mercados/dolar-em-alta-7-fatores-trajetoria-moeda/"
+        },
+        {
+          "id": "07c91cc27a9d",
+          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe e retoma os 171 mil pontos",
+          "fonte": "InfoMoney",
+          "data": "2026-11-17",
+          "hora": "14:46",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/"
+        }
+      ],
+      "criado_em": "2026-11-18T14:02",
+      "atualizado_em": "2026-11-18T15:06"
     },
     {
       "titulo": "Rubio diz não haver indícios de ligação entre a vaga de falhas informáticas nos EUA",
@@ -1367,144 +1755,260 @@
       "atualizado_em": "2026-11-18T14:02"
     },
     {
-      "titulo": "Dólar bate R$ 5,82 e o Ibovespa cai, com o Goldman a rebaixar o Brasil",
+      "titulo": "Governo adia a votação do pacote fiscal no Senado perante o risco de derrota",
       "sinal": "risk_off",
-      "resumo": "O dólar sobe e bate R$ 5,82 e o Ibovespa cai, com a votação do pacote fiscal e a ata do Fed no radar (G1, InfoMoney), depois de ontem ter segurado os 170 mil pontos. O Goldman Sachs rebaixou o Brasil por crescimento fraco e pouco espaço para cortar juros; o BofA cortou a previsão de lançamentos das incorporadoras com o juro da casa própria a 15% e mantém a Cyrela como preferida. Os bancos continuam a cortar projeções para o Banco do Brasil depois do 3T26.",
-      "impacto": "Dólar forte e rebaixamento pesam sobre bancos (ITUB4, BBDC4, BPAC11) e construtoras (MRVE3; CYRE3 resiste como preferida do BofA); BBAS3 continua sob revisões em baixa; as exportadoras (SUZB3, KLBN11, VALE3, JBSS32) ganham com o câmbio.",
+      "resumo": "O governo anunciou ter apoio para preservar o texto, mas adiou a votação do pacote fiscal no Senado perante o risco de derrota (InfoMoney); o Senado debate restringir os R$ 200 bilhões em créditos usados pelas empresas para pagar tributos até setembro. O secretário-executivo Durigan disse que o pacote é só o \"primeiro passo\", defendeu um ajuste gradual para baixar juros e a redução dos tributos sobre a folha.",
+      "impacto": "O adiamento prolonga a incerteza fiscal que pesa sobre DI e câmbio, contra bancos e construtoras (ITUB4, BBDC4, MRVE3, CYRE3); limitar o uso de créditos tributários aumenta a carga efetiva de empresas com créditos acumulados, a avaliar caso a caso na carteira.",
       "especulacao": "",
-      "n_noticias": 16,
+      "n_noticias": 15,
       "noticias": [
         {
-          "id": "d16322f4cd76",
-          "titulo": "Dólar opera em alta e bate R$ 5,82, de olho em ajuste fiscal e ata do Fed; Ibovespa cai",
+          "id": "22aea8ae4f15",
+          "titulo": "Durigan diz que pacote fiscal é só o 'primeiro passo' e defende ajuste gradual e 'sem negacionismo' para baixar juros",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml"
+        },
+        {
+          "id": "f45933ca48e9",
+          "titulo": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e defende reduzir tributos sobre a folha de pagamento",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml"
+        },
+        {
+          "id": "cf60fbd95daf",
+          "titulo": "Pacote fiscal expõe dificuldade de Lula para garantir votos no Senado",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "14:47",
+          "link": "https://www.infomoney.com.br/politica/pacote-fiscal-expoe-dificuldade-de-lula-para-garantir-votos-no-senado/"
+        },
+        {
+          "id": "aea706c16ab2",
+          "titulo": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
           "fonte": "G1 Economia",
           "data": "2026-11-18",
           "hora": "13:56",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/18/dolar-ibovespa.ghtml"
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml"
         },
         {
-          "id": "f6021ab3afa8",
-          "titulo": "Correios, Banco do Brasil e Petrobras: a saúde financeira das estatais - O Assunto #1848",
+          "id": "7265b57ff1f4",
+          "titulo": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
           "fonte": "G1 Economia",
           "data": "2026-11-18",
           "hora": "13:56",
-          "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/18/correios-banco-do-brasil-e-petrobras-a-saude-financeira-das-estatais-o-assunto-1848.ghtml"
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml"
         },
         {
-          "id": "7550beb44f88",
-          "titulo": "Desemprego cai em 8 estados brasileiros no 3º trimestre de 2026, diz IBGE",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "13:56",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/18/desemprego-estados-pnad.ghtml"
-        },
-        {
-          "id": "899f196bee4d",
-          "titulo": "FII renova 23 contratos com Banco do Brasil e estende prazo médio para 8,18 anos",
-          "fonte": "InfoMoney",
-          "data": "2026-11-18",
-          "hora": "13:43",
-          "link": "https://www.infomoney.com.br/onde-investir/fii-renova-23-contratos-com-banco-do-brasil-e-estende-prazo-medio-para-818-anos/"
-        },
-        {
-          "id": "498581155a28",
-          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com votação do pacote fiscal em foco",
-          "fonte": "InfoMoney",
-          "data": "2026-11-18",
-          "hora": "13:35",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/"
-        },
-        {
-          "id": "01653db9e4b3",
-          "titulo": "Goldman Sachs rebaixa Brasil por crescimento fraco e ‘pouco espaço’ para cortar juros",
-          "fonte": "InfoMoney",
-          "data": "2026-11-18",
-          "hora": "13:09",
-          "link": "https://www.infomoney.com.br/mercados/goldman-sachs-rebaixa-brasil-por-crescimento-fraco-e-pouco-espaco-para-cortar-juros/"
-        },
-        {
-          "id": "24586583543b",
-          "titulo": "Dólar hoje sobe acima de R$ 5,80 com pacote fiscal no radar",
-          "fonte": "InfoMoney",
-          "data": "2026-11-18",
-          "hora": "12:50",
-          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/"
-        },
-        {
-          "id": "29568a706518",
-          "titulo": "Com juro da casa própria a 15%, BofA corta previsão de lançamentos de incorporadoras",
-          "fonte": "Exame",
-          "data": "2026-11-18",
-          "hora": "10:30",
-          "link": "https://exame.com/mercado-imobiliario/com-juro-da-casa-propria-a-15-bofa-corta-previsao-de-lancamentos-de-incorporadoras/"
-        },
-        {
-          "id": "41270356c2d9",
-          "titulo": "Bahia lidera queda do desemprego no Brasil; veja os 8 estados com recuo",
-          "fonte": "Exame",
-          "data": "2026-11-18",
-          "hora": "09:33",
-          "link": "https://exame.com/economia/bahia-lidera-queda-do-desemprego-no-brasil-veja-os-8-estados-com-recuo/"
-        },
-        {
-          "id": "69c52d554812",
-          "titulo": "FIIs vivem melhor momento pós-pandemia, mas têm desconto de crise na Bolsa, diz Kinea",
-          "fonte": "Exame",
-          "data": "2026-11-18",
-          "hora": "09:30",
-          "link": "https://exame.com/invest/mercados/fiis-vivem-melhor-momento-pos-pandemia-mas-tem-desconto-de-crise-na-bolsa-diz-kinea/"
-        },
-        {
-          "id": "35d2602dc22d",
-          "titulo": "Dólar oscila, com ajuste fiscal e novo mandato de Lula no foco; Ibovespa avança",
+          "id": "1b9600629404",
+          "titulo": "Ministro da Fazenda diz que pacote fiscal é só o 'primeiro passo' e prega ajuste gradual 'sem negacionismo' para baixar juros",
           "fonte": "G1 Economia",
           "data": "2026-11-17",
           "hora": "18:21",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml"
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml"
         },
         {
-          "id": "03a4f769c37b",
-          "titulo": "BB segue sob pressão após 3T – bancos cortam projeções e veem recuperação distante",
+          "id": "dde86f7bb687",
+          "titulo": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml"
+        },
+        {
+          "id": "d76c1d8a1936",
+          "titulo": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e quer reduzir tributo sobre a folha de pagamentos",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml"
+        },
+        {
+          "id": "43f9348cd7db",
+          "titulo": "Reforma tributária: apuração 'assistida', a declaração pré-preenchida das empresas, será liberada nesta semana, diz Receita",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/reforma-tributaria-apuracao-assistida-a-declaracao-pre-preenchida-das-empresas-sera-liberada-nesta-semana-diz-receita.ghtml"
+        },
+        {
+          "id": "ba7f59f0cbf1",
+          "titulo": "Com medidas do governo, Saúde pode deixar de receber R$ 9 bilhões em 2027 e ter alta limitada até 2030; organizações sociais reagem",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml"
+        },
+        {
+          "id": "4207abdfd3e2",
+          "titulo": "Lula convoca reunião com Rui Costa e Fonteles para debater formação do governo",
           "fonte": "InfoMoney",
           "data": "2026-11-17",
-          "hora": "18:00",
-          "link": "https://www.infomoney.com.br/mercados/bbas3-banco-brasil-segue-sob-pressao-apos-3t-bancos-cortam-projecoes-e-veem-recuperacao-distante/"
+          "hora": "18:11",
+          "link": "https://www.infomoney.com.br/politica/lula-convoca-reuniao-com-rui-costa-e-fonteles-para-debater-formacao-do-governo/"
         },
         {
-          "id": "df3551de5263",
-          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa diminui ritmo de alta e segura os 170 mil",
+          "id": "624275ebb76c",
+          "titulo": "Vital do Rêgo: senadores de diferentes matizes na CAE rejeitaram adiamento da reforma",
           "fonte": "InfoMoney",
           "data": "2026-11-17",
-          "hora": "17:53",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/"
+          "hora": "18:08",
+          "link": "https://www.infomoney.com.br/politica/vital-do-rego-senadores-de-diferentes-matizes-na-cae-rejeitaram-adiamento-da-reforma/"
         },
         {
-          "id": "fc9583cbbd18",
-          "titulo": "Dólar passa a cair, com ajuste fiscal e novo mandato de Lula no foco; Ibovespa sobe",
+          "id": "11d49d693e4d",
+          "titulo": "Centrão se posiciona a favor de pacote fiscal do governo na Câmara dos Deputados",
+          "fonte": "InfoMoney",
+          "data": "2026-11-17",
+          "hora": "18:04",
+          "link": "https://www.infomoney.com.br/politica/centrao-se-posiciona-a-favor-de-pacote-fiscal-do-governo-na-camara-dos-deputados/"
+        },
+        {
+          "id": "f160c1a1c8a8",
+          "titulo": "Governo quer aprovar projeto de ajuste fiscal no Senado e na Câmara ainda nesta terça, diz ministro",
           "fonte": "G1 Economia",
           "data": "2026-11-17",
           "hora": "15:03",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml"
+          "link": "https://g1.globo.com/politica/noticia/2026/11/17/governo-quer-aprovar-ajuste-fiscal-no-senado-e-na-camara-ainda-nesta-terca-diz-ministro.ghtml"
         },
         {
-          "id": "6a70d31a63fd",
-          "titulo": "Dólar em alta: 7 fatores que podem mudar a trajetória da moeda",
+          "id": "05f6d98982d5",
+          "titulo": "Câmara vai pautar votação de ajuste fiscal nesta terça (17), afirma ministro",
           "fonte": "InfoMoney",
           "data": "2026-11-17",
-          "hora": "15:00",
-          "link": "https://www.infomoney.com.br/mercados/dolar-em-alta-7-fatores-trajetoria-moeda/"
+          "hora": "15:01",
+          "link": "https://www.infomoney.com.br/politica/camara-vai-pautar-votacao-de-ajuste-fiscal-nesta-terca-17-afirma-ministro/"
+        }
+      ],
+      "criado_em": "2026-11-15T17:26",
+      "atualizado_em": "2026-11-18T15:06"
+    },
+    {
+      "titulo": "Financiamento da construção de IA ganha escrutínio e a Nebius enfrenta necessidades de capital crescentes",
+      "sinal": "neutro",
+      "resumo": "Waller disse não ver nada \"parecido com bolha\" no preço da IA, mas Lagarde disse hoje que as avaliações são muito ambiciosas. A Semafor noticia que o financiamento de US$ 40 bilhões em chips da SpaceX fica fora do balanço; a Seeking Alpha aponta necessidades de capital crescentes na Nebius com liquidez a apertar e o MarketWatch descreve a corrida das big tech a contratos com elétricas.",
+      "impacto": "Mais escrutínio do financiamento da IA aumenta a volatilidade das emissões de hyperscalers e do crédito, o que pesa sobre o apetite global por risco e, por correlação, sobre o BOVA11; a procura de energia para IA é tema de fundo para elétricas.",
+      "especulacao": "O ForexLive relata, sem confirmação da TSMC, que a empresa exige pagamento adiantado a clientes de chips de IA; o MarketWatch fala numa probabilidade de 97% de haver uma bolha agora.",
+      "n_noticias": 14,
+      "noticias": [
+        {
+          "id": "2c90faf60781",
+          "titulo": "Nebius: Surging Capital Needs Amidst Tightening Liquidity",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "14:44",
+          "link": "https://seekingalpha.com/article/4969592-nebius-surging-capital-needs-amidst-tightening-liquidity?source=feed_all_articles"
         },
         {
-          "id": "07c91cc27a9d",
-          "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe e retoma os 171 mil pontos",
-          "fonte": "InfoMoney",
+          "id": "4355d27114aa",
+          "titulo": "ECB's President Lagarde: AI valuations are very ambitious.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:41",
+          "link": "https://www.financialjuice.com/News/9858015/ECBs-President-Lagarde-AI-valuations-are-very-ambitious.aspx?xy=rss"
+        },
+        {
+          "id": "1b95cb64dcfc",
+          "titulo": "ECB's President Lagarde: AI valuations stand to be corrected eventually.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:40",
+          "link": "https://www.financialjuice.com/News/9858014/ECBs-President-Lagarde-AI-valuations-stand-to-be-corrected-eventually.aspx?xy=rss"
+        },
+        {
+          "id": "f947de083669",
+          "titulo": "The AI power scramble is in full force. Which companies really stand to profit?",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "14:06",
+          "link": "https://www.marketwatch.com/story/the-ai-power-scramble-is-in-full-force-which-companies-really-stand-to-profit-f719619c?mod=mw_rss_topstories"
+        },
+        {
+          "id": "725c455d94a3",
+          "titulo": "SpaceX $40 bln chip financing to stay off balance sheet - Semafor. $SPCX",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "12:56",
+          "link": "https://www.financialjuice.com/News/9857841/SpaceX-40-bln-chip-financing-to-stay-off-balance-sheet---Semafor-SPCX.aspx?xy=rss"
+        },
+        {
+          "id": "7883e245506e",
+          "titulo": "Fed's Waller: Concern over AI financing limited to banks; some investments might not yield returns",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "12:46",
+          "link": "https://www.financialjuice.com/News/9857820/Feds-Waller-Concern-over-AI-financing-limited-to-banks-some-investments-might-not-yield-returns.aspx?xy=rss"
+        },
+        {
+          "id": "6e02ea5f3120",
+          "titulo": "Fed's Waller: There is nothing \"bubble-like\" in how AI is being priced",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "12:45",
+          "link": "https://www.financialjuice.com/News/9857818/Feds-Waller-There-is-nothing-bubble-like-in-how-AI-is-being-priced.aspx?xy=rss"
+        },
+        {
+          "id": "e7fc6dad59ca",
+          "titulo": "Fed's Waller: I remain an AI optimist; consider it a true technological change that will prove transformative",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "12:45",
+          "link": "https://www.financialjuice.com/News/9857817/Feds-Waller-I-remain-an-AI-optimist-consider-it-a-true-technological-change-that-will-prove-transformative.aspx?xy=rss"
+        },
+        {
+          "id": "b275ffe5ed78",
+          "titulo": "The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "11:23",
+          "link": "https://www.marketwatch.com/story/the-good-news-bubble-predictions-vastly-outnumber-actual-episodes-the-bad-there-may-be-a-97-chance-of-one-right-now-8ca55732?mod=mw_rss_topstories"
+        },
+        {
+          "id": "9bc5cdd0e750",
+          "titulo": "When’s the crash? Ask a journalist",
+          "fonte": "FT Markets",
+          "data": "2026-11-18",
+          "hora": "06:00",
+          "link": "https://www.ft.com/content/fe1766dc-b899-4e34-b68e-a99df8d660f1"
+        },
+        {
+          "id": "f8ea639c1635",
+          "titulo": "Wall Street expects corporate earnings growth to halve next year",
+          "fonte": "FT Markets",
+          "data": "2026-11-18",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1"
+        },
+        {
+          "id": "2f12d15a8f3d",
+          "titulo": "TSMC reportedly demands cash up front from AI chip clients amid circular financing fears",
+          "fonte": "ForexLive",
+          "data": "2026-11-18",
+          "hora": "02:55",
+          "link": "https://investinglive.com/news/tsmc-reportedly-demands-cash-up-front-from-ai-chip-clients-amid-circular-financing-fears/"
+        },
+        {
+          "id": "52cc2d3bf645",
+          "titulo": "Financing The AI Buildout: An Increasingly Heavy Lift",
+          "fonte": "Seeking Alpha",
           "data": "2026-11-17",
-          "hora": "14:46",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/"
+          "hora": "17:36",
+          "link": "https://seekingalpha.com/article/4969165-financing-ai-buildout-increasingly-heavy-lift?source=feed_all_articles"
+        },
+        {
+          "id": "39573dfe94ed",
+          "titulo": "The Credit Market Lens: In A Slower AI Buildout, Who Captures The Scarcity Premium?",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-17",
+          "hora": "17:32",
+          "link": "https://seekingalpha.com/article/4969161-credit-market-lens-slower-ai-buildout-who-captures-scarcity-premium?source=feed_all_articles"
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T14:02"
+      "atualizado_em": "2026-11-18T15:06"
     },
     {
       "titulo": "Arábia Saudita prevê guerra com os Houthis até bem dentro de 2027, segundo responsáveis ocidentais",
@@ -1623,121 +2127,29 @@
       "atualizado_em": "2026-11-18T14:02"
     },
     {
-      "titulo": "Senado debate restringir os R$ 200 bilhões em créditos tributários e o pacote fiscal segue para a Câmara",
+      "titulo": "Refinação russa cai 45% com os ataques ucranianos e o crude prolonga as perdas",
       "sinal": "neutro",
-      "resumo": "As empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro e o Senado debate restringi-los no ajuste fiscal (G1). Ontem o governo retirou a urgência do projeto das bets para abrir a votação na Câmara, o Centrão posicionou-se a favor do pacote e o ministro da Fazenda disse que é só o \"primeiro passo\"; a votação continua em foco hoje.",
-      "impacto": "Uma aprovação limpa aliviaria DI e câmbio, a favor de bancos e construtoras (ITUB4, BBDC4, MRVE3, CYRE3); limitar o uso de créditos tributários aumenta a carga efetiva de empresas com créditos acumulados, a avaliar caso a caso na carteira.",
-      "especulacao": "",
-      "n_noticias": 12,
-      "noticias": [
-        {
-          "id": "aea706c16ab2",
-          "titulo": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "13:56",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml"
-        },
-        {
-          "id": "7265b57ff1f4",
-          "titulo": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "13:56",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml"
-        },
-        {
-          "id": "1b9600629404",
-          "titulo": "Ministro da Fazenda diz que pacote fiscal é só o 'primeiro passo' e prega ajuste gradual 'sem negacionismo' para baixar juros",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml"
-        },
-        {
-          "id": "dde86f7bb687",
-          "titulo": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml"
-        },
-        {
-          "id": "d76c1d8a1936",
-          "titulo": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e quer reduzir tributo sobre a folha de pagamentos",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml"
-        },
-        {
-          "id": "43f9348cd7db",
-          "titulo": "Reforma tributária: apuração 'assistida', a declaração pré-preenchida das empresas, será liberada nesta semana, diz Receita",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/reforma-tributaria-apuracao-assistida-a-declaracao-pre-preenchida-das-empresas-sera-liberada-nesta-semana-diz-receita.ghtml"
-        },
-        {
-          "id": "ba7f59f0cbf1",
-          "titulo": "Com medidas do governo, Saúde pode deixar de receber R$ 9 bilhões em 2027 e ter alta limitada até 2030; organizações sociais reagem",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml"
-        },
-        {
-          "id": "4207abdfd3e2",
-          "titulo": "Lula convoca reunião com Rui Costa e Fonteles para debater formação do governo",
-          "fonte": "InfoMoney",
-          "data": "2026-11-17",
-          "hora": "18:11",
-          "link": "https://www.infomoney.com.br/politica/lula-convoca-reuniao-com-rui-costa-e-fonteles-para-debater-formacao-do-governo/"
-        },
-        {
-          "id": "624275ebb76c",
-          "titulo": "Vital do Rêgo: senadores de diferentes matizes na CAE rejeitaram adiamento da reforma",
-          "fonte": "InfoMoney",
-          "data": "2026-11-17",
-          "hora": "18:08",
-          "link": "https://www.infomoney.com.br/politica/vital-do-rego-senadores-de-diferentes-matizes-na-cae-rejeitaram-adiamento-da-reforma/"
-        },
-        {
-          "id": "11d49d693e4d",
-          "titulo": "Centrão se posiciona a favor de pacote fiscal do governo na Câmara dos Deputados",
-          "fonte": "InfoMoney",
-          "data": "2026-11-17",
-          "hora": "18:04",
-          "link": "https://www.infomoney.com.br/politica/centrao-se-posiciona-a-favor-de-pacote-fiscal-do-governo-na-camara-dos-deputados/"
-        },
-        {
-          "id": "f160c1a1c8a8",
-          "titulo": "Governo quer aprovar projeto de ajuste fiscal no Senado e na Câmara ainda nesta terça, diz ministro",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "15:03",
-          "link": "https://g1.globo.com/politica/noticia/2026/11/17/governo-quer-aprovar-ajuste-fiscal-no-senado-e-na-camara-ainda-nesta-terca-diz-ministro.ghtml"
-        },
-        {
-          "id": "05f6d98982d5",
-          "titulo": "Câmara vai pautar votação de ajuste fiscal nesta terça (17), afirma ministro",
-          "fonte": "InfoMoney",
-          "data": "2026-11-17",
-          "hora": "15:01",
-          "link": "https://www.infomoney.com.br/politica/camara-vai-pautar-votacao-de-ajuste-fiscal-nesta-terca-17-afirma-ministro/"
-        }
-      ],
-      "criado_em": "2026-11-15T17:26",
-      "atualizado_em": "2026-11-18T14:02"
-    },
-    {
-      "titulo": "Crude prolonga as perdas sem mudança no Médio Oriente e a Rússia importa gasolina em níveis recorde",
-      "sinal": "neutro",
-      "resumo": "O petróleo prolongou as perdas na sessão asiática sem alteração na situação EUA-Irão (ForexLive). As importações russas de gasolina bateram recorde com os ataques ucranianos a refinarias (FT); o secretário da Energia, Wright, disse que o LNG americano vai cobrir cerca de um terço do gás anual da Polónia, e um produtor britânico abandonou o Mar do Norte por causa dos impostos.",
-      "impacto": "Crude a cair tira prémio a PETR4 e PRIO3 mas alivia a inflação e os juros, o que ajuda bancos e construtoras; a escassez de refinados na Rússia sustenta as margens de refino.",
+      "resumo": "Fontes da indústria dizem que os volumes de refinação russos caíram 45% desde o fim de outubro por causa dos ataques com drones ucranianos, e as importações russas de gasolina bateram recorde (FT). O petróleo prolongou as perdas sem alteração na situação EUA-Irão (ForexLive); no Reino Unido, a EnQuest disse que vai abandonar o Mar do Norte e a SSE ameaça fechar um armazém de gás, por causa da política do governo (Guardian).",
+      "impacto": "Crude a cair tira prémio a PETR4 e PRIO3 mas alivia a inflação e os juros, o que ajuda bancos e construtoras; a escassez de refinados na Rússia sustenta as margens de refino e o diesel.",
       "especulacao": "O ForexLive atribui a queda a receios com a procura por abrandamento do crescimento, por não ver outro motivo; é uma leitura do comentador.",
-      "n_noticias": 11,
+      "n_noticias": 13,
       "noticias": [
+        {
+          "id": "45b1965649c5",
+          "titulo": "Russian oil refining volumes have declined by 45% since late October due to Ukrainian drone attacks - Industry Sources,",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:56",
+          "link": "https://www.financialjuice.com/News/9858035/Russian-oil-refining-volumes-have-declined-by-45-since-late-October-due-to-Ukrainian-drone-attacks---Industry-Sources.aspx?xy=rss"
+        },
+        {
+          "id": "ab92ddb9227e",
+          "titulo": "Labour faces double blow over UK fossil fuel projects",
+          "fonte": "Guardian Business",
+          "data": "2026-11-18",
+          "hora": "14:12",
+          "link": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene"
+        },
         {
           "id": "54f82b7a086f",
           "titulo": "Golar LNG Limited 2026 Q3 - Results - Earnings Call Presentation",
@@ -1828,99 +2240,7 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T14:02"
-    },
-    {
-      "titulo": "Waller diz não ver bolha na IA mas o financiamento da construção de IA ganha escrutínio",
-      "sinal": "neutro",
-      "resumo": "Waller disse não ver nada \"parecido com bolha\" no preço da IA e que a preocupação com o financiamento se limita aos bancos. A Semafor noticia que o financiamento de US$ 40 bilhões em chips da SpaceX fica fora do balanço e o FT diz que Wall Street espera que o crescimento dos lucros caia para metade no próximo ano.",
-      "impacto": "Mais escrutínio do financiamento da IA aumenta a volatilidade das emissões de hyperscalers e do crédito, o que pesa sobre o apetite global por risco e, por correlação, sobre o BOVA11.",
-      "especulacao": "O ForexLive relata, sem confirmação da TSMC, que a empresa exige pagamento adiantado a clientes de chips de IA por receio de financiamento circular; o MarketWatch fala numa probabilidade de 97% de haver uma bolha agora.",
-      "n_noticias": 10,
-      "noticias": [
-        {
-          "id": "725c455d94a3",
-          "titulo": "SpaceX $40 bln chip financing to stay off balance sheet - Semafor. $SPCX",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "12:56",
-          "link": "https://www.financialjuice.com/News/9857841/SpaceX-40-bln-chip-financing-to-stay-off-balance-sheet---Semafor-SPCX.aspx?xy=rss"
-        },
-        {
-          "id": "7883e245506e",
-          "titulo": "Fed's Waller: Concern over AI financing limited to banks; some investments might not yield returns",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "12:46",
-          "link": "https://www.financialjuice.com/News/9857820/Feds-Waller-Concern-over-AI-financing-limited-to-banks-some-investments-might-not-yield-returns.aspx?xy=rss"
-        },
-        {
-          "id": "6e02ea5f3120",
-          "titulo": "Fed's Waller: There is nothing \"bubble-like\" in how AI is being priced",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "12:45",
-          "link": "https://www.financialjuice.com/News/9857818/Feds-Waller-There-is-nothing-bubble-like-in-how-AI-is-being-priced.aspx?xy=rss"
-        },
-        {
-          "id": "e7fc6dad59ca",
-          "titulo": "Fed's Waller: I remain an AI optimist; consider it a true technological change that will prove transformative",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "12:45",
-          "link": "https://www.financialjuice.com/News/9857817/Feds-Waller-I-remain-an-AI-optimist-consider-it-a-true-technological-change-that-will-prove-transformative.aspx?xy=rss"
-        },
-        {
-          "id": "b275ffe5ed78",
-          "titulo": "The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.",
-          "fonte": "MarketWatch",
-          "data": "2026-11-18",
-          "hora": "11:23",
-          "link": "https://www.marketwatch.com/story/the-good-news-bubble-predictions-vastly-outnumber-actual-episodes-the-bad-there-may-be-a-97-chance-of-one-right-now-8ca55732?mod=mw_rss_topstories"
-        },
-        {
-          "id": "9bc5cdd0e750",
-          "titulo": "When’s the crash? Ask a journalist",
-          "fonte": "FT Markets",
-          "data": "2026-11-18",
-          "hora": "06:00",
-          "link": "https://www.ft.com/content/fe1766dc-b899-4e34-b68e-a99df8d660f1"
-        },
-        {
-          "id": "f8ea639c1635",
-          "titulo": "Wall Street expects corporate earnings growth to halve next year",
-          "fonte": "FT Markets",
-          "data": "2026-11-18",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1"
-        },
-        {
-          "id": "2f12d15a8f3d",
-          "titulo": "TSMC reportedly demands cash up front from AI chip clients amid circular financing fears",
-          "fonte": "ForexLive",
-          "data": "2026-11-18",
-          "hora": "02:55",
-          "link": "https://investinglive.com/news/tsmc-reportedly-demands-cash-up-front-from-ai-chip-clients-amid-circular-financing-fears/"
-        },
-        {
-          "id": "52cc2d3bf645",
-          "titulo": "Financing The AI Buildout: An Increasingly Heavy Lift",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-17",
-          "hora": "17:36",
-          "link": "https://seekingalpha.com/article/4969165-financing-ai-buildout-increasingly-heavy-lift?source=feed_all_articles"
-        },
-        {
-          "id": "39573dfe94ed",
-          "titulo": "The Credit Market Lens: In A Slower AI Buildout, Who Captures The Scarcity Premium?",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-17",
-          "hora": "17:32",
-          "link": "https://seekingalpha.com/article/4969161-credit-market-lens-slower-ai-buildout-who-captures-scarcity-premium?source=feed_all_articles"
-        }
-      ],
-      "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T14:02"
+      "atualizado_em": "2026-11-18T15:06"
     },
     {
       "titulo": "Bitcoin volta a cair e segura-se por pouco nos US$ 64 mil, com o índice cripto em medo extremo",
@@ -1928,8 +2248,24 @@
       "resumo": "O bitcoin voltou a cair e segura-se por pouco nos US$ 64 mil, apesar de o balanço da Nvidia ter reduzido a aversão ao risco (Exame); o índice de medo e ganância cripto está em 12/100. Um dirigente do Fed citou o ataque informático à Binance num alerta sobre finanças tokenizadas, e a oferta tokenizada de ações da Nvidia subiu 121% numa semana.",
       "impacto": "O Fed hawkish e as tensões EUA-Irão mantêm a pressão sobre os tokens do cripto_qualitativo; a fraqueza cripto sinaliza liquidez mais apertada, que costuma pesar também no apetite por emergentes.",
       "especulacao": "",
-      "n_noticias": 8,
+      "n_noticias": 10,
       "noticias": [
+        {
+          "id": "4e8317826e5a",
+          "titulo": "CoinShares PLC 2026 Q3 - Results - Earnings Call Presentation",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "14:30",
+          "link": "https://seekingalpha.com/article/4969623-coinshares-plc-2026-q3-results-earnings-call-presentation?source=feed_all_articles"
+        },
+        {
+          "id": "6ab386402240",
+          "titulo": "Bullish 2026 Q3 - Results - Earnings Call Presentation",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "14:04",
+          "link": "https://seekingalpha.com/article/4969604-bullish-2026-q3-results-earnings-call-presentation?source=feed_all_articles"
+        },
         {
           "id": "b79ce0dd9888",
           "titulo": "Zcash extends recovery but significant headwinds persist amid hawkish Fed and US-Iran tensions",
@@ -1996,16 +2332,32 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T14:02"
+      "atualizado_em": "2026-11-18T15:06"
     },
     {
       "titulo": "Procura pelo IPO da Anthropic dispara no dia previsto para a fixação do preço",
       "sinal": "neutro",
-      "resumo": "A procura pelo IPO da Anthropic está a disparar (MarketWatch), depois de ontem se relatarem várias ordens de US$ 10 bilhões ou mais; os fundos que replicam o Nasdaq-100 passarão a deter ações da empresa ao fim de 15 pregões.",
-      "impacto": "Uma estreia forte reforçaria o alívio do balanço da Nvidia no sentimento sobre IA; uma fraca agravaria a correção de tecnologia e o risco global para emergentes.",
+      "resumo": "A procura pelo IPO da Anthropic está a disparar (MarketWatch), depois de ontem se relatarem várias ordens de US$ 10 bilhões ou mais; a empresa quer incluir pequenos investidores, que se mostram céticos, e os sete fundadores ficarão multibilionários (BBC). Os fundos que replicam o Nasdaq-100 passarão a deter ações da empresa ao fim de 15 pregões.",
+      "impacto": "Uma estreia forte reforçaria o sentimento sobre IA; uma fraca agravaria a correção de tecnologia e o risco global para emergentes.",
       "especulacao": "O FT estima que fundos de capital de risco discretos estão a caminho de ganhos de US$ 100 bilhões com o IPO; depende do preço e da estreia.",
-      "n_noticias": 5,
+      "n_noticias": 7,
       "noticias": [
+        {
+          "id": "699cf522d297",
+          "titulo": "Anthropic wants everyday investors to be part of its IPO. Those investors have their doubts.",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "14:09",
+          "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories"
+        },
+        {
+          "id": "4a8be5d1ce36",
+          "titulo": "The seven Anthropic founders who are about to become multi-billionaires",
+          "fonte": "BBC Business",
+          "data": "2026-11-18",
+          "hora": "13:55",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "id": "4cdc2f64015c",
           "titulo": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
@@ -2048,7 +2400,7 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T14:02"
+      "atualizado_em": "2026-11-18T15:06"
     }
   ]
 }
