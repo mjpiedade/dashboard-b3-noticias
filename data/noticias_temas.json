@@ -1,15 +1,707 @@
 {
-  "atualizado_em": "2026-11-18T21:07",
-  "total_feed": 638,
+  "atualizado_em": "2026-11-19T09:54",
+  "total_feed": 727,
   "temas": [
     {
-      "titulo": "Ata do Fed mostra membros a favor de subir em outubro e um par a admitir mais de 25 p.b. em dezembro",
-      "sinal": "risk_off",
-      "resumo": "A ata da reunião de outubro mostra que alguns participantes defenderam subir 25 p.b. já, quase todos veem mais ação como provável e um par admite uma subida acima de 25 p.b. em dezembro se a inflação piorar; vários sublinharam que não subir não foi um sinal de fraqueza. Barr e Daly reforçaram hoje que a inflação está alta demais, depois de Waller ter admitido subidas de 100 p.b. ou mais. O leilão de 20 anos saiu a 5,459%, as vendas pendentes de casas caíram 4,7% em outubro e o índice de risco de crédito está em 75,4 ('tenso'), com o HY OAS a 3,34 p.p. (16/11, +0,22 p.p. em 30 dias) e todos os spreads acima do percentil 90 do ano.",
-      "impacto": "Juros americanos mais altos e dólar forte encolhem o espaço do Copom e pressionam o real; com os spreads a abrir em todos os segmentos, o prémio de risco sobe para bancos (ITUB4, BBDC4, BBAS3) e para construtoras (MRVE3, CYRE3).",
-      "especulacao": "",
-      "n_noticias": 73,
+      "titulo": "Xi e Trump acordam um plano para uma relação 'estável' e a cimeira com Putin abre com Ucrânia, nuclear e energia",
+      "sinal": "risk_on",
+      "resumo": "Depois de duas horas com Trump, Xi disse que China e EUA vão formular um plano de ação para uma relação estratégica estável e cooperar em comércio e segurança da IA; a cimeira trilateral com Putin começou hoje com a Ucrânia, as armas nucleares e a segurança energética em cima da mesa, e Xi propôs um mecanismo de prevenção de crises. O Kremlin diz que a reunião Putin-Trump correu bem e centrou-se na Ucrânia; Trump e Xi defendem que o petróleo tem de continuar a passar pelo Ormuz. Kushner e Witkoff seguem para Berlim para consultar Zelensky.",
+      "impacto": "Um desanuviamento EUA-China é a melhor leitura para a procura de minério e aço (VALE3, GGBR4, CSNA3, USIM5) e para o fluxo para emergentes; o atrito tecnológico (Microsoft-ByteDance, chips) continua em segundo plano.",
+      "especulacao": "Fala-se num caminho para o fim da guerra na Ucrânia, mas não há acordo anunciado; Trump disse apenas estar 'posicionado' para discutir a redução de armas nucleares.",
+      "n_noticias": 82,
       "noticias": [
+        {
+          "id": "5853db435095",
+          "titulo": "EUA e China podem ajudar a pôr fim à guerra na Ucrânia, diz Trump a Xi Jinping",
+          "fonte": "InfoMoney",
+          "data": "2026-11-19",
+          "hora": "09:30",
+          "link": "https://www.infomoney.com.br/mundo/eua-e-china-podem-ajudar-a-por-fim-a-guerra-na-ucrania-diz-trump-a-xi-jinping/"
+        },
+        {
+          "id": "d05feff0dd31",
+          "titulo": "Anthropic, pacote fiscal, cúpula entre Trump, Xi e Putin e mais destaques desta 5ª",
+          "fonte": "InfoMoney",
+          "data": "2026-11-19",
+          "hora": "09:15",
+          "link": "https://www.infomoney.com.br/mercados/anthropic-pacote-fiscal-cupula-trump-xi-putin-agenda-19112026/"
+        },
+        {
+          "id": "a0bf5da78213",
+          "titulo": "Xi: China, US, Russia should be partners, friends.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "09:07",
+          "link": "https://www.financialjuice.com/News/9859595/Xi-China-US-Russia-should-be-partners-friends.aspx?xy=rss"
+        },
+        {
+          "id": "da080d33e13e",
+          "titulo": "Xi: China, US, Russia should set up crisis prevention mechanism.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "09:07",
+          "link": "https://www.financialjuice.com/News/9859594/Xi-China-US-Russia-should-set-up-crisis-prevention-mechanism.aspx?xy=rss"
+        },
+        {
+          "id": "cf48a15442b1",
+          "titulo": "Xi, to Putin, Trump: nuclear weapons should be comprehensively banned and thoroughly destroyed, building nuclear-free world - Xinhua.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "09:03",
+          "link": "https://www.financialjuice.com/News/9859593/Xi-to-Putin-Trump-nuclear-weapons-should-be-comprehensively-banned-and-thoroughly-destroyed-building-nuclear-free-world---Xinhua.aspx?xy=rss"
+        },
+        {
+          "id": "60a73d6936ed",
+          "titulo": "Xi: Nuclear war cannot be won and must never be fought.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "09:03",
+          "link": "https://www.financialjuice.com/News/9859592/Xi-Nuclear-war-cannot-be-won-and-must-never-be-fought.aspx?xy=rss"
+        },
+        {
+          "id": "8c0676b48753",
+          "titulo": "Trump: It's very hard to give nuclear weapons up.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "08:38",
+          "link": "https://www.financialjuice.com/News/9859555/Trump-Its-very-hard-to-give-nuclear-weapons-up.aspx?xy=rss"
+        },
+        {
+          "id": "7e817c51fd88",
+          "titulo": "Trump: We're positioned to discuss reducing nuclear weapons.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "08:38",
+          "link": "https://www.financialjuice.com/News/9859554/Trump-Were-positioned-to-discuss-reducing-nuclear-weapons.aspx?xy=rss"
+        },
+        {
+          "id": "a66c199acbfe",
+          "titulo": "Trump: We've already discussed a lot.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "08:36",
+          "link": "https://www.financialjuice.com/News/9859553/Trump-Weve-already-discussed-a-lot.aspx?xy=rss"
+        },
+        {
+          "id": "18731b7b3b92",
+          "titulo": "Putin: We should discuss global and regional ties, as well as energy security - IFX.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "08:36",
+          "link": "https://www.financialjuice.com/News/9859552/Putin-We-should-discuss-global-and-regional-ties-as-well-as-energy-security---IFX.aspx?xy=rss"
+        },
+        {
+          "id": "c8adfbc72a23",
+          "titulo": "Xi: To boost communication in trade, AI with US - Xinhua",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "08:16",
+          "link": "https://www.financialjuice.com/News/9859510/Xi-To-boost-communication-in-trade-AI-with-US---Xinhua.aspx?xy=rss"
+        },
+        {
+          "id": "c29c059eedec",
+          "titulo": "Xi: US, China to cooperate to address AI safety risks.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "08:15",
+          "link": "https://www.financialjuice.com/News/9859506/Xi-US-China-to-cooperate-to-address-AI-safety-risks.aspx?xy=rss"
+        },
+        {
+          "id": "acb4048146b7",
+          "titulo": "Xi, in meeting with Trump: China, US agree to formulate action plan for constructive strategic stable relationship.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "08:14",
+          "link": "https://www.financialjuice.com/News/9859505/Xi-in-meeting-with-Trump-China-US-agree-to-formulate-action-plan-for-constructive-strategic-stable-relationship.aspx?xy=rss"
+        },
+        {
+          "id": "05006ec8449d",
+          "titulo": "Xi calls for more cooperation, fewer disputes with US - Xinhua.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "08:14",
+          "link": "https://www.financialjuice.com/News/9859504/Xi-calls-for-more-cooperation-fewer-disputes-with-US---Xinhua.aspx?xy=rss"
+        },
+        {
+          "id": "a21a310c1177",
+          "titulo": "Xi: To continue the positive momentum of China-US relationship.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "08:13",
+          "link": "https://www.financialjuice.com/News/9859503/Xi-To-continue-the-positive-momentum-of-China-US-relationship.aspx?xy=rss"
+        },
+        {
+          "id": "adc4a9323533",
+          "titulo": "Putin departs for meeting with Xi and Trump at APEC - Ria",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "07:56",
+          "link": "https://www.financialjuice.com/News/9859491/Putin-departs-for-meeting-with-Xi-and-Trump-at-APEC---Ria.aspx?xy=rss"
+        },
+        {
+          "id": "36133bbccd93",
+          "titulo": "US Envoy Kushner: Witkoff and I are heading to Berlin to consult with president Zelenskiy and European leaders at the coalition of the willing meeting.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "07:40",
+          "link": "https://www.financialjuice.com/News/9859474/US-Envoy-Kushner-Witkoff-and-I-are-heading-to-Berlin-to-consult-with-president-Zelenskiy-and-European-leaders-at-the-coalition-of-the-willing-meeting.aspx?xy=rss"
+        },
+        {
+          "id": "338f8cd2bb12",
+          "titulo": "Trump, Putin e Xi iniciam reunião histórica e discutem segurança mundial",
+          "fonte": "Exame",
+          "data": "2026-11-19",
+          "hora": "06:47",
+          "link": "https://exame.com/mundo/trump-putin-e-xi-iniciam-reuniao-historica-e-discutem-seguranca-mundial/"
+        },
+        {
+          "id": "a43be7c8664a",
+          "titulo": "Xi, Trump meeting concluded - CCTV",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:36",
+          "link": "https://www.financialjuice.com/News/9859414/Xi-Trump-meeting-concluded---CCTV.aspx?xy=rss"
+        },
+        {
+          "id": "f2480f249b0f",
+          "titulo": "Japan PM Takaichi: Have been communicating with china on rare earth export controls.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:36",
+          "link": "https://www.financialjuice.com/News/9859415/Japan-PM-Takaichi-Have-been-communicating-with-china-on-rare-earth-export-controls.aspx?xy=rss"
+        },
+        {
+          "id": "3069c3672bc4",
+          "titulo": "Japan PM Takaichi: Briefly exchanged views with Putin's and Trump.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:26",
+          "link": "https://www.financialjuice.com/News/9859377/Japan-PM-Takaichi-Briefly-exchanged-views-with-Putins-and-Trump.aspx?xy=rss"
+        },
+        {
+          "id": "5dd9557da245",
+          "titulo": "China's President Xi: I remain dedicated to cooperating with you",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:03",
+          "link": "https://www.financialjuice.com/News/9859358/Chinas-President-Xi-I-remain-dedicated-to-cooperating-with-you.aspx?xy=rss"
+        },
+        {
+          "id": "c817a8d4b7a5",
+          "titulo": "China’s President Xi: forging a constructive China-U.S. relationship of strategic stability is unprecedented",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:03",
+          "link": "https://www.financialjuice.com/News/9859357/Chinas-President-Xi-forging-a-constructive-China-US-relationship-of-strategic-stability-is-unprecedented.aspx?xy=rss"
+        },
+        {
+          "id": "150065366a47",
+          "titulo": "Trump: plans to discuss ending Ukraine war with Xi and later with Putin in trilateral meeting",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:03",
+          "link": "https://www.financialjuice.com/News/9859356/Trump-plans-to-discuss-ending-Ukraine-war-with-Xi-and-later-with-Putin-in-trilateral-meeting.aspx?xy=rss"
+        },
+        {
+          "id": "841f3784a512",
+          "titulo": "China's President Xi: China-U.S. relations generally stable and improving",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:02",
+          "link": "https://www.financialjuice.com/News/9859355/Chinas-President-Xi-China-US-relations-generally-stable-and-improving.aspx?xy=rss"
+        },
+        {
+          "id": "0aff5b51432e",
+          "titulo": "China's President Xi: willing to cooperate with Trump to keep China-U.S. relations on right track",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:01",
+          "link": "https://www.financialjuice.com/News/9859354/Chinas-President-Xi-willing-to-cooperate-with-Trump-to-keep-China-US-relations-on-right-track.aspx?xy=rss"
+        },
+        {
+          "id": "f70f0112d9a0",
+          "titulo": "Kremlin on Putin-Trump meeting: Putin left meeting in an excellent mood, Tass says",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "05:44",
+          "link": "https://www.financialjuice.com/News/9859327/Kremlin-on-Putin-Trump-meeting-Putin-left-meeting-in-an-excellent-mood-Tass-says.aspx?xy=rss"
+        },
+        {
+          "id": "3014d957376f",
+          "titulo": "Kremlin: Ukraine was main focus at Putin-Trump meeting - TASS",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "05:43",
+          "link": "https://www.financialjuice.com/News/9859326/Kremlin-Ukraine-was-main-focus-at-Putin-Trump-meeting---TASS.aspx?xy=rss"
+        },
+        {
+          "id": "926e67e49758",
+          "titulo": "Kremlin: Putin and Trump discussed Ukraine conflict and bilateral relations - Tass",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "05:42",
+          "link": "https://www.financialjuice.com/News/9859325/Kremlin-Putin-and-Trump-discussed-Ukraine-conflict-and-bilateral-relations---Tass.aspx?xy=rss"
+        },
+        {
+          "id": "d554aed7ea62",
+          "titulo": "Kremlin on Putin-Trump meeting: it went smoothly",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "05:42",
+          "link": "https://www.financialjuice.com/News/9859324/Kremlin-on-Putin-Trump-meeting-it-went-smoothly.aspx?xy=rss"
+        },
+        {
+          "id": "7e9e0cef338e",
+          "titulo": "Trump: spoke with Xi for two hours last night",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "05:41",
+          "link": "https://www.financialjuice.com/News/9859323/Trump-spoke-with-Xi-for-two-hours-last-night.aspx?xy=rss"
+        },
+        {
+          "id": "1b45bb269bfb",
+          "titulo": "China’s President Xi expresses gratitude for incredibly warm welcome",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "05:41",
+          "link": "https://www.financialjuice.com/News/9859322/Chinas-President-Xi-expresses-gratitude-for-incredibly-warm-welcome.aspx?xy=rss"
+        },
+        {
+          "id": "5615de02e2ab",
+          "titulo": "Trump: meeting with Xi to prove productive",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "05:40",
+          "link": "https://www.financialjuice.com/News/9859320/Trump-meeting-with-Xi-to-prove-productive.aspx?xy=rss"
+        },
+        {
+          "id": "5dd265bc9e47",
+          "titulo": "Trump has raised the cases of Youlin Chen and Min Zin to China’s President Xi - ABC.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "20:58",
+          "link": "https://www.financialjuice.com/News/9858553/Trump-has-raised-the-cases-of-Youlin-Chen-and-Min-Zin-to-Chinas-President-Xi---ABC.aspx?xy=rss"
+        },
+        {
+          "id": "93894f4588b8",
+          "titulo": "US weighs new penalties on China over jailed Americans - ABC.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "20:57",
+          "link": "https://www.financialjuice.com/News/9858551/US-weighs-new-penalties-on-China-over-jailed-Americans---ABC.aspx?xy=rss"
+        },
+        {
+          "id": "2fb11fbca6f3",
+          "titulo": "Pentagon chief walks out of NATO talks after admonishing Ukraine - Telegraph",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "20:41",
+          "link": "https://www.financialjuice.com/News/9858531/Pentagon-chief-walks-out-of-NATO-talks-after-admonishing-Ukraine---Telegraph.aspx?xy=rss"
+        },
+        {
+          "id": "9ed514fbbff8",
+          "titulo": "Moolenaar: US tech firms shouldn't play both sides of AI race",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "20:11",
+          "link": "https://www.financialjuice.com/News/9858495/Moolenaar-US-tech-firms-shouldnt-play-both-sides-of-AI-race.aspx?xy=rss"
+        },
+        {
+          "id": "1b3981af7c76",
+          "titulo": "US House China Panel Chair Moolenaar: It's unacceptable for Microsoft to arm ByteDance. $MSFT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "20:10",
+          "link": "https://www.financialjuice.com/News/9858494/US-House-China-Panel-Chair-Moolenaar-Its-unacceptable-for-Microsoft-to-arm-ByteDance-MSFT.aspx?xy=rss"
+        },
+        {
+          "id": "125047baa91f",
+          "titulo": "US House China Panel Chair Moolenaar: Microsoft should not sell AI to ByteDance. $MSFT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "20:09",
+          "link": "https://www.financialjuice.com/News/9858493/US-House-China-Panel-Chair-Moolenaar-Microsoft-should-not-sell-AI-to-ByteDance-MSFT.aspx?xy=rss"
+        },
+        {
+          "id": "426b57585f64",
+          "titulo": "House Select Committee on China has requested a bipartisan briefing from Microsoft on reported deal to sell AI to ByteDance - Statement. $MSFT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "20:08",
+          "link": "https://www.financialjuice.com/News/9858491/House-Select-Committee-on-China-has-requested-a-bipartisan-briefing-from-Microsoft-on-reported-deal-to-sell-AI-to-ByteDance---Statement-MSFT.aspx?xy=rss"
+        },
+        {
+          "id": "29536027b387",
+          "titulo": "Navarro: Using AI program to help detect transshipment - Fox Busniness",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "19:51",
+          "link": "https://www.financialjuice.com/News/9858484/Navarro-Using-AI-program-to-help-detect-transshipment---Fox-Busniness.aspx?xy=rss"
+        },
+        {
+          "id": "2c4fc55fc0b7",
+          "titulo": "'Voltamos à lei da selva', diz analista sobre cúpula entre Trump, Putin e Xi Jinping",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "17:15",
+          "link": "https://exame.com/mundo/voltamos-a-lei-da-selva-diz-analista-sobre-cupula-entre-trump-putin-e-xi-jinping/"
+        },
+        {
+          "id": "a7fc801a5bcb",
+          "titulo": "Chefe do Pentágono anuncia acordo de cooperação militar com a Venezuela",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "16:33",
+          "link": "https://exame.com/mundo/chefe-do-pentagono-anuncia-acordo-de-cooperacao-militar-com-a-venezuela/"
+        },
+        {
+          "id": "3d212c03090e",
+          "titulo": "Putin and Xi discussed the upcoming trilateral meeting with Trump - IFX.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:16",
+          "link": "https://www.financialjuice.com/News/9857962/Putin-and-Xi-discussed-the-upcoming-trilateral-meeting-with-Trump---IFX-.aspx?xy=rss"
+        },
+        {
+          "id": "968c8582ad1a",
+          "titulo": "Trump will meet with Putin separately in China, their first talks since the 2025 Alaska summit failed to broker a Ukraine deal - AP.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:09",
+          "link": "https://www.financialjuice.com/News/9857954/Trump-will-meet-with-Putin-separately-in-China-their-first-talks-since-the-2025-Alaska-summit-failed-to-broker-a-Ukraine-deal---AP.aspx?xy=rss"
+        },
+        {
+          "id": "39032853614b",
+          "titulo": "Microsoft is pursuing deals to sell OpenAI models to other Chinese businesses that were cut off from Anthropic. Including Alibaba - The Information. $MSFT $BABA $ANT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:04",
+          "link": "https://www.financialjuice.com/News/9857951/Microsoft-is-pursuing-deals-to-sell-OpenAI-models-to-other-Chinese-businesses-that-were-cut-off-from-Anthropic-Including-Alibaba---The-Information-MSFT-BABA-ANT.aspx?xy=rss"
+        },
+        {
+          "id": "2316e9d5cbf3",
+          "titulo": "OpenAI has complained to Microsoft in recent months that it believes chinese firms are “distilling” its AI - The Information.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:04",
+          "link": "https://www.financialjuice.com/News/9857952/OpenAI-has-complained-to-Microsoft-in-recent-months-that-it-believes-chinese-firms-are-distilling-its-AI---The-Information.aspx?xy=rss"
+        },
+        {
+          "id": "35585ac7387f",
+          "titulo": "Bytedance in talks to buy $500m in Microsoft cloud - The Information",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:03",
+          "link": "https://www.financialjuice.com/News/9857950/Bytedance-in-talks-to-buy-500m-in-Microsoft-cloud---The-Information.aspx?xy=rss"
+        },
+        {
+          "id": "994cb19c7e2c",
+          "titulo": "Bytedance is in talks to expand Microsoft Azure contract for OpenAI models by an additional roughly $500 million - The Information",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:02",
+          "link": "https://www.financialjuice.com/News/9857949/Bytedance-is-in-talks-to-expand-Microsoft-Azure-contract-for-OpenAI-models-by-an-additional-roughly-500-million---The-Information.aspx?xy=rss"
+        },
+        {
+          "id": "30b9a4757e0b",
+          "titulo": "The US Commerce Department is establishing new rules to prevent certain foreign actors from leveraging advanced computing power based on US technology to threaten US national security and foreign policy interests.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "13:55",
+          "link": "https://www.financialjuice.com/News/9857923/The-US-Commerce-Department-is-establishing-new-rules-to-prevent-certain-foreign-actors-from-leveraging-advanced-computing-power-based-on-US-technology-to-threaten-US-national-security-and-foreign-policy-interests.aspx?xy=rss"
+        },
+        {
+          "id": "7e4450f43b37",
+          "titulo": "Credit Agricole Risk Index: Risk Appetite Continues to Fade as Tech and Chip Restrictions Weigh - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "13:52",
+          "link": "https://www.financialjuice.com/News/9857921/Credit-Agricole-Risk-Index-Risk-Appetite-Continues-to-Fade-as-Tech-and-Chip-Restrictions-Weigh---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "29381314c27c",
+          "titulo": "Unicredit: APEC Focus Shifts to Historic Trump-Xi-Putin Meeting - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "13:50",
+          "link": "https://www.financialjuice.com/News/9857920/Unicredit-APEC-Focus-Shifts-to-Historic-Trump-Xi-Putin-Meeting---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "1a57c00daa72",
+          "titulo": "Republican Senator Scott: The public hearing way to restore confidence on chips.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "13:15",
+          "link": "https://www.financialjuice.com/News/9857864/Republican-Senator-Scott-The-public-hearing-way-to-restore-confidence-on-chips.aspx?xy=rss"
+        },
+        {
+          "id": "fc02b72fffaa",
+          "titulo": "Huang and Lutnick both agreed to appear before panel - Republican Senator Scott",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "13:13",
+          "link": "https://www.financialjuice.com/News/9857859/Huang-and-Lutnick-both-agreed-to-appear-before-panel---Republican-Senator-Scott.aspx?xy=rss"
+        },
+        {
+          "id": "fd8d7c4936e5",
+          "titulo": "Canada's PM Carney and Trump met on the margins of the APEC meeting in Shenzhen",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "12:34",
+          "link": "https://www.financialjuice.com/News/9857804/Canadas-PM-Carney-and-Trump-met-on-the-margins-of-the-APEC-meeting-in-Shenzhen.aspx?xy=rss"
+        },
+        {
+          "id": "1a5bc0c0efc2",
+          "titulo": "Trump and Putin shook hands before the APEC welcome banquet in Shenzhen, China",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "11:24",
+          "link": "https://www.financialjuice.com/News/9857682/Trump-and-Putin-shook-hands-before-the-APEC-welcome-banquet-in-Shenzhen-China.aspx?xy=rss"
+        },
+        {
+          "id": "253b7017bfeb",
+          "titulo": "Russia and China have moved to a new level of defence industry cooperation - Senior russian official",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "11:24",
+          "link": "https://www.financialjuice.com/News/9857681/Russia-and-China-have-moved-to-a-new-level-of-defence-industry-cooperation---Senior-russian-official.aspx?xy=rss"
+        },
+        {
+          "id": "67ce8ec80ac0",
+          "titulo": "Trump admin weighs US firms to disclose China AI use - Sources",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "11:05",
+          "link": "https://www.financialjuice.com/News/9857662/Trump-admin-weighs-US-firms-to-disclose-China-AI-use---Sources.aspx?xy=rss"
+        },
+        {
+          "id": "f09f500ae7fa",
+          "titulo": "EUA, China e Rússia: o que será tratado em encontro histórico entre potências?",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "11:01",
+          "link": "https://exame.com/mundo/eua-china-e-russia-o-que-sera-tratado-em-encontro-historico-entre-potencias/"
+        },
+        {
+          "id": "596d524ca1db",
+          "titulo": "Kremlin: Putin and Trump to discuss current issues and Ukraine - Tass",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "10:49",
+          "link": "https://www.financialjuice.com/News/9857637/Kremlin-Putin-and-Trump-to-discuss-current-issues-and-Ukraine---Tass.aspx?xy=rss"
+        },
+        {
+          "id": "6c0887454036",
+          "titulo": "Trump is meeting with the Mexican President and the Canadian PM - White House Official",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "10:41",
+          "link": "https://www.financialjuice.com/News/9857613/Trump-is-meeting-with-the-Mexican-President-and-the-Canadian-PM---White-House-Official.aspx?xy=rss"
+        },
+        {
+          "id": "f8aab9ab37ee",
+          "titulo": "Kremlin: Putin and Trump may discuss putin's visit to G-20 - Tass",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "10:40",
+          "link": "https://www.financialjuice.com/News/9857612/Kremlin-Putin-and-Trump-may-discuss-putins-visit-to-G-20---Tass.aspx?xy=rss"
+        },
+        {
+          "id": "528830562a04",
+          "titulo": "Kremlin: It's unlikely Putin and Trump will have time for fully-fledged negotiations at APEC, but they will talk - TASS",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "10:40",
+          "link": "https://www.financialjuice.com/News/9857611/Kremlin-Its-unlikely-Putin-and-Trump-will-have-time-for-fully-fledged-negotiations-at-APEC-but-they-will-talk---TASS.aspx?xy=rss"
+        },
+        {
+          "id": "33fd1f7ef8d3",
+          "titulo": "Trump, Putin e Xi Jinping se cumprimentam antes de reunião histórica na China",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "10:16",
+          "link": "https://exame.com/mundo/trump-putin-e-xi-jinping-se-cumprimentam-antes-de-reuniao-historica-na-china/"
+        },
+        {
+          "id": "8f71b83edc99",
+          "titulo": "Xi says he is looking forward to hold talks with trump - Xinhua",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "09:54",
+          "link": "https://www.financialjuice.com/News/9857541/Xi-says-he-is-looking-forward-to-hold-talks-with-trump---Xinhua.aspx?xy=rss"
+        },
+        {
+          "id": "d71077abaf7c",
+          "titulo": "PBOC sets USD/ CNY mid-point today at 6.7118 (vs. estimate at 6.6654)",
+          "fonte": "ForexLive",
+          "data": "2026-11-18",
+          "hora": "01:16",
+          "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7118-vs-estimate-at-6-6654/"
+        },
+        {
+          "id": "9f273403fea2",
+          "titulo": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
+          "fonte": "Guardian Business",
+          "data": "2026-11-18",
+          "hora": "00:41",
+          "link": "https://www.theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes"
+        },
+        {
+          "id": "029c68ce19f0",
+          "titulo": "PBOC is expected to set the USD/CNY reference rate at 6.6654 – Reuters estimate",
+          "fonte": "ForexLive",
+          "data": "2026-11-18",
+          "hora": "00:29",
+          "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate-9/"
+        },
+        {
+          "id": "3f32e04106a6",
+          "titulo": "Europe plans to catch the next computer chip wave",
+          "fonte": "BBC Business",
+          "data": "2026-11-18",
+          "hora": "00:00",
+          "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "8cc17f7369a8",
+          "titulo": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "fonte": "BBC Business",
+          "data": "2026-11-17",
+          "hora": "23:02",
+          "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "bb5f1ff27da0",
+          "titulo": "China ameaça retaliar contra EUA por restrições a chips de IA que também afetam o Brasil",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/china-ameaca-retaliar-contra-eua-por-restricoes-a-chips-de-ia-que-tambem-afetam-o-brasil.ghtml"
+        },
+        {
+          "id": "28bc17a72ead",
+          "titulo": "Putin arrives in Shenzhen for APEC Economic Leaders' Meeting - Xinhua.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "17:58",
+          "link": "https://www.financialjuice.com/News/9856242/Putin-arrives-in-Shenzhen-for-APEC-Economic-Leaders-Meeting---Xinhua.aspx?xy=rss"
+        },
+        {
+          "id": "4c93293e3e2b",
+          "titulo": "NVIDIA stopped disclosing Singapore sales last year - FT. $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "17:08",
+          "link": "https://www.financialjuice.com/News/9856184/NVIDIA-stopped-disclosing-Singapore-sales-last-year---FT-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "d96386e8ef8f",
+          "titulo": "US Democrat House Leader Jeffries: We're discussing whether to keep the China panel next year.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "16:58",
+          "link": "https://www.financialjuice.com/News/9856163/US-Democrat-House-Leader-Jeffries-Were-discussing-whether-to-keep-the-China-panel-next-year.aspx?xy=rss"
+        },
+        {
+          "id": "ee7bfb13b2f7",
+          "titulo": "Japan's PM Takaichi and Trump hold talks in the Philippines - Kyodo.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "16:26",
+          "link": "https://www.financialjuice.com/News/9856127/Japans-PM-Takaichi-and-Trump-hold-talks-in-the-Philippines---Kyodo.aspx?xy=rss"
+        },
+        {
+          "id": "7ac8c867a9f8",
+          "titulo": "AMD CEO Su: AMD is ensuring it's in the room on chip export control talks. $AMD $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "16:16",
+          "link": "https://www.financialjuice.com/News/9856118/AMD-CEO-Su-AMD-is-ensuring-its-in-the-room-on-chip-export-control-talks-AMD-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "10753359c0db",
+          "titulo": "AMD CEO Su: Demand exceeds supply even with US chip export controls",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "16:16",
+          "link": "https://www.financialjuice.com/News/9856120/AMD-CEO-Su-Demand-exceeds-supply-even-with-US-chip-export-controls.aspx?xy=rss"
+        },
+        {
+          "id": "63a6a18fd8f9",
+          "titulo": "Russian strategic bombers flew near Japan, South Korea and Taiwan before landing in Vietnam while Trump is in the Philippines ahead of his anticipated meeting with Putin and Xi in China - Fox News Reporter on X",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "16:12",
+          "link": "https://www.financialjuice.com/News/9856114/Russian-strategic-bombers-flew-near-Japan-South-Korea-and-Taiwan-before-landing-in-Vietnam-while-Trump-is-in-the-Philippines-ahead-of-his-anticipated-meeting-with-Putin-and-Xi-in-China---Fox-News-Reporter-on-X.aspx?xy=rss"
+        },
+        {
+          "id": "e15d1e40c662",
+          "titulo": "Coherent and Lumentum stocks climb as potential U.S. import ban threatens Chinese rivals",
+          "fonte": "MarketWatch",
+          "data": "2026-11-17",
+          "hora": "15:39",
+          "link": "https://www.marketwatch.com/story/coherent-and-lumentum-stocks-climb-as-potential-u-s-import-ban-threatens-chinese-rivals-e20dfb79?mod=mw_rss_topstories"
+        },
+        {
+          "id": "95c504ef47e3",
+          "titulo": "Jensen Huang’s daughter was closely involved in orchestrating the public defence of Nvidia's relationship with Megaspeed - FT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "15:19",
+          "link": "https://www.financialjuice.com/News/9856040/Jensen-Huangs-daughter-was-closely-involved-in-orchestrating-the-public-defence-of-Nvidias-relationship-with-Megaspeed---FT.aspx?xy=rss"
+        },
+        {
+          "id": "50ad2f95e2c9",
+          "titulo": "US lawmakers ask Mercedes-Benz to disclose details about its Chinese ownership ties, technology partnerships, and other ties to China - letter",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "15:14",
+          "link": "https://www.financialjuice.com/News/9856022/US-lawmakers-ask-Mercedes-Benz-to-disclose-details-about-its-Chinese-ownership-ties-technology-partnerships-and-other-ties-to-China---letter-.aspx?xy=rss"
+        },
+        {
+          "id": "2008e0633157",
+          "titulo": "Banks pause $480 million chip loan tied to China’s ByteDance",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "14:49",
+          "link": "https://www.financialjuice.com/News/9855996/Banks-pause-480-million-chip-loan-tied-to-Chinas-ByteDance.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-11-18T14:02",
+      "atualizado_em": "2026-11-19T09:54"
+    },
+    {
+      "titulo": "Quatro dirigentes do Fed defendem mais subidas e Waller admite 50 p.b., depois de uma ata que já abria a porta a dezembro",
+      "sinal": "risk_off",
+      "resumo": "A ata de outubro mostra que alguns participantes queriam subir 25 p.b. e que um par admite mais de 25 p.b. em dezembro; desde então, quatro dirigentes defenderam mais subidas e Waller sugeriu 50 p.b. para quebrar a mentalidade de inflação a 3%. A Moody's manteve o rating dos EUA em Aa1 e vê crescimento de 2,3% este ano. O índice de risco de crédito subiu 7,4 pontos numa semana para 77,8 ('tenso'), com o HY OAS a 3,43 p.p. (+0,40 p.p. em 30 dias) e o CCC a 13,29 p.p. (17/11), todos acima do percentil 95 do ano exceto os rácios de ETF; o BIZD caiu 4,11% numa semana.",
+      "impacto": "Juros americanos a subir e spreads a abrir encarecem o capital para emergentes, sustentam o dólar contra o real e encolhem o espaço do Copom: pesa sobre bancos (ITUB4, BBDC4, BBAS3) e construtoras (MRVE3, CYRE3).",
+      "especulacao": "",
+      "n_noticias": 76,
+      "noticias": [
+        {
+          "id": "91726d93e121",
+          "titulo": "Ibovespa hoje acompanha estreia da Anthropic na Nasdaq e cúpula de Trump, Putin e Xi",
+          "fonte": "Exame",
+          "data": "2026-11-19",
+          "hora": "05:30",
+          "link": "https://exame.com/invest/mercados/ibovespa-hoje-19-11-2026/"
+        },
+        {
+          "id": "9c64c66e614c",
+          "titulo": "Four Fed officials push for more hikes as Waller floats 50bp to break 3% inflation mindset",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "00:28",
+          "link": "https://investinglive.com/central-banks/four-fed-officials-push-for-more-hikes-as-waller-floats-50bp-to-break-3-inflation-mindset/"
+        },
+        {
+          "id": "fbf0a9ad4ace",
+          "titulo": "Moody’s keeps US rating at Aa1 as the economy beats forecasts, seeing 2.3% growth this year",
+          "fonte": "ForexLive",
+          "data": "2026-11-18",
+          "hora": "23:18",
+          "link": "https://investinglive.com/news/moody-s-keeps-us-rating-at-aa1-as-the-economy-beats-forecasts-seeing-2-3-growth-this-year/"
+        },
         {
           "id": "4c578fea2ead",
           "titulo": "US Overall Net Capital Flows Actual 261.0B (Forecast -, Previous 199.8B ,Revision 203.0B)",
@@ -596,816 +1288,184 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T21:07"
+      "atualizado_em": "2026-11-19T09:54"
     },
     {
-      "titulo": "Trump encontra Putin e Xi na China enquanto o Congresso pressiona a Microsoft por vender IA à ByteDance",
+      "titulo": "Ueda diz que o BoJ continua a subir juros e o desemprego australiano salta para 4,9%",
       "sinal": "risk_off",
-      "resumo": "Trump e Putin apertaram a mão antes do banquete da APEC em Shenzhen e vão reunir-se separadamente, depois de Putin e Xi terem discutido o encontro trilateral. O presidente da comissão da Câmara para a China, Moolenaar, disse ser inaceitável a Microsoft vender IA à ByteDance e a comissão pediu um briefing à empresa; a ABC relata que Washington pondera novas penalizações à China por americanos presos. O Telegraph relata que o chefe do Pentágono abandonou as conversas da NATO depois de admoestar a Ucrânia.",
-      "impacto": "Mais atrito tecnológico EUA-China pesa sobre a procura de minério e aço (VALE3, GGBR4, CSNA3, USIM5); um entendimento Trump-Xi seria a leitura contrária. A inclusão do Brasil nas licenças de chips trava projetos de data centers no país.",
-      "especulacao": "A ABC relata, sem anúncio oficial, que os EUA ponderam novas penalizações à China; fontes dizem que a administração pondera obrigar empresas a divulgar o uso de IA chinesa.",
-      "n_noticias": 49,
-      "noticias": [
-        {
-          "id": "5dd265bc9e47",
-          "titulo": "Trump has raised the cases of Youlin Chen and Min Zin to China’s President Xi - ABC.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "20:58",
-          "link": "https://www.financialjuice.com/News/9858553/Trump-has-raised-the-cases-of-Youlin-Chen-and-Min-Zin-to-Chinas-President-Xi---ABC.aspx?xy=rss"
-        },
-        {
-          "id": "93894f4588b8",
-          "titulo": "US weighs new penalties on China over jailed Americans - ABC.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "20:57",
-          "link": "https://www.financialjuice.com/News/9858551/US-weighs-new-penalties-on-China-over-jailed-Americans---ABC.aspx?xy=rss"
-        },
-        {
-          "id": "2fb11fbca6f3",
-          "titulo": "Pentagon chief walks out of NATO talks after admonishing Ukraine - Telegraph",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "20:41",
-          "link": "https://www.financialjuice.com/News/9858531/Pentagon-chief-walks-out-of-NATO-talks-after-admonishing-Ukraine---Telegraph.aspx?xy=rss"
-        },
-        {
-          "id": "9ed514fbbff8",
-          "titulo": "Moolenaar: US tech firms shouldn't play both sides of AI race",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "20:11",
-          "link": "https://www.financialjuice.com/News/9858495/Moolenaar-US-tech-firms-shouldnt-play-both-sides-of-AI-race.aspx?xy=rss"
-        },
-        {
-          "id": "1b3981af7c76",
-          "titulo": "US House China Panel Chair Moolenaar: It's unacceptable for Microsoft to arm ByteDance. $MSFT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "20:10",
-          "link": "https://www.financialjuice.com/News/9858494/US-House-China-Panel-Chair-Moolenaar-Its-unacceptable-for-Microsoft-to-arm-ByteDance-MSFT.aspx?xy=rss"
-        },
-        {
-          "id": "125047baa91f",
-          "titulo": "US House China Panel Chair Moolenaar: Microsoft should not sell AI to ByteDance. $MSFT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "20:09",
-          "link": "https://www.financialjuice.com/News/9858493/US-House-China-Panel-Chair-Moolenaar-Microsoft-should-not-sell-AI-to-ByteDance-MSFT.aspx?xy=rss"
-        },
-        {
-          "id": "426b57585f64",
-          "titulo": "House Select Committee on China has requested a bipartisan briefing from Microsoft on reported deal to sell AI to ByteDance - Statement. $MSFT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "20:08",
-          "link": "https://www.financialjuice.com/News/9858491/House-Select-Committee-on-China-has-requested-a-bipartisan-briefing-from-Microsoft-on-reported-deal-to-sell-AI-to-ByteDance---Statement-MSFT.aspx?xy=rss"
-        },
-        {
-          "id": "29536027b387",
-          "titulo": "Navarro: Using AI program to help detect transshipment - Fox Busniness",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "19:51",
-          "link": "https://www.financialjuice.com/News/9858484/Navarro-Using-AI-program-to-help-detect-transshipment---Fox-Busniness.aspx?xy=rss"
-        },
-        {
-          "id": "2c4fc55fc0b7",
-          "titulo": "'Voltamos à lei da selva', diz analista sobre cúpula entre Trump, Putin e Xi Jinping",
-          "fonte": "Exame",
-          "data": "2026-11-18",
-          "hora": "17:15",
-          "link": "https://exame.com/mundo/voltamos-a-lei-da-selva-diz-analista-sobre-cupula-entre-trump-putin-e-xi-jinping/"
-        },
-        {
-          "id": "a7fc801a5bcb",
-          "titulo": "Chefe do Pentágono anuncia acordo de cooperação militar com a Venezuela",
-          "fonte": "Exame",
-          "data": "2026-11-18",
-          "hora": "16:33",
-          "link": "https://exame.com/mundo/chefe-do-pentagono-anuncia-acordo-de-cooperacao-militar-com-a-venezuela/"
-        },
-        {
-          "id": "3d212c03090e",
-          "titulo": "Putin and Xi discussed the upcoming trilateral meeting with Trump - IFX.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "14:16",
-          "link": "https://www.financialjuice.com/News/9857962/Putin-and-Xi-discussed-the-upcoming-trilateral-meeting-with-Trump---IFX-.aspx?xy=rss"
-        },
-        {
-          "id": "968c8582ad1a",
-          "titulo": "Trump will meet with Putin separately in China, their first talks since the 2025 Alaska summit failed to broker a Ukraine deal - AP.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "14:09",
-          "link": "https://www.financialjuice.com/News/9857954/Trump-will-meet-with-Putin-separately-in-China-their-first-talks-since-the-2025-Alaska-summit-failed-to-broker-a-Ukraine-deal---AP.aspx?xy=rss"
-        },
-        {
-          "id": "39032853614b",
-          "titulo": "Microsoft is pursuing deals to sell OpenAI models to other Chinese businesses that were cut off from Anthropic. Including Alibaba - The Information. $MSFT $BABA $ANT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "14:04",
-          "link": "https://www.financialjuice.com/News/9857951/Microsoft-is-pursuing-deals-to-sell-OpenAI-models-to-other-Chinese-businesses-that-were-cut-off-from-Anthropic-Including-Alibaba---The-Information-MSFT-BABA-ANT.aspx?xy=rss"
-        },
-        {
-          "id": "2316e9d5cbf3",
-          "titulo": "OpenAI has complained to Microsoft in recent months that it believes chinese firms are “distilling” its AI - The Information.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "14:04",
-          "link": "https://www.financialjuice.com/News/9857952/OpenAI-has-complained-to-Microsoft-in-recent-months-that-it-believes-chinese-firms-are-distilling-its-AI---The-Information.aspx?xy=rss"
-        },
-        {
-          "id": "35585ac7387f",
-          "titulo": "Bytedance in talks to buy $500m in Microsoft cloud - The Information",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "14:03",
-          "link": "https://www.financialjuice.com/News/9857950/Bytedance-in-talks-to-buy-500m-in-Microsoft-cloud---The-Information.aspx?xy=rss"
-        },
-        {
-          "id": "994cb19c7e2c",
-          "titulo": "Bytedance is in talks to expand Microsoft Azure contract for OpenAI models by an additional roughly $500 million - The Information",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "14:02",
-          "link": "https://www.financialjuice.com/News/9857949/Bytedance-is-in-talks-to-expand-Microsoft-Azure-contract-for-OpenAI-models-by-an-additional-roughly-500-million---The-Information.aspx?xy=rss"
-        },
-        {
-          "id": "30b9a4757e0b",
-          "titulo": "The US Commerce Department is establishing new rules to prevent certain foreign actors from leveraging advanced computing power based on US technology to threaten US national security and foreign policy interests.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "13:55",
-          "link": "https://www.financialjuice.com/News/9857923/The-US-Commerce-Department-is-establishing-new-rules-to-prevent-certain-foreign-actors-from-leveraging-advanced-computing-power-based-on-US-technology-to-threaten-US-national-security-and-foreign-policy-interests.aspx?xy=rss"
-        },
-        {
-          "id": "7e4450f43b37",
-          "titulo": "Credit Agricole Risk Index: Risk Appetite Continues to Fade as Tech and Chip Restrictions Weigh - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "13:52",
-          "link": "https://www.financialjuice.com/News/9857921/Credit-Agricole-Risk-Index-Risk-Appetite-Continues-to-Fade-as-Tech-and-Chip-Restrictions-Weigh---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "29381314c27c",
-          "titulo": "Unicredit: APEC Focus Shifts to Historic Trump-Xi-Putin Meeting - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "13:50",
-          "link": "https://www.financialjuice.com/News/9857920/Unicredit-APEC-Focus-Shifts-to-Historic-Trump-Xi-Putin-Meeting---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "1a57c00daa72",
-          "titulo": "Republican Senator Scott: The public hearing way to restore confidence on chips.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "13:15",
-          "link": "https://www.financialjuice.com/News/9857864/Republican-Senator-Scott-The-public-hearing-way-to-restore-confidence-on-chips.aspx?xy=rss"
-        },
-        {
-          "id": "fc02b72fffaa",
-          "titulo": "Huang and Lutnick both agreed to appear before panel - Republican Senator Scott",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "13:13",
-          "link": "https://www.financialjuice.com/News/9857859/Huang-and-Lutnick-both-agreed-to-appear-before-panel---Republican-Senator-Scott.aspx?xy=rss"
-        },
-        {
-          "id": "fd8d7c4936e5",
-          "titulo": "Canada's PM Carney and Trump met on the margins of the APEC meeting in Shenzhen",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "12:34",
-          "link": "https://www.financialjuice.com/News/9857804/Canadas-PM-Carney-and-Trump-met-on-the-margins-of-the-APEC-meeting-in-Shenzhen.aspx?xy=rss"
-        },
-        {
-          "id": "1a5bc0c0efc2",
-          "titulo": "Trump and Putin shook hands before the APEC welcome banquet in Shenzhen, China",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "11:24",
-          "link": "https://www.financialjuice.com/News/9857682/Trump-and-Putin-shook-hands-before-the-APEC-welcome-banquet-in-Shenzhen-China.aspx?xy=rss"
-        },
-        {
-          "id": "253b7017bfeb",
-          "titulo": "Russia and China have moved to a new level of defence industry cooperation - Senior russian official",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "11:24",
-          "link": "https://www.financialjuice.com/News/9857681/Russia-and-China-have-moved-to-a-new-level-of-defence-industry-cooperation---Senior-russian-official.aspx?xy=rss"
-        },
-        {
-          "id": "67ce8ec80ac0",
-          "titulo": "Trump admin weighs US firms to disclose China AI use - Sources",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "11:05",
-          "link": "https://www.financialjuice.com/News/9857662/Trump-admin-weighs-US-firms-to-disclose-China-AI-use---Sources.aspx?xy=rss"
-        },
-        {
-          "id": "f09f500ae7fa",
-          "titulo": "EUA, China e Rússia: o que será tratado em encontro histórico entre potências?",
-          "fonte": "Exame",
-          "data": "2026-11-18",
-          "hora": "11:01",
-          "link": "https://exame.com/mundo/eua-china-e-russia-o-que-sera-tratado-em-encontro-historico-entre-potencias/"
-        },
-        {
-          "id": "596d524ca1db",
-          "titulo": "Kremlin: Putin and Trump to discuss current issues and Ukraine - Tass",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "10:49",
-          "link": "https://www.financialjuice.com/News/9857637/Kremlin-Putin-and-Trump-to-discuss-current-issues-and-Ukraine---Tass.aspx?xy=rss"
-        },
-        {
-          "id": "6c0887454036",
-          "titulo": "Trump is meeting with the Mexican President and the Canadian PM - White House Official",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "10:41",
-          "link": "https://www.financialjuice.com/News/9857613/Trump-is-meeting-with-the-Mexican-President-and-the-Canadian-PM---White-House-Official.aspx?xy=rss"
-        },
-        {
-          "id": "f8aab9ab37ee",
-          "titulo": "Kremlin: Putin and Trump may discuss putin's visit to G-20 - Tass",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "10:40",
-          "link": "https://www.financialjuice.com/News/9857612/Kremlin-Putin-and-Trump-may-discuss-putins-visit-to-G-20---Tass.aspx?xy=rss"
-        },
-        {
-          "id": "528830562a04",
-          "titulo": "Kremlin: It's unlikely Putin and Trump will have time for fully-fledged negotiations at APEC, but they will talk - TASS",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "10:40",
-          "link": "https://www.financialjuice.com/News/9857611/Kremlin-Its-unlikely-Putin-and-Trump-will-have-time-for-fully-fledged-negotiations-at-APEC-but-they-will-talk---TASS.aspx?xy=rss"
-        },
-        {
-          "id": "33fd1f7ef8d3",
-          "titulo": "Trump, Putin e Xi Jinping se cumprimentam antes de reunião histórica na China",
-          "fonte": "Exame",
-          "data": "2026-11-18",
-          "hora": "10:16",
-          "link": "https://exame.com/mundo/trump-putin-e-xi-jinping-se-cumprimentam-antes-de-reuniao-historica-na-china/"
-        },
-        {
-          "id": "8f71b83edc99",
-          "titulo": "Xi says he is looking forward to hold talks with trump - Xinhua",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "09:54",
-          "link": "https://www.financialjuice.com/News/9857541/Xi-says-he-is-looking-forward-to-hold-talks-with-trump---Xinhua.aspx?xy=rss"
-        },
-        {
-          "id": "d71077abaf7c",
-          "titulo": "PBOC sets USD/ CNY mid-point today at 6.7118 (vs. estimate at 6.6654)",
-          "fonte": "ForexLive",
-          "data": "2026-11-18",
-          "hora": "01:16",
-          "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7118-vs-estimate-at-6-6654/"
-        },
-        {
-          "id": "9f273403fea2",
-          "titulo": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
-          "fonte": "Guardian Business",
-          "data": "2026-11-18",
-          "hora": "00:41",
-          "link": "https://www.theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes"
-        },
-        {
-          "id": "029c68ce19f0",
-          "titulo": "PBOC is expected to set the USD/CNY reference rate at 6.6654 – Reuters estimate",
-          "fonte": "ForexLive",
-          "data": "2026-11-18",
-          "hora": "00:29",
-          "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate-9/"
-        },
-        {
-          "id": "3f32e04106a6",
-          "titulo": "Europe plans to catch the next computer chip wave",
-          "fonte": "BBC Business",
-          "data": "2026-11-18",
-          "hora": "00:00",
-          "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "8cc17f7369a8",
-          "titulo": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-          "fonte": "BBC Business",
-          "data": "2026-11-17",
-          "hora": "23:02",
-          "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "bb5f1ff27da0",
-          "titulo": "China ameaça retaliar contra EUA por restrições a chips de IA que também afetam o Brasil",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/china-ameaca-retaliar-contra-eua-por-restricoes-a-chips-de-ia-que-tambem-afetam-o-brasil.ghtml"
-        },
-        {
-          "id": "28bc17a72ead",
-          "titulo": "Putin arrives in Shenzhen for APEC Economic Leaders' Meeting - Xinhua.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "17:58",
-          "link": "https://www.financialjuice.com/News/9856242/Putin-arrives-in-Shenzhen-for-APEC-Economic-Leaders-Meeting---Xinhua.aspx?xy=rss"
-        },
-        {
-          "id": "4c93293e3e2b",
-          "titulo": "NVIDIA stopped disclosing Singapore sales last year - FT. $NVDA",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "17:08",
-          "link": "https://www.financialjuice.com/News/9856184/NVIDIA-stopped-disclosing-Singapore-sales-last-year---FT-NVDA.aspx?xy=rss"
-        },
-        {
-          "id": "d96386e8ef8f",
-          "titulo": "US Democrat House Leader Jeffries: We're discussing whether to keep the China panel next year.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "16:58",
-          "link": "https://www.financialjuice.com/News/9856163/US-Democrat-House-Leader-Jeffries-Were-discussing-whether-to-keep-the-China-panel-next-year.aspx?xy=rss"
-        },
-        {
-          "id": "ee7bfb13b2f7",
-          "titulo": "Japan's PM Takaichi and Trump hold talks in the Philippines - Kyodo.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "16:26",
-          "link": "https://www.financialjuice.com/News/9856127/Japans-PM-Takaichi-and-Trump-hold-talks-in-the-Philippines---Kyodo.aspx?xy=rss"
-        },
-        {
-          "id": "7ac8c867a9f8",
-          "titulo": "AMD CEO Su: AMD is ensuring it's in the room on chip export control talks. $AMD $NVDA",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "16:16",
-          "link": "https://www.financialjuice.com/News/9856118/AMD-CEO-Su-AMD-is-ensuring-its-in-the-room-on-chip-export-control-talks-AMD-NVDA.aspx?xy=rss"
-        },
-        {
-          "id": "10753359c0db",
-          "titulo": "AMD CEO Su: Demand exceeds supply even with US chip export controls",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "16:16",
-          "link": "https://www.financialjuice.com/News/9856120/AMD-CEO-Su-Demand-exceeds-supply-even-with-US-chip-export-controls.aspx?xy=rss"
-        },
-        {
-          "id": "63a6a18fd8f9",
-          "titulo": "Russian strategic bombers flew near Japan, South Korea and Taiwan before landing in Vietnam while Trump is in the Philippines ahead of his anticipated meeting with Putin and Xi in China - Fox News Reporter on X",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "16:12",
-          "link": "https://www.financialjuice.com/News/9856114/Russian-strategic-bombers-flew-near-Japan-South-Korea-and-Taiwan-before-landing-in-Vietnam-while-Trump-is-in-the-Philippines-ahead-of-his-anticipated-meeting-with-Putin-and-Xi-in-China---Fox-News-Reporter-on-X.aspx?xy=rss"
-        },
-        {
-          "id": "e15d1e40c662",
-          "titulo": "Coherent and Lumentum stocks climb as potential U.S. import ban threatens Chinese rivals",
-          "fonte": "MarketWatch",
-          "data": "2026-11-17",
-          "hora": "15:39",
-          "link": "https://www.marketwatch.com/story/coherent-and-lumentum-stocks-climb-as-potential-u-s-import-ban-threatens-chinese-rivals-e20dfb79?mod=mw_rss_topstories"
-        },
-        {
-          "id": "95c504ef47e3",
-          "titulo": "Jensen Huang’s daughter was closely involved in orchestrating the public defence of Nvidia's relationship with Megaspeed - FT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "15:19",
-          "link": "https://www.financialjuice.com/News/9856040/Jensen-Huangs-daughter-was-closely-involved-in-orchestrating-the-public-defence-of-Nvidias-relationship-with-Megaspeed---FT.aspx?xy=rss"
-        },
-        {
-          "id": "50ad2f95e2c9",
-          "titulo": "US lawmakers ask Mercedes-Benz to disclose details about its Chinese ownership ties, technology partnerships, and other ties to China - letter",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "15:14",
-          "link": "https://www.financialjuice.com/News/9856022/US-lawmakers-ask-Mercedes-Benz-to-disclose-details-about-its-Chinese-ownership-ties-technology-partnerships-and-other-ties-to-China---letter-.aspx?xy=rss"
-        },
-        {
-          "id": "2008e0633157",
-          "titulo": "Banks pause $480 million chip loan tied to China’s ByteDance",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "14:49",
-          "link": "https://www.financialjuice.com/News/9855996/Banks-pause-480-million-chip-loan-tied-to-Chinas-ByteDance.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T21:07"
-    },
-    {
-      "titulo": "Presidente da Nvidia diz que Huang não volta e o mercado devolve o alívio do balanço",
-      "sinal": "risk_off",
-      "resumo": "A Nvidia dobrou a receita e elevou a previsão na primeira divulgação desde o afastamento de Jensen Huang (o G1 noticia lucro de US$ 65,3 bilhões), mas depois de os futuros do Nasdaq terem subido 1,3% as tecnológicas americanas passaram a recuar (FT) e o UBS cortou o preço-alvo de US$ 240 para US$ 220. Ao fim do dia, o presidente do conselho disse aos funcionários que Huang não volta e a empresa antecipou para dezembro aumentos salariais e novas atribuições de ações (FT); a empresa suspendeu o envio de chips Hopper para a China.",
-      "impacto": "O alívio pós-balanço não se aguentou: o beta de tecnologia volta a pesar no apetite por emergentes e no BOVA11; a suspensão dos Hopper mantém o risco EUA-China sobre o setor, sem efeito direto nas empresas da carteira.",
-      "especulacao": "O ForexLive lê a reação ao balanço como sinal de que o ciclo da IA pode estar a acabar; a Seeking Alpha divide-se entre compras e um rebaixamento — são opiniões de comentadores.",
-      "n_noticias": 48,
-      "noticias": [
-        {
-          "id": "0f0d92ce94c0",
-          "titulo": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
-          "fonte": "MarketWatch",
-          "data": "2026-11-18",
-          "hora": "21:01",
-          "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories"
-        },
-        {
-          "id": "dbc49b5775f5",
-          "titulo": "Nvidia to pull forward pay raises and new equity awards to Dec - FT. $NVDA",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "20:43",
-          "link": "https://www.financialjuice.com/News/9858532/Nvidia-to-pull-forward-pay-raises-and-new-equity-awards-to-Dec---FT-NVDA.aspx?xy=rss"
-        },
-        {
-          "id": "58c6925f6c3a",
-          "titulo": "Nvidia's Q3 Earnings Say Buy The Stock, Not The Panic (Rating Upgrade)",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-18",
-          "hora": "20:43",
-          "link": "https://seekingalpha.com/article/4969779-nvidias-q3-earnings-say-buy-the-stock-not-the-panic-rating-upgrade?source=feed_all_articles"
-        },
-        {
-          "id": "cf1f3d7d4d25",
-          "titulo": "Nvidia Chair at Employee Townhall: Jensen Huang not coming back. $NVDA",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "20:14",
-          "link": "https://www.financialjuice.com/News/9858496/Nvidia-Chair-at-Employee-Townhall-Jensen-Huang-not-coming-back-NVDA.aspx?xy=rss"
-        },
-        {
-          "id": "06c96ebff94d",
-          "titulo": "The market's verdict on Nvidia earnings is a problem for the AI boom trade",
-          "fonte": "ForexLive",
-          "data": "2026-11-18",
-          "hora": "19:28",
-          "link": "https://investinglive.com/stocks/the-market-s-verdict-on-nvidia-earnings-is-a-problem-for-the-ai-boom-trade/"
-        },
-        {
-          "id": "bf6682e9958b",
-          "titulo": "Arm's Haas was approached by Nvidia's recruiting firm $NVDA",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "18:34",
-          "link": "https://www.financialjuice.com/News/9858376/Arms-Haas-was-approached-by-Nvidias-recruiting-firm-NVDA.aspx?xy=rss"
-        },
-        {
-          "id": "618f3b1657de",
-          "titulo": "Google: Genie 4 is now available $GOOGL",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "18:16",
-          "link": "https://www.financialjuice.com/News/9858346/Google-Genie-4-is-now-available-GOOGL.aspx?xy=rss"
-        },
-        {
-          "id": "5a8222978930",
-          "titulo": "The broader NASDAQ indices open higher but move into negative territory. Nvidia also gives early gains after earnings beat",
-          "fonte": "ForexLive",
-          "data": "2026-11-18",
-          "hora": "15:05",
-          "link": "https://investinglive.com/stocks/the-broader-nasdaq-indices-open-higher-but-move-into-negative-territory-nvidia-also-gives-early-gains-after-earnings-beat/"
-        },
-        {
-          "id": "eae08d9b3cab",
-          "titulo": "Ex-CEO da Nvidia pede desculpas por erros e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "15:03",
-          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ex-ceo-nvidia-diz-que-aceitaria-voltar-ao-cargo.ghtml"
-        },
-        {
-          "id": "b1315a09c88b",
-          "titulo": "US tech stocks slide after Nvidia results",
-          "fonte": "FT Markets",
-          "data": "2026-11-18",
-          "hora": "14:56",
-          "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1"
-        },
-        {
-          "id": "30553c5cd97d",
-          "titulo": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
-          "fonte": "MarketWatch",
-          "data": "2026-11-18",
-          "hora": "14:33",
-          "link": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories"
-        },
-        {
-          "id": "5210c7cba9cc",
-          "titulo": "UBS cuts NVIDIA target price to $220 from $240.",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "14:25",
-          "link": "https://www.financialjuice.com/News/9857981/UBS-cuts-NVIDIA-target-price-to-220-from-240.aspx?xy=rss"
-        },
-        {
-          "id": "920f4fa81af5",
-          "titulo": "Nvidia: It's A Massive Opportunity (Earnings Review, Rating Upgrade)",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-18",
-          "hora": "14:25",
-          "link": "https://seekingalpha.com/article/4969582-nvidia-its-a-massive-opportunity-earnings-review-rating-upgrade?source=feed_all_articles"
-        },
-        {
-          "id": "e603434a0918",
-          "titulo": "Nvidia: Great Q3, But Jensen Huang's Exit Puts Top Talent In Play",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-18",
-          "hora": "14:09",
-          "link": "https://seekingalpha.com/article/4969577-nvidia-great-q3-but-jensen-huang-exit-puts-top-talent-in-play?source=feed_all_articles"
-        },
-        {
-          "id": "7377fedf5445",
-          "titulo": "Nvidia: RTX Spark compact desktops from Asus, Dell, MSI now available. $NVDA $DELL",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "14:06",
-          "link": "https://www.financialjuice.com/News/9857953/Nvidia-RTX-Spark-compact-desktops-from-Asus-Dell-MSI-now-available-NVDA-DELL.aspx?xy=rss"
-        },
-        {
-          "id": "ceb211146553",
-          "titulo": "Nvidia dobra lucro para US$ 65,3 bilhões em primeiro balanço após saída de Jensen Huang",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "13:56",
-          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/balanco-nvidia.ghtml"
-        },
-        {
-          "id": "aecce205c389",
-          "titulo": "Nvidia descarta volta de Jensen Huang ao comando da empresa e promete acelerar busca por novo CEO",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "13:56",
-          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/nvidia-descarta-volta-de-jensen-huang-ao-comando-da-empresa-e-promete-acelerar-busca-por-novo-ceo.ghtml"
-        },
-        {
-          "id": "aaafa15bdbe4",
-          "titulo": "Nvidia interrompe envio de chips Hopper para a China em meio à crise por espionagem",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "13:56",
-          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/nvidia-interrompe-envio-de-chips-hopper-para-a-china-em-meio-a-crise-por-espionagem.ghtml"
-        },
-        {
-          "id": "60d7b8aee359",
-          "titulo": "Nvidia: The Future Won't Be As Bright As Its Past (Rating Downgrade)",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-18",
-          "hora": "13:50",
-          "link": "https://seekingalpha.com/article/4969571-nvidia-the-future-wont-be-as-bright-as-its-past-rating-downgrade?source=feed_all_articles"
-        },
-        {
-          "id": "b1ce977dfd65",
-          "titulo": "Citigroup: Nvidia Earnings Provide Relief to AI Trade as USD Firms - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "13:48",
-          "link": "https://www.financialjuice.com/News/9857919/Citigroup-Nvidia-Earnings-Provide-Relief-to-AI-Trade-as-USD-Firms---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "3d32a24d76db",
-          "titulo": "Microsoft Scales Agentic AI To The Enterprise",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-18",
-          "hora": "13:45",
-          "link": "https://seekingalpha.com/article/4969588-microsoft-scales-agentic-ai-to-enterprise?source=feed_all_articles"
-        },
-        {
-          "id": "be39661fa354",
-          "titulo": "US Sentiment: Nvidia Boosts the AI Sector, but the Rebound is Narrow - FJElite",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "13:44",
-          "link": "https://www.financialjuice.com/News/9857909/US-Sentiment-Nvidia-Boosts-the-AI-Sector-but-the-Rebound-is-Narrow---FJElite.aspx?xy=rss"
-        },
-        {
-          "id": "a207eedffaad",
-          "titulo": "Nvidia Is A Strong Buy - The Huang Affair Overreaction Is Fully Priced In",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-18",
-          "hora": "13:31",
-          "link": "https://seekingalpha.com/article/4969563-nvidia-is-a-strong-buy-the-huang-affair-overreaction-is-fully-priced-in?source=feed_all_articles"
-        },
-        {
-          "id": "8941f479c334",
-          "titulo": "Wall Street set to open higher after Nvidia results reassure investors",
-          "fonte": "FT Markets",
-          "data": "2026-11-18",
-          "hora": "13:17",
-          "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1"
-        },
-        {
-          "id": "4cdc2f64015c",
-          "titulo": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
-          "fonte": "MarketWatch",
-          "data": "2026-11-18",
-          "hora": "12:22",
-          "link": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories"
-        },
-        {
-          "id": "03b2b535938e",
-          "titulo": "Nasdaq analysis after the much anticipated Nvidia earnings",
-          "fonte": "ForexLive",
-          "data": "2026-11-18",
-          "hora": "11:13",
-          "link": "https://investinglive.com/stocks/nasdaq-analysis-after-the-much-anticipated-nvidia-earnings/"
-        },
-        {
-          "id": "514d00be0993",
-          "titulo": "How important are Nvidia and Jensen Huang to the US economy?",
-          "fonte": "BBC Business",
-          "data": "2026-11-18",
-          "hora": "06:04",
-          "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "ec0cf6459e45",
-          "titulo": "Nvidia’s big business in Singapore",
-          "fonte": "FT Markets",
-          "data": "2026-11-18",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/fd1e1939-8a5c-47ac-bb38-47d147f8bc7a?syn-25a6b1a6=1"
-        },
-        {
-          "id": "0721db9e48a2",
-          "titulo": "Nvidia board insists Huang won’t return as CEO",
-          "fonte": "FT Markets",
-          "data": "2026-11-18",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/8946ec08-98b3-49c1-96b1-58539281519a?syn-25a6b1a6=1"
-        },
-        {
-          "id": "32e89ab95f14",
-          "titulo": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-          "fonte": "BBC Business",
-          "data": "2026-11-18",
-          "hora": "01:18",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "217c6d059e2f",
-          "titulo": "Back to the future! Nvidia earnings/forecast lifts Nasdaq futures 1.3%",
-          "fonte": "ForexLive",
-          "data": "2026-11-17",
-          "hora": "23:46",
-          "link": "https://investinglive.com/stocks/back-to-the-future-nvidia-earnings-forecast-lifts-nasdaq-futures-1-3/"
-        },
-        {
-          "id": "e972fc87cd1e",
-          "titulo": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-          "fonte": "Guardian Business",
-          "data": "2026-11-17",
-          "hora": "23:32",
-          "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
-        },
-        {
-          "id": "1d4daf387ea9",
-          "titulo": "The Nvidious tech CEO",
-          "fonte": "FT Markets",
-          "data": "2026-11-17",
-          "hora": "21:00",
-          "link": "https://www.ft.com/content/250e02c2-3195-4c92-ba20-fb19a3f118d6?syn-25a6b1a6=1"
-        },
-        {
-          "id": "a26de721b0a0",
-          "titulo": "Ex-CEO da Nvidia pede desculpas por erros pessoais e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ex-ceo-nvidia-diz-que-aceitaria-voltar-ao-cargo.ghtml"
-        },
-        {
-          "id": "c42c5c0a5af0",
-          "titulo": "Microsoft aims for cheaper, specialized AI models - Axios. $MSFT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "18:12",
-          "link": "https://www.financialjuice.com/News/9856261/Microsoft-aims-for-cheaper-specialized-AI-models---Axios-MSFT.aspx?xy=rss"
-        },
-        {
-          "id": "477d6baa4bf3",
-          "titulo": "Microsoft: Voice AI MAI Realtime 1 outperforms GPT Realtime 2.1 on public benchmarks and Microsoft product evaluations. $MSFT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "18:10",
-          "link": "https://www.financialjuice.com/News/9856260/Microsoft-Voice-AI-MAI-Realtime-1-outperforms-GPT-Realtime-21-on-public-benchmarks-and-Microsoft-product-evaluations-MSFT.aspx?xy=rss"
-        },
-        {
-          "id": "dbd7cd13fc81",
-          "titulo": "Salesforce and Microsoft announce Copilotforce, bringing Salesforce customer context and sales workflows to Microsoft Copilot; Informatica announces expanded collaboration with Microsoft at Microsoft Ignite 2026, $MSFT $CRM",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "18:07",
-          "link": "https://www.financialjuice.com/News/9856258/Salesforce-and-Microsoft-announce-Copilotforce-bringing-Salesforce-customer-context-and-sales-workflows-to-Microsoft-Copilot-Informatica-announces-expanded-collaboration-with-Microsoft-at-Microsoft-Ignite-2026-MSFT-CRM.aspx?xy=rss"
-        },
-        {
-          "id": "79433d3a53ef",
-          "titulo": "Meta Muse is available in Australia on iOS, Android, and Muse AI, a Mac app, and coming soon to AI glasses. $META",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "18:02",
-          "link": "https://www.financialjuice.com/News/9856244/Meta-Muse-is-available-in-Australia-on-iOS-Android-and-Muse-AI-a-Mac-app-and-coming-soon-to-AI-glasses-META.aspx?xy=rss"
-        },
-        {
-          "id": "2d9342d010a9",
-          "titulo": "US tech stocks slide ahead of Nvidia results",
-          "fonte": "FT Markets",
-          "data": "2026-11-17",
-          "hora": "17:56",
-          "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1"
-        },
-        {
-          "id": "9b79d0f75e82",
-          "titulo": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-          "fonte": "BBC Business",
-          "data": "2026-11-17",
-          "hora": "17:42",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "69a3b2b4fc25",
-          "titulo": "Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters",
-          "fonte": "MarketWatch",
-          "data": "2026-11-17",
-          "hora": "17:36",
-          "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories"
-        },
-        {
-          "id": "bfeecd960614",
-          "titulo": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-          "fonte": "Guardian Business",
-          "data": "2026-11-17",
-          "hora": "17:35",
-          "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement"
-        },
-        {
-          "id": "bd60b6683e8b",
-          "titulo": "Amazon CEO Jassy, on not opening Amazon .com to AI agents: It just has to be a good customer experience, which it hasn’t been to date - Semafor Event. $AMZN",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "17:27",
-          "link": "https://www.financialjuice.com/News/9856207/Amazon-CEO-Jassy-on-not-opening-Amazon-com-to-AI-agents-It-just-has-to-be-a-good-customer-experience-which-it-hasnt-been-to-date---Semafor-Event-AMZN.aspx?xy=rss"
-        },
-        {
-          "id": "3ae6f6f1546e",
-          "titulo": "NVIDIA hires Heidrick & Struggles in their hunt for a new CEO - WSJ. $NVDA",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "17:20",
-          "link": "https://www.financialjuice.com/News/9856205/NVIDIA-hires-Heidrick--Struggles-in-their-hunt-for-a-new-CEO---WSJ-NVDA.aspx?xy=rss"
-        },
-        {
-          "id": "118f4f1e5f99",
-          "titulo": "Amazon CEO Jassy on NVIDIA fallout: I don’t think it has an impact on Amazon - Semafor Event. $AMZN $NVDA",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "17:17",
-          "link": "https://www.financialjuice.com/News/9856202/Amazon-CEO-Jassy-on-NVIDIA-fallout-I-dont-think-it-has-an-impact-on-Amazon---Semafor-Event-AMZN-NVDA.aspx?xy=rss"
-        },
-        {
-          "id": "67697c78c73b",
-          "titulo": "Google is rolling out a set of advanced features, starting in the US. $GOOGL",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "17:05",
-          "link": "https://www.financialjuice.com/News/9856182/Google-is-rolling-out-a-set-of-advanced-features-starting-in-the-US-GOOGL.aspx?xy=rss"
-        },
-        {
-          "id": "e4bccd8d34b0",
-          "titulo": "Nvidia board is not considering Huang’s return as of Tuesday $NVDA",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "16:51",
-          "link": "https://www.financialjuice.com/News/9856162/Nvidia-board-is-not-considering-Huangs-return-as-of-Tuesday-NVDA.aspx?xy=rss"
-        },
-        {
-          "id": "8f3368c90820",
-          "titulo": "Jensen Huang now wants to return as Nvidia’s CEO. This is why that could be difficult.",
-          "fonte": "MarketWatch",
-          "data": "2026-11-17",
-          "hora": "16:38",
-          "link": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories"
-        }
-      ],
-      "criado_em": "2026-11-18T21:07",
-      "atualizado_em": "2026-11-18T21:07"
-    },
-    {
-      "titulo": "BCE vê subida em dezembro como muito provável e o RBNZ diz que a inflação subjacente continua elevada",
-      "sinal": "risk_off",
-      "resumo": "Vujcic, do BCE, disse que uma subida em dezembro parece muito provável; a inflação final da zona euro ficou em 4% e a core em 2,6%, e Lagarde disse que as avaliações da IA serão corrigidas. Breman, do RBNZ, disse que a inflação subjacente continua elevada e há riscos nos dois sentidos; Gravelle, do BoC, disse que a inflação dos preços da energia está a espalhar-se, com o USD/CAD no máximo do ano. Ueda (BoJ) vai ao parlamento amanhã.",
-      "impacto": "Aperto sincronizado fora dos EUA sustenta os juros longos globais e encarece o capital para emergentes; uma subida do BoJ reacende o risco de desmontagem do carry trade em iene, com efeito no fluxo estrangeiro para a B3.",
+      "resumo": "Ueda disse esperar continuar a subir juros e que a inflação pode ultrapassar os 2%, com os juros reais ainda baixos; no BCE, Moulin disse que a inflação continua alta demais e que o petróleo a alimenta, depois de Vujcic ter dito que uma subida em dezembro parece muito provável. Na Austrália, o desemprego subiu para 4,9% em outubro (4,7% esperado), com 43,5 mil empregos perdidos; o RBNZ diz que a inflação subjacente continua elevada.",
+      "impacto": "Um BoJ a subir reacende o risco de desmontagem do carry trade em iene, com efeito no fluxo estrangeiro para a B3; o aperto fora dos EUA sustenta os juros longos globais.",
       "especulacao": "",
-      "n_noticias": 45,
+      "n_noticias": 66,
       "noticias": [
+        {
+          "id": "6bb975bc80c7",
+          "titulo": "Eurozone Current Account NSA Actual 27.50B (Forecast -, Previous 7.70B)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "09:01",
+          "link": "https://www.financialjuice.com/News/9859583/Eurozone-Current-Account-NSA-Actual-2750B-Forecast---Previous-770B.aspx?xy=rss"
+        },
+        {
+          "id": "e90600cd6fe8",
+          "titulo": "ECB: 96% of supervised banks received medium-high risk scores on operational and IT risk.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "09:00",
+          "link": "https://www.financialjuice.com/News/9859582/ECB-96-of-supervised-banks-received-medium-high-risk-scores-on-operational-and-IT-risk.aspx?xy=rss"
+        },
+        {
+          "id": "2564a2561014",
+          "titulo": "Eurozone Current Account Actual 12.474B (Forecast -, Previous 8.709B)",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "09:00",
+          "link": "https://www.financialjuice.com/News/9859576/Eurozone-Current-Account-Actual-12474B-Forecast---Previous-8709B.aspx?xy=rss"
+        },
+        {
+          "id": "cb8172ad14a2",
+          "titulo": "ECB's Moulin: France can't ignore reality of high debt, deficit.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "07:54",
+          "link": "https://www.financialjuice.com/News/9859490/ECBs-Moulin-France-cant-ignore-reality-of-high-debt-deficit.aspx?xy=rss"
+        },
+        {
+          "id": "3679ade90a87",
+          "titulo": "ECB's Moulin: Oil is still fueling inflation.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "07:33",
+          "link": "https://www.financialjuice.com/News/9859473/ECBs-Moulin-Oil-is-still-fueling-inflation.aspx?xy=rss"
+        },
+        {
+          "id": "bc4121fcbb9a",
+          "titulo": "ECB's Moulin: Inflation is still too high.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "07:33",
+          "link": "https://www.financialjuice.com/News/9859472/ECBs-Moulin-Inflation-is-still-too-high.aspx?xy=rss"
+        },
+        {
+          "id": "735298172263",
+          "titulo": "SNB Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:35",
+          "link": "https://www.financialjuice.com/News/9859413/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "04225748ed0a",
+          "titulo": "RBNZ Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:35",
+          "link": "https://www.financialjuice.com/News/9859412/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "9e60836f291f",
+          "titulo": "RBA Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:35",
+          "link": "https://www.financialjuice.com/News/9859411/RBA-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "fb0a30a5e984",
+          "titulo": "BoJ Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:34",
+          "link": "https://www.financialjuice.com/News/9859410/BoJ-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "904e1a4f1b3b",
+          "titulo": "BoC Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:34",
+          "link": "https://www.financialjuice.com/News/9859409/BoC-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "b0fd8d519a13",
+          "titulo": "BoE Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:34",
+          "link": "https://www.financialjuice.com/News/9859408/BoE-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "c9db63d46ee9",
+          "titulo": "ECB Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:33",
+          "link": "https://www.financialjuice.com/News/9859407/ECB-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "09d51d3e02ea",
+          "titulo": "Fed Interest Rate Probabilities",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:33",
+          "link": "https://www.financialjuice.com/News/9859406/Fed-Interest-Rate-Probabilities.aspx?xy=rss"
+        },
+        {
+          "id": "dd8471b752a2",
+          "titulo": "More from Ueda: real rates still low, and BOJ finances can withstand further hikes",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "01:45",
+          "link": "https://investinglive.com/central-banks/more-from-ueda-real-rates-still-low-and-boj-finances-can-withstand-further-hikes/"
+        },
+        {
+          "id": "a7558ba604a0",
+          "titulo": "BOJ’s Ueda expects to keep raising rates, warning inflation could overshoot 2% target",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "01:16",
+          "link": "https://investinglive.com/central-banks/boj-s-ueda-expects-to-keep-raising-rates-warning-inflation-could-overshoot-2-target/"
+        },
+        {
+          "id": "fffa72e40f2e",
+          "titulo": "PBOC sets USD/ CNY reference rate for today at 6.7128 (vs. estimate at 6.6684)",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "01:15",
+          "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7128-vs-estimate-at-6-6684/"
+        },
+        {
+          "id": "41301798398e",
+          "titulo": "Australian unemployment jumps to 4.9% as jobs fall 43,500, taking RBA hikes off the table",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "00:42",
+          "link": "https://investinglive.com/central-banks/australian-unemployment-jumps-to-4-9-as-jobs-fall-43-500-taking-rba-hikes-off-the-table/"
+        },
+        {
+          "id": "19ec568aa0ed",
+          "titulo": "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "00:34",
+          "link": "https://investinglive.com/news/australian-unemployment-rate-jumps-to-4-9-in-october-against-4-7-expected/"
+        },
+        {
+          "id": "9bd89ab098e2",
+          "titulo": "PBOC is expected to set the USD/CNY reference rate at 6.6684 – Reuters estimate",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "00:20",
+          "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6684-reuters-estimate/"
+        },
+        {
+          "id": "7df1d9afd9a3",
+          "titulo": "Japan machinery orders up 13.4% y/y: what this early capex signal tells you",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "00:04",
+          "link": "https://investinglive.com/education/japan-machinery-orders-up-13-4-y-y-what-this-early-capex-signal-tells-you/"
+        },
         {
           "id": "c44227a908f7",
           "titulo": "RBNZ Governor Breman: There are risks in both directions.",
@@ -1768,16 +1828,516 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T21:07"
+      "atualizado_em": "2026-11-19T09:54"
     },
     {
-      "titulo": "Dólar fecha a R$ 5,86, o maior valor desde abril de 2025, e o Ibovespa cai",
+      "titulo": "Nvidia confirma que Huang não volta e a Moody's baixa a perspetiva para estável",
       "sinal": "risk_off",
-      "resumo": "O dólar subiu 1,46% e fechou a R$ 5,86, máxima em 19 meses, com a pressão fiscal e a ata do Fed, e o Ibovespa caiu (G1, Exame); o InfoMoney nota que as commodities explicam só parte da queda do real. O Monitor do PIB da FGV aponta queda de 0,2% no 3º trimestre e o Goldman Sachs rebaixou o Brasil. Na carteira, a Klabin evacuou uma fábrica em SC após a explosão de uma caldeira com feridos e o Banco do Brasil alertou clientes para um vazamento de dados pessoais; a Rede D'Or vendeu a SulAmérica Investimentos à BlackRock por R$ 850 milhões.",
-      "impacto": "Dólar forte e atividade a encolher pesam sobre bancos (ITUB4, BBDC4, BPAC11) e construtoras (MRVE3, CYRE3); as exportadoras (SUZB3, VALE3, JBSS32) ganham com o câmbio, mas KLBN11 tem agora um risco operacional a acompanhar e BBAS3 soma um risco reputacional às revisões em baixa.",
-      "especulacao": "",
-      "n_noticias": 32,
+      "resumo": "Depois de dobrar a receita e elevar a previsão, a Nvidia viu as tecnológicas americanas oscilar e recuar; o presidente do conselho disse aos funcionários que Jensen Huang não volta, a empresa antecipou aumentos e atribuições de ações para dezembro e a Moody's baixou a perspetiva para estável por a saída turvar a estratégia. A liderança promete continuidade e as ações de IA japonesas perderam o prémio; o UBS cortou o preço-alvo de US$ 240 para US$ 220.",
+      "impacto": "O beta de tecnologia continua a pesar no apetite por emergentes e no BOVA11; sem efeito direto nas empresas da carteira.",
+      "especulacao": "O UBS lê a venda de IA como um 'reset' e não um colapso; o ForexLive vê na reação ao balanço um problema para o trade da IA — são opiniões.",
+      "n_noticias": 56,
       "noticias": [
+        {
+          "id": "ef99c090082e",
+          "titulo": "Goldman cuts KOSPI target to 7,500 but says gloom is overdone, sees 48% upside",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "04:11",
+          "link": "https://investinglive.com/stock-market-update/goldman-cuts-kospi-target-to-7-500-but-says-gloom-is-overdone-sees-48-upside/"
+        },
+        {
+          "id": "b1f6e7059a0a",
+          "titulo": "Nvidia chair tells staff there is no Jensen clone, as leaders pledge strategy continuity",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "02:29",
+          "link": "https://investinglive.com/stocks/nvidia-chair-tells-staff-there-is-no-jensen-clone-as-leaders-pledge-strategy-continuity/"
+        },
+        {
+          "id": "cf42d66c1973",
+          "titulo": "Japan’s AI stocks lose their premium as three threats emerge after Nvidia’s CEO exit",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "02:23",
+          "link": "https://investinglive.com/stock-market-update/japan-s-ai-stocks-lose-their-premium-as-three-threats-emerge-after-nvidia-s-ceo-exit/"
+        },
+        {
+          "id": "764820c3df47",
+          "titulo": "UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks and bonds",
+          "fonte": "ForexLive",
+          "data": "2026-11-18",
+          "hora": "23:03",
+          "link": "https://investinglive.com/stocks/ubs-says-the-ai-sell-off-is-a-reset-not-a-collapse-and-backs-eurozone-stocks-and-bonds/"
+        },
+        {
+          "id": "f60c44579bef",
+          "titulo": "Moody’s cuts Nvidia outlook to stable, saying Huang’s exit clouds strategy and policy",
+          "fonte": "ForexLive",
+          "data": "2026-11-18",
+          "hora": "22:36",
+          "link": "https://investinglive.com/stocks/moody-s-cuts-nvidia-outlook-to-stable-saying-huang-s-exit-clouds-strategy-and-policy/"
+        },
+        {
+          "id": "0f0d92ce94c0",
+          "titulo": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "21:01",
+          "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories"
+        },
+        {
+          "id": "dbc49b5775f5",
+          "titulo": "Nvidia to pull forward pay raises and new equity awards to Dec - FT. $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "20:43",
+          "link": "https://www.financialjuice.com/News/9858532/Nvidia-to-pull-forward-pay-raises-and-new-equity-awards-to-Dec---FT-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "58c6925f6c3a",
+          "titulo": "Nvidia's Q3 Earnings Say Buy The Stock, Not The Panic (Rating Upgrade)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "20:43",
+          "link": "https://seekingalpha.com/article/4969779-nvidias-q3-earnings-say-buy-the-stock-not-the-panic-rating-upgrade?source=feed_all_articles"
+        },
+        {
+          "id": "cf1f3d7d4d25",
+          "titulo": "Nvidia Chair at Employee Townhall: Jensen Huang not coming back. $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "20:14",
+          "link": "https://www.financialjuice.com/News/9858496/Nvidia-Chair-at-Employee-Townhall-Jensen-Huang-not-coming-back-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "3d1bedb33138",
+          "titulo": "Nebius: The Selloff Went Too Far (Rating Upgrade)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "19:55",
+          "link": "https://seekingalpha.com/article/4969763-nebius-the-selloff-went-too-far-rating-upgrade?source=feed_all_articles"
+        },
+        {
+          "id": "3aa177f8142f",
+          "titulo": "US tech stocks oscillate after Nvidia results",
+          "fonte": "FT Markets",
+          "data": "2026-11-18",
+          "hora": "19:44",
+          "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1"
+        },
+        {
+          "id": "06c96ebff94d",
+          "titulo": "The market's verdict on Nvidia earnings is a problem for the AI boom trade",
+          "fonte": "ForexLive",
+          "data": "2026-11-18",
+          "hora": "19:28",
+          "link": "https://investinglive.com/stocks/the-market-s-verdict-on-nvidia-earnings-is-a-problem-for-the-ai-boom-trade/"
+        },
+        {
+          "id": "bf6682e9958b",
+          "titulo": "Arm's Haas was approached by Nvidia's recruiting firm $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "18:34",
+          "link": "https://www.financialjuice.com/News/9858376/Arms-Haas-was-approached-by-Nvidias-recruiting-firm-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "618f3b1657de",
+          "titulo": "Google: Genie 4 is now available $GOOGL",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "18:16",
+          "link": "https://www.financialjuice.com/News/9858346/Google-Genie-4-is-now-available-GOOGL.aspx?xy=rss"
+        },
+        {
+          "id": "5a8222978930",
+          "titulo": "The broader NASDAQ indices open higher but move into negative territory. Nvidia also gives early gains after earnings beat",
+          "fonte": "ForexLive",
+          "data": "2026-11-18",
+          "hora": "15:05",
+          "link": "https://investinglive.com/stocks/the-broader-nasdaq-indices-open-higher-but-move-into-negative-territory-nvidia-also-gives-early-gains-after-earnings-beat/"
+        },
+        {
+          "id": "eae08d9b3cab",
+          "titulo": "Ex-CEO da Nvidia pede desculpas por erros e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ex-ceo-nvidia-diz-que-aceitaria-voltar-ao-cargo.ghtml"
+        },
+        {
+          "id": "b1315a09c88b",
+          "titulo": "US tech stocks slide after Nvidia results",
+          "fonte": "FT Markets",
+          "data": "2026-11-18",
+          "hora": "14:56",
+          "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1"
+        },
+        {
+          "id": "2c90faf60781",
+          "titulo": "Nebius: Surging Capital Needs Amidst Tightening Liquidity",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "14:44",
+          "link": "https://seekingalpha.com/article/4969592-nebius-surging-capital-needs-amidst-tightening-liquidity?source=feed_all_articles"
+        },
+        {
+          "id": "30553c5cd97d",
+          "titulo": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "14:33",
+          "link": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories"
+        },
+        {
+          "id": "5210c7cba9cc",
+          "titulo": "UBS cuts NVIDIA target price to $220 from $240.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:25",
+          "link": "https://www.financialjuice.com/News/9857981/UBS-cuts-NVIDIA-target-price-to-220-from-240.aspx?xy=rss"
+        },
+        {
+          "id": "920f4fa81af5",
+          "titulo": "Nvidia: It's A Massive Opportunity (Earnings Review, Rating Upgrade)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "14:25",
+          "link": "https://seekingalpha.com/article/4969582-nvidia-its-a-massive-opportunity-earnings-review-rating-upgrade?source=feed_all_articles"
+        },
+        {
+          "id": "e603434a0918",
+          "titulo": "Nvidia: Great Q3, But Jensen Huang's Exit Puts Top Talent In Play",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "14:09",
+          "link": "https://seekingalpha.com/article/4969577-nvidia-great-q3-but-jensen-huang-exit-puts-top-talent-in-play?source=feed_all_articles"
+        },
+        {
+          "id": "7377fedf5445",
+          "titulo": "Nvidia: RTX Spark compact desktops from Asus, Dell, MSI now available. $NVDA $DELL",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "14:06",
+          "link": "https://www.financialjuice.com/News/9857953/Nvidia-RTX-Spark-compact-desktops-from-Asus-Dell-MSI-now-available-NVDA-DELL.aspx?xy=rss"
+        },
+        {
+          "id": "ceb211146553",
+          "titulo": "Nvidia dobra lucro para US$ 65,3 bilhões em primeiro balanço após saída de Jensen Huang",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "13:56",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/balanco-nvidia.ghtml"
+        },
+        {
+          "id": "aecce205c389",
+          "titulo": "Nvidia descarta volta de Jensen Huang ao comando da empresa e promete acelerar busca por novo CEO",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "13:56",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/nvidia-descarta-volta-de-jensen-huang-ao-comando-da-empresa-e-promete-acelerar-busca-por-novo-ceo.ghtml"
+        },
+        {
+          "id": "aaafa15bdbe4",
+          "titulo": "Nvidia interrompe envio de chips Hopper para a China em meio à crise por espionagem",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "13:56",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/nvidia-interrompe-envio-de-chips-hopper-para-a-china-em-meio-a-crise-por-espionagem.ghtml"
+        },
+        {
+          "id": "60d7b8aee359",
+          "titulo": "Nvidia: The Future Won't Be As Bright As Its Past (Rating Downgrade)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "13:50",
+          "link": "https://seekingalpha.com/article/4969571-nvidia-the-future-wont-be-as-bright-as-its-past-rating-downgrade?source=feed_all_articles"
+        },
+        {
+          "id": "b1ce977dfd65",
+          "titulo": "Citigroup: Nvidia Earnings Provide Relief to AI Trade as USD Firms - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "13:48",
+          "link": "https://www.financialjuice.com/News/9857919/Citigroup-Nvidia-Earnings-Provide-Relief-to-AI-Trade-as-USD-Firms---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "3d32a24d76db",
+          "titulo": "Microsoft Scales Agentic AI To The Enterprise",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "13:45",
+          "link": "https://seekingalpha.com/article/4969588-microsoft-scales-agentic-ai-to-enterprise?source=feed_all_articles"
+        },
+        {
+          "id": "be39661fa354",
+          "titulo": "US Sentiment: Nvidia Boosts the AI Sector, but the Rebound is Narrow - FJElite",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "13:44",
+          "link": "https://www.financialjuice.com/News/9857909/US-Sentiment-Nvidia-Boosts-the-AI-Sector-but-the-Rebound-is-Narrow---FJElite.aspx?xy=rss"
+        },
+        {
+          "id": "a207eedffaad",
+          "titulo": "Nvidia Is A Strong Buy - The Huang Affair Overreaction Is Fully Priced In",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "13:31",
+          "link": "https://seekingalpha.com/article/4969563-nvidia-is-a-strong-buy-the-huang-affair-overreaction-is-fully-priced-in?source=feed_all_articles"
+        },
+        {
+          "id": "8941f479c334",
+          "titulo": "Wall Street set to open higher after Nvidia results reassure investors",
+          "fonte": "FT Markets",
+          "data": "2026-11-18",
+          "hora": "13:17",
+          "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1"
+        },
+        {
+          "id": "4cdc2f64015c",
+          "titulo": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "12:22",
+          "link": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories"
+        },
+        {
+          "id": "03b2b535938e",
+          "titulo": "Nasdaq analysis after the much anticipated Nvidia earnings",
+          "fonte": "ForexLive",
+          "data": "2026-11-18",
+          "hora": "11:13",
+          "link": "https://investinglive.com/stocks/nasdaq-analysis-after-the-much-anticipated-nvidia-earnings/"
+        },
+        {
+          "id": "514d00be0993",
+          "titulo": "How important are Nvidia and Jensen Huang to the US economy?",
+          "fonte": "BBC Business",
+          "data": "2026-11-18",
+          "hora": "06:04",
+          "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "ec0cf6459e45",
+          "titulo": "Nvidia’s big business in Singapore",
+          "fonte": "FT Markets",
+          "data": "2026-11-18",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/fd1e1939-8a5c-47ac-bb38-47d147f8bc7a?syn-25a6b1a6=1"
+        },
+        {
+          "id": "0721db9e48a2",
+          "titulo": "Nvidia board insists Huang won’t return as CEO",
+          "fonte": "FT Markets",
+          "data": "2026-11-18",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/8946ec08-98b3-49c1-96b1-58539281519a?syn-25a6b1a6=1"
+        },
+        {
+          "id": "32e89ab95f14",
+          "titulo": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+          "fonte": "BBC Business",
+          "data": "2026-11-18",
+          "hora": "01:18",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "217c6d059e2f",
+          "titulo": "Back to the future! Nvidia earnings/forecast lifts Nasdaq futures 1.3%",
+          "fonte": "ForexLive",
+          "data": "2026-11-17",
+          "hora": "23:46",
+          "link": "https://investinglive.com/stocks/back-to-the-future-nvidia-earnings-forecast-lifts-nasdaq-futures-1-3/"
+        },
+        {
+          "id": "e972fc87cd1e",
+          "titulo": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+          "fonte": "Guardian Business",
+          "data": "2026-11-17",
+          "hora": "23:32",
+          "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+        },
+        {
+          "id": "1d4daf387ea9",
+          "titulo": "The Nvidious tech CEO",
+          "fonte": "FT Markets",
+          "data": "2026-11-17",
+          "hora": "21:00",
+          "link": "https://www.ft.com/content/250e02c2-3195-4c92-ba20-fb19a3f118d6?syn-25a6b1a6=1"
+        },
+        {
+          "id": "a26de721b0a0",
+          "titulo": "Ex-CEO da Nvidia pede desculpas por erros pessoais e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ex-ceo-nvidia-diz-que-aceitaria-voltar-ao-cargo.ghtml"
+        },
+        {
+          "id": "c42c5c0a5af0",
+          "titulo": "Microsoft aims for cheaper, specialized AI models - Axios. $MSFT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "18:12",
+          "link": "https://www.financialjuice.com/News/9856261/Microsoft-aims-for-cheaper-specialized-AI-models---Axios-MSFT.aspx?xy=rss"
+        },
+        {
+          "id": "477d6baa4bf3",
+          "titulo": "Microsoft: Voice AI MAI Realtime 1 outperforms GPT Realtime 2.1 on public benchmarks and Microsoft product evaluations. $MSFT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "18:10",
+          "link": "https://www.financialjuice.com/News/9856260/Microsoft-Voice-AI-MAI-Realtime-1-outperforms-GPT-Realtime-21-on-public-benchmarks-and-Microsoft-product-evaluations-MSFT.aspx?xy=rss"
+        },
+        {
+          "id": "dbd7cd13fc81",
+          "titulo": "Salesforce and Microsoft announce Copilotforce, bringing Salesforce customer context and sales workflows to Microsoft Copilot; Informatica announces expanded collaboration with Microsoft at Microsoft Ignite 2026, $MSFT $CRM",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "18:07",
+          "link": "https://www.financialjuice.com/News/9856258/Salesforce-and-Microsoft-announce-Copilotforce-bringing-Salesforce-customer-context-and-sales-workflows-to-Microsoft-Copilot-Informatica-announces-expanded-collaboration-with-Microsoft-at-Microsoft-Ignite-2026-MSFT-CRM.aspx?xy=rss"
+        },
+        {
+          "id": "79433d3a53ef",
+          "titulo": "Meta Muse is available in Australia on iOS, Android, and Muse AI, a Mac app, and coming soon to AI glasses. $META",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "18:02",
+          "link": "https://www.financialjuice.com/News/9856244/Meta-Muse-is-available-in-Australia-on-iOS-Android-and-Muse-AI-a-Mac-app-and-coming-soon-to-AI-glasses-META.aspx?xy=rss"
+        },
+        {
+          "id": "2d9342d010a9",
+          "titulo": "US tech stocks slide ahead of Nvidia results",
+          "fonte": "FT Markets",
+          "data": "2026-11-17",
+          "hora": "17:56",
+          "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1"
+        },
+        {
+          "id": "9b79d0f75e82",
+          "titulo": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+          "fonte": "BBC Business",
+          "data": "2026-11-17",
+          "hora": "17:42",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "69a3b2b4fc25",
+          "titulo": "Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters",
+          "fonte": "MarketWatch",
+          "data": "2026-11-17",
+          "hora": "17:36",
+          "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories"
+        },
+        {
+          "id": "bfeecd960614",
+          "titulo": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+          "fonte": "Guardian Business",
+          "data": "2026-11-17",
+          "hora": "17:35",
+          "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement"
+        },
+        {
+          "id": "bd60b6683e8b",
+          "titulo": "Amazon CEO Jassy, on not opening Amazon .com to AI agents: It just has to be a good customer experience, which it hasn’t been to date - Semafor Event. $AMZN",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "17:27",
+          "link": "https://www.financialjuice.com/News/9856207/Amazon-CEO-Jassy-on-not-opening-Amazon-com-to-AI-agents-It-just-has-to-be-a-good-customer-experience-which-it-hasnt-been-to-date---Semafor-Event-AMZN.aspx?xy=rss"
+        },
+        {
+          "id": "3ae6f6f1546e",
+          "titulo": "NVIDIA hires Heidrick & Struggles in their hunt for a new CEO - WSJ. $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "17:20",
+          "link": "https://www.financialjuice.com/News/9856205/NVIDIA-hires-Heidrick--Struggles-in-their-hunt-for-a-new-CEO---WSJ-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "118f4f1e5f99",
+          "titulo": "Amazon CEO Jassy on NVIDIA fallout: I don’t think it has an impact on Amazon - Semafor Event. $AMZN $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "17:17",
+          "link": "https://www.financialjuice.com/News/9856202/Amazon-CEO-Jassy-on-NVIDIA-fallout-I-dont-think-it-has-an-impact-on-Amazon---Semafor-Event-AMZN-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "67697c78c73b",
+          "titulo": "Google is rolling out a set of advanced features, starting in the US. $GOOGL",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "17:05",
+          "link": "https://www.financialjuice.com/News/9856182/Google-is-rolling-out-a-set-of-advanced-features-starting-in-the-US-GOOGL.aspx?xy=rss"
+        },
+        {
+          "id": "e4bccd8d34b0",
+          "titulo": "Nvidia board is not considering Huang’s return as of Tuesday $NVDA",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "16:51",
+          "link": "https://www.financialjuice.com/News/9856162/Nvidia-board-is-not-considering-Huangs-return-as-of-Tuesday-NVDA.aspx?xy=rss"
+        },
+        {
+          "id": "8f3368c90820",
+          "titulo": "Jensen Huang now wants to return as Nvidia’s CEO. This is why that could be difficult.",
+          "fonte": "MarketWatch",
+          "data": "2026-11-17",
+          "hora": "16:38",
+          "link": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories"
+        }
+      ],
+      "criado_em": "2026-11-18T21:07",
+      "atualizado_em": "2026-11-19T09:54"
+    },
+    {
+      "titulo": "Dólar fecha a R$ 5,86 com o pacote fiscal a seguir para a Câmara depois de o Senado rejeitar os destaques",
+      "sinal": "risk_off",
+      "resumo": "O dólar subiu 1,46% ontem e fechou a R$ 5,86, máxima desde abril de 2025, e o Ibovespa caiu, com a pressão fiscal e a ata do Fed. O Senado rejeitou os destaques e o pacote, com poupança de até R$ 56,1 bilhões em 2027 (mais contingenciamento, limite de gastos e menos benefícios tributários), segue para a Câmara; Durigan descarta recessão mas vê crescimento menor em 2027. O Monitor do PIB da FGV aponta queda de 0,2% no 3º trimestre e o TCU manteve os Correios entre as estatais com risco fiscal; amanhã (20/11, Consciência Negra) a B3 não abre.",
+      "impacto": "Câmbio e DI pressionados pesam sobre bancos (ITUB4, BBDC4, BPAC11) e construtoras (MRVE3, CYRE3); as exportadoras (SUZB3, VALE3, JBSS32) ganham com o dólar. BBAS3 soma o vazamento de dados de clientes e KLBN11 o incidente na fábrica de SC.",
+      "especulacao": "",
+      "n_noticias": 50,
+      "noticias": [
+        {
+          "id": "a065f467607c",
+          "titulo": "Dólar dispara a R$ 5,86, maior valor desde abril de 2025; Ibovespa cai com impasse no ajuste fiscal",
+          "fonte": "G1 Economia",
+          "data": "2026-11-19",
+          "hora": "09:51",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/18/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "a7ddb074dfdf",
+          "titulo": "TCU mantém Correios em lista de estatais da administração federal com riscos fiscais",
+          "fonte": "G1 Economia",
+          "data": "2026-11-19",
+          "hora": "09:51",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/18/tcu-mantem-correios-em-lista-de-estatais-da-administracao-federal-com-riscos-fiscais.ghtml"
+        },
+        {
+          "id": "d05feff0dd31",
+          "titulo": "Anthropic, pacote fiscal, cúpula entre Trump, Xi e Putin e mais destaques desta 5ª",
+          "fonte": "InfoMoney",
+          "data": "2026-11-19",
+          "hora": "09:15",
+          "link": "https://www.infomoney.com.br/mercados/anthropic-pacote-fiscal-cupula-trump-xi-putin-agenda-19112026/"
+        },
+        {
+          "id": "f24c86c24b58",
+          "titulo": "Dividendos em 2027: quem está mais protegido após os cortes do 3º trimestre?",
+          "fonte": "InfoMoney",
+          "data": "2026-11-19",
+          "hora": "08:00",
+          "link": "https://www.infomoney.com.br/onde-investir/dividendos-em-2027-quem-esta-mais-protegido-apos-os-cortes-do-3o-trimestre/"
+        },
+        {
+          "id": "91726d93e121",
+          "titulo": "Ibovespa hoje acompanha estreia da Anthropic na Nasdaq e cúpula de Trump, Putin e Xi",
+          "fonte": "Exame",
+          "data": "2026-11-19",
+          "hora": "05:30",
+          "link": "https://exame.com/invest/mercados/ibovespa-hoje-19-11-2026/"
+        },
         {
           "id": "3ee049b61f53",
           "titulo": "Dólar fecha a R$ 5,86, maior valor desde abril de 2025, com pressão fiscal; Ibovespa cai",
@@ -1793,6 +2353,22 @@
           "data": "2026-11-18",
           "hora": "21:03",
           "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/banco-do-brasil-dados.ghtml"
+        },
+        {
+          "id": "4499bde41cb3",
+          "titulo": "Durigan descarta recessão, mas vê crescimento em 'patamar menor' em 2027; ministro diz acreditar em aprovação de ajuste fiscal",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "21:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/18/durigan-ve-economia-deve-crescer-em-patamar-menor-em-2027-descarta-recessao-e-diz-acreditar-em-aprovacao-de-pacote-fiscal.ghtml"
+        },
+        {
+          "id": "d73f8a1e377e",
+          "titulo": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "21:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml"
         },
         {
           "id": "e552906229cd",
@@ -1827,6 +2403,14 @@
           "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/"
         },
         {
+          "id": "c7e7d7b8a578",
+          "titulo": "Ajuste fiscal: entenda ponto a ponto o texto do pacote após Senado rejeitar destaques",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "19:36",
+          "link": "https://exame.com/economia/ajuste-fiscal-entenda-ponto-a-ponto-o-texto-do-pacote-apos-senado-rejeitar-destaques/"
+        },
+        {
           "id": "c6cfd64ea7ce",
           "titulo": "Após tombo da Bolsa: 3 ações para ficar de olho e 2 setores para evitar",
           "fonte": "InfoMoney",
@@ -1843,12 +2427,36 @@
           "link": "https://exame.com/invest/mercados/dolar-dispara-146-a-r-586-e-renova-maxima-em-19-meses/"
         },
         {
+          "id": "0917c8777681",
+          "titulo": "Sem acordo com oposição, governo Lula enfrenta votação para preservar pacote fiscal no Senado",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "16:00",
+          "link": "https://exame.com/brasil/sem-acordo-com-oposicao-governo-lula-enfrenta-votacao-para-preservar-pacote-fiscal-no-senado/"
+        },
+        {
           "id": "62d0119f1395",
           "titulo": "Dólar oscila, de olho em ajuste fiscal e ata do Fed; Ibovespa cai",
           "fonte": "G1 Economia",
           "data": "2026-11-18",
           "hora": "15:03",
           "link": "https://g1.globo.com/economia/noticia/2026/11/18/dolar-ibovespa.ghtml"
+        },
+        {
+          "id": "22aea8ae4f15",
+          "titulo": "Durigan diz que pacote fiscal é só o 'primeiro passo' e defende ajuste gradual e 'sem negacionismo' para baixar juros",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml"
+        },
+        {
+          "id": "f45933ca48e9",
+          "titulo": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e defende reduzir tributos sobre a folha de pagamento",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "15:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml"
         },
         {
           "id": "83caa79d9feb",
@@ -1865,6 +2473,14 @@
           "data": "2026-11-18",
           "hora": "14:55",
           "link": "https://www.infomoney.com.br/mercados/rede-dor-rdor3-sobe-apos-anunciar-a-venda-da-sulamerica-investimentos/"
+        },
+        {
+          "id": "cf60fbd95daf",
+          "titulo": "Pacote fiscal expõe dificuldade de Lula para garantir votos no Senado",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "14:47",
+          "link": "https://www.infomoney.com.br/politica/pacote-fiscal-expoe-dificuldade-de-lula-para-garantir-votos-no-senado/"
         },
         {
           "id": "d4fb571eb583",
@@ -1913,6 +2529,22 @@
           "data": "2026-11-18",
           "hora": "13:56",
           "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/18/rede-dor-sulamerica-investimentos.ghtml"
+        },
+        {
+          "id": "aea706c16ab2",
+          "titulo": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "13:56",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml"
+        },
+        {
+          "id": "7265b57ff1f4",
+          "titulo": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "13:56",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml"
         },
         {
           "id": "899f196bee4d",
@@ -1995,6 +2627,38 @@
           "link": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml"
         },
         {
+          "id": "1b9600629404",
+          "titulo": "Ministro da Fazenda diz que pacote fiscal é só o 'primeiro passo' e prega ajuste gradual 'sem negacionismo' para baixar juros",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml"
+        },
+        {
+          "id": "dde86f7bb687",
+          "titulo": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml"
+        },
+        {
+          "id": "d76c1d8a1936",
+          "titulo": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e quer reduzir tributo sobre a folha de pagamentos",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml"
+        },
+        {
+          "id": "43f9348cd7db",
+          "titulo": "Reforma tributária: apuração 'assistida', a declaração pré-preenchida das empresas, será liberada nesta semana, diz Receita",
+          "fonte": "G1 Economia",
+          "data": "2026-11-17",
+          "hora": "18:21",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/17/reforma-tributaria-apuracao-assistida-a-declaracao-pre-preenchida-das-empresas-sera-liberada-nesta-semana-diz-receita.ghtml"
+        },
+        {
           "id": "03a4f769c37b",
           "titulo": "BB segue sob pressão após 3T – bancos cortam projeções e veem recuperação distante",
           "fonte": "InfoMoney",
@@ -2036,16 +2700,308 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T21:07"
+      "atualizado_em": "2026-11-19T09:54"
     },
     {
-      "titulo": "WTI cai 3,2% e Brent fecha a US$ 91,95 com os stocks americanos a subir",
-      "sinal": "neutro",
-      "resumo": "O WTI de dezembro fechou a US$ 83,26 (-3,2%) e o Brent a US$ 91,95 (-1,28%), depois de os stocks semanais de crude dos EUA terem subido 3,38 milhões de barris contra 58 mil esperados; o gás natural fechou a US$ 3,37. Fontes da indústria dizem que a refinação russa caiu 45% desde o fim de outubro com os ataques ucranianos (FT), e no Reino Unido a EnQuest vai abandonar o Mar do Norte.",
-      "impacto": "Crude a cair tira prémio a PETR4 e PRIO3 mas alivia a inflação e os juros, o que ajuda bancos e construtoras; a escassez de refinados na Rússia sustenta as margens de refino e o diesel.",
-      "especulacao": "O ForexLive atribui parte da queda a receios com a procura; é a leitura do comentador.",
-      "n_noticias": 20,
+      "titulo": "Anthropic fixa o IPO em US$ 83 por ação, levanta US$ 81 bilhões e estreia hoje na Nasdaq avaliada em US$ 1,5 trilhão",
+      "sinal": "risk_on",
+      "resumo": "A Anthropic confirmou o preço de US$ 83 por ação em 980 milhões de ações, o maior IPO da história (US$ 81 bilhões, acima da SpaceX), e estreia hoje na Nasdaq com avaliação de US$ 1,5 trilhão. Os futuros de Nova Iorque sobem na abertura europeia com o negócio (InfoMoney); Musk diz que a Anthropic quer mais 10 GW de computação da SpaceX e o FT nota novos receios de segurança e um aperto para o pequeno investidor na alocação.",
+      "impacto": "Uma estreia forte devolve apetite ao beta de tecnologia e a emergentes (BOVA11); a absorção de US$ 81 bilhões em ações novas drena liquidez de outros nomes de IA. No Brasil, o acesso faz-se por BDRs.",
+      "especulacao": "O FT fala numa meta de receita de US$ 600 bilhões 'em breve' e a imprensa especula sobre a reação no primeiro dia de negociação; nada disto está ainda no preço observado.",
+      "n_noticias": 29,
       "noticias": [
+        {
+          "id": "abb257305b0d",
+          "titulo": "Maior IPO da história: como a Anthropic superou a SpaceX em estreia bilionária na bolsa",
+          "fonte": "G1 Economia",
+          "data": "2026-11-19",
+          "hora": "09:51",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/19/maior-ipo-da-historia-como-a-anthropic-superou-a-spacex.ghtml"
+        },
+        {
+          "id": "a19ebbe90489",
+          "titulo": "Anthropic, dona do Claude, estreia na bolsa avaliada em US$ 1,5 trilhão; conheça a empresa",
+          "fonte": "G1 Economia",
+          "data": "2026-11-19",
+          "hora": "09:51",
+          "link": "https://g1.globo.com/inovacao/noticia/2026/11/19/anthropic-dona-do-claude-estreia-na-bolsa-conheca-a-empresa.ghtml"
+        },
+        {
+          "id": "e909ea4bfd1d",
+          "titulo": "De ruptura com a OpenAI a gigante da bolsa: veja 5 fatos importantes sobre a Anthropic",
+          "fonte": "G1 Economia",
+          "data": "2026-11-19",
+          "hora": "09:51",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/de-ruptura-com-a-openai-a-gigante-da-bolsa-veja-5-fatos-importantes-sobre-a-anthropic.ghtml"
+        },
+        {
+          "id": "df20f3444915",
+          "titulo": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
+          "fonte": "Guardian Business",
+          "data": "2026-11-19",
+          "hora": "09:36",
+          "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+        },
+        {
+          "id": "1c9989a89f6f",
+          "titulo": "Anthropic levanta recorde de US$ 81 bi em IPO com avaliação de US$ 1,5 tri",
+          "fonte": "InfoMoney",
+          "data": "2026-11-19",
+          "hora": "09:21",
+          "link": "https://www.infomoney.com.br/mercados/anthropic-levanta-recorde-de-us-81-bi-em-ipo-com-avaliacao-de-us15-tri/"
+        },
+        {
+          "id": "c37bff580cb4",
+          "titulo": "Futuros de NY avançam com euforia em torno do IPO recorde da Anthropic",
+          "fonte": "InfoMoney",
+          "data": "2026-11-19",
+          "hora": "08:43",
+          "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-avancam-com-euforia-em-torno-do-ipo-recorde-da-anthropic/"
+        },
+        {
+          "id": "2260200c7ad7",
+          "titulo": "Anthropic raises $81bn in record IPO",
+          "fonte": "FT Markets",
+          "data": "2026-11-19",
+          "hora": "07:04",
+          "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1"
+        },
+        {
+          "id": "35c637e7597a",
+          "titulo": "Anthropic revenue target: $600bn, soonish",
+          "fonte": "FT Markets",
+          "data": "2026-11-19",
+          "hora": "06:30",
+          "link": "https://www.ft.com/content/ea8434c7-59d9-42cf-afd4-97cf42544c59?syn-25a6b1a6=1"
+        },
+        {
+          "id": "a69fcd79b487",
+          "titulo": "Anthropic’s magnificent IPO",
+          "fonte": "FT Markets",
+          "data": "2026-11-19",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1"
+        },
+        {
+          "id": "ead837f6e38b",
+          "titulo": "AI advances at Anthropic trigger new safety fears on eve of IPO",
+          "fonte": "FT Markets",
+          "data": "2026-11-19",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1"
+        },
+        {
+          "id": "027d5a8f0dae",
+          "titulo": "Retail investors face squeeze in blockbuster Anthropic IPO",
+          "fonte": "FT Markets",
+          "data": "2026-11-19",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1"
+        },
+        {
+          "id": "bad0da4ef84b",
+          "titulo": "Dona do Claude, Anthropic estreia hoje na bolsa: o que se sabe até agora",
+          "fonte": "Exame",
+          "data": "2026-11-19",
+          "hora": "05:00",
+          "link": "https://exame.com/invest/mercados/dona-do-claude-anthropic-estreia-hoje-na-bolsa-o-que-se-sabe-ate-agora/"
+        },
+        {
+          "id": "479350cfd90c",
+          "titulo": "Musk says Anthropic wants another 10 gigawatts of SpaceX compute, over 30 times its deal  Alt headlines:",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "02:47",
+          "link": "https://investinglive.com/stocks/musk-says-anthropic-wants-another-10-gigawatts-of-spacex-compute-over-30-times-its-deal-alt-headlines/"
+        },
+        {
+          "id": "622f19ee9ee8",
+          "titulo": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
+          "fonte": "BBC Business",
+          "data": "2026-11-19",
+          "hora": "02:20",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "f0f75e6a045c",
+          "titulo": "Who are the investors ready to jump on Anthropic?",
+          "fonte": "BBC Business",
+          "data": "2026-11-19",
+          "hora": "01:22",
+          "link": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "66a32cedafe0",
+          "titulo": "Anthropic confirms $83 IPO price on 980 million shares in an $81 billion deal",
+          "fonte": "ForexLive",
+          "data": "2026-11-18",
+          "hora": "23:40",
+          "link": "https://investinglive.com/stocks/anthropic-confirms-83-ipo-price-on-980-million-shares-in-an-81-billion-deal/"
+        },
+        {
+          "id": "0844367eb1b4",
+          "titulo": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+          "fonte": "BBC Business",
+          "data": "2026-11-18",
+          "hora": "21:28",
+          "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "74e65799ea4c",
+          "titulo": "IPO da Anthropic: veja como investir na criadora do Claude por meio de BDRs no Brasil",
+          "fonte": "G1 Economia",
+          "data": "2026-11-18",
+          "hora": "21:03",
+          "link": "https://g1.globo.com/economia/noticia/2026/11/18/anthropic-ipo-bolsa-como-investir-bdrs-brasil.ghtml"
+        },
+        {
+          "id": "e3ee97264460",
+          "titulo": "Anthropic is said to be weighing IPO price up to $85 per share. $ANT",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-18",
+          "hora": "20:39",
+          "link": "https://www.financialjuice.com/News/9858530/Anthropic-is-said-to-be-weighing-IPO-price-up-to-85-per-share-ANT.aspx?xy=rss"
+        },
+        {
+          "id": "b291669c9a64",
+          "titulo": "Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras",
+          "fonte": "InfoMoney",
+          "data": "2026-11-18",
+          "hora": "20:35",
+          "link": "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/"
+        },
+        {
+          "id": "0cc5119a1dc8",
+          "titulo": "Anthropic IPO: The Most Important AI Stock Has Arrived (And Is A Buy)",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "19:39",
+          "link": "https://seekingalpha.com/article/4969758-anthropic-ipo-the-most-important-ai-stock-has-arrived-and-is-a-buy?source=feed_all_articles"
+        },
+        {
+          "id": "71bfa3d37a7d",
+          "titulo": "What Anthropic's IPO Reveals About The AI Buildout",
+          "fonte": "Seeking Alpha",
+          "data": "2026-11-18",
+          "hora": "19:35",
+          "link": "https://seekingalpha.com/article/4969771-what-anthropic-ipo-reveals-about-ai-buildout?source=feed_all_articles"
+        },
+        {
+          "id": "cb1b18835fa6",
+          "titulo": "'A Anthropic não é uma empresa de IA segura': a carta contra a dona do Claude na véspera do IPO",
+          "fonte": "Exame",
+          "data": "2026-11-18",
+          "hora": "17:12",
+          "link": "https://exame.com/inteligencia-artificial/misanthropic-statement-carta-anthropic-segura-ipo/"
+        },
+        {
+          "id": "699cf522d297",
+          "titulo": "Anthropic wants everyday investors to be part of its IPO. Those investors have their doubts.",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "14:09",
+          "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories"
+        },
+        {
+          "id": "4cdc2f64015c",
+          "titulo": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "12:22",
+          "link": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories"
+        },
+        {
+          "id": "7ea5e3c6c1d7",
+          "titulo": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
+          "fonte": "FT Markets",
+          "data": "2026-11-18",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1"
+        },
+        {
+          "id": "ceb701bcc0e3",
+          "titulo": "If you own a Nasdaq-100 fund, you’ll own Anthropic shares after 15 trading days — whether you want to or not",
+          "fonte": "MarketWatch",
+          "data": "2026-11-17",
+          "hora": "17:02",
+          "link": "https://www.marketwatch.com/story/if-you-own-a-nasdaq-100-fund-youll-own-anthropic-shares-after-15-trading-days-whether-you-want-to-or-not-19b08485?mod=mw_rss_topstories"
+        },
+        {
+          "id": "b6926eef2068",
+          "titulo": "Anthropic wants everyday investors to be part of its IPO. Some are not buying it.",
+          "fonte": "MarketWatch",
+          "data": "2026-11-17",
+          "hora": "15:01",
+          "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories"
+        },
+        {
+          "id": "21bf328df599",
+          "titulo": "Anthropic said to draw multiple $10 billion or more IPO orders",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-17",
+          "hora": "14:45",
+          "link": "https://www.financialjuice.com/News/9855976/Anthropic-said-to-draw-multiple-10-billion-or-more-IPO-orders.aspx?xy=rss"
+        }
+      ],
+      "criado_em": "2026-11-18T14:02",
+      "atualizado_em": "2026-11-19T09:54"
+    },
+    {
+      "titulo": "Brent segura perto de US$ 92 com ataques no Golfo e drones a atingir depósitos de petróleo na Rússia",
+      "sinal": "neutro",
+      "resumo": "O Brent fechou ontem a US$ 91,95 (-1,28%) e o WTI a US$ 83,26 (-3,2%) com os stocks americanos a subir 3,38 milhões de barris, e na Ásia o crude segura perto de US$ 92 com os ataques no Golfo. Drones atingiram depósitos de petróleo no Tartaristão, depois de a refinação russa ter caído 45% desde o fim de outubro; a AIE diz que o mercado consegue equilibrar-se sem o Ormuz, com tempo e investimento.",
+      "impacto": "Brent firme perto de US$ 92 sustenta PETR4 e PRIO3 e as margens de diesel; alimenta a inflação e os juros, contra bancos e construtoras.",
+      "especulacao": "",
+      "n_noticias": 26,
+      "noticias": [
+        {
+          "id": "85c1582271ab",
+          "titulo": "Japan PM Takaichi: Will support building oil stockpile system among asean states.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:22",
+          "link": "https://www.financialjuice.com/News/9859376/Japan-PM-Takaichi-Will-support-building-oil-stockpile-system-among-asean-states.aspx?xy=rss"
+        },
+        {
+          "id": "7d97cab5fd89",
+          "titulo": "Drones attack oil storage facilities in Russia's Tatarstan - IFX.",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:20",
+          "link": "https://www.financialjuice.com/News/9859375/Drones-attack-oil-storage-facilities-in-Russias-Tatarstan---IFX.aspx?xy=rss"
+        },
+        {
+          "id": "5218ea298549",
+          "titulo": "Oil storage tanks near Russia's Almetyevsk hit by drones - IFX",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "06:19",
+          "link": "https://www.financialjuice.com/News/9859374/Oil-storage-tanks-near-Russias-Almetyevsk-hit-by-drones---IFX.aspx?xy=rss"
+        },
+        {
+          "id": "7f83b5e27849",
+          "titulo": "Energy markets can ‘manage without’ the Strait of Hormuz, says IEA",
+          "fonte": "FT Markets",
+          "data": "2026-11-19",
+          "hora": "05:00",
+          "link": "https://www.ft.com/content/1e00aad2-0007-4328-8492-0fea09aa69ad?syn-25a6b1a6=1"
+        },
+        {
+          "id": "afb93e06deaa",
+          "titulo": "O Super El Niño chegou e o ICMS do diesel vai subir. Quanto isso pesa no seu prato?",
+          "fonte": "Exame",
+          "data": "2026-11-19",
+          "hora": "05:00",
+          "link": "https://exame.com/invest/minhas-financas/o-super-el-nino-chegou-e-o-icms-do-diesel-vai-subir-quanto-isso-pesa-no-seu-prato/"
+        },
+        {
+          "id": "7b54045edf60",
+          "titulo": "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount,",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "04:55",
+          "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-92-as-gulf-attacks-mount/"
+        },
         {
           "id": "5e70eb4db8c0",
           "titulo": "Brent Crude futures settle at $91.95/bbl, down $1.19, 1.28%",
@@ -2208,16 +3164,40 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T21:07"
+      "atualizado_em": "2026-11-19T09:54"
     },
     {
-      "titulo": "Ata do Fed põe o financiamento da construção de IA no centro da estabilidade financeira",
+      "titulo": "Brasil entra na lista americana de chips de IA e a ata do Fed põe o financiamento da IA no radar da estabilidade",
       "sinal": "neutro",
-      "resumo": "A ata do Fed regista uma discussão extensa sobre a construção de IA, incluindo implicações para a estabilidade financeira, e a Exame nota que o tema passou de nota de rodapé ao centro do debate em dez meses. Waller disse não ver nada 'parecido com bolha' no preço da IA, mas Lagarde disse que as avaliações são muito ambiciosas; a Semafor noticia que o financiamento de US$ 40 bilhões em chips da SpaceX fica fora do balanço e a Seeking Alpha aponta necessidades de capital crescentes na Nebius.",
-      "impacto": "Mais escrutínio do financiamento da IA aumenta a volatilidade das emissões de hyperscalers e do crédito, o que pesa sobre o apetite global por risco e, por correlação, sobre o BOVA11; a procura de energia para IA é tema de fundo para elétricas.",
-      "especulacao": "O MarketWatch fala numa probabilidade de 97% de haver uma bolha agora; é um modelo de um comentador, não um dado de mercado.",
-      "n_noticias": 18,
+      "resumo": "Com a inclusão do Brasil na regra americana de chips de IA, subsidiárias de empresas dos EUA podem importar sem licença prévia e a ABES diz que isso cria concorrência desigual com empresas brasileiras (Exame). A ata do Fed registou uma discussão extensa sobre a construção de IA e a estabilidade financeira; Lagarde disse que as avaliações da IA são muito ambiciosas.",
+      "impacto": "Data centers no Brasil ficam mais dependentes de operadores americanos e de juros altos; a procura de energia para IA é tema de fundo para elétricas (EQTL3, CMIG4).",
+      "especulacao": "O InfoMoney pergunta se restrições e juros vão pressionar os data centers no Brasil; não há projeto cancelado noticiado.",
+      "n_noticias": 21,
       "noticias": [
+        {
+          "id": "ba8b6479ec7b",
+          "titulo": "Restrições a chips de IA e juros podem pressionar data centers do Brasil?",
+          "fonte": "InfoMoney",
+          "data": "2026-11-19",
+          "hora": "08:00",
+          "link": "https://www.infomoney.com.br/mercados/restricoes-a-chips-de-ia-e-juros-podem-pressionar-data-centers-do-brasil/"
+        },
+        {
+          "id": "b5ddb0fa6afa",
+          "titulo": "Por que o Brasil entrou na lista dos EUA para chips de IA, e o que muda para os data centers",
+          "fonte": "Exame",
+          "data": "2026-11-19",
+          "hora": "06:01",
+          "link": "https://exame.com/inteligencia-artificial/regra-eua-chips-ia-vigor-brasil-data-centers-big-techs/"
+        },
+        {
+          "id": "0f0d92ce94c0",
+          "titulo": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+          "fonte": "MarketWatch",
+          "data": "2026-11-18",
+          "hora": "21:01",
+          "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories"
+        },
         {
           "id": "3d1bedb33138",
           "titulo": "Nebius: The Selloff Went Too Far (Rating Upgrade)",
@@ -2364,124 +3344,40 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T21:07"
+      "atualizado_em": "2026-11-19T09:54"
     },
     {
-      "titulo": "Pacote fiscal enfrenta o Senado sem acordo com a oposição e Durigan diz acreditar na aprovação",
+      "titulo": "Houthis disparam mísseis contra a Arábia Saudita e o NYT relata que Trump pondera novos ataques ao Irão",
       "sinal": "risk_off",
-      "resumo": "Sem acordo com a oposição, que tenta derrubar medidas de arrecadação e limitar o crescimento dos gastos, o governo enfrenta no Senado a votação para preservar o pacote fiscal (Exame); o Senado debate restringir os R$ 200 bilhões em créditos usados pelas empresas para pagar tributos. Ao fim do dia, Durigan descartou recessão mas vê crescimento em patamar menor em 2027 e disse acreditar na aprovação (G1); a Receita diz que a alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois.",
-      "impacto": "A incerteza fiscal pesa sobre DI e câmbio, contra bancos e construtoras (ITUB4, BBDC4, MRVE3, CYRE3); limitar o uso de créditos tributários aumenta a carga efetiva de empresas com créditos acumulados, a avaliar caso a caso na carteira.",
-      "especulacao": "",
-      "n_noticias": 12,
+      "resumo": "A coligação saudita diz ter intercetado quatro mísseis balísticos dos Houthis, depois de estes reivindicarem ataques ao aeroporto e ao centro financeiro de Riade; os media iranianos dizem que três petroleiros arderam após minas a leste do Ormuz. O NYT relata que Trump pondera novos ataques ao Irão com Israel a pressionar por uma campanha aérea de quatro a sete dias.",
+      "impacto": "Mais risco no Golfo recoloca prémio no Brent: positivo para PETR4 e PRIO3, negativo para a inflação, os juros e o apetite por risco.",
+      "especulacao": "Os novos ataques ao Irão são uma ponderação relatada pelo NYT, sem decisão anunciada; os danos nos petroleiros são só a versão iraniana.",
+      "n_noticias": 15,
       "noticias": [
         {
-          "id": "4499bde41cb3",
-          "titulo": "Durigan descarta recessão, mas vê crescimento em 'patamar menor' em 2027; ministro diz acreditar em aprovação de ajuste fiscal",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "21:03",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/18/durigan-ve-economia-deve-crescer-em-patamar-menor-em-2027-descarta-recessao-e-diz-acreditar-em-aprovacao-de-pacote-fiscal.ghtml"
+          "id": "57e99f2ac868",
+          "titulo": "Saudi-led coalition: intercepts and destroys four ballistic missiles launched by Yemen's Houthis toward southern region",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "05:55",
+          "link": "https://www.financialjuice.com/News/9859344/Saudi-led-coalition-intercepts-and-destroys-four-ballistic-missiles-launched-by-Yemens-Houthis-toward-southern-region.aspx?xy=rss"
         },
         {
-          "id": "d73f8a1e377e",
-          "titulo": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "21:03",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml"
+          "id": "ccce33b195d2",
+          "titulo": "Trump: he and Xi feel strongly oil must flow through Strait of Hormuz",
+          "fonte": "FinancialJuice",
+          "data": "2026-11-19",
+          "hora": "05:41",
+          "link": "https://www.financialjuice.com/News/9859321/Trump-he-and-Xi-feel-strongly-oil-must-flow-through-Strait-of-Hormuz.aspx?xy=rss"
         },
         {
-          "id": "0917c8777681",
-          "titulo": "Sem acordo com oposição, governo Lula enfrenta votação para preservar pacote fiscal no Senado",
-          "fonte": "Exame",
-          "data": "2026-11-18",
-          "hora": "16:00",
-          "link": "https://exame.com/brasil/sem-acordo-com-oposicao-governo-lula-enfrenta-votacao-para-preservar-pacote-fiscal-no-senado/"
+          "id": "7a0d38f395df",
+          "titulo": "NYT: Trump weighs new Iran strikes as Israel presses for a four- to seven-day air campaign",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "03:10",
+          "link": "https://investinglive.com/commodities/nyt-trump-weighs-new-iran-strikes-as-israel-presses-for-a-four-to-seven-day-air-campaign/"
         },
-        {
-          "id": "22aea8ae4f15",
-          "titulo": "Durigan diz que pacote fiscal é só o 'primeiro passo' e defende ajuste gradual e 'sem negacionismo' para baixar juros",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "15:03",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml"
-        },
-        {
-          "id": "f45933ca48e9",
-          "titulo": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e defende reduzir tributos sobre a folha de pagamento",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "15:03",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml"
-        },
-        {
-          "id": "cf60fbd95daf",
-          "titulo": "Pacote fiscal expõe dificuldade de Lula para garantir votos no Senado",
-          "fonte": "InfoMoney",
-          "data": "2026-11-18",
-          "hora": "14:47",
-          "link": "https://www.infomoney.com.br/politica/pacote-fiscal-expoe-dificuldade-de-lula-para-garantir-votos-no-senado/"
-        },
-        {
-          "id": "aea706c16ab2",
-          "titulo": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "13:56",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml"
-        },
-        {
-          "id": "7265b57ff1f4",
-          "titulo": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "13:56",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml"
-        },
-        {
-          "id": "1b9600629404",
-          "titulo": "Ministro da Fazenda diz que pacote fiscal é só o 'primeiro passo' e prega ajuste gradual 'sem negacionismo' para baixar juros",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml"
-        },
-        {
-          "id": "dde86f7bb687",
-          "titulo": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml"
-        },
-        {
-          "id": "d76c1d8a1936",
-          "titulo": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e quer reduzir tributo sobre a folha de pagamentos",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml"
-        },
-        {
-          "id": "43f9348cd7db",
-          "titulo": "Reforma tributária: apuração 'assistida', a declaração pré-preenchida das empresas, será liberada nesta semana, diz Receita",
-          "fonte": "G1 Economia",
-          "data": "2026-11-17",
-          "hora": "18:21",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/17/reforma-tributaria-apuracao-assistida-a-declaracao-pre-preenchida-das-empresas-sera-liberada-nesta-semana-diz-receita.ghtml"
-        }
-      ],
-      "criado_em": "2026-11-18T21:07",
-      "atualizado_em": "2026-11-18T21:07"
-    },
-    {
-      "titulo": "Houthis atacam Riade e três petroleiros ardem após minas a leste do Ormuz, segundo os media iranianos",
-      "sinal": "risk_off",
-      "resumo": "Os Houthis reivindicaram ataques ao aeroporto King Khalid e ao centro financeiro de Riade, depois de responsáveis ocidentais terem dito que a Arábia Saudita vê a guerra a prolongar-se em 2027. A IRIB, citando o exército iraniano, diz que três petroleiros arderam e pararam depois de atingirem minas a leste do Estreito de Ormuz por ignorarem avisos; horas antes, Hegseth disse que o acordo petrolífero torna o Ormuz um 'não-fator', e o Irão relatou conversas construtivas com Omã.",
-      "impacto": "Ataques ao coração financeiro saudita e minas no Ormuz recolocam um prémio de risco no Brent, positivo para PETR4 e PRIO3 e negativo para a inflação e os juros; os incidentes surgiram depois do fecho do crude.",
-      "especulacao": "Não há confirmação independente nem saudita dos danos em Riade nem dos petroleiros atingidos; a versão dos petroleiros é só a dos media estatais iranianos.",
-      "n_noticias": 12,
-      "noticias": [
         {
           "id": "88349c24808e",
           "titulo": "Yemen's Houthis: Targeted King Khalid Airport and financial center in Riyadh.",
@@ -2580,124 +3476,40 @@
         }
       ],
       "criado_em": "2026-11-18T21:07",
-      "atualizado_em": "2026-11-18T21:07"
+      "atualizado_em": "2026-11-19T09:54"
     },
     {
-      "titulo": "Anthropic pondera preço de até US$ 85 por ação no IPO",
-      "sinal": "neutro",
-      "resumo": "A Anthropic pondera fixar o preço do IPO em até US$ 85 por ação (FinancialJuice), com a procura a disparar depois de se relatarem várias ordens de US$ 10 bilhões ou mais; a empresa quer incluir pequenos investidores, que se mostram céticos. No Brasil, a Anthropic concentra 56% do gasto em IA das startups (InfoMoney) e o G1 explica o acesso via BDRs; uma carta aberta acusa a empresa de não ser segura, na véspera da estreia (Exame).",
-      "impacto": "Uma estreia forte reforçaria o sentimento sobre IA; uma fraca agravaria a correção de tecnologia e o risco global para emergentes.",
-      "especulacao": "O FT estima que fundos de capital de risco discretos estão a caminho de ganhos de US$ 100 bilhões com o IPO; depende do preço e da estreia.",
-      "n_noticias": 12,
-      "noticias": [
-        {
-          "id": "74e65799ea4c",
-          "titulo": "IPO da Anthropic: veja como investir na criadora do Claude por meio de BDRs no Brasil",
-          "fonte": "G1 Economia",
-          "data": "2026-11-18",
-          "hora": "21:03",
-          "link": "https://g1.globo.com/economia/noticia/2026/11/18/anthropic-ipo-bolsa-como-investir-bdrs-brasil.ghtml"
-        },
-        {
-          "id": "e3ee97264460",
-          "titulo": "Anthropic is said to be weighing IPO price up to $85 per share. $ANT",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-18",
-          "hora": "20:39",
-          "link": "https://www.financialjuice.com/News/9858530/Anthropic-is-said-to-be-weighing-IPO-price-up-to-85-per-share-ANT.aspx?xy=rss"
-        },
-        {
-          "id": "b291669c9a64",
-          "titulo": "Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras",
-          "fonte": "InfoMoney",
-          "data": "2026-11-18",
-          "hora": "20:35",
-          "link": "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/"
-        },
-        {
-          "id": "0cc5119a1dc8",
-          "titulo": "Anthropic IPO: The Most Important AI Stock Has Arrived (And Is A Buy)",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-18",
-          "hora": "19:39",
-          "link": "https://seekingalpha.com/article/4969758-anthropic-ipo-the-most-important-ai-stock-has-arrived-and-is-a-buy?source=feed_all_articles"
-        },
-        {
-          "id": "71bfa3d37a7d",
-          "titulo": "What Anthropic's IPO Reveals About The AI Buildout",
-          "fonte": "Seeking Alpha",
-          "data": "2026-11-18",
-          "hora": "19:35",
-          "link": "https://seekingalpha.com/article/4969771-what-anthropic-ipo-reveals-about-ai-buildout?source=feed_all_articles"
-        },
-        {
-          "id": "cb1b18835fa6",
-          "titulo": "'A Anthropic não é uma empresa de IA segura': a carta contra a dona do Claude na véspera do IPO",
-          "fonte": "Exame",
-          "data": "2026-11-18",
-          "hora": "17:12",
-          "link": "https://exame.com/inteligencia-artificial/misanthropic-statement-carta-anthropic-segura-ipo/"
-        },
-        {
-          "id": "699cf522d297",
-          "titulo": "Anthropic wants everyday investors to be part of its IPO. Those investors have their doubts.",
-          "fonte": "MarketWatch",
-          "data": "2026-11-18",
-          "hora": "14:09",
-          "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories"
-        },
-        {
-          "id": "4cdc2f64015c",
-          "titulo": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
-          "fonte": "MarketWatch",
-          "data": "2026-11-18",
-          "hora": "12:22",
-          "link": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories"
-        },
-        {
-          "id": "7ea5e3c6c1d7",
-          "titulo": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
-          "fonte": "FT Markets",
-          "data": "2026-11-18",
-          "hora": "05:00",
-          "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1"
-        },
-        {
-          "id": "ceb701bcc0e3",
-          "titulo": "If you own a Nasdaq-100 fund, you’ll own Anthropic shares after 15 trading days — whether you want to or not",
-          "fonte": "MarketWatch",
-          "data": "2026-11-17",
-          "hora": "17:02",
-          "link": "https://www.marketwatch.com/story/if-you-own-a-nasdaq-100-fund-youll-own-anthropic-shares-after-15-trading-days-whether-you-want-to-or-not-19b08485?mod=mw_rss_topstories"
-        },
-        {
-          "id": "b6926eef2068",
-          "titulo": "Anthropic wants everyday investors to be part of its IPO. Some are not buying it.",
-          "fonte": "MarketWatch",
-          "data": "2026-11-17",
-          "hora": "15:01",
-          "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories"
-        },
-        {
-          "id": "21bf328df599",
-          "titulo": "Anthropic said to draw multiple $10 billion or more IPO orders",
-          "fonte": "FinancialJuice",
-          "data": "2026-11-17",
-          "hora": "14:45",
-          "link": "https://www.financialjuice.com/News/9855976/Anthropic-said-to-draw-multiple-10-billion-or-more-IPO-orders.aspx?xy=rss"
-        }
-      ],
-      "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T21:07"
-    },
-    {
-      "titulo": "Bitcoin volta a cair e segura-se por pouco nos US$ 64 mil, com o índice cripto em medo extremo",
+      "titulo": "Bitcoin com fluxos divididos: baleias de BTC enviam para as bolsas e as de ETH continuam a comprar",
       "sinal": "risk_off",
-      "resumo": "O bitcoin voltou a cair e segura-se por pouco nos US$ 64 mil, apesar de o balanço da Nvidia ter reduzido a aversão ao risco (Exame); o índice de medo e ganância cripto está em 12/100. Um dirigente do Fed citou o ataque informático à Binance num alerta sobre finanças tokenizadas, e a oferta tokenizada de ações da Nvidia subiu 121% numa semana.",
-      "impacto": "O Fed hawkish e as tensões EUA-Irão mantêm a pressão sobre os tokens do cripto_qualitativo; a fraqueza cripto sinaliza liquidez mais apertada, que costuma pesar também no apetite por emergentes.",
-      "especulacao": "",
-      "n_noticias": 11,
+      "resumo": "As baleias de bitcoin estão a enviar moedas para as bolsas enquanto as de ether continuam a comprar na queda; os ETF spot de bitcoin nos EUA perderam cerca de US$ 2,1 bilhões entre o fim de outubro e meados de novembro. A BlackRock diz que a ligação decrescente do bitcoin às ações reforça o caso para alocação; o índice de medo e ganância está em medo extremo.",
+      "impacto": "Saídas dos ETF e Fed hawkish mantêm a pressão sobre os tokens do cripto_qualitativo; a fraqueza cripto sinaliza liquidez mais apertada.",
+      "especulacao": "O CEO da Lava diz que os vendedores de bitcoin estão esgotados; é a leitura dele, contrariada pelos fluxos das baleias.",
+      "n_noticias": 14,
       "noticias": [
+        {
+          "id": "3e1a69699312",
+          "titulo": "ETH whales keep buying through the slide while bitcoin whales send coins to exchanges",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "03:29",
+          "link": "https://investinglive.com/cryptocurrency/eth-whales-keep-buying-through-the-slide-while-bitcoin-whales-send-coins-to-exchanges/"
+        },
+        {
+          "id": "61d27e4890a3",
+          "titulo": "Lava CEO says bitcoin sellers are spent, but whale exchange flows point the other way",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "02:08",
+          "link": "https://investinglive.com/cryptocurrency/lava-ceo-says-bitcoin-sellers-are-spent-but-whale-exchange-flows-point-the-other-way/"
+        },
+        {
+          "id": "399c3ee37fd9",
+          "titulo": "BlackRock says bitcoin’s fading link to stocks strengthens the case for allocation",
+          "fonte": "ForexLive",
+          "data": "2026-11-19",
+          "hora": "01:10",
+          "link": "https://investinglive.com/cryptocurrency/blackrock-says-bitcoin-s-fading-link-to-stocks-strengthens-the-case-for-allocation/"
+        },
         {
           "id": "4e8317826e5a",
           "titulo": "CoinShares PLC 2026 Q3 - Results - Earnings Call Presentation",
@@ -2788,7 +3600,7 @@
         }
       ],
       "criado_em": "2026-11-18T14:02",
-      "atualizado_em": "2026-11-18T21:07"
+      "atualizado_em": "2026-11-19T09:54"
     }
   ]
 }
